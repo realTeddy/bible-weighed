@@ -175,9 +175,21 @@ def site():
         shutil.rmtree(out)
     (out / "reviews").mkdir(parents=True)
     topics = json.loads((ROOT / "data" / "topics.json").read_text())
-    summary = []
+    summary, search = [], {}
+
+    def strings(x):
+        if isinstance(x, str):
+            yield x
+        elif isinstance(x, dict):
+            for k, v in x.items():
+                if k not in ("id", "model", "via"):
+                    yield from strings(v)
+        elif isinstance(x, list):
+            for v in x:
+                yield from strings(v)
     for p in sorted((ROOT / "data" / "reviews").glob("*.json")):
         r = json.loads(p.read_text())
+        search[r["topic"]["id"]] = re.sub(r"\s+", " ", " ".join(strings(r))).lower()
         (out / "reviews" / p.name).write_text(json.dumps(r, ensure_ascii=False, separators=(",", ":")))
         if "stats" not in r:
             continue
@@ -191,6 +203,7 @@ def site():
                 "cruxTypes": {t: sum(1 for c in a.get("cruxes", []) if c.get("type") == t) for t in ("evidence", "prior", "value", "definition")},
             } for a in r["analyses"]],
         })
+    (out / "search.json").write_text(json.dumps(search, ensure_ascii=False, separators=(",", ":")))
     debates = [json.loads(p.read_text()) for p in sorted(DEBATES.glob("*.json"))]
     (out / "debates.json").write_text(json.dumps({"debates": debates}, ensure_ascii=False, separators=(",", ":")))
     payload = json.dumps({"topics": topics, "reviews": summary, "debateIds": [d["topic"]["id"] for d in debates],

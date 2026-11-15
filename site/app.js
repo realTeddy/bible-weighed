@@ -103,6 +103,8 @@ let debatesP = null;
 const loadDebates = () => debatesP ||= fetch(`/data/debates.json?v=${RAW.updated}`).then(r => r.json()).then(j => { ALL = j.debates.map(derive).sort((a, b) => a.id - b.id); });
 const FULL = {};
 const loadReview = id => FULL[id] ||= fetch(`/data/reviews/${String(id).padStart(2, '0')}.json?v=${RAW.updated}`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+let SEARCH = null, searchP = null;
+const loadSearch = () => searchP ||= fetch(`/data/search.json?v=${RAW.updated}`).then(r => r.json()).then(j => { SEARCH = j; }).catch(() => { searchP = null; });
 const loading = () => { $('#app').innerHTML = '<div class="card"><p class="empty">Loading…</p></div>'; };
 
 // ---------- state & routing ----------
@@ -167,7 +169,14 @@ const searchEl = $('#search');
 let searchT;
 searchEl.addEventListener('input', () => {
   clearTimeout(searchT);
-  searchT = setTimeout(() => { state.q = searchEl.value.trim(); route(); }, 180);
+  searchT = setTimeout(async () => {
+    state.q = searchEl.value.trim();
+    const h = curPath();
+    // the box filters the reviews list (or the debates list); jump there from pages it can't filter
+    const toList = state.q && (h.startsWith('/review') || h.startsWith('/method'));
+    if (state.q && !SEARCH && !/^\/(debates|topic)/.test(h)) await loadSearch();
+    toList ? go('/') : route();
+  }, 180);
 });
 
 // tooltip (delegated)
@@ -821,7 +830,7 @@ function credColor(c) { // diverging: orange (claim false) · neutral · blue (c
 const modelMark = (id, cx, cy, s, extra = '') => shape(MODEL_SHAPE[id], cx, cy, s, 'mmark', extra);
 const modelLegend = () => `<div class="legend">${MODEL_IDS.map(id => `<span><svg width="12" height="12">${modelMark(id, 6, 6, 4.5)}</svg>${MODEL_NAMES[id]}</span>`).join('')}<span><svg width="10" height="12"><rect x="4" y="0" width="2.5" height="12" fill="var(--text-primary)"/></svg>Median</span></div>`;
 const credLegend = () => `<div class="legend"><span><i class="sw" style="background:var(--atheist)"></i>Claim false</span><span><i class="sw" style="background:var(--mid)"></i>Toss-up</span><span><i class="sw" style="background:var(--theist)"></i>Claim true</span></div>`;
-const reviewText = (t, r) => (t.short + ' ' + t.question + ' ' + t.claim + ' ' + (r ? JSON.stringify(r.analyses) + JSON.stringify(r.synthesis || {}) : '')).toLowerCase();
+const reviewText = (t, r) => SEARCH?.[t.id] || (t.short + ' ' + t.question + ' ' + t.claim + ' ' + (r ? JSON.stringify(r.analyses) + JSON.stringify(r.synthesis || {}) : '')).toLowerCase();
 
 // strip chart: one row per topic, 0-100 axis, 4 model marks + median tick
 function credStrip(w, rows) {
