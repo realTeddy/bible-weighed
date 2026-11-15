@@ -1,0 +1,145 @@
+{
+  "kind": "empirical",
+  "verdict": "Almost certainly not written as a complete book by a sixth-century Daniel",
+  "credence": 1,
+  "confidence": "medium",
+  "bottom_line": "I am scoring the claim that the substantially complete book, including its detailed visions, was written by Daniel in the sixth century BC. The dominant scholarly view is that its final form dates to the crisis under Antiochus IV in 167–164 BC, though it may incorporate older traditions. Daniel 11 closely tracks events leading up to that crisis, but its apparent account of the king’s final campaigns and death does not match the historical record. The book’s historical setting and language also leave room for a later author, although they cannot date every component precisely. Belief in divine prophecy does not by itself require an early date; a strong prior commitment to sixth-century authorship would change the probability.",
+  "sub_claims": [
+    {
+      "claim": "Daniel’s detailed vision in chapter 11 reached its present form around the Antiochene crisis of 167–164 BC.",
+      "kind": "textual",
+      "case_for": "The sequence closely resembles political conflicts through Antiochus IV’s persecution of Jews, then appears to diverge from known events as it approaches his death.",
+      "case_against": "A sixth-century prophetic vision could accurately anticipate the earlier events; some interpreters read the final section as referring to a still-future ruler rather than Antiochus.",
+      "consensus": "This dating is the dominant critical scholarly view, including among some religious scholars. Traditionalist confessional scholars dispute it.",
+      "evidence": [
+        "Daniel 11:21–35 is widely understood to describe Antiochus IV and conflicts surrounding his reign.",
+        "Daniel 11:31 refers to stopping the regular offering and setting up an abomination, fitting the temple crisis.",
+        "Daniel 11:40–45 describes final campaigns and a death near the holy mountain that do not clearly correspond to Antiochus’s actual death in the east."
+      ],
+      "verdict": "Very likely",
+      "credence": 96
+    },
+    {
+      "claim": "The book contains historical difficulties that fit a later author better than a sixth-century eyewitness.",
+      "kind": "empirical",
+      "case_for": "Most notably, no independently attested Median king named Darius is known to have ruled Babylon in the position described in Daniel.",
+      "case_against": "Darius could be another name or title for a known ruler or governor, and gaps in surviving records make absence of corroboration inconclusive. The book also preserves some accurate Babylonian details.",
+      "consensus": "Critical scholars generally regard Darius the Mede as a historical problem. Some conservative scholars propose identifications, but none has won general acceptance.",
+      "evidence": [
+        "Daniel 5:30–6:1 introduces Darius the Mede after Belshazzar’s fall.",
+        "Cyrus’s Persian forces took Babylon in 539 BC; the proposed identification of Daniel’s Darius remains disputed.",
+        "Belshazzar was a real son of Nabonidus who exercised authority in Babylon, although he was not formally its reigning king."
+      ],
+      "verdict": "Likely, though individual difficulties are not decisive",
+      "credence": 85
+    },
+    {
+      "claim": "Some material in Daniel preserves traditions originating in or near the sixth century BC.",
+      "kind": "empirical",
+      "case_for": "The court stories contain Babylonian setting and details that could reflect old memories or sources transmitted over generations.",
+      "case_against": "Historical information and literary settings could also have been transmitted or reconstructed later; no surviving sixth-century copy establishes the age of these stories.",
+      "consensus": "There is no consensus on how early particular traditions are. Many scholars distinguish older court tales from the later visions without claiming to establish sixth-century origins.",
+      "evidence": [
+        "Daniel 1–6 mainly presents third-person court narratives, whereas the visions in chapters 7–12 are substantially presented in Daniel’s voice.",
+        "Belshazzar’s existence and role were historically grounded.",
+        "Daniel’s Hebrew and Aramaic are relevant to dating but do not by themselves prove either sixth- or second-century composition."
+      ],
+      "verdict": "Possible but unestablished",
+      "credence": 35
+    },
+    {
+      "claim": "Daniel himself wrote the substantially complete book in the sixth century BC.",
+      "kind": "empirical",
+      "case_for": "The visions present themselves as Daniel’s experiences, and an author with access to genuine prophecy could have described later events in advance. The court narratives also show some historical knowledge.",
+      "case_against": "The concentrated fit to the Antiochene crisis, the apparent breakdown at its projected climax, historical difficulties, and lack of contemporary attestation collectively favor later composition.",
+      "consensus": "Most critical scholars reject sixth-century authorship; many traditionalist Jewish and Christian scholars defend it. Religious scholars are not unanimous.",
+      "evidence": [
+        "Daniel 7:1 attributes a written account of a vision to Daniel, but the book does not straightforwardly state that he personally wrote every chapter.",
+        "The oldest surviving manuscript evidence is later than the proposed second-century composition.",
+        "First Maccabees refers to Daniel and his companions, showing that their stories were known by its composition, not that they were written in the sixth century."
+      ],
+      "verdict": "Very unlikely",
+      "credence": 1
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does Daniel 11 shift from recognizable history to an unfulfilled expectation about Antiochus’s end?",
+      "type": "evidence",
+      "if_yes": "A composition during the Antiochene crisis is strongly favored.",
+      "if_no": "An earlier predictive vision or a later composition with a different intended referent becomes more plausible.",
+      "your_view": "The shift is the strongest individual reason for the late-date view, though the identity of the final ruler is interpretively disputed."
+    },
+    {
+      "crux": "How strongly should one expect a genuine sixth-century prophet to give detailed, accurate predictions of the second century?",
+      "type": "prior",
+      "if_yes": "A strong prior for that possibility makes early authorship more competitive.",
+      "if_no": "The close historical fit is more naturally explained by composition after the events.",
+      "your_view": "I assign detailed supernatural prediction a low prior, but the historical difficulties and apparent failed climax also count against early authorship independently of ruling miracles out."
+    },
+    {
+      "crux": "Does the claim require the complete book to be Daniel’s sixth-century work, rather than merely containing earlier traditions?",
+      "type": "definition",
+      "if_yes": "The claim is very unlikely.",
+      "if_no": "The possibility of some older material is substantially more plausible, but its date and extent remain uncertain.",
+      "your_view": "I score substantially complete sixth-century authorship, as specified in the claim; that is stronger than the book’s own explicit authorship statements."
+    }
+  ],
+  "strongest_for": [
+    "A prophetic interpretation can explain detailed correspondence with later events without assuming the author wrote after them.",
+    "The book knows Belshazzar as a Babylonian ruler, a detail consistent with genuine historical knowledge.",
+    "Ancient stories and languages could have been preserved and transmitted for centuries; late surviving manuscripts do not prove late invention."
+  ],
+  "strongest_against": [
+    "The close fit of Daniel 11 to events through the Antiochene crisis is followed by an apparent mismatch with Antiochus’s final campaigns and death.",
+    "Darius the Mede has no securely identified counterpart as the ruler described, despite several proposals.",
+    "The historical and literary evidence converges on a second-century setting for the final visions without requiring sixth-century authorship."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Daniel names Belshazzar, therefore the whole book must be an eyewitness account: older information could survive into later writing.",
+      "The book is scripture, therefore its entire text must have been written in the sixth century: inspiration and date are distinct claims.",
+      "A second-century work could not have been copied and respected by the time of the Dead Sea Scrolls: the surviving evidence does not establish that."
+    ],
+    "against": [
+      "Predictive prophecy is impossible, so Daniel must be late: that assumes a disputed philosophical conclusion rather than assessing the textual evidence.",
+      "Greek words in Daniel prove a second-century date: a few Greek loanwords do not independently establish a precise composition date.",
+      "Every historical detail in Daniel is wrong: some details, including Belshazzar’s historical existence, are grounded."
+    ]
+  },
+  "would_change": [
+    "A securely dated pre-second-century manuscript containing the detailed Antiochus passages would substantially increase the probability of earlier composition.",
+    "Independent contemporary evidence securely identifying Darius the Mede in Daniel’s stated role would weaken an important historical objection.",
+    "A well-supported demonstration that Daniel 11’s final campaigns and death accurately describe the intended historical figure would weaken the apparent failed-prediction argument.",
+    "Strong independent evidence that the relevant visions circulated in the sixth century would substantially favor the claim."
+  ],
+  "sources": [
+    {
+      "citation": "Book of Daniel, especially chapters 5–7 and 11–12",
+      "kind": "scripture"
+    },
+    {
+      "citation": "First Maccabees 2:59–60",
+      "kind": "scripture"
+    },
+    {
+      "citation": "John J. Collins, Daniel: A Commentary on the Book of Daniel, 1993",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "John Goldingay, Daniel, 1989",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Joyce G. Baldwin, Daniel: An Introduction and Commentary, 1978",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "A. K. Grayson, Assyrian and Babylonian Chronicles, 1975",
+      "kind": "primary"
+    }
+  ]
+}
+
+
+--- stderr ---

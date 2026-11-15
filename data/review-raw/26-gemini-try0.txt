@@ -1,0 +1,150 @@
+{
+  "kind": "empirical",
+  "verdict": "Very unlikely; the historical Jesus understood himself as an apocalyptic prophet and messianic herald, not God",
+  "credence": 12,
+  "confidence": "high",
+  "bottom_line": "The broad consensus of critical historians—including many leading confessional scholars—is that the historical Jesus of Nazareth did not understand or present himself as God Almighty. In the earliest extant sources (the Gospel of Mark, Q, and the authentic Pauline epistles), Jesus preaches the imminent arrival of God's Kingdom, acts as an apocalyptic prophet, and consistently subordinates himself to God the Father. Direct, explicit claims to personal divinity ('Before Abraham was, I am'; 'I and the Father are one') appear exclusively in the Gospel of John, written at the end of the first century, reflecting decades of post-Easter theological reflection rather than historical memory. While conservative scholars highlight Synoptic episodes where Jesus exercises divine prerogatives like forgiving sins, within Second Temple Judaism these acts signaled authorized eschatological agency rather than personal deity.",
+  "sub_claims": [
+    {
+      "claim": "The explicit claims to pre-existence and personal divinity in the Gospel of John represent the authentic historical speech of Jesus",
+      "kind": "textual",
+      "case_for": "The Fourth Gospel claims roots in eyewitness testimony (the 'Beloved Disciple'), and proponents argue Jesus may have shared esoteric teachings regarding his true identity during his Judean ministry that the Synoptic authors chose not to include.",
+      "case_against": "John's Jesus speaks in a completely different style and vocabulary than the Synoptic Jesus, using identical language to the Johannine narrator and epistles; it is historically inexplicable that the earliest sources (Mark, Q) would omit public declarations of divinity had Jesus actually made them.",
+      "consensus": "Near-universal consensus among critical historians (and widely accepted by moderate confessional scholars) that John's 'I am' discourses reflect late first-century high Christology rather than historical ipsissima verba.",
+      "evidence": [
+        "Absence of 'I am' divine self-predications in Mark, Matthew, Luke, and Q",
+        "Uniformity of theological and literary style between Jesus and the narrator in John 3",
+        "Chronological gap between Jesus's death (c. 30 CE) and John's composition (c. 90-110 CE)"
+      ],
+      "verdict": "Almost certainly false",
+      "credence": 4
+    },
+    {
+      "claim": "In the earliest Gospel strata (Mark and Q), Jesus exercised prerogatives that implicitly identified him as God",
+      "kind": "textual",
+      "case_for": "Jesus pronounces forgiveness of sins in his own name (Mark 2:5-10), declares authority over the Sabbath (Mark 2:28), claims power over the storm (Mark 4:39-41), and applies Daniel 7's divine cloud-rider imagery to himself (Mark 14:62).",
+      "case_against": "Second Temple Jewish literature frequently depicts exalted human patriarchs and angelic figures (e.g., Moses, Enoch, Melchizedek) exercising delegated divine judgment and authority without being God; furthermore, Jesus explicitly subordinates himself to God (Mark 10:18, Mark 13:32).",
+      "consensus": "Divided; evangelical and traditional scholars argue this shows an implicit 'Christology of divine identity', whereas mainstream critical scholars view these sayings as claims to eschatological messianic agency or early Christian retrojections.",
+      "evidence": [
+        "Mark 2:5-10 (healing and forgiving the paralytic)",
+        "Mark 10:18 ('Why do you call me good? No one is good except God alone')",
+        "Mark 13:32 (the Son does not know the day or hour, only the Father)",
+        "11QMelchizedek and 1 Enoch 46-48 (delegated divine authority in non-canonical Jewish texts)"
+      ],
+      "verdict": "Unlikely to signify a claim to be God; best explained as delegated eschatological authority",
+      "credence": 22
+    },
+    {
+      "claim": "Jesus was condemned and executed by authorities specifically for the blasphemy of claiming to be God",
+      "kind": "empirical",
+      "case_for": "The Markan trial scene depicts the high priest tearing his robes in response to Jesus claiming he will sit at God's right hand and come on the clouds (Mark 14:61-64), and John 10:33 explicitly states opponents sought to stone him for 'making yourself God'.",
+      "case_against": "Under Jewish law, claiming to be the Messiah or Son of Man was not capital blasphemy; historically, Jesus was executed by the Roman prefect Pontius Pilate via crucifixion on the political charge of sedition under the titulus 'King of the Jews'.",
+      "consensus": "Strong consensus among historians that the primary historical charge leading to execution was political sedition against Rome (royal messianic pretension and disrupting the Temple), not a theological claim of personal deity.",
+      "evidence": [
+        "The Roman titulus on the cross ('King of the Jews', Mark 15:26)",
+        "Method of execution: Roman crucifixion for rebels, not Jewish stoning for blasphemy",
+        "Temple incident (Mark 11:15-18) as the primary public catalyst for arrest"
+      ],
+      "verdict": "Very unlikely",
+      "credence": 15
+    },
+    {
+      "claim": "The historical Jesus understood himself primarily as an apocalyptic prophet and messianic agent inaugurating the Kingdom of God",
+      "kind": "empirical",
+      "case_for": "Heavily attested across multiple independent early sources (Mark, Q, L, M, Paul); fits seamlessly within the context of first-century Palestinian Jewish apocalypticism; supported by the criterion of embarrassment regarding Jesus's baptism and admissions of limited knowledge.",
+      "case_against": "Confessional scholars argue that an apocalyptic prophet model fails to explain the unprecedented rapidity with which the earliest post-Easter church began worshiping Jesus alongside YHWH within a strictly monotheistic culture.",
+      "consensus": "Widespread consensus across secular, Jewish, and mainline Christian historical-critical scholarship from Albert Schweitzer to E.P. Sanders and Paula Fredriksen.",
+      "evidence": [
+        "Mark 1:14-15 ('The time is fulfilled, and the kingdom of God is at hand')",
+        "Luke 11:20 / Matthew 12:28 ('If it is by the finger of God that I cast out demons, then the kingdom of God has come upon you')",
+        "Appointment of the Twelve symbolizing the restoration of the twelve tribes of Israel"
+      ],
+      "verdict": "Almost certainly true",
+      "credence": 88
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does the Gospel of John preserve independent historical memory of Jesus's self-proclamation, or is it a late theological development?",
+      "type": "evidence",
+      "if_yes": "If John preserves authentic historical speeches, Jesus explicitly and unambiguously claimed to be divine and one with God.",
+      "if_no": "If John is a theological reflection from c. 90-110 CE, the case for explicit divinity collapses, leaving only debated inferences in the Synoptics.",
+      "your_view": "The textual, stylistic, and chronological evidence overwhelmingly establishes John as a secondary, highly interpreted theological work rather than a record of historical speeches."
+    },
+    {
+      "crux": "In First-Century Second Temple Judaism, did exercising divine prerogatives require identifying oneself as God, or could an authorized human/angelic agent do so?",
+      "type": "definition",
+      "if_yes": "If exercising divine prerogatives was strictly exclusive to God's ontological identity, Jesus's actions in Mark indicate a claim to be God.",
+      "if_no": "If the Jewish principle of agency ('a man's agent is as himself') and apocalyptic vice-regency allowed agents to wield divine power, Jesus was claiming supreme delegated authority, not deity.",
+      "your_view": "Jewish literature of the period (Dead Sea Scrolls, apocalyptic pseudepigrapha) demonstrates that principal agents (Enoch/Son of Man, Melchizedek, Moses) were frequently depicted sitting on divine thrones and executing God's judgment without being YHWH."
+    },
+    {
+      "crux": "Could a first-century monotheistic Palestinian Jew meaningfully claim to be the God of Israel without provoking massive, pervasive debate recorded in the earliest traditions?",
+      "type": "prior",
+      "if_yes": "If plausible, the absence of explicit controversy over Jesus claiming to be God in Q and Mark could be an accidental silence.",
+      "if_no": "If claiming to be YHWH would be the single most explosive and offensive claim imaginable to Jewish monotheists, its complete absence from the earliest strata proves Jesus never made the claim.",
+      "your_view": "Strict Jewish monotheism makes an unrecorded, uncontroverted claim to be God historically inconceivable; had Jesus taught this, it would have dominated Q, Mark, and the earliest Pauline disputes."
+    }
+  ],
+  "strongest_for": [
+    "The remarkably rapid emergence of 'high Christology' and cultic worship of Jesus in the earliest Christian communities (e.g., the pre-Pauline hymn in Philippians 2:6-11 and 1 Corinthians 8:6) suggests to scholars like Richard Bauckham and Larry Hurtado that Jesus himself catalyzed this trajectory.",
+    "Sayings in the earliest Gospel (Mark 2:5-10, Mark 2:28) where Jesus claims the personal prerogative to forgive sins and assert lordship over God's Sabbath law.",
+    "Jesus's self-identification with the Daniel 7 'Son of Man' figure coming on the clouds of heaven to receive universal authority and share the divine throne (Mark 14:62).",
+    "Jesus's radical personal authority over the Torah in the Antitheses of the Sermon on the Mount ('You have heard that it was said... but I say to you', Matthew 5), departing from the classical prophetic messenger formula ('Thus says the Lord').",
+    "Multiple explicit declarations of pre-existence and unity with God in the Fourth Gospel (John 8:58, John 10:30, John 14:9)."
+  ],
+  "strongest_against": [
+    "Complete silence regarding any claim to be God in the earliest sources: Mark, Q, M, L, and the authentic letters of Paul never quote Jesus as claiming to be God.",
+    "Authentic sayings preserved through the criterion of embarrassment where Jesus overtly distinguishes himself from God, acknowledges limits to his knowledge (Mark 13:32), and rejects the title 'good' as belonging solely to God (Mark 10:18).",
+    "Jesus was condemned and executed by the Roman state as a political insurgent claiming to be the 'King of the Jews', which matches a messianic Davidic claimant rather than a claim to personal deity.",
+    "First-century Jewish concepts of divine agency (the shaliach principle and apocalyptic heavenly agents) fully account for Jesus's authoritative actions and sayings without requiring ontological divinity.",
+    "The clear evolutionary trajectory of Christology across the New Testament: lowest in the earliest layer (Mark c. 70 CE: adopted/anointed at baptism) and highest in the latest layer (John c. 90-110 CE: pre-existent divine Logos made flesh)."
+  ],
+  "weak_arguments": {
+    "for": [
+      "C.S. Lewis's 'Liar, Lunatic, or Lord' trilemma: Fails historically because it assumes the Gospels' quotes are verbatim historical recordings, ignoring the fourth option established by modern textual criticism—'Legend' (that later followers attributed divine claims to him).",
+      "Treating the title 'Son of God' as proof of divine nature: In first-century Judaism, 'Son of God' was a standard royal title for the human Davidic king (Psalm 2:7, 2 Samuel 7:14) or righteous Israelite, not an ontological assertion of deity.",
+      "Quoting John 8:58 ('Before Abraham was, I am') as unproblematic historical testimony without addressing its late date, theological agenda, and total contradiction with the Synoptic narrative."
+    ],
+    "against": [
+      "The mythicist claim that Jesus never claimed to be God because he never existed: Mainstream historical scholarship across secular and religious academia overwhelmingly confirms Jesus of Nazareth was a historical first-century figure.",
+      "The popular assertion that Jesus's divinity was 'invented' at the Council of Nicaea in 325 CE: High Christology developed within the first few decades of the early church (visible already in Paul and John), even though it did not originate from the historical Jesus himself.",
+      "Arguing that an Aramaic speaker could not have conceived of divine exaltation: Second Temple Aramaic texts (including Daniel and fragments from Qumran) frequently describe exalted divine agents and heavenly enthronement."
+    ]
+  },
+  "would_change": [
+    "The archaeological discovery of an undisputed pre-70 CE text or early Q-like manuscript quoting Jesus publicly identifying himself as YHWH or God Almighty.",
+    "Compelling textual evidence establishing that the 'I am' discourses in John derived from early pre-Markan Palestinian tradition rather than late Johannine theological composition.",
+    "Historical or legal documentation from Second Temple Judaism demonstrating that claiming the authority to forgive sins or reinterpret the Sabbath was universally recognized as an explicit claim to be God rather than an act of delegated prophetic/messianic agency.",
+    "Decisive contemporary evidence that the Sanhedrin tried and executed Jesus purely on an internal theological charge of self-deification, rather than his Temple disruption and political royal messianism."
+  ],
+  "sources": [
+    {
+      "citation": "E.P. Sanders, Jesus and Judaism, 1985",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Bart D. Ehrman, How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee, 2014",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Richard Bauckham, Jesus and the God of Israel: God Crucified and Other Studies on the New Testament's Christology of Divine Identity, 2008",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "John P. Meier, A Marginal Jew: Rethinking the Historical Jesus (Vols. 1-5), 1991-2016",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Larry W. Hurtado, Lord Jesus Christ: Devotion to Jesus in Earliest Christianity, 2003",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Paula Fredriksen, From Jesus to Christ: The Origins of the New Testament Images of Jesus, 1988",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

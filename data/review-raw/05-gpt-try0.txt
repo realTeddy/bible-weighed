@@ -1,0 +1,153 @@
+{
+  "kind": "empirical",
+  "verdict": "Mostly well preserved, but the claim is too strong",
+  "credence": 8,
+  "confidence": "medium",
+  "bottom_line": "Much of the Bible can be reconstructed with considerable confidence, and most variants are small. But some ancient variants change narrative details or the wording of passages with theological significance. I score the claim as referring to the main text printed in modern critical editions or translations, compared with the best-supported recoverable earlier text—not necessarily the lost original manuscript. On that reading, its assertion that remaining differences are only minor is unlikely: some critical editions deliberately print a particular manuscript tradition even where substantial earlier alternatives survive. Editions and translations often identify such issues in brackets or notes, so this is not a claim that they conceal them.",
+  "sub_claims": [
+    {
+      "claim": "Much biblical wording has been transmitted with substantial fidelity.",
+      "kind": "textual",
+      "case_for": "Numerous manuscripts and ancient translations allow comparison across places and centuries; most identifiable differences are spelling, word order, or other relatively small changes.",
+      "case_against": "Witnesses are unevenly distributed across books and periods, and agreement among later manuscripts cannot guarantee that an earlier shared reading was correct.",
+      "consensus": "Broadly accepted by textual critics, including confessional scholars, though estimates of certainty vary by passage and book.",
+      "evidence": [
+        "Dead Sea Scroll biblical manuscripts provide Hebrew witnesses many centuries older than the medieval manuscripts underlying standard printed Hebrew texts.",
+        "The New Testament survives in thousands of Greek manuscripts, alongside early translations and quotations.",
+        "Manuscript numbers alone do not measure independence or establish the earliest reading."
+      ],
+      "verdict": "Very likely true as a generalization, not a guarantee for every passage.",
+      "credence": 98
+    },
+    {
+      "claim": "All significant ancient variants are minor and change no story or teaching.",
+      "kind": "textual",
+      "case_for": "Most variants are minor, and many substantial additions or omissions are recognizable and marked in modern editions. No major Christian doctrine necessarily stands or falls on a single disputed passage.",
+      "case_against": "Some variants add or remove whole episodes or alter the depiction of divine beings or Jesus. Whether an established doctrine ultimately changes is a different question from whether a passage's story or teaching changes.",
+      "consensus": "Scholars across confessional and nonconfessional traditions generally acknowledge consequential variants, while disagreeing about individual readings and their theological importance.",
+      "evidence": [
+        "Mark 16:9–20 contains resurrection appearances absent from some early witnesses and is bracketed in the standard Nestle-Aland critical Greek text.",
+        "John 7:53–8:11, the woman accused of adultery, is absent from some early witnesses and bracketed in that edition.",
+        "Deuteronomy 32:8 has 'sons of Israel' in the Masoretic Hebrew tradition, while a Dead Sea Scroll witness supports 'sons of God'; the Greek tradition reads 'angels of God.'"
+      ],
+      "verdict": "Almost certainly false.",
+      "credence": 1
+    },
+    {
+      "claim": "The main text of every modern critical Bible reproduces the best-supported earlier form apart from minor differences.",
+      "kind": "textual",
+      "case_for": "Critical editions use manuscript evidence systematically, and translations frequently adopt earlier readings over later traditional ones. Brackets and apparatuses alert readers to important uncertainties.",
+      "case_against": "Some critical editions intentionally print a particular manuscript rather than an eclectic reconstruction, and major disputed passages can remain in the main text with qualification. A textual decision in one passage may also remain genuinely debatable.",
+      "consensus": "There is no consensus that every printed reading is the best reconstruction. Scholars generally recognize the different aims of diplomatic editions, eclectic editions, and translations.",
+      "evidence": [
+        "Biblia Hebraica Stuttgartensia principally prints the medieval Leningrad Codex rather than replacing its text wherever another witness may preserve an earlier reading.",
+        "Before 1 Samuel 11:1, a Dead Sea Scroll manuscript preserves a substantial account of Nahash's oppression that is missing from the Masoretic text; Josephus also knows a related account.",
+        "Nestle-Aland prints the longer ending of Mark and the adultery episode in double brackets, signaling their disputed status rather than presenting them as secure."
+      ],
+      "verdict": "Unlikely under the stated main-text reading; notes and editorial brackets materially qualify the examples.",
+      "credence": 8
+    },
+    {
+      "claim": "Every biblical book has one recoverable earliest form that scholars can confidently identify.",
+      "kind": "textual",
+      "case_for": "Comparing independent witnesses can often identify likely earlier readings and reconstruct much of an early text.",
+      "case_against": "Evidence may run out before the earliest stages, and some books circulated in more than one ancient literary edition. The earliest surviving or reconstructible form need not be the author's final wording.",
+      "consensus": "Scholars broadly recognize substantial uncertainty and ancient textual plurality; they differ about how confidently particular early forms can be reconstructed and what counts as the target text.",
+      "evidence": [
+        "The Greek Jeremiah is substantially shorter and arranged differently from the Masoretic Hebrew version.",
+        "Some Dead Sea Scroll Jeremiah manuscripts support a Hebrew textual form related to the shorter Greek edition.",
+        "No original biblical manuscripts are known to survive."
+      ],
+      "verdict": "Unlikely as a universal claim.",
+      "credence": 5
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does the claim concern printed main text, or the edition together with its brackets and notes?",
+      "type": "definition",
+      "if_yes": "If main text alone is meant, substantial disputed or omitted material counts against the claim.",
+      "if_no": "If the complete annotated edition is meant, its presentation of uncertainty is much stronger, though it still does not make all variants minor.",
+      "your_view": "I score the main-text reading and distinguish an editor's deliberate reproduction of a manuscript from an editorial mistake."
+    },
+    {
+      "crux": "Does any substantial narrative or theological difference count as changing a story or teaching?",
+      "type": "definition",
+      "if_yes": "The added or omitted episodes and the Nahash passage make the claim very unlikely.",
+      "if_no": "If only changes to an entire overarching narrative or an established doctrine count, the claim becomes more defensible but much less precise.",
+      "your_view": "An added episode or materially different narrative background is more than a minor variant, even if the broader religion is unchanged."
+    },
+    {
+      "crux": "Can the earlier form of a disputed passage be established from the available witnesses?",
+      "type": "evidence",
+      "if_yes": "A modern main text that prints a substantially different reading is a counterexample.",
+      "if_no": "The existence of a substantive variant alone does not prove which printed reading departs from the earliest recoverable form.",
+      "your_view": "Some cases have strong evidence for an earlier reading, but others remain genuinely contested."
+    },
+    {
+      "crux": "Is the target the earliest recoverable text or the lost authorial original?",
+      "type": "definition",
+      "if_yes": "For the recoverable text, surviving witnesses constrain the comparison, although editorial choices still matter.",
+      "if_no": "For the original wording, uncertainty is greater because the evidence may not reach back far enough and some books had complex histories.",
+      "your_view": "I use the recoverable-text target specified in the question, not an assumed perfect recovery of autographs."
+    }
+  ],
+  "strongest_for": [
+    "Most identifiable variants are small, and comparison of many witnesses often yields a well-supported text.",
+    "Modern critical editions expose major uncertainty through apparatuses and brackets instead of simply perpetuating later additions.",
+    "Ancient witnesses sometimes confirm that long stretches of text were transmitted with substantial stability.",
+    "A meaningful textual difference does not automatically overturn a doctrine or the Bible's overall narrative."
+  ],
+  "strongest_against": [
+    "Some variants involve whole episodes, not just spelling or insignificant wording.",
+    "The Masoretic text of Samuel omits substantial narrative background preserved in an ancient Hebrew witness.",
+    "Critical editions may intentionally print one textual tradition rather than silently reconstruct the earliest attainable text.",
+    "For some books, multiple ancient editions and limited evidence make a single confidently recoverable earliest form problematic."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Counting manuscripts alone proves the original text: witnesses may be late or related.",
+      "No doctrine depends on a variant, therefore no variant changes a teaching: those are different claims.",
+      "Divine preservation guarantees a particular printed wording: that is a theological premise, not independent manuscript evidence."
+    ],
+    "against": [
+      "There are many variants, therefore the text is hopelessly corrupted: most are small and many are readily assessed.",
+      "A disputed reading proves the entire Bible is unreliable: uncertainty is passage-specific.",
+      "A modern edition prints a disputed passage, therefore its editors regard it as unquestionably original: brackets and notes can explicitly say otherwise."
+    ]
+  },
+  "would_change": [
+    "Early, independent continuous manuscripts resolving major disputed passages and substantially changing the preferred reconstructions.",
+    "A persuasive demonstration that the longer Nahash account is an early expansion rather than material lost from the Masoretic tradition.",
+    "A clearly specified definition of 'critical Bibles' that treats annotated alternative readings, rather than the printed main text, as the text being assessed."
+  ],
+  "sources": [
+    {
+      "citation": "Emanuel Tov, Textual Criticism of the Hebrew Bible, 3rd edition, 2012",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Eugene Ulrich, The Dead Sea Scrolls and the Origins of the Bible, 1999",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Bruce M. Metzger, A Textual Commentary on the Greek New Testament, 2nd edition, 1994",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Peter J. Gurry and Elijah Hixson, eds., Myths and Mistakes in New Testament Textual Criticism, 2019",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Biblia Hebraica Stuttgartensia, 5th edition, 1997",
+      "kind": "primary"
+    },
+    {
+      "citation": "Novum Testamentum Graece, 28th edition, 2012",
+      "kind": "primary"
+    }
+  ]
+}
+
+
+--- stderr ---

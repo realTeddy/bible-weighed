@@ -1,0 +1,49 @@
+{
+  "summary": "All four reviewers consider the claim unlikely, while judging an exceptional prophetic or messianic mission more plausible. They agree that John contains the clearest apparent divine self-claims, but question how reliably its distinctive speeches report Jesus’ own words. They also agree that earlier accounts of Jesus’ authority can be interpreted either as divine identity or as delegated authority, and that devotion to Jesus arose early without necessarily proving his own self-understanding. Their estimates range from 12% to 25%, but their confidence and treatment of uncertainty differ. The main disagreements concern how decisively the evidence rules out a divine claim and how strongly scholars agree about it.",
+  "agreement": "high",
+  "agreed": [
+    "Jesus probably understood himself to have an exceptional role in God’s kingdom; that alone does not establish that he claimed to be God.",
+    "John’s distinctive divine-sounding sayings are important evidence, but treating them as straightforward historical quotations is disputed.",
+    "Jesus’ reported authority and actions can support an implicit-divinity reading, but delegated divine authority is a serious alternative.",
+    "Extraordinary devotion to Jesus emerged early, before Nicaea, but does not by itself establish what Jesus claimed during his lifetime.",
+    "A meaningful divine claim need not take the exact form ‘I am God’; the interpretation of actions and allusions matters."
+  ],
+  "disagreed": [
+    {
+      "point": "Probability and confidence",
+      "positions": "GPT-6.1 assigns 25% with low confidence; Gemini 3.8 assigns 12% with high confidence; Grok 4.7 assigns 20% with low confidence; Opus 5.5 assigns 12% with medium confidence. Gemini treats the evidence as more decisive than the others do."
+    },
+    {
+      "point": "Strength of historical and scholarly consensus",
+      "positions": "Gemini asserts a broad critical consensus that Jesus did not claim to be God. GPT-6.1 emphasizes that the inference from Jesus’ actions to divine identity is disputed and says there is no consensus on his precise self-understanding. Grok and Opus describe a prevailing critical interpretation favoring agency while recognizing a serious contrary scholarly position."
+    },
+    {
+      "point": "John’s historical value",
+      "positions": "Gemini regards John’s distinctive divine discourses as overwhelmingly later theological composition. Opus also strongly favors authorial composition. GPT-6.1 and Grok give the speeches limited weight as direct reports but are more explicit that they may preserve historical memories or kernels."
+    },
+    {
+      "point": "How strongly Jewish monotheism and the earlier sources count against the claim",
+      "positions": "Gemini considers an unrecorded, uncontroverted divine claim historically inconceivable. GPT-6.1 and Grok reject categorical arguments that a first-century Jew could not associate a human figure with divine identity or claim divine status; Opus likewise allows that exalted-agent categories make some form of divine self-understanding conceivable."
+    },
+    {
+      "point": "Sayings distinguishing Jesus from God",
+      "positions": "Gemini, Grok and Opus treat sayings such as Mark 10:18, and in Gemini’s and Opus’s cases Mark 13:32, as evidence against divine self-understanding. GPT-6.1 warns that distinguishing Jesus from the Father is compatible with some conceptions of incarnation and divine distinction."
+    },
+    {
+      "point": "Development of early Christology",
+      "positions": "Gemini emphasizes a progression from lower to higher Christology. Grok and Opus also cite early exaltation formulas and post-Easter experiences as alternatives to a pre-Easter divine claim, while recognizing very early high devotion. GPT-6.1 stresses that the meaning of early divine status and its relationship to Jesus’ own views remain disputed."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether an indirect enactment or allusion can establish a claim to share God’s identity, rather than merely exceptional delegated authority.",
+    "Whether John’s distinctive speeches reliably preserve Jesus’ self-understanding, even if not his exact words.",
+    "Whether the Synoptic authority sayings and actions are historically attributable to Jesus and best explained as divine identity or as Jewish eschatological agency.",
+    "Whether early devotion and high Christology are better explained by Jesus’ own claims or by post-Easter experiences and interpretation.",
+    "How to weigh source-critical methods and theological commitments when reconstructing Jesus’ self-understanding."
+  ],
+  "what_is_settled": "The reviews agree that John portrays Jesus with striking divine-sounding language, that earlier traditions portray exceptional authority, and that extraordinary devotion to Jesus appeared early. They also agree that these observations alone do not settle what the historical Jesus understood or claimed.",
+  "what_is_open": "The historical reliability and meaning of the relevant sayings, the interpretation of Jesus’ actions, the origins of early devotion, and Jesus’ own inner self-understanding remain disputed. The answer also depends on what counts as a claim to be God and on how much weight is given to theological and source-critical assumptions."
+}
+
+
+--- stderr ---

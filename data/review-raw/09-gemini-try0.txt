@@ -1,0 +1,150 @@
+{
+  "kind": "empirical",
+  "verdict": "Almost certainly true: early Christian resurrection claims emerged from Second Temple Jewish apocalypticism, not pagan dying-and-rising god myths.",
+  "credence": 92,
+  "confidence": "high",
+  "bottom_line": "The theory that early Christians modeled Jesus's death and resurrection on pagan 'dying-and-rising' gods was popularized in 19th-century comparative religion, but it has been decisively rejected by contemporary mainstream classical and New Testament historians. The archetype itself was largely an artificial construct that blurred fundamentally distinct myths (such as seasonal vegetation cycles, underworld kingship, or apotheosis) into a single composite figure. Furthermore, the core Christian belief in the bodily resurrection of a specific historical individual was rooted directly in Jewish apocalyptic eschatology, not Hellenistic mystery cults. While Christianity later absorbed ambient Greco-Roman artistic motifs, holidays, and rhetorical forms, its core claims of Christ's passion and resurrection did not borrow from pagan dying-and-rising deities.",
+  "sub_claims": [
+    {
+      "claim": "The overarching category of 'dying-and-rising gods' is largely a modern scholarly construct rather than an authentic ancient archetype.",
+      "kind": "textual",
+      "case_for": "As scholars like Jonathan Z. Smith demonstrated, 19th-century theorists like James George Frazer artificially harmonized disparate myths into a unified archetype. Deities grouped under this label had radically different trajectories: Osiris remained an embalmed king of the dead in the netherworld, Dumuzi/Tammuz cycled biannually between the underworld and earth as a fertility metaphor, and Attis died and was preserved without bodily resurrection.",
+      "case_against": "Scholars like Tryggve Mettinger argue that while Frazer overstated the case, authentic dying-and-returning deities did exist in the ancient Semitic world, specifically Baal in Ugaritic texts, Melqart, and Adonis, demonstrating that the basic concept of a deity dying and returning to life was not purely an academic fabrication.",
+      "consensus": "Broad academic consensus supports Jonathan Z. Smith's critique: the unified Frazerian archetype is invalid, though a small minority of scholars maintain that a few localized Levantine figures did have genuine death-and-return motifs.",
+      "evidence": [
+        "Jonathan Z. Smith's entry 'Dying and Rising Gods' in the Encyclopedia of Religion (1987) and 'Drudgery Divine' (1990)",
+        "Tryggve Mettinger's 'The Riddle of Resurrection' (2001)",
+        "The Ugaritic Baal Cycle (KTU 1.5–1.6), where Mot swallows Baal and Baal later reappears"
+      ],
+      "verdict": "Substantially true; the broad archetype is an artificial composite, though isolated regional precursors existed.",
+      "credence": 88
+    },
+    {
+      "claim": "Early Christian resurrection beliefs originated organically within Second Temple Jewish apocalyptic eschatology.",
+      "kind": "empirical",
+      "case_for": "The concept of bodily resurrection (anastasis) was well-developed in late Second Temple Judaism (e.g., Daniel 12:2, 2 Maccabees 7, and 1 Enoch) as God's end-times vindication of the righteous. Paul and the early church explicitly framed Jesus's resurrection as the 'firstfruits' of this general apocalyptic bodily resurrection occurring in history, using exclusively Jewish conceptual categories.",
+      "case_against": "Hellenistic concepts of hero apotheosis, translation to heaven, and immortal divine souls were widespread in the Greco-Roman world and influenced diaspora Judaism, meaning early Christians could have integrated ambient Mediterranean expectations of post-mortem divine honors.",
+      "consensus": "Overwhelming consensus across secular, Jewish, and Christian historians (e.g., E.P. Sanders, Bart Ehrman, Paula Fredriksen, N.T. Wright).",
+      "evidence": [
+        "Daniel 12:1-3 and 2 Maccabees 7:9-14",
+        "1 Corinthians 15:20-23 ('Christ the firstfruits, then at his coming those who belong to Christ')",
+        "Dead Sea Scrolls (4Q521) depicting messianic resurrection"
+      ],
+      "verdict": "Almost certainly true.",
+      "credence": 96
+    },
+    {
+      "claim": "Clear textual and archaeological evidence for the resurrection of mystery cult deities (such as Attis and Mithras) predominantly postdates the rise of Christianity.",
+      "kind": "empirical",
+      "case_for": "Key rituals claiming post-mortem resurrection in pagan mystery cults—such as the joyful celebration of Attis's resurrection during the Hilaria festival or the taurobolium baptism—are attested in texts dating to the late 2nd to 4th centuries CE (e.g., Firmicus Maternus, Julian), suggesting that any syncretic borrowing went from Christianity to paganism, or reflected mutual Roman-era developments.",
+      "case_against": "Attis and Cybele worship dates back centuries before Christ in Anatolia and Rome, and fragmentary early evidence shows mystery initiations involved promises of overcoming death, even if explicit liturgical descriptions survive mostly from late imperial critics.",
+      "consensus": "Strong consensus among classical historians and Roman religion specialists that chronological priority for a resurrected redeemer figure belongs to early Christianity, not late-attested mystery rites.",
+      "evidence": [
+        "Firmicus Maternus, De Errore Profanarum Religionum (c. 346 CE), describing the mourning and rejoicing of pagan rites",
+        "Archaeological dating of Mithraic tauroctony reliefs and Mithraea to the late 1st through 3rd centuries CE",
+        "Bruce Metzger's chronological analysis in 'Historical and Literary Studies' (1968)"
+      ],
+      "verdict": "Highly probable.",
+      "credence": 90
+    },
+    {
+      "claim": "Christianity's core narrative differs fundamentally in genre, ontology, and historical claim from pagan mythological cycles.",
+      "kind": "textual",
+      "case_for": "Pagan vegetation and mystery myths were set in mythical, primordial time and were tied to recurring seasonal astronomical cycles. In contrast, early Christian documents claim a singular, once-for-all historical event happening to an identifiable historical individual under a named Roman official (Pontius Pilate), resulting in an empty tomb and bodily transformation rather than a seasonal return to an ethereal or underworld realm.",
+      "case_against": "Ancient audiences routinely historicized myths (Euhemerism), and early Christian apologists themselves recognized strong surface parallels, often feeling forced to explain them as 'demonic imitation' of Hebrew prophecy.",
+      "consensus": "Consensus among historians of ancient religion that the literary genre and theological framework of the New Testament Gospels are sharply distinct from pagan mystery cult mythography.",
+      "evidence": [
+        "The Apostles' and Nicene Creeds ('crucified under Pontius Pilate')",
+        "Justin Martyr, First Apology 21 and 54, acknowledging similarities with Bacchus, Hercules, and Asclepius and attributing them to demonic mimicry",
+        "Romans 6:9-10 ('Christ, being raised from the dead, will never die again; death no longer has dominion over him')"
+      ],
+      "verdict": "True.",
+      "credence": 94
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does the emergence of resurrection beliefs in 1st-century Judea require an external pagan catalyst or is it fully accounted for by Second Temple Jewish apocalypticism?",
+      "type": "evidence",
+      "if_yes": "If Second Temple Jewish apocalypticism fully accounts for the belief, the hypothesis of pagan borrowing is unnecessary and unparsimonious.",
+      "if_no": "If Jewish tradition could not produce a belief in an individual messiah rising within history ahead of the general resurrection, an external pagan template becomes more plausible.",
+      "your_view": "Jewish apocalyptic thought, combined with the crucifixion of Jesus and subsequent visionary/bereavement experiences among his followers, fully accounts for the resurrection claim without needing pagan mythic borrowing."
+    },
+    {
+      "crux": "Are the dates of explicit pagan resurrection claims earlier than, contemporary with, or later than early Christian literature?",
+      "type": "evidence",
+      "if_yes": "If pre-Christian pagan texts explicitly describe a deity dying violently and resurrecting to physical life, direct borrowing would be historically plausible.",
+      "if_no": "If the surviving textual evidence for pagan resurrection postdates the Gospels and Paul, borrowing by early Christians is chronologically unsupported.",
+      "your_view": "Primary texts documenting clear post-mortem resurrection rites for deities like Attis or Adonis consistently date to the 2nd century CE or later, long after the foundational Christian documents (c. 50–90 CE) were written."
+    },
+    {
+      "crux": "How broadly is 'borrowing' defined: does it include adopting ambient linguistic, artistic, and calendar motifs, or specifically the core doctrinal claim of Christ's resurrection?",
+      "type": "definition",
+      "if_yes": "If borrowing includes 4th-century artistic iconography (e.g., Jesus depicted like Apollo or Sol Invictus) and calendar celebrations, Christianity clearly borrowed heavily from paganism.",
+      "if_no": "If borrowing refers strictly to the foundational 1st-century claims of the passion and bodily resurrection of Jesus, the claim that Christianity did not borrow holds firmly.",
+      "your_view": "The question specifies 'core claims'—namely the passion, death, and resurrection of Jesus. While secondary cultural forms were borrowed later, the core claims themselves were not borrowed from pagan dying-and-rising gods."
+    }
+  ],
+  "strongest_for": [
+    "Mainstream historical-critical consensus (including secular and non-Christian historians like Bart Ehrman, Paula Fredriksen, and Jonathan Z. Smith) has comprehensively repudiated the 'dying-and-rising god' borrowing hypothesis.",
+    "The core theological framework of early Christianity—bodily resurrection of the dead at the climax of history—is rooted entirely in Jewish apocalyptic traditions (Daniel, 2 Maccabees) rather than Hellenistic myth.",
+    "First-century Jewish monotheists in Palestine were intensely hostile to foreign pagan idolatry, making direct deliberate borrowing of pagan mystery cult theology extremely improbable in the initial Jerusalem Jesus movement.",
+    "The alleged pagan parallels (Osiris, Tammuz, Attis, Mithras) show profound structural disanalogies upon close inspection: Osiris remains an embalmed lord of the underworld, Tammuz cycles through seasonal descent, and Mithras never died."
+  ],
+  "strongest_against": [
+    "Early Christian apologists (most notably Justin Martyr in First Apology) openly acknowledged striking structural parallels between Jesus's death, descent, and ascension and those of pagan figures like Dionysus, Bellerophon, and Asclepius, resorting to the ad hoc theological explanation of 'diabolical mimicry'.",
+    "Early Christianity expanded immediately into the wider Hellenistic world, where audiences were primed to conceptualize divine savior figures who conquer death and bestow immortality.",
+    "A minority of competent scholars, such as Tryggve Mettinger, have argued that genuine death-and-return motifs did exist in pre-Christian Northwest Semitic cults (such as Baal and Melqart), proving that the broader Near Eastern cultural matrix contained such concepts.",
+    "Later Roman-era Christianity undeniably absorbed pagan symbols, holiday dates, and iconography (e.g., the Madonna and Child mirroring Isis and Horus), demonstrating that Christianity was susceptible to syncretism as it spread."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Arguing that early Jewish Christians were entirely isolated from Hellenistic culture (historical research shows 1st-century Palestine was deeply bilingual and culturally influenced by Hellenism).",
+      "Citing Justin Martyr's 'diabolical mimicry' argument as valid historical evidence that demons anticipated and forged Christian truths in pagan myths.",
+      "Claiming that pagan mystery cults borrowed entirely from Christianity without acknowledging common Mediterranean religious developments and independent ritual logic."
+    ],
+    "against": [
+      "Popular internet claims (e.g., from the film 'Zeitgeist' or Acharya S) claiming Horus or Mithras were born of a virgin on December 25, crucified, and resurrected after three days (these claims are baseless fabrications with zero support in ancient primary texts).",
+      "Appealing uncritically to James Frazer's 'The Golden Bough', which utilized cherry-picked evidence, ripped rituals from their cultural contexts, and has been rejected by modern anthropology and religious studies.",
+      "Committing 'parallelomania' (Samuel Sandmel's term): assuming that any vague surface thematic similarity between two ancient religions implies direct literary or theological dependence."
+    ]
+  },
+  "would_change": [
+    "The discovery of pre-1st-century BCE primary texts in Roman Palestine or the Levant describing a mystery cult worshiping a deity who died a bodily death and underwent a singular physical resurrection to inaugurate a new cosmic era.",
+    "Documentary evidence from early 1st-century Christian writers demonstrating direct literary dependence on or conscious imitation of pagan mystery religion liturgies or myths.",
+    "A methodological breakthrough that overturns Jonathan Z. Smith's critique and re-establishes a rigorous, textually verified pre-Christian archetype of dying-and-rising redeemer gods."
+  ],
+  "sources": [
+    {
+      "citation": "Jonathan Z. Smith, Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity, 1990",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Tryggve N. D. Mettinger, The Riddle of Resurrection: 'Dying and Rising Gods' in the Ancient Near East, 2001",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Bart D. Ehrman, Did Jesus Exist? The Historical Argument for Jesus of Nazareth, 2012",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Bruce M. Metzger, Historical and Literary Studies: Pagan, Jewish, and Christian, 1968",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Mark S. Smith, The Ugaritic Baal Cycle, Volume I, 1994",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Justin Martyr, First Apology, c. 155 CE",
+      "kind": "primary"
+    },
+    {
+      "citation": "1 Corinthians 15, New Testament, c. 53-55 CE",
+      "kind": "scripture"
+    }
+  ]
+}
+
+
+--- stderr ---

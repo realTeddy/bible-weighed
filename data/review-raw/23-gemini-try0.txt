@@ -1,0 +1,148 @@
+{
+  "kind": "mixed",
+  "verdict": "Almost certainly false under standard biological and historical readings; sole genetic progenitorship is empirically ruled out.",
+  "credence": 2,
+  "confidence": "high",
+  "bottom_line": "Extensive data from modern population genomics, paleoanthropology, and comparative biology demonstrate that the human species arose from an ancestral hominin population that never contracted to a bottleneck of just two individuals. Coalescent modeling of human genetic diversity and trans-species polymorphisms requires an ancestral effective population size of thousands across the Pleistocene, and ancient DNA confirms interbreeding with other hominins such as Neanderthals and Denisovans. Furthermore, historical-critical and ancient Near Eastern scholarship shows that Genesis 1–3 was composed as a theological and mythopoetic etiology rather than modern biological reporting. While models such as a 'genealogical Adam and Eve' show a historical couple could be among the ancestors of all humans alongside an interbreeding broader population, the traditional claim of exclusive descent from a single original pair is contradicted by overwhelming empirical evidence.",
+  "sub_claims": [
+    {
+      "claim": "All modern humans biologically descend exclusively from a founding bottleneck of two individuals within the past several hundred thousand years.",
+      "kind": "empirical",
+      "case_for": "Young-earth and old-earth creationist geneticists argue that high initial 'created heterozygosity' in an original couple, followed by rapid post-creation mutation and geographic dispersal, can account for modern allelic diversity without an ancestral population.",
+      "case_against": "Coalescence times across thousands of independent genetic loci, linkage disequilibrium patterns, and ancient trans-species polymorphisms (notably in the HLA immune system) require an ancestral human breeding population that remained consistently at or above thousands of individuals.",
+      "consensus": "Universal consensus among geneticists and evolutionary biologists that a two-person biological bottleneck for Homo sapiens is genetically impossible; mainstream Christian biologists (e.g., at BioLogos) share this consensus.",
+      "evidence": [
+        "Trans-species polymorphisms at the HLA-DRB1 locus shared between humans and chimpanzees",
+        "Linkage disequilibrium decay curves in diverse human populations indicating ancestral effective population size (Ne) of roughly 10,000",
+        "Independent coalescence dates for distinct genomic regions ranging from hundreds of thousands to millions of years ago"
+      ],
+      "verdict": "Refuted by population genetics",
+      "credence": 1
+    },
+    {
+      "claim": "The human species originated through gradual evolutionary transitions in Africa rather than an instantaneous de novo creation of a single pair.",
+      "kind": "empirical",
+      "case_for": "Critics of human evolution point to debates over specific hominin phylogenetic branching, morphological gaps between Australopithecines and early Homo, and the rapid emergence of complex behavioral modernity.",
+      "case_against": "The fossil record provides an anatomically continuous series from early hominins through archaic Homo sapiens to modern humans, corroborated by archaeological tool cultures and ancient DNA demonstrating archaic admixture.",
+      "consensus": "Universal consensus among paleoanthropologists, evolutionary biologists, and mainstream physical anthropologists.",
+      "evidence": [
+        "Transitional fossil specimens from Jebel Irhoud (~300,000 years old) showing archaic-modern mosaics",
+        "Ancient genomic DNA demonstrating 1-2% Neanderthal DNA in non-Africans and Denisovan DNA in Oceanian/Asian populations",
+        "Stratified technological progression from Oldowan to Acheulean to Middle Stone Age assemblages"
+      ],
+      "verdict": "Overwhelmingly supported by fossil, archaeological, and genetic data",
+      "credence": 99
+    },
+    {
+      "claim": "Genesis 1-3 was intended by its original authors as an empirical, historical account of the biological origin of the human species.",
+      "kind": "textual",
+      "case_for": "Biblical genealogies in Genesis 5, 1 Chronicles 1, and Luke 3 treat Adam as a historical individual, and Apostle Paul in Romans 5 and 1 Corinthians 15 draws theological parallels between a historical Adam and a historical Christ.",
+      "case_against": "Genesis 1–11 utilizes cosmological, literary, and mytho-historical conventions typical of the ancient Near East (e.g., Enuma Elish, Atrahasis) to communicate theological claims regarding God's relationship to humanity and cosmic order, using symbolic motifs such as talking serpents and trees of life rather than physical natural history.",
+      "consensus": "Broad consensus among critical biblical scholars, Hebraists, and mainstream confessional theologians; rejected primarily by conservative evangelical inerrantists and fundamentalists.",
+      "evidence": [
+        "Etymological wordplay between 'adam' (mankind/earthling) and 'adamah' (ground)",
+        "Presence of two distinct, complementary creation accounts in Genesis 1:1-2:3 and Genesis 2:4-25 with different structural sequences",
+        "Pervasive structural and thematic parallels with ancient Mesopotamian primordial mythologies"
+      ],
+      "verdict": "Largely rejected by historical-critical and literary scholarship",
+      "credence": 10
+    },
+    {
+      "claim": "A historical couple living in the ancient Near East could have become universal genealogical ancestors of all living humans.",
+      "kind": "empirical",
+      "case_for": "Mathematical and genealogical models show that pedigree common ancestors accumulate rapidly due to exponential expansion of ancestral lineages, meaning an individual couple several thousand years ago could be genealogical ancestors to everyone alive today if their descendants interbred across global populations.",
+      "case_against": "Severe geographic isolation of certain ancient populations (such as Indigenous Australians and Tasmanians for tens of thousands of years) makes universal genealogical reach from a recent Middle Eastern couple geographically implausible; moreover, this requires interbreeding with an already existing outside population, abandoning sole biological ancestry.",
+      "consensus": "Accepted as mathematically possible in principle by population theorists, but heavily qualified by geographic constraints; theologians remain divided over whether non-exclusive genealogical ancestry preserves the intended biblical meaning.",
+      "evidence": [
+        "Mathematical pedigree simulations of universal most recent common ancestors (e.g., Chang 1999; Rohde et al. 2004)",
+        "Deep genetic divergence and archaeological evidence of continuous isolation in Sahul (Australia/New Guinea) for ~50,000 years",
+        "S. Joshua Swamidass's genealogical modeling in 'The Genealogical Adam and Eve' (2019)"
+      ],
+      "verdict": "Plausible for genealogical ancestry only if an outside population exists, but invalid as sole biological descent",
+      "credence": 30
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does the claim require exclusive biological/genetic progenitorship (no other human ancestors contributing to modern diversity)?",
+      "type": "definition",
+      "if_yes": "The claim is empirically disproven by population genetics, ancient DNA, and paleontology (credence <= 1%).",
+      "if_no": "If understood as universal genealogical ancestry or spiritual representation alongside a wider interbreeding population, the claim becomes biologically possible though historically unverifiable.",
+      "your_view": "The historical and confessional meaning of the Genesis claim has overwhelmingly entailed exclusive biological descent ('from one man he made all the nations'); non-exclusive genealogical models rescue possibility only by altering the traditional doctrine."
+    },
+    {
+      "crux": "Can empirical genetic diversity and fossil continuity be set aside by invoking direct supernatural intervention (e.g., created heterozygosity or apparent age)?",
+      "type": "prior",
+      "if_yes": "Any scientific finding can be harmonized with an original couple by positing miracles that mimic deep evolutionary history.",
+      "if_no": "The claim must be judged based on standard empirical and historical inferences, which rule out a two-person bottleneck.",
+      "your_view": "Invoking unfalsifiable supernatural mechanisms that precisely mimic evolutionary history undermines empirical reasoning and portrays the natural order as fundamentally deceptive; evidence must be evaluated naturalistically."
+    },
+    {
+      "crux": "Did ancient Near Eastern literature and the author(s) of Genesis intend Genesis 1-3 as literal historiography or theological etiology?",
+      "type": "evidence",
+      "if_yes": "Scripture's assertions are in direct, irreconcilable factual conflict with modern biological science.",
+      "if_no": "The text functions within ancient literary genres to convey theological realities, rendering modern scientific concordism a category error.",
+      "your_view": "Comparative Semitic literature and textual analysis strongly indicate Genesis 1-11 belongs to ancient mytho-historical and theological genres rather than modern material historiography."
+    }
+  ],
+  "strongest_for": [
+    "Coalescent theory establishes that all living humans trace uniparental genetic lineages back to individual ancestors ('Mitochondrial Eve' and 'Y-chromosomal Adam'), proving that single common ancestors do occur in human ancestry.",
+    "Mathematical modeling of family trees demonstrates that universal genealogical ancestors can exist far more recently than genetic ancestors, making a shared historical ancestral couple possible if interbreeding with others occurred.",
+    "Biblical genealogies (Genesis 5, 11; Luke 3) and key New Testament theological frameworks (Romans 5; 1 Corinthians 15) treat Adam as an individual historical figure, demonstrating that early Jewish and Christian communities understood him as a real person.",
+    "Models of 'created heterozygosity' provide a theoretical mechanism within a young-earth framework where an initial pair could be miraculously endowed with high allelic diversity."
+  ],
+  "strongest_against": [
+    "Human population genomics shows that allele frequencies and linkage disequilibrium require an effective ancestral population size that never dropped below several thousand individuals across the Pleistocene.",
+    "Ancient human genomes demonstrate genetic admixture with Neanderthals and Denisovans, proving our species interbred with other hominin populations rather than descending strictly from an isolated pair.",
+    "Mitochondrial Eve and Y-chromosomal Adam did not live concurrently (living tens of thousands of years apart) and were individual members of large contemporary populations, not an isolated pair.",
+    "The African fossil and archaeological record displays unbroken morphological and cultural progression spanning millions of years, leaving no room for a sudden de novo appearance of the species.",
+    "Comparative ancient Near Eastern literature demonstrates that Genesis 1-11 shares genre conventions with regional etiologies, meaning treating it as a literal biological report misinterprets the text."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Conflating 'Mitochondrial Eve' or 'Y-chromosomal Adam' with the biblical Adam and Eve, ignoring that they lived millennia apart in large breeding populations.",
+      "Claiming that massive mutation rates post-Fall generated all modern human genetic variation from two individuals, which would induce catastrophic, fatal mutational loads.",
+      "Relying on the Omphalos / apparent-age argument (God created human DNA with preexisting coalescent signatures), which is unfalsifiable and implies divine deception."
+    ],
+    "against": [
+      "Arguing that the theory of evolution disproves the existence of any historical individuals named Adam and Eve who could have lived in the ancient Near East as tribal leaders or spiritual representatives.",
+      "Asserting that Genesis is merely a direct plagiarism of the Epic of Gilgamesh or Enuma Elish without recognizing its distinct Hebrew theological polemic.",
+      "Claiming science has conclusively disproved the philosophical possibility of miracles, confusing methodological naturalism with metaphysical certainty."
+    ]
+  },
+  "would_change": [
+    "Discovery of a genuine, species-wide genetic bottleneck strictly limited to two individuals in the Homo sapiens lineage that coherently accounts for modern global nucleotide diversity without lethal mutational load.",
+    "Discovery of ancient Near Eastern comparative literature demonstrating that Genesis 1-11 was understood by contemporary Levantine cultures as rigorous, literal natural history rather than sacred etiology.",
+    "Genomic evidence showing that highly polymorphic immune loci (like HLA-DRB1) coalesced exclusively within the last 10,000 years rather than prior to the human-chimpanzee divergence.",
+    "Fossil and archaeological discoveries showing an absolute discontinuity in tool culture, physiology, and anatomy in the Levant, with an abrupt appearance lacking any evolutionary precursors."
+  ],
+  "sources": [
+    {
+      "citation": "Dennis R. Venema and Scot McKnight, Adam and the Genome: Reading Scripture after Genetic Science, 2017",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "S. Joshua Swamidass, The Genealogical Adam and Eve: The Surprising Science of Universal Ancestry, 2019",
+      "kind": "scientific"
+    },
+    {
+      "citation": "John H. Walton, The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate, 2015",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Peter Enns, The Evolution of Adam: What the Bible Does and Doesn't Say about Human Origins, 2012",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Francis S. Collins, The Language of God: A Scientist Presents Evidence for Belief, 2006",
+      "kind": "scientific"
+    },
+    {
+      "citation": "Joseph T. Chang, 'Recent common ancestors of all present-day individuals', Advances in Applied Probability, 1999",
+      "kind": "scientific"
+    }
+  ]
+}
+
+
+--- stderr ---

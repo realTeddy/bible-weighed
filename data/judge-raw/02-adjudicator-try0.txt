@@ -1,0 +1,48 @@
+{
+  "scores": {
+    "theist": {"evidence": 7, "logic": 7, "engagement": 8, "honesty": 9, "clarity": 8, "overall": 7},
+    "atheist": {"evidence": 8, "logic": 8, "engagement": 9, "honesty": 8, "clarity": 8, "overall": 8}
+  },
+  "winner": "atheist",
+  "margin": "narrow",
+  "verdict": "The atheist wins narrowly because the affirmative carried the burden and did not discharge it. Both debaters were unusually careful: they answered questions first, cited real scholarship, and conceded when a text would not bear the claim. The theist offered the stronger positive narrative, an early creed, the Jewish meaning of raised, a burial that may have been locatable, and a persecutor whom group contagion does not reach. The atheist accepted that core and attacked the inference from belief to event. The debate turned on the bodily element itself. The theist conceded that no source before the Gospels describes a physical encounter, that no pre-Markan text reports a tomb visit, that Paul's experience alone cannot separate bodily resurrection from visionary exaltation, and that James is not clearly a hostile witness. The atheist conceded the matching costs. Raised meant the body left the grave and was in principle checkable. Paul remains unexplained. No modern case closely matches a group seeing a known person who gives a commission. The closing decides the scores. The theist states, honorably, that the conclusion is conditional on theism, that theism was not argued, and that a naturalistic prior will not be moved. That honesty should not be punished as evasion, but the concession does give away the resolution as framed. The atheist's account has real loose ends. Those gaps were not shown to be evidence of a miracle unless a supernatural cause is already live. On the arguments actually presented, the negative better contained the specific claim that Jesus rose bodily.",
+  "highlights": [
+    {"round": 4, "side": "atheist", "quote": "This is your best point, and I grant that \"raised\" is a meaningful choice.", "why": "Names the theist's strongest argument and concedes its force instead of deflecting."},
+    {"round": 5, "side": "atheist", "quote": "I have no well-documented modern case where a group sees someone they knew personally and receives a commission from him.", "why": "Honestly limits the collective-vision analogy at the exact point the theist pressed."},
+    {"round": 7, "side": "atheist", "quote": "I concede that Paul is the hardest part of my account.", "why": "Admits the main cost in the naturalistic reconstruction rather than papering over it."},
+    {"round": 9, "side": "theist", "quote": "if theism is a live option, the bodily resurrection is the best explanation of the data.", "why": "States the affirmative conclusion in its honest conditional form."},
+    {"round": 9, "side": "atheist", "quote": "A resolution whose decisive premise is assumed rather than defended has not been established.", "why": "Ties the shared concessions to the affirmative burden that decides the debate."}
+  ],
+  "fallacies": [
+    {"round": 6, "side": "theist", "name": "false independence", "quote": "When you multiply the probabilities, the result is much lower than the case for any single part.", "explanation": "Treats the naturalistic steps as if they multiply like independent events. The theist later conceded that correlation makes that multiplication overstate the improbability."},
+    {"round": 8, "side": "theist", "name": "false dichotomy", "quote": "isn't the real disagreement your prior against God acting, not the historical data?", "explanation": "Collapses a remaining historical dispute, whether an early bodily belief and an unchecked grave establish a bodily event, into a pure prior disagreement. The atheist accepted the prior point but correctly kept the bodily-specific gap in play."}
+  ],
+  "factual_errors": [
+    {"round": 1, "side": "theist", "claim": "Still, a majority of specialists accept it.", "correction": "A majority acceptance of the empty tomb is disputed. Some apologetic surveys claim one, but many critical scholars reject or suspend judgment on it, and those surveys' samples and methods are contested. The speaker did immediately flag the tomb as more contested than the appearances.", "severity": "minor"},
+    {"round": 1, "side": "atheist", "claim": "Acts describes it as a light and a voice that his companions did not see in the same way (Acts 9:7; 22:9).", "correction": "Acts 9:7 says the companions heard the voice but saw no one; Acts 22:9 says they saw the light but did not hear the voice. The accounts conflict about hearing as well as seeing, rather than simply agreeing that the companions failed to see the event in the same way.", "severity": "minor"}
+  ],
+  "key_concessions": [
+    {"round": 9, "side": "theist", "point": "The conclusion is conditional on theism, which was not argued, and will not move someone starting from a naturalistic prior.", "impact": "major"},
+    {"round": 3, "side": "theist", "point": "Damascus need not differ in kind from later visions, and James's conversion by an appearance is only an inference, weakening him as a hostile witness.", "impact": "major"},
+    {"round": 4, "side": "theist", "point": "No pre-Markan text reports that anyone visited the tomb; that part of the case is inferential.", "impact": "moderate"},
+    {"round": 5, "side": "atheist", "point": "In Jewish usage the claim was in principle publicly falsifiable, and there is no close modern case of a group seeing a known dead person who commissions them.", "impact": "moderate"},
+    {"round": 7, "side": "atheist", "point": "Contagion does not reach Paul, and no psychological trigger for his experience can be named.", "impact": "moderate"},
+    {"round": 8, "side": "atheist", "point": "The shared historical data do not settle the question; the disagreement now turns largely on background probabilities.", "impact": "moderate"}
+  ],
+  "turning_point": {"round": 8, "description": "Both sides agree on the early creed, sincere belief, and the bodily meaning of raised, and the theist concedes that Paul's appearance alone cannot prove a bodily rising. The theist then locates the dispute in the prior; the atheist accepts that framing but adds that an unverified tomb and an undefended theistic premise cannot carry the affirmative burden."},
+  "best_argument": {
+    "theist": "Jewish usage made raised a bodily and in-principle checkable claim, yet the disciples chose it over available softer categories such as angel, spirit, or mere exaltation, proclaimed it in Jerusalem, and included a hostile outsider the contagion model does not reach.",
+    "atheist": "The resolution requires a bodily event, but the pre-Gospel evidence shows an early bodily belief rather than a described physical encounter or a reported early tomb check, and an unargued theism cannot carry the affirmative burden."
+  },
+  "unanswered": {
+    "theist": [
+      "After granting facial recognition would be difficult, the theist's point that identification could rest on which tomb was used, crucifixion wounds, burial cloths, and later ossilegium was never specifically rebutted."
+    ],
+    "atheist": [
+      "The demand for evidence, independent of the Easter traditions, sufficient to make God's existence and a vindication of this man probable enough to meet the affirmative burden was only modestly answered and then explicitly left unargued."
+    ]
+  }
+}
+
+
+--- stderr ---

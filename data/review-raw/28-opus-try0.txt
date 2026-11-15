@@ -1,0 +1,138 @@
+{
+  "kind": "mixed",
+  "verdict": "Probably false: the evidence favors Jesus (at least as the Gospels report him) expecting the end within his hearers' lifetime",
+  "credence": 20,
+  "confidence": "medium",
+  "bottom_line": "Several Gospel sayings, read in their first-century Jewish apocalyptic context, have Jesus say that the Son of Man's coming and the kingdom's arrival would happen before some of his hearers died (Mark 9:1; Mark 13:30; Matt 10:23; Matt 16:28; Mark 14:62). The earliest Christian writings show the same imminent expectation, followed by visible efforts to manage the delay: Paul's 'we who are alive' (1 Thess 4:15), the rumor corrected in John 21:23, and the scoffers answered in 2 Peter 3. Most critical historians since Schweitzer conclude that Jesus was an apocalyptic prophet who expected the decisive end soon. Scholars such as Sanders, Allison, Ehrman and, with qualifications, Meier hold this view. The serious counter-readings are of two kinds. One is preterist: Wright, France and others read Mark 13 and Matthew 24 as fulfilled in Jerusalem's fall in 70 CE, with the 'coming' of the Son of Man understood as Daniel-7 vindication rather than a return to earth. The other holds that the most explicit 'deadline' sayings were invented by the early church, which would clear the historical Jesus but not the Gospel portrait. Neither route is absurd, but each strains parts of the text, so the claim as stated (no such prediction, no failed prophecy) is more likely false than true.",
+  "sub_claims": [
+    {
+      "claim": "The Gospels portray Jesus as saying the eschatological consummation would occur within the lifetime of his hearers.",
+      "kind": "textual",
+      "case_for": "Mark 13:24-27 describes cosmic signs and the Son of Man 'coming in clouds' gathering the elect. Mark 13:30 then says 'this generation will not pass away until all these things take place.' Matthew 24:29 adds 'immediately after the tribulation' and joins this to the disciples' question about 'the end of the age' (24:3). Mark 9:1, Matt 16:27-28 and Matt 10:23 set similar deadlines. Mark 14:62 tells the high priest that he will 'see' the Son of Man coming. Elsewhere in the Synoptics 'this generation' (genea) consistently means Jesus' contemporaries.",
+      "case_against": "'All these things' in Mark 13:30 may refer only to the temple's destruction and its signs, since the discourse opens with that question (13:2-4). Mark 13:32 ('of that day or hour no one knows') may then mark a shift to a separate, undated parousia. The cosmic language echoes prophetic idiom for political upheaval (Isa 13:10; Isa 34:4). On this reading, 'coming on clouds' (Dan 7:13) is a coming to God for vindication, not a descent to earth. Mark 9:1 can be read as fulfilled at the Transfiguration, the resurrection, or Pentecost.",
+      "consensus": "Most critical commentators read the Synoptic eschatological discourse as envisioning the end within a generation. A substantial minority of evangelical scholars, including N.T. Wright, R.T. France and many partial preterists, argue it is fulfilled in 70 CE. Older conservative options, such as reading genea as 'race,' are now rarely defended even by confessional scholars.",
+      "evidence": ["Mark 13:30 / Matt 24:34 / Luke 21:32", "Matt 24:29 'immediately after'", "Mark 9:1; Matt 16:28", "Matt 10:23", "Mark 14:62", "Synoptic usage of 'this generation' (e.g., Matt 23:36, Luke 11:50-51)"],
+      "verdict": "Likely true on the most natural reading, though a coherent preterist alternative exists",
+      "credence": 75
+    },
+    {
+      "claim": "The historical Jesus himself expected the decisive arrival of God's kingdom imminently.",
+      "kind": "empirical",
+      "case_for": "Jesus was baptized by John, a doom-preaching apocalyptic prophet, and the movement after Easter was intensely apocalyptic, so a continuous apocalyptic Jesus best explains both ends. Imminence is attested across independent sources (Mark, Q, Paul). The sayings are embarrassing because they went unfulfilled, which makes invention less likely, especially for Mark 13:30 next to 13:32's admission of ignorance. Allison argues that the whole pattern of the tradition, not individual sayings, points to imminence.",
+      "case_against": "The Jesus Seminar, Crossan and Borg argued for a sapiential or non-eschatological Jesus, treating apocalyptic sayings as church additions. Some argue Jesus spoke of a kingdom already present (Luke 11:20; Luke 17:21) in a realized or inaugurated sense. Meier judges the three explicit deadline sayings probably inauthentic, even while holding that Jesus expected the future kingdom soon.",
+      "consensus": "Majority critical view: Jesus was an apocalyptic prophet expecting an imminent eschatological climax (Schweitzer, Sanders, Allison, Ehrman, Fredriksen, Meier in modified form). The non-apocalyptic Jesus had a strong but minority moment in the 1980s-90s and has lost ground since. Many confessional scholars accept imminence but reinterpret what Jesus expected.",
+      "evidence": ["John the Baptist's apocalyptic preaching (Q 3:7-9)", "1 Thess 4:15-17; 1 Cor 7:29-31 (earliest Christian imminence)", "Lord's Prayer 'thy kingdom come'", "Q 22:28-30 (twelve thrones)", "Mark 1:15 'the kingdom of God has come near'"],
+      "verdict": "Probably true",
+      "credence": 75
+    },
+    {
+      "claim": "Early Christians perceived a delay or apparent non-fulfillment and adjusted for it.",
+      "kind": "textual",
+      "case_for": "John 21:22-23 corrects a rumor that the beloved disciple would not die before Jesus returned. 2 Peter 3:3-9 answers scoffers who ask 'where is the promise of his coming?' and invokes 'a day is as a thousand years.' Luke appears to separate Jerusalem's fall from the end by inserting 'the times of the Gentiles' (Luke 21:24) and softens Mark 14:62 (Luke 22:69 drops 'coming with the clouds'). The Gospel of John largely realizes eschatology in the present.",
+      "case_against": "These adjustments may reflect misunderstandings by followers rather than what Jesus taught. Even with no deadline, believers in an imminent return would face delay questions. Luke's edits could be clarifications rather than damage control.",
+      "consensus": "Broad agreement among critical scholars that 'delay of the parousia' shaped later NT texts. Confessional scholars often accept that early believers expected an imminent return, while denying Jesus guaranteed a date.",
+      "evidence": ["John 21:22-23", "2 Pet 3:3-9", "Luke 21:24; Luke 22:69 vs Mark 14:62", "1 Thess 4:15 'we who are alive'"],
+      "verdict": "Very likely true; it is strong indirect evidence that the tradition carried a time-bound expectation",
+      "credence": 85
+    },
+    {
+      "claim": "The preterist/70 CE reading adequately accounts for all the relevant sayings, so no prophecy failed.",
+      "kind": "textual",
+      "case_for": "Jerusalem did fall within about 40 years, a remarkable 'generation' fit. Daniel 7's figure comes to the Ancient of Days for enthronement, not down to earth. Prophetic cosmic imagery routinely describes the fall of empires. Mark 13 is framed by the temple question. Wright's reading fits Jesus' conflict with the temple establishment.",
+      "case_against": "Matthew explicitly frames the discourse as about 'your coming and the end of the age' (24:3) and places the gathering of the elect 'immediately after' (24:29-31). Matt 16:27-28 ties the deadline to the Son of Man coming 'to repay everyone for what he has done,' which is final judgment. Paul, our earliest witness, clearly expected a literal return in his lifetime (1 Thess 4:16-17), indicating how Jesus' followers understood him. Preterism must also explain why early Christians did not treat 70 CE as the fulfillment.",
+      "consensus": "Respected among evangelical scholars (Wright, France, partial preterists), but a minority view in academic biblical studies overall. Many confessional scholars, such as Allison, who is an Episcopalian, accept that Jesus was mistaken about timing.",
+      "evidence": ["Dan 7:13-14", "Isa 13:10; Isa 34:4 cosmic imagery", "Matt 24:3, 29-31", "Matt 16:27-28", "Josephus' account of 70 CE"],
+      "verdict": "Possible but strained, especially for Matthew",
+      "credence": 30
+    },
+    {
+      "claim": "The explicit 'deadline' sayings are later church creations, so the historical Jesus made no time-bound prediction.",
+      "kind": "empirical",
+      "case_for": "Meier and others argue that Mark 9:1, Mark 13:30 and Matt 10:23 look like early church consolation formulas. Mark 13 is widely seen as a composite 'little apocalypse.' Independent attestation of an explicit deadline is weak.",
+      "case_against": "An invented prophecy that visibly failed is an odd creation. Mark 13:32's confession of ignorance has a strong claim to authenticity, and its pairing with 13:30 suggests that both are old. Even without explicit deadlines, imminence pervades the tradition. This route also concedes that the Gospels' Jesus made the prediction, which undercuts the claim on a Gospel-portrait reading.",
+      "consensus": "No consensus on the authenticity of individual sayings. Many hold Jesus expected imminence regardless.",
+      "evidence": ["Meier, A Marginal Jew vol. 2", "Criterion of embarrassment debates", "Composite nature of Mark 13"],
+      "verdict": "Plausible for specific sayings, but it does not rescue the broader claim",
+      "credence": 35
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Is the claim about the historical Jesus or about Jesus as portrayed in the canonical Gospels?",
+      "type": "definition",
+      "if_yes": "If it is about the historical Jesus: authenticity debates matter. The claim survives somewhat better (around 25%), because the deadline sayings may be inauthentic, though imminence still likely.",
+      "if_no": "If it is about the Gospel portrait: the texts plainly contain the sayings. The claim depends entirely on preterist or reinterpretive readings (around 20-30%).",
+      "your_view": "Either way the claim is more likely false. I score a combined reading: did Jesus, as best reconstructed or reported, predict the end within his hearers' lifetime?"
+    },
+    {
+      "crux": "Does 'all these things' in Mark 13:30 / Matt 24:34 include the cosmic coming of the Son of Man (Mark 13:24-27)?",
+      "type": "evidence",
+      "if_yes": "A time-bound prediction of the end that failed literally; the claim is likely false.",
+      "if_no": "If it covers only the temple's fall and its signs, 13:30 was fulfilled in 70 CE, and the claim gains significantly.",
+      "your_view": "The immediate context, especially Matthew's 'immediately after' and the 'end of the age' framing, favors inclusion."
+    },
+    {
+      "crux": "Does Son of Man 'coming on clouds' denote a literal return to earth or Daniel-7 vindication and enthronement?",
+      "type": "evidence",
+      "if_yes": "If it means a literal return, the prophecy failed on its plain timing.",
+      "if_no": "If it means vindication, Wright-style fulfillment in resurrection, ascension and 70 CE becomes viable.",
+      "your_view": "Daniel 7 supports the vindication reading, but Matthew's gathering of the elect, judgment of all, and Paul's understanding favor a cosmic return in the tradition's own understanding."
+    },
+    {
+      "crux": "Should a doctrine of scriptural inerrancy or Jesus' divine omniscience be a prior constraint on interpretation?",
+      "type": "prior",
+      "if_yes": "Strained harmonizations become obligatory, and the claim is held at high credence on theological grounds.",
+      "if_no": "Texts are read by ordinary historical method, and the claim falls to about 15-25%.",
+      "your_view": "A historical question should be answered without a doctrinal prior. Note that even Mark 13:32 has Jesus disclaim knowledge of the day, which some confessional scholars use to accept a limited, mistaken human expectation."
+    }
+  ],
+  "strongest_for": [
+    "Mark 13 opens with the temple question, and the temple did fall within about 40 years, a striking fit for 'this generation.'",
+    "Daniel 7:13's 'coming with the clouds' describes approach to God for enthronement, supporting a vindication rather than return-to-earth reading (Wright, France).",
+    "Mark 13:32 ('no one knows the day or hour') suggests Jesus refused to set a date for the final end.",
+    "Mark 9:1 and parallels are placed directly before the Transfiguration, suggesting the evangelists saw them fulfilled there.",
+    "The most explicit deadline sayings may be later church products (Meier), clearing the historical Jesus of an explicit date."
+  ],
+  "strongest_against": [
+    "Multiple independent sayings set the end within the hearers' lifetime (Mark 9:1, 13:30, 14:62; Matt 10:23; Matt 16:28), and Matthew frames it as 'the end of the age' and 'immediately after' the tribulation.",
+    "Paul, writing about two decades after Jesus, expected to be alive at the Lord's return (1 Thess 4:15-17). That is the earliest evidence of how Jesus' movement understood his teaching.",
+    "Later texts show damage control over delay (John 21:23; 2 Pet 3:3-9; Luke's editing), which is hard to explain if no time-bound expectation existed.",
+    "Jesus' baptism by John and the apocalyptic early church strongly suggest an apocalyptic, imminentist Jesus. This is the majority critical view since Schweitzer.",
+    "Embarrassment: Christians would hardly invent sayings that visibly failed; C.S. Lewis called Mark 13:30 'the most embarrassing verse in the Bible.'"
+  ],
+  "weak_arguments": {
+    "for": [
+      "'Generation' (genea) means 'race' or 'the Jewish people': Synoptic usage of 'this generation' consistently means Jesus' contemporaries, and few scholars, even conservative ones, defend this.",
+      "'This generation' means whichever future generation sees the signs: this is grammatically awkward and ignores the consistent second-person address to the disciples.",
+      "'Jesus is God so he cannot err': this is a theological prior, not historical evidence, and it sits in tension with Mark 13:32's admission of ignorance.",
+      "Mark 9:1 fulfilled at the Transfiguration days later: it is odd to stress that 'some' would not die before an event six days away."
+    ],
+    "against": [
+      "'Jesus predicted the world would literally end and it didn't, so Christianity is refuted': this overreaches. A failed timing expectation bears on certain doctrines, not on all claims, and many theologians integrate it.",
+      "Treating the Book of Revelation or modern end-times speculation as Jesus' own predictions: these are separate texts and traditions.",
+      "Assuming every apocalyptic saying is authentic because it is in the Gospels: authenticity must be argued, and some are plausibly secondary.",
+      "Claiming scholarly unanimity: there is a real, if minority, non-apocalyptic and preterist literature."
+    ]
+  },
+  "would_change": [
+    "Strong evidence that first-century Christians widely regarded 70 CE as the fulfillment of the Son of Man's 'coming' would raise my credence.",
+    "A convincing linguistic case that Matthew's 'end of the age' and 'immediately after' could naturally denote the Jewish war, not the final consummation, would raise it.",
+    "Persuasive arguments that imminence enters the tradition only after Easter, with Jesus' own sayings non-eschatological, would substantially raise it on the historical-Jesus reading.",
+    "Early manuscript or patristic evidence that Mark 13:30 or Mark 9:1 circulated without the time-bound element would raise it.",
+    "Conversely, new independent early sources attributing a dated end prediction to Jesus would lower my credence further."
+  ],
+  "sources": [
+    {"citation": "Albert Schweitzer, The Quest of the Historical Jesus, 1906 (Eng. trans. 1910)", "kind": "scholarship"},
+    {"citation": "E. P. Sanders, Jesus and Judaism, 1985", "kind": "scholarship"},
+    {"citation": "Dale C. Allison Jr., Jesus of Nazareth: Millenarian Prophet, 1998", "kind": "scholarship"},
+    {"citation": "Bart D. Ehrman, Jesus: Apocalyptic Prophet of the New Millennium, 1999", "kind": "scholarship"},
+    {"citation": "John P. Meier, A Marginal Jew: Rethinking the Historical Jesus, Vol. 2: Mentor, Message, and Miracles, 1994", "kind": "scholarship"},
+    {"citation": "N. T. Wright, Jesus and the Victory of God, 1996", "kind": "scholarship"},
+    {"citation": "R. T. France, The Gospel of Mark (NIGTC), 2002", "kind": "scholarship"},
+    {"citation": "Robert W. Funk, Roy W. Hoover and the Jesus Seminar, The Five Gospels, 1993", "kind": "scholarship"},
+    {"citation": "C. S. Lewis, 'The World's Last Night,' in The World's Last Night and Other Essays, 1960", "kind": "other"},
+    {"citation": "Mark 9:1; 13:24-32; 14:62; Matthew 10:23; 16:27-28; 24:3, 29-34; Luke 21:24, 32", "kind": "scripture"},
+    {"citation": "1 Thessalonians 4:15-17; 1 Corinthians 7:29-31; John 21:22-23; 2 Peter 3:3-9; Daniel 7:13-14", "kind": "scripture"}
+  ]
+}
+--- stderr ---

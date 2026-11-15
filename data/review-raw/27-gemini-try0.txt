@@ -1,0 +1,175 @@
+{
+  "kind": "mixed",
+  "verdict": "Demonstrates subjective sincerity, but provides weak evidence for an actual physical resurrection",
+  "credence": 20,
+  "confidence": "medium",
+  "bottom_line": "The disciples' willingness to suffer and die provides strong evidence that they sincerely believed Jesus was alive and had appeared to them, effectively refuting the hypothesis that Christianity originated as a deliberate hoax. However, profound sincerity does not establish the objective reality of an unprecedented biological miracle, as human history demonstrates that people across various faiths frequently endure suffering for deeply felt subjective, visionary, or mistaken convictions. Furthermore, critical historical analysis confirms martyrdom for only a few early leaders—most reliably Peter, Paul, and James—while the violent deaths of the other apostles rest on late, unreliable legends. Crucially, no historical evidence indicates that any disciple was ever offered the opportunity to save their life by recanting a specific claim of bodily resurrection. Consequently, while apostolic suffering proves unshakeable personal conviction, it constitutes weak evidence that a physical resurrection actually occurred.",
+  "sub_claims": [
+    {
+      "claim": "Several key leaders of the earliest Christian movement were martyred for their faith.",
+      "kind": "empirical",
+      "case_for": "Multiple independent 1st-century and early 2nd-century sources (Paul's letters, 1 Clement, Josephus' Antiquities, Tacitus' Annals) confirm that early Christians faced persecution and that prominent figures—most reliably Peter, Paul, James the brother of Jesus, and James the son of Zebedee—were executed by Roman or Jewish authorities.",
+      "case_against": "Outside of Peter, Paul, and the two Jameses, the martyrdom accounts of the remaining original apostles stem from late, 2nd- to 5th-century apocryphal acts that historians widely recognize as pious fiction and legend.",
+      "consensus": "Strong consensus among both secular and confessional historians (e.g., Sean McDowell) that Peter, Paul, and both Jameses were martyred, but the martyrdoms of most other disciples lack reliable historical evidence.",
+      "evidence": [
+        "Josephus, Antiquities 20.9.1",
+        "Tacitus, Annals 15.44",
+        "1 Clement 5:2-7",
+        "Acts 12:1-2",
+        "Sean McDowell, The Fate of the Apostles (2015)"
+      ],
+      "verdict": "Historically well-attested for key leaders, but legendary for the majority of the Twelve.",
+      "credence": 85
+    },
+    {
+      "claim": "The disciples were given opportunities to save their lives by specifically recanting their belief in Jesus' physical resurrection.",
+      "kind": "textual",
+      "case_for": "Later Roman legal practice (such as Pliny the Younger's correspondence with Trajan in 112 CE) demonstrates that accused Christians could obtain release by cursing Christ, offering incense to pagan gods, and recanting their profession.",
+      "case_against": "First-century Roman and Judean executions were punitive actions against perceived civil disruption, sedition, or temple law violations, rather than doctrinal inquisitions testing specific beliefs about Jesus' physical body; no 1st-century record shows an apostle being offered release in exchange for denying the resurrection.",
+      "consensus": "Broad historical consensus that 1st-century persecutions were sociopolitical and punitive, not doctrinal hearings offering recantation for specific sensory claims.",
+      "evidence": [
+        "Tacitus, Annals 15.44 (Christians executed as scapegoats for the Great Fire of Rome)",
+        "Josephus, Antiquities 20.9.1 (execution of James as a legal violation)",
+        "Pliny the Younger, Letters 10.96 (112 CE, testing civic loyalty rather than 1st-century apostolic claims)"
+      ],
+      "verdict": "Historically unsupported; anachronistically projects later Roman inquisitorial procedures onto 1st-century events.",
+      "credence": 15
+    },
+    {
+      "claim": "Willingness to endure persecution and death rules out deliberate fraud and establishes the disciples' sincere belief.",
+      "kind": "philosophical",
+      "case_for": "Human beings do not endure persistent social ostracism, physical hardship, imprisonment, and potential execution for a narrative they consciously fabricated; their willingness to suffer establishes that they genuinely believed their message.",
+      "case_against": "While willingness to suffer strongly counters the deliberate hoax hypothesis, cognitive dissonance, group commitment, and extreme sunk-cost dynamics can occasionally lead people to defend exaggerations or inherited commitments under external pressure.",
+      "consensus": "Near-universal consensus among both critical and confessional scholars that the original disciples genuinely and sincerely believed they had encountered the risen Jesus.",
+      "evidence": [
+        "1 Corinthians 15:3-8",
+        "2 Corinthians 11:23-28",
+        "E.P. Sanders, The Historical Figure of Jesus (affirming apostolic sincerity as historical bedrock)",
+        "Bart D. Ehrman, How Jesus Became God"
+      ],
+      "verdict": "Highly robust; effectively refutes the hypothesis of a conscious conspiracy or deliberate hoax.",
+      "credence": 90
+    },
+    {
+      "claim": "The disciples' sincere belief provides strong evidence that a biological, bodily resurrection occurred.",
+      "kind": "philosophical",
+      "case_for": "The disciples claimed prolonged, multi-sensory physical interaction with Jesus (eating, speaking, touching), which cannot easily be accounted for by momentary bereavement hallucinations or subjective visionary trances.",
+      "case_against": "Subjective visionary experiences, grief-induced bereavement apparitions, altered states of consciousness, and group emotional contagion frequently generate unshakeable convictions about supernatural events; sincerity cannot overcome the immense prior improbability of biological resurrection compared to documented psychological phenomena.",
+      "consensus": "Deeply divided along worldview lines: confessional scholars argue it forms strong cumulative evidence, while secular historians and philosophers hold that sincerity cannot establish a supernatural biological miracle over natural psychological alternatives.",
+      "evidence": [
+        "1 Corinthians 15:5-8 (where Paul equates the appearances to the apostles with his own visionary experience)",
+        "Psychological studies on bereavement hallucinations (experienced by 30-50% of grieving individuals)",
+        "David Hume, An Enquiry Concerning Human Understanding (Of Miracles)"
+      ],
+      "verdict": "Epistemologically invalid; sincerity of belief does not establish objective factual reality.",
+      "credence": 20
+    },
+    {
+      "claim": "The disciples' willingness to suffer is evidentially unique compared to martyrs of other religious movements.",
+      "kind": "empirical",
+      "case_for": "Christian apologists emphasize that while martyrs of other faiths die for beliefs received secondhand through tradition, the apostles were in a unique position to know firsthand whether their sensory encounters were genuine or fabricated.",
+      "case_against": "History records multiple instances of religious founders and direct witnesses who personally claimed firsthand supernatural encounters and willingly suffered persecution or death, including early Bábí leaders in 1850s Persia and early Mormon witnesses associated with Joseph Smith.",
+      "consensus": "Consensus among comparative religion scholars and historians that firsthand witnesses in diverse movements have demonstrated willingness to suffer and die for their visionary and supernatural claims.",
+      "evidence": [
+        "Martyrdom of the Báb and early Bábí disciples (Persia, 1848-1852)",
+        "Deaths of Joseph and Hyrum Smith and persecution of the Book of Mormon witnesses (1830s-1840s)",
+        "Sociological studies of high-commitment apocalyptic groups"
+      ],
+      "verdict": "Historically inaccurate; firsthand willingness to suffer for supernatural claims is not unique to Christianity.",
+      "credence": 25
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Whether willingness to suffer and die epistemically indicates the factual truth of an event or merely the subjective sincerity of the witness.",
+      "type": "definition",
+      "if_yes": "If witness sincerity reliably establishes the physical occurrence of extraordinary claims, then apostolic suffering is strong evidence for the resurrection.",
+      "if_no": "If sincerity only establishes that the witnesses were not lying, leaving psychological and visionary explanations open, then suffering provides weak evidence for a miraculous event.",
+      "your_view": "Willingness to die demonstrates sincerity, not accuracy; history and psychology show that sincere witnesses frequently misinterpret subjective internal experiences as external physical realities."
+    },
+    {
+      "crux": "What prior probability should be assigned to an unprecedented bodily resurrection compared to naturalistic psychological and sociological phenomena?",
+      "type": "prior",
+      "if_yes": "If one already holds a theistic worldview where divine intervention is plausible or expected, the disciples' sincere testimony can push the resurrection over the threshold of credibility.",
+      "if_no": "Under methodological naturalism or standard historical criteria, documented human phenomena like bereavement visions and cognitive dissonance are overwhelmingly more probable than a physical resurrection.",
+      "your_view": "Historical analysis must prioritize universally observed natural phenomena (grief hallucinations, religious visionary experiences, group dynamics) over singular suspensions of biological natural laws."
+    },
+    {
+      "crux": "Does the historical record demonstrate that the original apostles were executed specifically for refusing to recant their testimony of physical post-mortem encounters with Jesus?",
+      "type": "evidence",
+      "if_yes": "If reliable 1st-century judicial records proved that apostles were systematically offered life in exchange for retracting claims of physical contact with the risen Jesus, the evidential case would be significantly strengthened.",
+      "if_no": "Since early records document only a few executions driven by general sociopolitical hostility, and late apocryphal legends account for the rest, the claim lacks the evidential foundation claimed by popular apologetics.",
+      "your_view": "The historical evidence shows that only four early Christian leaders have well-documented martyrdoms, none of which are recorded as involving theological recantation offers regarding the resurrection."
+    }
+  ],
+  "strongest_for": [
+    "Rules out conscious fraud: The severe hardships, social stigmatization, imprisonment, and mortal peril endured by early Christian leaders decisively refute the hypothesis that the resurrection was an intentional hoax or conspiracy.",
+    "Firsthand witness position: Unlike modern martyrs who die for doctrines learned secondhand, the original disciples claimed direct, firsthand perceptual encounters with Jesus, anchoring their conviction in their own lived experiences.",
+    "Dramatic psychological transformation: The abrupt shift of the disciples from demoralized, fearful followers after the crucifixion into fearless public heralds facing hostility requires a powerful, experiential catalyst.",
+    "Early and independent attestation: Independent 1st-century sources (genuine Pauline epistles, Acts, Josephus, Clement of Rome) confirm that the earliest leadership endured genuine persecution and, in several prominent cases, violent execution."
+  ],
+  "strongest_against": [
+    "Sincerity does not equal factual truth: Willingness to die proves what individuals honestly believed, not what actually occurred; grief hallucinations, bereavement visions, and altered states of consciousness routinely produce unshakeable certainty without physical reality.",
+    "Lack of historical evidence for most martyrdoms: Rigorous historical investigation demonstrates that reliable evidence of martyrdom exists only for Peter, Paul, James the brother of Jesus, and James son of Zebedee; the violent deaths of the other apostles derive entirely from late, unreliable apocrypha.",
+    "Absence of recantation opportunities: First-century executions were punitive measures against alleged treason, public disorder, or religious subversion, not formal inquisitions offering release if the accused retracted claims of bodily resurrection.",
+    "Non-uniqueness of firsthand sacrifice: Leaders and initial followers in other religious and apocalyptic movements (e.g., early Bábís, early Mormons) have endured severe persecution, torture, and death based on direct claims of personal supernatural encounters.",
+    "Paul's visionary equivalence: The earliest written New Testament witness, Paul, lists his own heavenly, visionary encounter with the risen Jesus alongside the appearances to Peter, the Twelve, and the 500 without distinction (1 Corinthians 15:5-8), pointing toward visionary experiences rather than physical resuscitations."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'No one dies for a lie': Fails because it presents a false dilemma between conscious deception and physical reality, completely ignoring sincere delusion, visionary experiences, and mistaken interpretations.",
+      "'All twelve apostles died agonizing deaths refusing to recant': Relies uncritically on 2nd- to 5th-century Christian romantic legends and apocryphal literature that modern historians reject as unhistorical.",
+      "'The disciples were offered their lives if they simply denied the resurrection': Anachronistically projects later Roman inquisitorial procedures (such as Pliny the Younger's 2nd-century trials) back onto 1st-century ad-hoc political executions.",
+      "'Collective hallucinations are clinically impossible': While simultaneous identical optical illusions are rare, shared religious ecstasy, charismatic emotional contagion, and post-event narrative alignment in tight-knit groups are well-documented psychological phenomena."
+    ],
+    "against": [
+      "'The disciples were cynical con men seeking wealth and power': Overwhelmingly contradicted by historical evidence; early Christian leaders lived in poverty, suffered severe social marginalization, and gained neither worldly authority nor material wealth.",
+      "'Martyrdom proves nothing because suicide bombers die for Islam too': Misses the critical apologetic distinction between dying for an inherited belief accepted on authority versus dying for claims of direct firsthand sensory perception.",
+      "'Jesus never existed and the apostles were entirely fictional': Universally rejected by mainstream academic historians; the historical existence of Jesus, his crucifixion under Pontius Pilate, and his primary disciples are secure historical facts.",
+      "'The Council of Nicaea and Constantine invented the martyrdoms and the resurrection': Demonstrably false; authentic mid-1st-century letters of Paul, early apostolic fathers, and 1st-century Roman historians document these traditions centuries before Nicaea."
+    ]
+  },
+  "would_change": [
+    "Discovery of authentic 1st-century Roman or Jewish judicial records showing that early apostles were formally tried and offered clemency specifically on the condition that they recant physical interactions with the risen Jesus.",
+    "Contemporary historical evidence confirming that all or most of the Twelve original disciples were executed specifically for their proclamation of the resurrection rather than for general civil disturbances.",
+    "Robust psychological or neuroscientific proof demonstrating that shared, multi-sensory visionary experiences within intimate, grief-stricken religious groups cannot occur under any circumstances.",
+    "Discovery of indisputable early 1st-century textual evidence demonstrating that the earliest apostolic proclamation was fundamentally based on physical, tangible contact (e.g., eating and touching) rather than visionary, heavenly exaltation."
+  ],
+  "sources": [
+    {
+      "citation": "Sean McDowell, The Fate of the Apostles: Examining the Martyrdom Accounts of the Closest Followers of Jesus, 2015",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Bart D. Ehrman, How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee, 2014",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "E.P. Sanders, The Historical Figure of Jesus, 1993",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "N.T. Wright, The Resurrection of the Son of God, 2003",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Flavius Josephus, Antiquities of the Jews, c. 93-94 CE",
+      "kind": "primary"
+    },
+    {
+      "citation": "Tacitus, Annals, c. 116 CE",
+      "kind": "primary"
+    },
+    {
+      "citation": "Clement of Rome, First Epistle of Clement to the Corinthians (1 Clement), c. 96 CE",
+      "kind": "primary"
+    },
+    {
+      "citation": "Paul the Apostle, First Epistle to the Corinthians, c. 53-55 CE",
+      "kind": "scripture"
+    }
+  ]
+}
+
+
+--- stderr ---

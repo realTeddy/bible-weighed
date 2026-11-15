@@ -1,0 +1,807 @@
+{
+ "topic": {
+  "id": 15,
+  "category": "Morality",
+  "short": "Women",
+  "resolution": "The Bible's treatment of women is just",
+  "question": "Does the Bible treat women justly?",
+  "claim": "The Bible's treatment of women is just and consistent with a perfectly good God."
+ },
+ "analyses": [
+  {
+   "kind": "mixed",
+   "verdict": "Probably not, under a substantive standard of equal justice.",
+   "credence": 8,
+   "confidence": "medium",
+   "bottom_line": "I score the claim as saying that biblical instructions attributed to God, properly understood, treat women justly—not merely that the Bible contains affirmations of women or that its difficulties can conceivably be reconciled with God’s goodness. The Bible contains powerful affirmations of women’s dignity and examples of women exercising authority. But some laws permit captive marriage without requiring the woman’s consent and apply unequal standards to women, while some New Testament passages restrict women’s authority. These are serious difficulties for equal justice, though religious scholars offer substantial arguments from historical context, divine accommodation and disputed interpretation. A claim of mere logical compatibility with a perfectly good God would receive a higher credence; a claim that every biblical rule is an ideal for all times would receive a lower one.",
+   "sub_claims": [
+    {
+     "claim": "Biblical texts affirm women’s dignity and depict women as capable of religious leadership.",
+     "kind": "textual",
+     "case_for": "Genesis depicts both male and female as made in God’s image; women also teach, lead and bear witness in significant narratives.",
+     "case_against": "These affirmations coexist with restrictions and unequal legal treatment, and do not by themselves establish equal standing in every biblical text or community.",
+     "consensus": "Scholars, including confessional scholars and feminist critics, generally acknowledge both significant female figures and constraints on women, though they dispute their theological implications.",
+     "evidence": [
+      "Genesis 1:27 describes male and female as created in God’s image.",
+      "Deborah judges Israel in Judges 4–5.",
+      "Romans 16:1–2 commends Phoebe as a deacon or servant of the church, depending on translation.",
+      "Galatians 3:28 says that in Christ there is neither male nor female."
+     ],
+     "verdict": "Strongly supported, but not decisive for the overall claim.",
+     "credence": 98
+    },
+    {
+     "claim": "Some biblical laws prescribe or permit treatment of women that falls short of equal justice.",
+     "kind": "textual",
+     "case_for": "The laws regulate marriage to female captives without requiring their consent and apply sex-specific procedures and presumptions that expose women to serious harm.",
+     "case_against": "The laws can be read as constraints on practices already embedded in ancient societies, rather than endorsements of ideal conduct. Their interpretation and comparison with other ancient laws are contested.",
+     "consensus": "Many historical and feminist scholars identify patriarchal assumptions in these laws. Confessional scholars differ: some agree about the inequality while defending divine accommodation, and others argue that the laws are just when understood in their context.",
+     "evidence": [
+      "Deuteronomy 21:10–14 permits an Israelite man to take a female captive as a wife after a mourning period; it does not state that her consent is required.",
+      "The same passage forbids selling her if the man later rejects her, a protection that does not resolve the consent problem.",
+      "Deuteronomy 22:23–27 distinguishes a betrothed woman assaulted in the countryside from one who does not cry out in a city; the latter is liable to death.",
+      "Numbers 5:11–31 prescribes a jealousy ordeal for a wife suspected of adultery, with no corresponding ordeal for a husband."
+     ],
+     "verdict": "Highly likely under a standard that gives serious weight to consent and equal legal protection.",
+     "credence": 96
+    },
+    {
+     "claim": "The New Testament consistently grants women the same scope of authority as men.",
+     "kind": "textual",
+     "case_for": "Women pray and prophesy, serve churches and are prominent witnesses; restrictions can be read as addressing particular local problems rather than establishing universal rules.",
+     "case_against": "Some passages restrict women’s teaching or require wives’ submission, and their stated reasoning is not obviously limited to local circumstances.",
+     "consensus": "No consensus. Christian egalitarian and complementarian scholars disagree over translation, historical setting and whether restrictions are universal. Scholars also dispute the authorship of some relevant letters.",
+     "evidence": [
+      "1 Corinthians 11:5 refers to women praying and prophesying.",
+      "1 Timothy 2:11–14 restricts a woman’s teaching or authority over a man and appeals to Adam and Eve.",
+      "Ephesians 5:22–25 instructs wives to submit to husbands and husbands to love their wives.",
+      "Romans 16:7 identifies Junia in connection with the apostles; the precise sense is debated."
+     ],
+     "verdict": "Probably false on the most straightforward reading, though contextual alternatives deserve serious consideration.",
+     "credence": 15
+    },
+    {
+     "claim": "A perfectly good God could justly work through laws and institutions that fall short of ideal equality.",
+     "kind": "philosophical",
+     "case_for": "A good God might regulate entrenched practices to limit harm while gradually moving people toward fuller justice; permitting a practice under nonideal conditions need not mean approving it as an ideal.",
+     "case_against": "Attributing specific unequal permissions and penalties to God is harder to justify than God’s merely tolerating human wrongdoing. The accommodation account needs a persuasive explanation of why less harmful commands were unavailable or inappropriate.",
+     "consensus": "No consensus. Confessional scholars themselves differ over accommodation, biblical authority and gender equality; philosophers disagree about what perfect goodness permits under nonideal conditions.",
+     "evidence": [
+      "Biblical laws sometimes constrain practices without expressly abolishing them.",
+      "Christian interpreters disagree about continuity between ancient laws and later ethical obligations.",
+      "The claim depends partly on moral judgments and theological assumptions, not archaeological evidence alone."
+     ],
+     "verdict": "Possible, but not by itself a sufficient explanation of the particular laws.",
+     "credence": 55
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does justice require meaningful consent and equal legal protection regardless of sex?",
+     "type": "value",
+     "if_yes": "The captive-marriage and other unequal provisions count strongly against the claim.",
+     "if_no": "A hierarchical or historically relative account of justice can make those provisions easier to defend.",
+     "your_view": "Yes; consent and equal protection are central, though their application in nonideal circumstances requires judgment."
+    },
+    {
+     "crux": "Can divine accommodation adequately justify these particular provisions?",
+     "type": "prior",
+     "if_yes": "The passages can be understood as just harm reduction rather than divine approval of unequal treatment.",
+     "if_no": "God-attributed permissions and penalties become strong evidence against the claim.",
+     "your_view": "Accommodation is a serious possibility, but its force depends on a convincing explanation of why better protections were not commanded."
+    },
+    {
+     "crux": "Should restrictive passages be read as universally normative rather than locally addressed or culturally conditioned?",
+     "type": "evidence",
+     "if_yes": "The case for enduring sex-based restrictions is stronger, making the justice claim harder to defend under equal-authority standards.",
+     "if_no": "The New Testament can more plausibly support equal authority while addressing particular historical problems.",
+     "your_view": "Some contextual readings are plausible, but they do not clearly dissolve every restriction."
+    },
+    {
+     "crux": "Does ‘consistent with a perfectly good God’ mean logically possible or supported as the best explanation?",
+     "type": "definition",
+     "if_yes": "If mere logical possibility is sufficient, the claim is much easier to sustain.",
+     "if_no": "If the passages must be substantively just and plausibly explained by perfect goodness, the difficulties carry much more weight.",
+     "your_view": "The substantive reading is more informative and is the one scored here."
+    }
+   ],
+   "strongest_for": [
+    "Creation in God’s image and examples of women leading and bearing witness provide substantial biblical resources for equal dignity.",
+    "Some laws can plausibly be understood as limiting harm within entrenched institutions rather than presenting those institutions as ideals.",
+    "Contextual and translation-based readings of restrictive passages have serious scholarly defenders, including committed Christians.",
+    "A perfect God’s permission of a nonideal arrangement is not automatically equivalent to approval of it."
+   ],
+   "strongest_against": [
+    "Captive-marriage law permits a profound intrusion on a woman’s freedom without requiring her consent.",
+    "Sex-specific procedures and penalties impose unequal risks, including potentially fatal consequences based on assumptions about resistance.",
+    "Several restrictions are presented as instructions, not merely as descriptions of human wrongdoing.",
+    "Affirmations of dignity do not erase concrete legal and institutional inequalities."
+   ],
+   "weak_arguments": {
+    "for": [
+     "‘Women are made in God’s image, so every law affecting them must be just’: the conclusion does not follow.",
+     "‘The laws were normal for their time, so they were just’: historical prevalence does not establish moral rightness.",
+     "‘Husbands are told to love their wives, so unequal authority cannot be unjust’: benevolent duties do not settle the justice of hierarchy."
+    ],
+    "against": [
+     "‘The Bible records abuse of women, so it endorses every abuse it records’: narration is not necessarily approval.",
+     "‘Every biblical author shared one identical view of women’: the texts span genres, periods and perspectives.",
+     "‘One disturbing passage proves God cannot possibly be good’: a logical impossibility requires more argument than a moral difficulty."
+    ]
+   },
+   "would_change": [
+    "Strong linguistic and historical evidence that the captive-marriage provision required the woman’s meaningful consent.",
+    "A persuasive account of why a perfectly good God could not have commanded materially better protections in the relevant circumstances.",
+    "Stronger contextual evidence that apparently general New Testament restrictions were narrowly targeted and not intended as enduring norms.",
+    "A compelling moral argument that the relevant inequalities were justified without discounting women’s autonomy and welfare."
+   ],
+   "sources": [
+    {
+     "citation": "The Bible: Genesis 1; Judges 4–5; Deuteronomy 21–22; Numbers 5; Romans 16; 1 Corinthians 11; Galatians 3; Ephesians 5; 1 Timothy 2",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Phyllis Trible, Texts of Terror: Literary-Feminist Readings of Biblical Narratives, 1984",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Tikva Frymer-Kensky, Reading the Women of the Bible, 2002",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Carol Meyers, Rediscovering Eve: Ancient Israelite Women in Context, 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "William J. Webb, Slaves, Women & Homosexuals: Exploring the Hermeneutics of Cultural Analysis, 2001",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John Piper and Wayne Grudem, eds., Recovering Biblical Manhood and Womanhood, 1991",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "gpt",
+   "label": "GPT-6.1",
+   "model": "gpt-6.1-terra",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Very unlikely under standard definitions of justice; defensible only under theological frameworks of divine command or radical accommodation.",
+   "credence": 15,
+   "confidence": "high",
+   "bottom_line": "Evaluated against standard ethical definitions of justice—such as reciprocal fairness, equal bodily autonomy, and moral agency independent of sex—the Bible as a holistic canon does not treat women justly. While the text contains significant counter-cultural highlights, such as spiritual equality in the image of God, Jesus's inclusion of female disciples, and prominent female leaders, it simultaneously codifies severe legal disparities, patrilineal ownership, wartime sexual exploitation of virgins, and institutional female subordination. Confessional defenses rely either on divine accommodation (God incrementally improving flawed ancient cultures) or complementarian theology (defining justice as equal worth within divinely ordered hierarchy). However, viewed historically and ethically without confessional harmonization, the biblical corpus reflects the patriarchal constraints of its ancient Near Eastern and Greco-Roman contexts rather than universal moral justice.",
+   "sub_claims": [
+    {
+     "claim": "Ancient Israelite law (Torah) treats women as legal and sexual subordinates rather than full legal persons.",
+     "kind": "textual",
+     "case_for": "Torah legislation frequently treats women as dependents or property of fathers and husbands: female vows can be annulled by male heads of household (Numbers 30); suspected adulteresses are subjected to an asymmetric public ordeal with no male equivalent (Numbers 5); unbetrothed rape victims are forced to marry their violators for a bride price paid to the father (Deuteronomy 22:28-29); and virgin female captives are distributed as spoils of war (Numbers 31:18, Deuteronomy 21:10-14).",
+     "case_against": "Biblical law includes protections uncommon in some neighboring ancient cultures, such as capital punishment for adulterous men as well as women, rights of inheritance for daughters when no sons exist (Numbers 27), legal prohibitions against slandering a bride's virginity, and requirements to provide food, clothing, and marital rights even to female slave-wives (Exodus 21:10).",
+     "consensus": "Overwhelming consensus across secular, historical-critical, and mainstream academic biblical scholars that ancient Israelite law was patrilineal, patriarchal, and treated women as subordinate legal subjects; conservative confessional scholars acknowledge the asymmetry but frame it as protective civil law tailored to ancient conditions.",
+     "evidence": [
+      "Exodus 20:17 lists a neighbor's wife alongside his house, male servant, female servant, ox, and donkey.",
+      "Deuteronomy 22:28-29 obligates a rapist to pay 50 shekels of silver to the father and forbids divorce.",
+      "Numbers 5:11-31 prescribes the Sotah ordeal solely for suspicious husbands against wives.",
+      "Numbers 31:18 commands the retention of virgin girls for the Israelite soldiers after the Midianite slaughter."
+     ],
+     "verdict": "Well-established textually and historically.",
+     "credence": 94
+    },
+    {
+     "claim": "The New Testament and prophetic traditions establish a trajectory of spiritual and social liberation for women.",
+     "kind": "textual",
+     "case_for": "Jesus consistently elevated women beyond contemporary Greco-Roman and Second Temple Jewish norms, welcoming female financial patrons (Luke 8:1-3), defending Mary of Bethany's right to theological study (Luke 10), engaging the Samaritan woman (John 4), and appointing women as the primary witnesses to his resurrection. In the early church, Paul names female leaders such as Phoebe (deacon), Junia (outstanding among the apostles), and Prisca, culminating in the radical egalitarian charter of Galatians 3:28.",
+     "case_against": "The New Testament repeatedly reasserts patriarchal hierarchy and female subjugation, commanding wives to submit to their husbands as to the Lord (Ephesians 5:22-24, 1 Peter 3:1-6), mandating silence in churches (1 Corinthians 14:34-35), and explicitly forbidding women from teaching or holding authority over men on the theological basis of creation order and Eve's deception (1 Timothy 2:11-15).",
+     "consensus": "Broad agreement that the New Testament contains contrasting impulses; scholars are sharply divided between egalitarian interpretations that view liberating texts as normative trajectories and complementarian or critical views that see patriarchal hierarchy as either doctrinally intended or socioculturally dominant.",
+     "evidence": [
+      "Galatians 3:28 asserts 'there is no longer male and female; for all of you are one in Christ Jesus.'",
+      "Romans 16:1-7 mentions Phoebe as a deacon/benefactor and Junia as prominent among the apostles.",
+      "1 Timothy 2:12 commands 'I do not permit a woman to teach or to assume authority over a man; she must be quiet.'",
+      "1 Corinthians 14:34-35 mandates that women be silent in churches and ask their husbands at home."
+     ],
+     "verdict": "True regarding the presence of counter-cultural trajectories, but false that the New Testament presents a unified, realized standard of gender justice.",
+     "credence": 60
+    },
+    {
+     "claim": "The ethical problem of biblical patriarchy is successfully resolved by the doctrine of divine accommodation.",
+     "kind": "philosophical",
+     "case_for": "A perfectly good God communicates with humans within specific historical and cultural matrices. Just as Jesus noted that divorce laws were granted due to human 'hardness of heart' (Matthew 19:8), God accommodated bronze- and iron-age patriarchal structures to preserve the community while planting redemptive seeds that would later blossom into modern egalitarianism.",
+     "case_against": "God routinely banned ubiquitous ancient cultural practices deemed abominable, such as idolatry, specific dietary items, and certain sexual practices, without requiring gradual accommodation. Allowing the sexual capture of war prisoners, child-bride sales, and physical subordination undermines the claim of an omnipotent and morally perfect lawgiver who could simply have commanded justice.",
+     "consensus": "Deeply divided along confessional lines. Secular, philosophical, and feminist ethicists reject accommodation as an ad-hoc rationalization of ancient moral shortcomings; progressive and moderate Christian theologians rely heavily on it; traditionalist confessional scholars reject that the laws themselves were defective.",
+     "evidence": [
+      "Matthew 19:8 articulates divine concession to human moral limitation regarding Mosaic divorce law.",
+      "Absolute divine prohibitions in Leviticus 18 and Deuteronomy 12 demonstrate God could and did outlaw established cultural norms immediately when desired.",
+      "Historical development shows Christian societies took millennia to reject institutional biblical gender hierarchies."
+     ],
+     "verdict": "Philosophically weak; functions as an ex-post defense rather than a compelling ethical account of omnibenevolence.",
+     "credence": 22
+    },
+    {
+     "claim": "Complementarian gender hierarchy (equal ontological worth with asymmetrical authority) satisfies the philosophical requirements of justice.",
+     "kind": "philosophical",
+     "case_for": "Justice does not require absolute interchangeability or identical social roles; it requires treating equal beings with appropriate honor according to their created design. Complementarianism asserts that men and women have identical spiritual standing and worth before God, but flourishing and justice are realized through complementary, self-sacrificial male servant-leadership and voluntary female submission.",
+     "case_against": "Restricting moral agency, institutional authority, and personal autonomy based purely on an unchosen biological characteristic (sex) violates the foundational principles of distributive and procedural justice. In practice, establishing asymmetrical power without institutional accountability has systematically facilitated domestic subjugation, abuse, and systemic inequality.",
+     "consensus": "Heavily polarized. Complementarian evangelical scholars defend this as divinely designed justice; feminist, egalitarian, and secular philosophers, along with secular legal consensus, classify sex-based role restriction as inherently discriminatory and unjust.",
+     "evidence": [
+      "Ephesians 5:21-33 pairs female submission with self-sacrificial male love modeled on Christ.",
+      "Empirical studies linking rigid domestic gender hierarchies with elevated vulnerability to domestic abuse and underreporting in insular religious settings."
+     ],
+     "verdict": "Rejected by modern moral and legal philosophy, though coherent within strict theological presuppositions.",
+     "credence": 18
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does 'justice' require reciprocal autonomy and equal rights regardless of biological sex, or does it mean alignment with a divinely ordered cosmic hierarchy?",
+     "type": "definition",
+     "if_yes": "If justice requires equal rights, mutual bodily autonomy, and non-discrimination, the Bible's treatment of women is definitively unjust.",
+     "if_no": "If justice is defined via divine command theory or complementarian created order, biblical patriarchy can be declared just by definitional fiat.",
+     "your_view": "Justice fundamentally requires equal consideration of interests, reciprocal moral agency, and freedom from arbitrary institutional subordination based on immutable biological traits."
+    },
+    {
+     "crux": "Do biblical texts reflect purely human ancient Near Eastern/Greco-Roman cultural evolution, or are they directly inspired moral revelations from a morally perfect God?",
+     "type": "prior",
+     "if_yes": "If purely human cultural products, the presence of pervasive patriarchy alongside occasional moral breakthroughs is entirely expected and non-paradoxical.",
+     "if_no": "If authored or inspired by an omnibenevolent God, the presence of explicit laws mandating forced marriage, captive distribution, and unequal valuation poses an acute moral and theological problem.",
+     "your_view": "The historical, archaeological, and literary evidence overwhelmingly points to the Bible being an anthology of human texts reflecting the social, political, and moral realities of their respective ancient eras."
+    },
+    {
+     "crux": "Is the 'biblical view' determined by its overall normative legal/epistolary baseline or by its most progressive trajectory texts?",
+     "type": "evidence",
+     "if_yes": "If determined by its trajectory texts (Galatians 3:28, prophetic inclusion, female leaders), one can argue the Bible points toward gender justice as an ideal.",
+     "if_no": "If the whole canon must be taken as a normative unit, the restrictive and misogynistic passages cannot be erased, resulting in an unjust composite.",
+     "your_view": "Hermeneutical trajectory models are an interpretive choice; a descriptive reading of the entire canon reveals unresolved tensions and enduring patriarchal mandates that cannot be harmonized away."
+    }
+   ],
+   "strongest_for": [
+    "The overarching theological foundation of Genesis 1:26-28, which establishes that both male and female are made equally in the divine image (imago Dei), granting ontological parity unprecedented in many ancient myths.",
+    "Jesus of Nazareth's documented interactions with women, which subverted contemporary Jewish and Roman patriarchal social barriers by validating female intellectual capability, spiritual agency, and discipleship.",
+    "The prominent historical roles granted to women in both testaments, including Deborah as military and civil judge (Judges 4-5), Huldah as authoritative prophet certifying the Book of the Law (2 Kings 22), and Phoebe, Prisca, and Junia as leaders in the Pauline movement.",
+    "Specific civil protections in ancient Israelite law that mitigated abandonment, provided inheritance mechanisms for fatherless daughters (Numbers 27), and mandated strict penalties for false accusations against a wife's sexual integrity."
+   ],
+   "strongest_against": [
+    "Legal codification of women as property or dependents, including Exodus 20:17 grouping wives with chattel, and Numbers 30 allowing men to unilaterally cancel female vows.",
+    "Deuteronomy 22:28-29, which compels a raped virgin to marry her attacker upon payment of a bride price to her father, explicitly subordinating female consent and trauma to male financial and social settlement.",
+    "Warfare laws in Numbers 31:17-18 and Deuteronomy 21:10-14 permitting the slaughter of male children and non-virgin women while allocating virgin female captives as plunder to be claimed as wives/concubines.",
+    "The institutionalization of asymmetric religious and marital rituals, such as the humiliating Sotah trial by ordeal for suspected wives (Numbers 5) with no corresponding mechanism for unfaithful husbands.",
+    "New Testament commands (1 Timothy 2:11-15, 1 Corinthians 14:34-35) that universalize female silence and subordination based on the theology of creation and the culpability of Eve."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Claiming biblical law was radically feminist for its era (in reality, contemporary Roman, Egyptian, and early Mesopotamian legal codes often granted women substantially greater property, divorce, and commercial autonomy).",
+     "Arguing that Deuteronomy 22:28-29 was purely 'protective' of the woman (compelling a victim to cohabitate and engage in lifelong sexual relations with her rapist constitutes institutional violence, not compassionate protection).",
+     "Asserting that male headship is non-oppressive because husbands are told to love their wives (benevolent paternalism does not cure the structural injustice of total unilateral institutional authority)."
+    ],
+    "against": [
+     "Asserting that the Bible is uniformly and exceptionally misogynistic compared to all ancient literature (it contains remarkable moments of female heroism, voice, and theological elevation).",
+     "Dismissing Paul as a simple misogynist while ignoring his reliance on and public praise for prominent female ministry colleagues like Phoebe, Prisca, and Junia.",
+     "Conflating descriptive ancient narrative tragedies (e.g., the Levite's concubine in Judges 19) with prescriptive divine legislation (Judges explicitly presents this as a horrific nadir of societal breakdown, not divine approval)."
+    ]
+   },
+   "would_change": [
+    "Discovery of early, authoritative biblical manuscript traditions demonstrating that passages such as Deuteronomy 22:28-29, Numbers 31, and 1 Timothy 2 were late scribal corruptions or polemical interpolations.",
+    "A rigorous, non-question-begging philosophical proof demonstrating that assigning unequal moral authority and autonomy based on immutable sex traits is logically compatible with objective moral perfection.",
+    "Archaeological and comparative legal discoveries establishing that biblical Israelite women possessed full legal autonomy, property rights, and procedural equality comparable to or exceeding modern human rights standards."
+   ],
+   "sources": [
+    {
+     "citation": "Phyllis Trible, Texts of Terror: Literary-Feminist Readings of Biblical Narratives, 1984",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Elisabeth Schüssler Fiorenza, In Memory of Her: A Feminist Theological Reconstruction of Christian Origins, 1983",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Carol Meyers, Discovering Eve: Ancient Israelite Women in Context, 1988",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "William J. Webb, Slaves, Women and Homosexuals: Exploring the Hermeneutics of Cultural Analysis, 2001",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John Piper and Wayne Grudem (eds.), Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism, 1991",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Bauckham, Gospel Women: Studies of the Named Women in the Gospels, 2002",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "gemini",
+   "label": "Gemini 3.8",
+   "model": "gemini-3.8-flash",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Probably false on any non-circular reading: the Bible contains real affirmations of women, but its legal and ecclesial prescriptions are not just in a way a perfectly good God would endorse.",
+   "credence": 20,
+   "confidence": "low",
+   "bottom_line": "Historically, biblical family and cultic law gives women lesser legal agency, economic value, and public religious voice than men, and several New Testament texts defend that asymmetry from creation or the fall, not only from local custom. The same canon also calls women God's image, records women prophets and leaders, and portrays Jesus including women in ways that cut against some surrounding norms. Those brighter texts are real, but they do not erase the prescriptive disparities. Whether that package is 'just' hinges on definition: if justice means equal moral worth plus fixed role hierarchy, many confessional scholars affirm the claim; if justice means equal basic rights and a perfectly good God would not command sex-based legal incapacity, the claim fails. The second standard is the more natural reading of 'perfectly good,' so the claim is unlikely. This is a judgment about ancient texts and a theological claim, not about Jewish or Christian people, and similar patriarchy is widespread in ancient Near Eastern law.",
+   "sub_claims": [
+    {
+     "claim": "Old Testament legal texts assign women lesser economic value, independent vow-capacity, inheritance priority, and sexual-legal autonomy than men.",
+     "kind": "textual",
+     "case_for": "The disparities are explicit and repeated, not inferred from silence. Votive value is lower for women at each age band (Leviticus 27). A father's or husband's veto can void a woman's vow (Numbers 30). Daughters inherit only if there is no son (Numbers 27). Childbirth impurity is twice as long after a girl (Leviticus 12). Sexual case-law ties an unbetrothed woman's marriage remedy to the man who has taken her, and a non-virgin bride can be executed (Deuteronomy 22). A suspected wife, not a suspected husband, undergoes the ordeal (Numbers 5). A daughter can be sold into a form of bonded concubinage (Exodus 21:7-11).",
+     "case_against": "Some of these are cultic valuations or maximum legal remedies, not moral price-tags on persons. Exodus 21:10-11 gives a bonded woman food, clothing, and marital rights and requires her release if those are denied. Zelophehad's daughters expand inheritance. The death penalty for a non-virgin bride is an honor-shame procedure whose application is uncertain, and clear rape of a betrothed woman is a capital crime against the man only (Deuteronomy 22:25-27). 'Lesser status' overreads household law that also constrained men.",
+     "consensus": "Historical-critical and Jewish and Christian legal historians broadly agree the codes are patriarchal and give free adult men greater legal capacity. They disagree on how harshly particular sex laws should be translated and how often they were applied. Complementarian theologians usually concede the legal asymmetry and deny that it is injustice.",
+     "evidence": [
+      "Leviticus 27:3-7: woman valued at 30 shekels where a man is valued at 50 in the prime age band",
+      "Leviticus 12: longer impurity after the birth of a girl than of a boy",
+      "Numbers 30: a father or husband may annul a woman's vow",
+      "Numbers 27: daughters inherit only absent a son",
+      "Numbers 5: the ordeal of bitter water applies to a suspected wife",
+      "Deuteronomy 22:13-29: sexual case-law with asymmetric penalties; 22:28-29 is widely read as seizure plus required marriage without divorce, though the Hebrew verb is disputed relative to Exodus 22:16-17"
+     ],
+     "verdict": "The descriptive claim is solid; only the moral label is seriously disputable.",
+     "credence": 90
+    },
+    {
+     "claim": "Influential New Testament texts command wifely submission and restrict women's teaching or authority over men, and they ground this in creation or the fall rather than only in a temporary custom.",
+     "kind": "textual",
+     "case_for": "Ephesians 5, Colossians 3, and 1 Peter 3 command wives to submit, in a Greco-Roman household-code form, while husbands are told to love or honor, not to submit in the same way. 1 Corinthians 11 ranks God, Christ, man, and woman as 'head' and ties woman to man as source or glory. 1 Timothy 2:11-14 forbids a woman to teach or to exercise authority over a man and cites Adam's priority and Eve's deception. 1 Corinthians 14:34-35 commands silence. The creation appeal is the obstacle to a purely local reading.",
+     "case_against": "Ephesians 5:21 frames the section with mutual submission, and the husband's model is crucifixion-level self-giving, not domination. 'Authentein' in 1 Timothy 2 may mean domineer rather than hold office. 1 Corinthians 14:34-35 is displaced in some manuscripts and is treated by Gordon Fee and Philip Payne as a possible interpolation. Romans 16 names Phoebe as a deacon or patron and Junia as notable among the apostles, if those readings hold. The restrictions may target specific false teaching in Ephesus or Corinth.",
+     "consensus": "No consensus. Critical scholars generally read the household codes and 1 Timothy 2 as patriarchal. Evangelical egalitarians contest key translations and, for 1 Corinthians 14:34-35, originality. Complementarian scholars (Grudem, Schreiner, Köstenberger) treat male pastoral authority and wifely submission as the plain, creational sense. Junia's sex and apostolic status remain debated, though many recent scholars accept that Junia was a woman.",
+     "evidence": [
+      "1 Timothy 2:11-14 grounds a teaching restriction in Adam being formed first and Eve being deceived",
+      "1 Corinthians 11:3-9 and 14:34-35",
+      "Ephesians 5:21-33; Colossians 3:18-19; 1 Peter 3:1-7",
+      "Romans 16:1-7: Phoebe and Junia, with Junia's status disputed between 'among the apostles' and 'known to the apostles'",
+      "Fee, First Epistle to the Corinthians (1987), and Payne, Man and Woman, One in Christ (2009), argue parts of the restriction are local or non-original; Grudem defends the complementarian reading"
+     ],
+     "verdict": "The restrictive texts and their creational rationale are really there; egalitarian readings are serious but require contested moves.",
+     "credence": 80
+    },
+    {
+     "claim": "The same canon affirms women as divine-image bearers and positively portrays women as prophets, a judge, disciples, and resurrection witnesses.",
+     "kind": "textual",
+     "case_for": "Genesis 1:27 includes male and female in the image of God. 'Ezer kenegdo' uses a word often applied to God's help, not a subordinate maid. Deborah judges Israel; Miriam, Huldah, and Noadiah are called prophets; Joel 2 and Acts 2 expect daughters to prophesy. Luke and John place women as the first resurrection witnesses, a legally awkward choice if the story were invented to persuade. Jesus talks with the Samaritan woman, teaches Mary of Bethany, and is supported by women disciples. Galatians 3:28 denies that sex determines standing in Christ.",
+     "case_against": "Image-language coexists with subordination and does not by itself confer equal legal capacity; ancient authors often combined dignity-talk with hierarchy. Deborah is exceptional, and the narrative can be read as a rebuke of male failure. Galatians 3:28's immediate context is baptismal inheritance of Abraham's promise, not eligibility for office; complementarians have a real contextual point. Positive narratives do not cancel prescriptive law. The woman-taken-in-adultery passage is textually late and should not carry the argument.",
+     "consensus": "Broad agreement, including among complementarians, that the canon affirms equal salvific worth and contains women leaders. Disagreement is about whether those texts override, relativize, or merely sit beside hierarchical commands. Feminist scholars such as Trible and Schüssler Fiorenza treat the canon as internally contradictory rather than uniformly liberating.",
+     "evidence": [
+      "Genesis 1:27; Genesis 2:18",
+      "Judges 4-5; Exodus 15:20; 2 Kings 22:14-20",
+      "Luke 8:1-3; 24:1-11; John 4; John 20",
+      "Galatians 3:28; Acts 2:17-18",
+      "The pericope adulterae (John 7:53-8:11) is absent from the earliest manuscripts and is weak evidence"
+     ],
+     "verdict": "True, and it blocks the caricature that the Bible only degrades women. It does not show the prescriptive treatment is just.",
+     "credence": 88
+    },
+    {
+     "claim": "On several points biblical sex and marriage law is less harsh than surviving Middle Assyrian and some other ancient Near Eastern laws, so it functioned as a relative protection inside patriarchy.",
+     "kind": "empirical",
+     "case_for": "Middle Assyrian Laws prescribe severe mutilation and tightly police women's mobility and veiling. Biblical law lacks many of those penalties, treats rape of a betrothed woman as a capital offense against the man, requires provision for a rejected bonded woman, and in Deuteronomy 21 limits what may be done with a captive taken as a wife. Comparing codes, some differences look protective rather than merely misogynistic. Martha Roth's collections make the comparison possible.",
+     "case_against": "Less harsh than a brutal neighbor is not the same as just, and a perfectly good God is not graded on a curve against Assyria. Other biblical provisions have no moral advantage: the wife-only ordeal, lower valuation, and vow annulment are not explained by 'better than the neighbors.' Captive-marriage law still permits taking a war captive as a wife after a waiting period. Relative improvement supports an accommodation story, which concedes the laws are not the moral ideal.",
+     "consensus": "Specialists generally agree Hebrew law shares the patriarchal family model of the ancient Near East and is not uniquely severe on every point. There is no consensus that it is systematically more humane, and almost no non-confessional consensus that relative improvement equals justice.",
+     "evidence": [
+      "Middle Assyrian Laws tablet A on veiling, movement, and corporal penalties, accessible in Martha T. Roth, Law Collections from Mesopotamia and Asia Minor (1995/1997)",
+      "Deuteronomy 22:25-27 versus 22:28-29",
+      "Deuteronomy 21:10-14 on the captive woman",
+      "Exodus 21:7-11 release conditions"
+     ],
+     "verdict": "Plausible as a partial comparative claim; it does not establish justice or perfect goodness.",
+     "credence": 65
+    },
+    {
+     "claim": "If women have equal basic moral rights, a perfectly good God would not issue the Bible's sex-based legal incapacities and creation-grounded speech restrictions as just moral instruction.",
+     "kind": "philosophical",
+     "case_for": "Perfect goodness, on any non-tautological account, rules out commanding lesser personhood, disproportionate bodily regulation, and permanent silencing on the basis of sex. The texts do not present every restriction as a tragic concession: 1 Timothy 2 argues from creation. Matthew 19:8 shows the Bible itself can call a Mosaic marriage rule a concession to hardness of heart rather than the creational ideal, which undercuts treating the whole corpus as simply just. Divine-command theory can define the problem away only by making 'just' mean 'commanded,' which empties the claim.",
+     "case_against": "Equal worth does not entail identical roles; classical theism already accepts ordered relations without injustice, and complementarians extend that to marriage and church office. A good God can give time-bound civil law to a particular people that is wiser than the available alternatives without being the final ethic. Critics smuggle in a modern rights theory and then blame ancient law for not matching it. If God has authority over worship order, speech restrictions need not violate a basic right.",
+     "consensus": "No consensus. The split tracks priors: complementarian philosophers and biblical theologians affirm coherence with perfect goodness; egalitarian, feminist, and most secular moral philosophers deny it. The disagreement is mainly about moral theory and biblical authority, not about whether the asymmetric texts exist.",
+     "evidence": [
+      "Matthew 19:8: divorce permission attributed to hardness of heart, not the beginning",
+      "1 Timothy 2:13-14 uses a creational and fall rationale, which is harder to park as mere culture",
+      "Acts 10:34 and James 2:1-9 state divine impartiality, in tension with sex-based legal partiality unless 'partiality' is narrowed",
+      "William J. Webb, Slaves, Women and Homosexuals (2001), argues a redemptive trajectory beyond the isolated words, which effectively concedes the surface commands are not the final ethic"
+     ],
+     "verdict": "True on a standard of equal basic rights; false only if justice is redefined as ordered roles or as whatever the text commands.",
+     "credence": 78
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does 'just' allow permanent sex-based differences in legal agency, public voice, and authority, so long as moral worth is equal?",
+     "type": "definition",
+     "if_yes": "The claim can be largely true: complementarity is not injustice, and the harsh civil laws can be bracketed as time-bound.",
+     "if_no": "The claim is false, because the canon's prescriptions deny equal basic agency and voice.",
+     "your_view": "No. Equal worth with a ban on teaching, voidable vows, and unequal legal capacity is not justice under a standard fit for perfect goodness. Role differences can be just when chosen or functionally justified; these texts present them as sex-based and creational."
+    },
+    {
+     "crux": "Does 'the Bible's treatment' mean every prescriptive text taken at face value, or a canonical trajectory whose center is creation-in-the-image and Jesus' practice?",
+     "type": "definition",
+     "if_yes": "If it means every prescription, the claim is very unlikely. If it means only the trajectory, credence rises, but that reading already treats some texts as less than just.",
+     "if_no": "A face-value canonical whole includes unjust laws and unjust ecclesial rules, so the claim fails.",
+     "your_view": "The claim as stated is about the Bible's treatment, not about a reconstructed core. Trajectory readings are the best theological rescue, and they work by admitting the surface treatment is not fully just."
+    },
+    {
+     "crux": "Is justice whatever a perfectly good God commands, so that once the Bible is assumed to be God's law the claim cannot fail?",
+     "type": "prior",
+     "if_yes": "The claim is true by definition if the Bible is divine law, and evidence about women's treatment cannot count against it.",
+     "if_no": "The moral content can be inspected, and much of it conflicts with perfect goodness.",
+     "your_view": "No. That prior makes the claim unfalsifiable. A meaningful test requires a standard of goodness not identical to 'whatever this corpus says.'"
+    },
+    {
+     "crux": "Do the harshest sexual laws mean what critics claim, especially Deuteronomy 22:28-29 as forced marriage to a rapist?",
+     "type": "evidence",
+     "if_yes": "Those laws are a severe strike against the claim even after other texts are read charitably.",
+     "if_no": "One popular atrocity proof weakens, but valuation, vow, purity, ordeal, and 1 Timothy 2 problems remain.",
+     "your_view": "The rape-marriage reading is widespread and linguistically plausible, but the verb is disputed enough that it should not be the sole pillar. The claim still fails if that verse is set aside."
+    }
+   ],
+   "strongest_for": [
+    "Genesis 1:27 assigns the divine image to male and female together, so the canon's own opening anthropology is not male-only.",
+    "Jesus' inclusion of women as disciples and as first resurrection witnesses, plus women prophets and Deborah, shows the tradition is not a single silencing ideology.",
+    "Household codes demand sacrificial love from husbands, and Ephesians 5:21 states mutual submission, which is morally better than unrestricted patriarchal power.",
+    "Some sex laws restrain male violence relative to Middle Assyrian penalties and give dependent women enforceable material rights.",
+    "A coherent, non-abusive complementarianism can distinguish equal worth from identical office, so disagreement is not only a failure to notice the harsh texts."
+   ],
+   "strongest_against": [
+    "Repeated legal disparities — value, vows, purity, inheritance, the wife-only ordeal — are explicit subordinations, not modern misreadings.",
+    "1 Timothy 2:13-14 ties women's restricted speech and authority to creation and the fall, which blocks the easiest 'mere culture' defense.",
+    "Sexual case-law punishes women's sexual status with extreme severity and, on the usual reading of Deuteronomy 22:28-29, binds a woman to the man who seized her.",
+    "Matthew 19:8 admits at least one Mosaic marriage rule was a concession to hardness of heart, so 'biblical treatment' and 'perfectly just' already come apart inside the canon.",
+    "Being milder than Assyrian law is not what perfect goodness would produce; accommodation explanations save God's character only by denying that the treatment itself is just."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Pointing to Deborah or Proverbs 31 as if exceptional narratives cancel legal codes and pastoral restrictions.",
+     "Claiming 'submit' in the household codes is non-hierarchical. The Greek is the ordinary subordination term, and the commands are asymmetric even with Ephesians 5:21.",
+     "Treating 'better than surrounding cultures' as if it met the standard of a perfectly good God.",
+     "Using divine-command theory as a proof. If justice just means 'what the Bible commands,' the claim is a tautology, not a finding."
+    ],
+    "against": [
+     "Saying the Bible teaches that women are property. Wives were not ordinary chattel; the truer charge is dependent legal status, sale of daughters in Exodus 21, and male veto power.",
+     "Treating Judges 19 or 2 Samuel 13 as commands. They are horror narratives, and Amnon is presented as a villain; description is not endorsement.",
+     "Psychologizing Paul as a woman-hater. The argument should rest on the commands and their rationales, not on imagined motives.",
+     "Calling the Bible a rape manual. That flattens protective rape statutes, condemning narratives, and genuine disputes over Deuteronomy 22:28-29 into slogans."
+    ]
+   },
+   "would_change": [
+    "A broadly accepted demonstration that the main disparity texts (Leviticus 12, Leviticus 27, Numbers 30, 1 Timothy 2) do not mean legal or ecclesial subordination would raise credence sharply.",
+    "A non-circular moral argument showing why a perfectly good God would command sex-based vow incapacity and creation-grounded silencing as justice, not merely as temporary damage control, would raise credence.",
+    "If the claim were narrowed to 'a redemptive trajectory in the Bible is compatible with a good God,' credence would move well above 50, because that is a different and weaker claim.",
+    "Clear evidence that 1 Corinthians 14:34-35 and 1 Timothy 2:11-15 were absent from the original compositions would weaken the New Testament case against the claim but would not fix the legal codes.",
+    "If 'just' is stipulated to mean complementarian role-justice plus ancient civil accommodation, credence in that stipulated claim would be high; that would be a definition change, not new evidence."
+   ],
+   "sources": [
+    {
+     "citation": "Hebrew Bible and New Testament: Genesis 1-3; Exodus 21; Leviticus 12 and 27; Numbers 5, 27, and 30; Deuteronomy 21-22; Judges 4-5; 2 Kings 22; Matthew 19:3-8; Luke 8 and 24; John 4 and 20; Acts 2; Romans 16; 1 Corinthians 11 and 14; Galatians 3:28; Ephesians 5; Colossians 3; 1 Timothy 2; 1 Peter 3",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Phyllis Trible, Texts of Terror: Literary-Feminist Readings of Biblical Narratives (1984)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Carol Meyers, Rediscovering Eve: Ancient Israelite Women in Context (2013)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Elizabeth Schüssler Fiorenza, In Memory of Her: A Feminist Theological Reconstruction of Christian Origins (1983)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Tikva Frymer-Kensky, Reading the Women of the Bible (2002)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John Piper and Wayne Grudem, eds., Recovering Biblical Manhood and Womanhood (1991)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Philip B. Payne, Man and Woman, One in Christ: An Exegetical and Theological Study of Paul's Letters (2009)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Craig S. Keener, Paul, Women, and Wives: Marriage and Women's Ministry in the Letters of Paul (1992)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gordon D. Fee, The First Epistle to the Corinthians (NICNT, 1987)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Eldon Jay Epp, Junia: The First Woman Apostle (2005)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "William J. Webb, Slaves, Women & Homosexuals: Exploring the Hermeneutics of Cultural Analysis (2001)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Martha T. Roth, Law Collections from Mesopotamia and Asia Minor (1995/1997)",
+     "kind": "primary"
+    }
+   ],
+   "id": "grok",
+   "label": "Grok 4.7",
+   "model": "grok-4.7",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Very unlikely as stated: the texts contain laws and commands about women that are hard to reconcile with perfect goodness, though the Bible is not uniformly misogynist",
+   "credence": 12,
+   "confidence": "medium",
+   "bottom_line": "On its plain reading, the Bible contains laws, commands and divinely sanctioned practices concerning women that nearly all contemporary ethicists, and most modern Christians, regard as unjust. Examples include the captive-bride law, the virgin girls 'kept alive for yourselves' after the Midianite war, the virginity test with death penalty, fathers selling daughters, unequal vow and valuation laws, and the requirement that an unbetrothed girl marry the man who 'seized' her. Defenders make real points. Biblical law was often comparable to or more protective than its neighbors. Some notorious texts are narrative, not endorsement. Some New Testament restrictions are textually or authorially disputed. There are strong egalitarian threads, such as Genesis 1:27, Galatians 3:28, Jesus's treatment of women, and Junia and Phoebe. Those points show the Bible is better and more mixed than its harshest critics allow. They do not show that its treatment of women as a whole is what a perfectly good and omnipotent author would produce. The best defense is accommodation, the idea that God regulated rather than abolished a fallen culture. That defense concedes the texts are not ideal, and it struggles with cases God is portrayed as commanding rather than merely tolerating. The credence moves upward mainly if you accept strong skeptical theism or a reading on which 'the Bible's treatment' means only its ultimate trajectory.",
+   "sub_claims": [
+    {
+     "claim": "Read plainly, the Bible contains laws and narratives that subordinate women and prescribe treatment widely judged unjust today.",
+     "kind": "textual",
+     "case_for": "The texts are explicit. Deut 21:10-14 lets a soldier take a captive woman as a wife after a month of mourning. Num 31:17-18 has Moses order that non-virgin Midianite women and all boys be killed and virgin girls kept 'for yourselves.' Deut 22:13-21 prescribes stoning a bride found not to be a virgin, with no parallel test for men. Exod 21:7-11 regulates a father selling his daughter as a slave-wife. Num 30 lets fathers and husbands annul women's vows. Lev 27:1-7 values women at less than men. Lev 12 doubles the impurity period after a girl's birth. Num 5 prescribes an ordeal for a wife suspected of adultery. Polygyny and concubinage are regulated, not forbidden. In the NT, 1 Cor 14:34-35 and 1 Tim 2:11-15 silence women and bar them from teaching men, and 1 Tim grounds this in creation order and Eve's deception.",
+     "case_against": "Some items are descriptive narrative rather than norm, such as Judges 19, Lot's daughters, and Tamar in 2 Sam 13. Others are regulations that limited existing abuses rather than endorsed them. Exod 21:10-11 gives a slave-wife a right to food, clothing and marital rights, or else freedom. Deut 21:14 forbids selling the captive wife. Some unequal rules may reflect economics or cult purity rather than worth. Lev 27 valuations plausibly track labor value.",
+     "consensus": "Near-universal among critical scholars that the legal corpus reflects a patriarchal agrarian society. Carol Meyers argues 'patriarchy' overstates women's powerlessness at the household level. Confessional scholars, both complementarian and egalitarian, generally accept the texts say what they say and dispute their application. A minority of apologists reinterpret specific passages.",
+     "evidence": [
+      "Deut 21:10-14",
+      "Num 31:15-18",
+      "Deut 22:13-29",
+      "Exod 21:7-11",
+      "Num 30:3-16",
+      "Lev 27:1-7",
+      "Num 5:11-31",
+      "1 Tim 2:11-15"
+     ],
+     "verdict": "Clearly true",
+     "credence": 95
+    },
+    {
+     "claim": "Relative to its ancient Near Eastern context, biblical law was notably more just to women.",
+     "kind": "empirical",
+     "case_for": "Deut 22:25-27 presumes a woman assaulted in the countryside is innocent. Biblical law lacks some harsh Middle Assyrian penalties, such as the husband's right to mutilate a wife under MAL A. Exod 21 and Deut 21 give slave-wives and captive wives limited protections. Prophetic and Wisdom texts emphasize care for widows. Women such as Deborah, Huldah and Miriam hold recognized roles.",
+     "case_against": "Much of biblical family law closely parallels Mesopotamian codes, and some biblical provisions are comparable or harsher. Deut 25:11-12 cuts off a woman's hand, closely paralleling MAL A 8. Stoning for non-virginity and the Num 31 captives have no softening. Some neighboring codes gave women property and divorce rights at least comparable to Israelite law. Being better than neighbors is in any case a low bar for a perfectly good author.",
+     "consensus": "No consensus on 'notably better.' Most comparative scholars see broad continuity with ANE law, with some humanizing tendencies in Deuteronomy and some regressions.",
+     "evidence": [
+      "Deut 22:25-27 vs. MAL A provisions",
+      "Deut 25:11-12 vs. MAL A 8",
+      "Code of Hammurabi family laws (Roth 1997)",
+      "Exod 22:16-17 parallel to Deut 22:28-29"
+     ],
+     "verdict": "Partly true: comparable, sometimes better, sometimes not",
+     "credence": 40
+    },
+    {
+     "claim": "Careful exegesis dissolves the apparent injustices in the most troubling texts.",
+     "kind": "textual",
+     "case_for": "Several readings are well supported. Junia (Rom 16:7) is almost certainly a woman 'prominent among the apostles' (Epp). Gen 3:16 can be read as describing the curse rather than prescribing it. 1 Cor 14:34-35 has a textual displacement in some manuscripts, and Gordon Fee and Philip Payne argue it is an interpolation. Most critical scholars regard 1 Timothy as pseudonymous. Some read Deut 22:28-29 as seduction rather than rape, since the parallel Exod 22:16-17 lets the father refuse.",
+     "case_against": "These moves work for a few texts but not the hardest ones. The Midianite virgins, captive brides, virginity stoning and sold daughters do not yield to reinterpretation. Calling 1 Timothy pseudonymous removes Paul but leaves the text in the canon. Even on the seduction reading, Deut 22 treats the offense chiefly as a loss to the father.",
+     "consensus": "Egalitarian evangelical scholars (Payne, Westfall, Fee) accept many NT reinterpretations. Complementarians (Grudem, Piper, Schreiner) reject them. Critical OT scholars largely do not think the hard Pentateuchal texts can be exegeted away.",
+     "evidence": [
+      "Rom 16:1-7",
+      "1 Cor 14:34-35 manuscript placement in Western witnesses",
+      "Hebrew taphas (Deut 22:28) vs. chazaq (22:25) vs. pathah (Exod 22:16)",
+      "Gal 3:28"
+     ],
+     "verdict": "Succeeds for some texts, fails for the hardest",
+     "credence": 15
+    },
+    {
+     "claim": "The Bible contains a redemptive trajectory toward women's equality that is part of its own message.",
+     "kind": "textual",
+     "case_for": "Gen 1:27 places male and female equally in God's image. Jesus taught women such as Mary of Bethany as disciples and was accompanied and funded by women (Luke 8:1-3). Women are the first resurrection witnesses in all four Gospels. Gal 3:28 says there is 'neither male nor female.' Paul's coworkers include Phoebe, Priscilla and Junia. Webb's redemptive-movement hermeneutic argues the text moves beyond its culture.",
+     "case_against": "The trajectory is identified selectively. The canon also contains later restrictive texts, such as the Pastorals. Complementarians read the same data as equality of worth with role differentiation. Critics argue the 'trajectory' is read back by modern interpreters who already hold egalitarian values.",
+     "consensus": "Many confessional scholars across traditions affirm some such trajectory, though they divide sharply over how far it goes. Secular scholars accept the egalitarian elements in early Christianity (Schüssler Fiorenza) but often see later re-patriarchalization within the canon itself.",
+     "evidence": [
+      "Gen 1:27",
+      "Luke 8:1-3; 10:38-42",
+      "Mark 16 / John 20 resurrection witnesses",
+      "Gal 3:28",
+      "Rom 16"
+     ],
+     "verdict": "Plausible in part, contested in scope",
+     "credence": 60
+    },
+    {
+     "claim": "Divine accommodation (progressive revelation) makes the Bible's treatment of women consistent with a perfectly good God.",
+     "kind": "philosophical",
+     "case_for": "Jesus himself says Moses permitted divorce 'because of your hardness of heart' (Matt 19:8). A good God working with a real people may move incrementally rather than impose an alien ideal. Imposing it might fail or cause worse outcomes. Copan and Flannagan develop this line.",
+     "case_against": "Accommodation explains toleration, but some practices are portrayed as divinely commanded or sanctioned. Num 31 follows a divine command for vengeance, and the spoil, including captive girls, is divided under God's instruction (Num 31:25-27). An omnipotent God could also have issued simple prohibitions, as the text does for other practices like child sacrifice. The argument also concedes that the texts, taken as norms, are not just, which weakens the claim as worded. Philosophers such as Wes Morriston have argued these defenses fail.",
+     "consensus": "No consensus. Evangelical apologists defend accommodation. Many progressive Christian scholars (Seibert, Enns) instead concede that some texts misrepresent God. Most secular philosophers of religion find the defense inadequate for the commanded cases.",
+     "evidence": [
+      "Matt 19:8",
+      "Num 31:1-2, 25-27",
+      "Deut 12:31 / 18:10 (practices flatly prohibited)",
+      "Copan 2011; Copan & Flannagan 2014"
+     ],
+     "verdict": "Covers some cases, not the hardest",
+     "credence": 20
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Must every biblical text be read as God's endorsed will (strong inerrancy), or can the Bible be a human witness containing morally flawed views?",
+     "type": "definition",
+     "if_yes": "Every hard text must be justified as consistent with perfect goodness. The claim then becomes very hard to sustain (credence ~5-15).",
+     "if_no": "A believer can hold that God is perfectly good while the Bible's treatment of women is not uniformly just, as Seibert and Enns do. The claim as worded still fails, but theism need not.",
+     "your_view": "Either way the claim as worded scores low. The second reading separates it from the question of God's goodness."
+    },
+    {
+     "crux": "Can regulating or tolerating unjust practices in a fallen culture be fully consistent with perfect goodness, including where God is depicted as commanding them?",
+     "type": "value",
+     "if_yes": "Credence rises to perhaps 30-40.",
+     "if_no": "Credence stays near 5-10.",
+     "your_view": "Plausible for toleration, as with divorce. Implausible for commanded cases like Num 31, where simpler prohibitions were clearly available."
+    },
+    {
+     "crux": "Are our moral intuitions reliable enough to judge what a perfectly good God would permit, or does skeptical theism apply?",
+     "type": "prior",
+     "if_yes": "The clash with considered judgments counts heavily against the claim.",
+     "if_no": "Strong skeptical theism blocks the inference. It also undermines confidence that the texts are good, and arguably our moral knowledge generally.",
+     "your_view": "Strong skeptical theism proves too much. Moderate humility lowers but does not remove the force of the objection."
+    },
+    {
+     "crux": "Do the disputed Hebrew and Greek texts mean what they appear to mean?",
+     "type": "evidence",
+     "if_yes": "The problem set stays large.",
+     "if_no": "Some items drop out, but not the core cases (Num 31, Deut 21, Deut 22:13-21).",
+     "your_view": "Reinterpretation succeeds at the margins, such as Junia and possibly 1 Cor 14, not at the core."
+    },
+    {
+     "crux": "Should 'just' be judged by ancient standards or by the standard of a perfectly good God?",
+     "type": "definition",
+     "if_yes": "Judged by ancient standards, the Bible looks roughly average to somewhat progressive.",
+     "if_no": "Judged by perfect goodness, the bar is far higher.",
+     "your_view": "The claim explicitly invokes perfect goodness, so the presentism defense largely doesn't apply."
+    }
+   ],
+   "strongest_for": [
+    "Gen 1:27 grounds equal human dignity of men and women in God's image, a radical claim in its context.",
+    "Jesus's treatment of women as disciples and as the first resurrection witnesses, along with Paul's female coworkers (Phoebe, Priscilla, Junia), cut against contemporary norms.",
+    "Some laws limited abuses rather than created them, e.g., protections for slave-wives (Exod 21:10-11), the presumption of innocence in Deut 22:25-27, and the ban on selling captive wives.",
+    "Jesus himself frames some Mosaic law as accommodation to 'hardness of heart' (Matt 19:8), giving the accommodation defense internal support.",
+    "Several of the worst stories are narratives that indict their characters (Judges 19-21 is framed by 'everyone did what was right in his own eyes')."
+   ],
+   "strongest_against": [
+    "Num 31:17-18 orders the killing of non-virgin women and boys and the keeping of virgin girls 'for yourselves,' in a war framed as divinely commanded, with spoil divided under God's instruction.",
+    "Deut 21:10-14 permits taking female captives as wives, and Deut 22:13-21 prescribes stoning brides found not to be virgins with no male equivalent.",
+    "Women's legal standing is structurally derivative of fathers and husbands, as with vows (Num 30), sale (Exod 21:7), and compensation to the father (Deut 22:29).",
+    "An omnipotent author who flatly forbade other practices like child sacrifice could have forbidden these, so accommodation does not explain the choice.",
+    "Even within the NT, 1 Tim 2:12-14 grounds women's restriction in creation order and Eve's deception, not merely in local culture."
+   ],
+   "weak_arguments": {
+    "for": [
+     "'The Bible has strong heroines (Deborah, Ruth, Esther).' True, but admirable individuals do not offset unjust laws.",
+     "'Ezer (helper) is used of God, so Eve's role is exalted.' It is a fair lexical point, but irrelevant to the Pentateuchal laws.",
+     "'It was just their culture.' This concedes the texts reflect human culture rather than perfect justice.",
+     "'Women are protected because the Proverbs 31 woman is honored.' An idealized poem doesn't address legal status."
+    ],
+    "against": [
+     "'The Bible says women are property.' No text says this. Deut 5:21 separates the wife from household goods, and wives had some legal rights.",
+     "'Eve from Adam's rib proves inferiority.' This is an interpretive overreach; many readers, ancient and modern, read it as kinship and equality.",
+     "'Biblical law was uniformly worse than its neighbors.' False; it is broadly comparable and sometimes more protective.",
+     "'Paul was a misogynist.' This ignores Rom 16 and Gal 3:28 and the disputed authorship of the Pastorals.",
+     "'Lot offering his daughters shows God approves.' This treats narrative as endorsement."
+    ]
+   },
+   "would_change": [
+    "Strong philological evidence that Num 31:18 or Deut 21:10-14 mean something materially less harmful than the standard reading.",
+    "A worked-out accommodation theory that convincingly explains why a perfectly good God would command, not merely tolerate, the Num 31 outcome.",
+    "A compelling argument that skeptical theism undermines judgments about divine commands without undermining moral knowledge generally.",
+    "Evidence that the restrictive NT texts are later interpolations or non-canonical in a way that changes which texts count as 'the Bible.'",
+    "A defensible reading of the claim that limits 'the Bible's treatment' to its ultimate normative trajectory rather than its full contents. That reading would raise credence substantially."
+   ],
+   "sources": [
+    {
+     "citation": "Phyllis Trible, Texts of Terror: Literary-Feminist Readings of Biblical Narratives, 1984",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Carol Meyers, Rediscovering Eve: Ancient Israelite Women in Context, 2013",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Tikva Frymer-Kensky, Reading the Women of the Bible, 2002",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Paul Copan, Is God a Moral Monster? Making Sense of the Old Testament God, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Paul Copan and Matthew Flannagan, Did God Really Command Genocide?, 2014",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "William J. Webb, Slaves, Women & Homosexuals: Exploring the Hermeneutics of Cultural Analysis, 2001",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Eric A. Seibert, Disturbing Divine Behavior: Troubling Old Testament Images of God, 2009",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John Piper and Wayne Grudem (eds.), Recovering Biblical Manhood and Womanhood, 1991",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Philip B. Payne, Man and Woman, One in Christ, 2009",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Eldon Jay Epp, Junia: The First Woman Apostle, 2005",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Elisabeth Schüssler Fiorenza, In Memory of Her, 1983",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gordon D. Fee, The First Epistle to the Corinthians (NICNT), 1987",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, Forged, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Martha T. Roth, Law Collections from Mesopotamia and Asia Minor, 2nd ed., 1997",
+     "kind": "primary"
+    },
+    {
+     "citation": "Genesis 1-3; Exodus 21-22; Leviticus 12, 27; Numbers 5, 30, 31; Deuteronomy 21-22, 25; Judges 19",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Matthew 19:3-9; Luke 8:1-3; Romans 16; 1 Corinthians 14:34-35; Galatians 3:28; Ephesians 5:22-33; 1 Timothy 2:11-15",
+     "kind": "scripture"
+    }
+   ],
+   "id": "opus",
+   "label": "Opus 5.5",
+   "model": "claude-opus-5-5",
+   "via": "claude"
+  }
+ ],
+ "stats": {
+  "mean": 13.8,
+  "median": 13.5,
+  "min": 8,
+  "max": 20,
+  "spread": 12
+ },
+ "synthesis": {
+  "summary": "All four reviews judge the claim unlikely, while recognizing that the Bible contains both affirmations of women and restrictive or unequal provisions. They emphasize that their judgments depend on what justice requires and what counts as the Bible’s treatment as a whole. Each regards the positive portrayals of women as significant but not sufficient to resolve the legal and institutional difficulties. They differ in confidence, in how strongly they characterize particular passages, and in how much weight they give theological defenses. Their reported credences in the claim are GPT-6.1: 8, Gemini 3.8: 15, Grok 4.7: 20, and Opus 5.5: 12, on a 100-point scale. Gemini reports high confidence, Grok low confidence, and GPT-6.1 and Opus medium confidence.",
+  "agreement": "high",
+  "agreed": [
+   "Genesis presents women and men as made in God’s image, and biblical texts depict women in significant religious roles.",
+   "Some biblical laws and New Testament instructions impose sex-based distinctions that pose serious difficulties under standards of equal autonomy and authority.",
+   "Positive examples do not by themselves resolve the concerns raised by restrictive prescriptions; narratives describing abuse should not automatically be treated as endorsing it.",
+   "Contextual interpretation, legal protections and divine accommodation are substantive defenses, but none of the reviews considers them sufficient to establish the claim as stated."
+  ],
+  "disagreed": [
+   {
+    "point": "Strength of the theological defense",
+    "positions": "GPT-6.1 treats accommodation as a serious possibility requiring a stronger explanation. Gemini judges it philosophically weak; Grok and Opus see it as more plausible for limiting or tolerating harm than as a defense of the treatment itself, particularly where actions are depicted as commanded."
+   },
+   {
+    "point": "Whether women are described as property",
+    "positions": "Gemini characterizes biblical law as treating women as property or dependents. Grok and Opus reject the unqualified property characterization, emphasizing dependent legal status and specific restrictions instead; GPT-6.1 focuses on unequal provisions without adopting that label."
+   },
+   {
+    "point": "Deuteronomy 22:28–29",
+    "positions": "Gemini presents it as requiring a raped woman to marry her attacker. Grok regards that reading as plausible but stresses a disputed Hebrew verb; Opus also notes an alternative seduction reading. GPT-6.1 does not make this passage a central example."
+   },
+   {
+    "point": "Comparison with other ancient laws",
+    "positions": "Grok considers some biblical provisions plausibly less harsh than particular Middle Assyrian laws. Opus judges the comparison mixed, while Gemini cautions that some neighboring societies gave women greater autonomy. GPT-6.1 notes that comparative claims are contested."
+   },
+   {
+    "point": "Strength of conclusions about New Testament restrictions",
+    "positions": "Gemini and Grok emphasize enduring patriarchal commands; Opus considers some reinterpretations successful but insufficient for the hardest cases. GPT-6.1 finds contextual alternatives plausible, though not clearly sufficient to dissolve every restriction."
+   }
+  ],
+  "deciding_cruxes": [
+   "Does justice require equal legal protection, consent and equal access to authority, or can equal worth coexist with sex-based roles?",
+   "Can a perfectly good God justly accommodate unequal institutions, especially where texts portray particular actions as commanded rather than merely tolerated?",
+   "Should the claim be judged by the full range of biblical prescriptions or by an overarching redemptive trajectory?",
+   "How should disputed passages be translated and interpreted, and are restrictions local, enduring or textually disputed?",
+   "Does compatibility mean mere logical possibility, or a persuasive account of the treatment as substantively just?"
+  ],
+  "what_is_settled": "The reviews agree that the cited biblical texts contain both affirmations of women and sex-specific laws or restrictions, and that interpreters dispute their implications. They also agree that identifying positive examples does not, by itself, settle the justice of the restrictive provisions.",
+  "what_is_open": "The moral standard to apply, the scope and meaning of disputed passages, the strength of historical comparisons, and whether accommodation or a trajectory reading reconciles the texts with perfect goodness remain contested or dependent on prior commitments.",
+  "model": "gpt-6.1-terra"
+ }
+}

@@ -1,0 +1,258 @@
+[
+ {
+  "id": 1,
+  "category": "History",
+  "short": "Gospel Reliability",
+  "resolution": "The Gospels are historically reliable accounts of Jesus' life",
+  "question": "How historically reliable are the four Gospels as accounts of what Jesus said and did?",
+  "claim": "The Gospels are substantially reliable historical accounts of Jesus' life, teaching, death and resurrection."
+ },
+ {
+  "id": 2,
+  "category": "History",
+  "short": "The Resurrection",
+  "resolution": "Jesus rose bodily from the dead",
+  "question": "Did Jesus rise bodily from the dead?",
+  "claim": "Jesus rose bodily from the dead."
+ },
+ {
+  "id": 3,
+  "category": "History",
+  "short": "Historical Jesus",
+  "resolution": "Jesus of Nazareth existed as a historical person",
+  "question": "Did Jesus of Nazareth exist as a historical person?",
+  "claim": "Jesus of Nazareth existed as a historical person."
+ },
+ {
+  "id": 4,
+  "category": "History",
+  "short": "The Exodus",
+  "resolution": "The Exodus happened substantially as described",
+  "question": "Did the Exodus from Egypt happen substantially as the Bible describes it?",
+  "claim": "The Exodus (Israel's enslavement in Egypt, the plagues, the departure of a large population and the wilderness journey) happened substantially as described."
+ },
+ {
+  "id": 5,
+  "category": "Text",
+  "short": "Textual Preservation",
+  "resolution": "Apart from minor variants that change no teaching or story, the text in modern critical Bibles accurately reproduces the earliest recoverable form of each book.",
+  "question": "How accurately has the text of the Bible been transmitted from its earliest recoverable form to today?",
+  "claim": "Apart from minor variants that change no teaching or story, the text in modern critical Bibles accurately reproduces the earliest recoverable form of each book."
+ },
+ {
+  "id": 6,
+  "category": "Text",
+  "short": "Canon Formation",
+  "resolution": "The biblical canon was formed by a reliable process, not by politics",
+  "question": "Was the biblical canon formed by a reliable process or mainly by politics and power?",
+  "claim": "The biblical canon was formed by a reliable process that tracked genuine apostolic/prophetic origin, not mainly by politics."
+ },
+ {
+  "id": 7,
+  "category": "Text",
+  "short": "Inerrancy",
+  "resolution": "The Bible is free of real contradictions (inerrancy)",
+  "question": "Is the Bible free of real contradictions and errors?",
+  "claim": "The Bible, in its original writings, contains no real contradictions or errors (inerrancy)."
+ },
+ {
+  "id": 8,
+  "category": "Text",
+  "short": "Prophecy",
+  "resolution": "Biblical prophecy shows supernatural foreknowledge",
+  "question": "Does biblical prophecy show genuine supernatural foreknowledge?",
+  "claim": "Biblical prophecy contains fulfilled predictions that are best explained by supernatural foreknowledge."
+ },
+ {
+  "id": 9,
+  "category": "Text",
+  "short": "Pagan Parallels",
+  "resolution": "Christianity's core claims did not borrow from pagan myths (dying-and-rising gods)",
+  "question": "Did Christianity's core claims borrow from pagan myths such as dying-and-rising gods?",
+  "claim": "Christianity's core claims did not borrow from pagan myths of dying-and-rising gods."
+ },
+ {
+  "id": 10,
+  "category": "Science",
+  "short": "Genesis & Science",
+  "resolution": "Genesis 1-11 fits with modern science",
+  "question": "Can Genesis 1-11 be reconciled with modern science?",
+  "claim": "Genesis 1-11, read as its authors intended, fits with modern science."
+ },
+ {
+  "id": 11,
+  "category": "Science",
+  "short": "Noah's Flood",
+  "resolution": "A global flood, as described in Genesis, happened",
+  "question": "Did a global flood, as described in Genesis 6-9, actually happen?",
+  "claim": "A global flood, as described in Genesis 6-9, happened."
+ },
+ {
+  "id": 12,
+  "category": "Science",
+  "short": "Miracles",
+  "resolution": "It is rational to believe in miracles",
+  "question": "Is it rational to believe that miracles have actually occurred?",
+  "claim": "There is good reason to believe that at least some reported miracles actually occurred."
+ },
+ {
+  "id": 13,
+  "category": "Morality",
+  "short": "OT Violence",
+  "resolution": "The God of the Bible is morally good despite the Old Testament violence (Canaan, the Amalekites)",
+  "question": "Is the God of the Bible morally good, given the Old Testament violence (Canaan, the Amalekites)?",
+  "claim": "The God of the Bible is morally good despite the Old Testament violence."
+ },
+ {
+  "id": 14,
+  "category": "Morality",
+  "short": "Slavery",
+  "resolution": "The Bible's rules on slavery can be defended in their context",
+  "question": "Can the Bible's rules on slavery be defended?",
+  "claim": "The Bible's rules on slavery are morally defensible in their context and consistent with a perfectly good God."
+ },
+ {
+  "id": 15,
+  "category": "Morality",
+  "short": "Women",
+  "resolution": "The Bible's treatment of women is just",
+  "question": "Does the Bible treat women justly?",
+  "claim": "The Bible's treatment of women is just and consistent with a perfectly good God."
+ },
+ {
+  "id": 16,
+  "category": "Morality",
+  "short": "Hell",
+  "resolution": "Eternal punishment in hell is compatible with a just God",
+  "question": "Is eternal punishment in hell consistent with a just and loving God?",
+  "claim": "Eternal conscious punishment in hell is just and consistent with a loving God."
+ },
+ {
+  "id": 17,
+  "category": "Morality",
+  "short": "Moral Argument",
+  "resolution": "Objective morality requires God",
+  "question": "Does objective morality require God?",
+  "claim": "Objective moral values and duties exist and require God; they are better explained by God than by any alternative."
+ },
+ {
+  "id": 18,
+  "category": "Philosophy",
+  "short": "Problem of Evil",
+  "resolution": "The existence of evil and suffering is compatible with the biblical God",
+  "question": "Are the evil and suffering in the world significant evidence against the existence of the biblical God?",
+  "claim": "The evil and suffering in the world are not significant evidence against the existence of the biblical God."
+ },
+ {
+  "id": 19,
+  "category": "Philosophy",
+  "short": "Divine Hiddenness",
+  "resolution": "God's apparent hiddenness is compatible with a loving God",
+  "question": "Is God's apparent hiddenness significant evidence against the existence of a loving God?",
+  "claim": "God's apparent hiddenness is not significant evidence against the existence of a loving God."
+ },
+ {
+  "id": 20,
+  "category": "Philosophy",
+  "short": "Faith & Reason",
+  "resolution": "Faith grounded in Scripture is rational, not opposed to reason",
+  "question": "Is faith grounded in Scripture rational, or is it opposed to reason?",
+  "claim": "Faith grounded in Scripture is rational and well supported by reason and evidence."
+ },
+ {
+  "id": 21,
+  "category": "Text",
+  "short": "Gospel Authorship",
+  "resolution": "The four Gospels were written by the traditional authors: the apostles Matthew and John, and Mark and Luke, companions of Peter and Paul.",
+  "question": "Were the Gospels written by Matthew, Mark, Luke and John?",
+  "claim": "The four Gospels were written by the traditional authors: the apostles Matthew and John, and Mark and Luke, companions of Peter and Paul."
+ },
+ {
+  "id": 22,
+  "category": "Text",
+  "short": "Mosaic Authorship",
+  "resolution": "Moses wrote the Torah (Genesis to Deuteronomy) substantially as we have it.",
+  "question": "Did Moses write the first five books of the Bible?",
+  "claim": "Moses wrote the Torah (Genesis to Deuteronomy) substantially as we have it."
+ },
+ {
+  "id": 23,
+  "category": "Science",
+  "short": "Adam & Eve",
+  "resolution": "All humans descend from a single original couple, Adam and Eve, as Genesis describes.",
+  "question": "Were Adam and Eve real people from whom all humans descend?",
+  "claim": "All humans descend from a single original couple, Adam and Eve, as Genesis describes."
+ },
+ {
+  "id": 24,
+  "category": "History",
+  "short": "Conquest of Canaan",
+  "resolution": "Israel conquered Canaan in a military campaign substantially as described in the book of Joshua.",
+  "question": "Did Israel conquer Canaan as the book of Joshua describes?",
+  "claim": "Israel conquered Canaan in a military campaign substantially as described in the book of Joshua."
+ },
+ {
+  "id": 25,
+  "category": "History",
+  "short": "Virgin Birth",
+  "resolution": "Jesus was conceived without a human father and born of a virgin, as Matthew and Luke describe.",
+  "question": "Was Jesus born of a virgin?",
+  "claim": "Jesus was conceived without a human father and born of a virgin, as Matthew and Luke describe."
+ },
+ {
+  "id": 26,
+  "category": "History",
+  "short": "Jesus' Divine Claims",
+  "resolution": "The historical Jesus understood himself as divine and claimed to be God (not only a prophet or messiah).",
+  "question": "Did the historical Jesus claim to be God?",
+  "claim": "The historical Jesus understood himself as divine and claimed to be God (not only a prophet or messiah)."
+ },
+ {
+  "id": 27,
+  "category": "History",
+  "short": "Disciples' Testimony",
+  "resolution": "The disciples' willingness to suffer and die for their testimony is strong evidence that Jesus really rose from the dead.",
+  "question": "Is the disciples' willingness to suffer and die good evidence that the resurrection happened?",
+  "claim": "The disciples' willingness to suffer and die for their testimony is strong evidence that Jesus really rose from the dead."
+ },
+ {
+  "id": 28,
+  "category": "Text",
+  "short": "Imminent Return",
+  "resolution": "Jesus did not predict that the end of the age and his return would come within his own generation; there is no failed prophecy.",
+  "question": "Did Jesus predict that the end of the world would come within his own generation?",
+  "claim": "Jesus did not predict that the end of the age and his return would come within his own generation; there is no failed prophecy."
+ },
+ {
+  "id": 29,
+  "category": "Science",
+  "short": "Fine-Tuning",
+  "resolution": "The fine-tuning of the universe's physical constants for life is best explained by an intelligent designer (God).",
+  "question": "Is the fine-tuning of the universe best explained by a designer?",
+  "claim": "The fine-tuning of the universe's physical constants for life is best explained by an intelligent designer (God)."
+ },
+ {
+  "id": 30,
+  "category": "Philosophy",
+  "short": "Cosmological Argument",
+  "resolution": "The cosmological argument (e.g. the Kalam: the universe began to exist, so it has a cause, which is God) succeeds in showing that God probably exists.",
+  "question": "Does the universe's existence point to God as its cause?",
+  "claim": "The cosmological argument (e.g. the Kalam: the universe began to exist, so it has a cause, which is God) succeeds in showing that God probably exists."
+ },
+ {
+  "id": 31,
+  "category": "Morality",
+  "short": "Sexual Ethics",
+  "resolution": "The Bible's prohibitions of same-sex sexual relations reflect sound moral teaching that applies today.",
+  "question": "Is the Bible's prohibition of same-sex relations morally sound?",
+  "claim": "The Bible's prohibitions of same-sex sexual relations reflect sound moral teaching that applies today."
+ },
+ {
+  "id": 32,
+  "category": "Text",
+  "short": "Book of Daniel",
+  "resolution": "The book of Daniel was written in the 6th century BC by Daniel, so its predictions were made before the events they describe.",
+  "question": "Was the book of Daniel written in the 6th century BC, as it presents itself?",
+  "claim": "The book of Daniel was written in the 6th century BC by Daniel, so its predictions were made before the events they describe."
+ }
+]

@@ -1,0 +1,157 @@
+{
+  "kind": "mixed",
+  "verdict": "Historically valuable but not securely reliable in every major claim; the resurrection remains unproved.",
+  "credence": 12,
+  "confidence": "low",
+  "bottom_line": "I interpret the claim as saying that the Gospels get the main course of Jesus’ ministry, characteristic teachings, death, and literal bodily resurrection substantially right, while allowing paraphrase, theological shaping, and some mistakes. Jesus’ existence and crucifixion are exceptionally well supported, and the Gospels preserve important information about his teaching. Their detailed narratives are harder to verify: they were written decades later, draw on related traditions, and sometimes differ. Early evidence shows that Jesus’ followers believed he appeared after his death, but whether God raised him depends heavily on prior assumptions about miracles. My 12% estimate applies to the whole claim including bodily resurrection; a claim about a substantial historical core without resurrection would score much higher.",
+  "sub_claims": [
+    {
+      "claim": "Jesus existed, preached in first-century Judea and Galilee, and was crucified under Pontius Pilate.",
+      "kind": "empirical",
+      "case_for": "Multiple early Christian sources place Jesus in this setting, and non-Christian writers also refer to him and his execution. Crucifixion is a difficult event for a movement proclaiming a triumphant Messiah to have invented.",
+      "case_against": "The sources are not contemporary biographies, and later non-Christian references do not independently establish every detail of the Gospel narratives.",
+      "consensus": "Overwhelmingly accepted by historians of early Christianity, including confessional scholars; theories that Jesus never existed are rejected by the great majority.",
+      "evidence": [
+        "Paul’s letters presuppose a recently living, crucified Jesus.",
+        "All four Gospels report crucifixion under Pilate.",
+        "Josephus and Tacitus mention Jesus; the relevant passage in Josephus includes later Christian alterations.",
+        "Archaeology independently confirms Pilate’s governorship."
+      ],
+      "verdict": "Almost certainly true.",
+      "credence": 99
+    },
+    {
+      "claim": "The Gospels preserve substantial material characteristic of Jesus’ teaching and ministry.",
+      "kind": "textual",
+      "case_for": "Recurring themes, such as God’s kingdom, parables, ethical demands, and disputes with contemporaries, appear across traditions. Oral transmission and teaching repetition could preserve characteristic material even without verbatim transcripts.",
+      "case_against": "The evangelists wrote in Greek and shaped inherited traditions for their audiences; Jesus probably taught largely in Aramaic. Shared wording is often explained by literary dependence, and attribution of individual sayings is debated.",
+      "consensus": "Most scholars, religious and nonreligious, think some characteristic teaching is recoverable, but disagree substantially about particular sayings, Jesus’ self-understanding, and how much the evangelists preserve verbatim.",
+      "evidence": [
+        "Mark and material shared by Matthew and Luke contain extensive teaching about God’s kingdom.",
+        "The Synoptic Gospels commonly depict Jesus teaching in parables.",
+        "John’s presentation of Jesus’ speeches differs markedly in style and emphasis from the Synoptics.",
+        "Most scholars regard Matthew and Luke as having used Mark, although the relationships among the sources remain debated."
+      ],
+      "verdict": "Probably true at the level of broad themes, less certain for individual wording.",
+      "credence": 85
+    },
+    {
+      "claim": "The Gospels give a substantially accurate account of the major episodes and sequence of Jesus’ ministry and death, allowing for some errors.",
+      "kind": "empirical",
+      "case_for": "The narratives fit much of the known social and geographical setting, contain distinctive details, and may preserve eyewitness testimony and early local traditions. Some differences can be explained by selection, compression, or different perspectives.",
+      "case_against": "Plausible settings do not independently verify the events narrated. The accounts sometimes differ in chronology and detail, and their shared sources mean agreement is not always independent corroboration.",
+      "consensus": "There is no consensus on the overall reliability of the narratives at this level. Many confessional scholars defend broad accuracy; many critical scholars judge individual episodes case by case and find significant literary or theological shaping.",
+      "evidence": [
+        "Mark places the temple incident near the end of Jesus’ ministry; John places a temple-cleansing episode near its beginning.",
+        "The Gospels differ in their accounts of events around the discovery of the empty tomb.",
+        "Most scholars date Mark around 70 CE and the other canonical Gospels later, though earlier dates have defenders.",
+        "The Gospels themselves do not straightforwardly identify their authors by name; traditional attributions remain debated."
+      ],
+      "verdict": "Plausible in broad outline, but too unevenly verified for high confidence.",
+      "credence": 65
+    },
+    {
+      "claim": "Early followers, including Paul, sincerely believed that the risen Jesus had appeared to them.",
+      "kind": "textual",
+      "case_for": "Paul reports an appearance to himself and passes on an earlier tradition naming other witnesses. His commitment and subsequent activity provide strong evidence of sincere conviction.",
+      "case_against": "Paul’s report is not direct testimony from each person he lists, and it gives little detail about the experiences. Sincere conviction does not establish what caused them.",
+      "consensus": "Broadly accepted that some early followers and Paul believed they had encountered the risen Jesus. Scholars, including religious scholars, differ over the nature and implications of those experiences.",
+      "evidence": [
+        "In 1 Corinthians 15:3–8, Paul lists appearances to Cephas, the Twelve, James, others, and himself.",
+        "Paul says he received and passed on at least part of this tradition.",
+        "The letter was written in the 50s CE, within a few decades of Jesus’ death.",
+        "The Gospel appearance narratives are later and differ in details."
+      ],
+      "verdict": "Very likely true, though the experiences are difficult to reconstruct.",
+      "credence": 95
+    },
+    {
+      "claim": "Jesus literally rose bodily from the dead through God’s action.",
+      "kind": "mixed",
+      "case_for": "An early resurrection proclamation, reported appearances to individuals and groups, and the emergence of a movement centered on resurrection make a cumulative case. The Gospel empty-tomb traditions are also important if they preserve early independent information.",
+      "case_against": "The evidence reaches us through committed insiders and does not provide direct, independent observation of the resurrection itself. Experiences, developing traditions, and uncertainty about burial and the empty tomb permit non-miraculous explanations, even if no single reconstruction is established.",
+      "consensus": "No consensus. Many confessional scholars affirm bodily resurrection as historical; many other historians regard the evidence as insufficient to establish it. Historical methods often bracket divine action, so this disagreement also reflects methodological and prior assumptions.",
+      "evidence": [
+        "Paul’s early appearance list is evidence of proclamation, not an eyewitness account of the empty tomb.",
+        "All four Gospels recount an empty tomb, but their accounts have differences and are not demonstrably independent.",
+        "The origin and historical status of the empty-tomb tradition remain disputed.",
+        "The resurrection claim is exceptional and its assessment depends on how one weighs miracle hypotheses against alternative explanations."
+      ],
+      "verdict": "Possible, but not established by the available historical evidence.",
+      "credence": 15
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does ‘substantially reliable’ require the literal bodily resurrection?",
+      "type": "definition",
+      "if_yes": "The overall probability is constrained by the probability of that exceptional claim; my estimate is 12%.",
+      "if_no": "A claim that the Gospels preserve a substantial historical core would be considerably more likely, though it would not follow that most individual episodes are verified.",
+      "your_view": "The claim explicitly includes resurrection, so I include it rather than scoring only the historical core."
+    },
+    {
+      "crux": "Before assessing these reports, how plausible is divine intervention in history?",
+      "type": "prior",
+      "if_yes": "If such intervention is reasonably likely, the early resurrection testimony can support a much higher probability; some theistic scholars judge it compelling.",
+      "if_no": "If divine intervention is assigned a very low prior probability, the available reports are unlikely to overcome that prior.",
+      "your_view": "I assign a low but nonzero prior to this specific miracle. Reasonable disagreement about that prior makes the numerical estimate fragile."
+    },
+    {
+      "crux": "Are the appearance and empty-tomb traditions early, independent, and specific enough to favor resurrection strongly over alternatives?",
+      "type": "evidence",
+      "if_yes": "The resurrection claim gains substantial weight, especially under a theistic prior.",
+      "if_no": "Sincere experiences and subsequent tradition remain viable explanations without establishing bodily resurrection.",
+      "your_view": "The appearance proclamation is early, but the independence and detail of the accounts, especially for the empty tomb, are too uncertain to carry the full claim decisively."
+    },
+    {
+      "crux": "How much theological and literary shaping is compatible with substantial historical reliability?",
+      "type": "definition",
+      "if_yes": "If paraphrase, rearrangement, and some errors are allowed, broad reliability of the ministry narrative is more plausible.",
+      "if_no": "If substantial reliability requires accurate chronology and close-to-verbatim reporting throughout, the claim is much less plausible.",
+      "your_view": "Ancient biography permits shaping without becoming fiction, but shaping and dependence still limit confidence in particular details."
+    }
+  ],
+  "strongest_for": [
+    "Paul preserves an early resurrection tradition and personally reports an appearance, limiting the time available for the central belief to emerge.",
+    "The Gospels plausibly incorporate earlier traditions, potentially including eyewitness testimony, and contain historically credible settings and details.",
+    "The crucifixion and central features of Jesus’ ministry fit independent lines of evidence.",
+    "For someone who considers divine action plausible, the resurrection may explain the early movement and testimony better than competing reconstructions."
+  ],
+  "strongest_against": [
+    "The Gospels were written decades after the events, and their literary relationships limit the force of apparent multiple attestation.",
+    "Differences in chronology, speeches, and resurrection narratives make uniformly accurate reporting difficult to establish.",
+    "The early appearance reports establish belief more directly than they establish a bodily resurrection or an empty tomb.",
+    "The evidence is not strong enough, in my judgment, to overcome a low prior probability for this particular miracle."
+  ],
+  "weak_arguments": {
+    "for": [
+      "‘There are many manuscripts, so the events happened’: manuscript abundance helps reconstruct texts, not automatically verify their claims.",
+      "‘The witnesses would not have suffered for a lie’: sincerity does not guarantee that an interpretation or experience was correct.",
+      "‘The accounts agree in four independent sources’: the Gospels have substantial literary and traditional relationships.",
+      "‘Every difference is merely complementary’: some differences are real interpretive problems, even if harmonization is sometimes possible."
+    ],
+    "against": [
+      "‘The Gospels contain theology, so they contain no history’: religious purposes do not prevent sources from preserving historical information.",
+      "‘Differences prove everything was invented’: disagreement can coexist with shared accurate reporting.",
+      "‘Jesus was copied wholesale from pagan dying-and-rising gods’: such comparisons often exaggerate or flatten important differences.",
+      "‘History has proved miracles impossible’: historical methods may bracket supernatural explanations without settling that philosophical question."
+    ]
+  },
+  "would_change": [
+    "A securely dated, independent first-century source giving detailed, firsthand information about Jesus’ ministry or post-death appearances.",
+    "Strong evidence that the empty-tomb tradition either originated independently very early or arose demonstrably later.",
+    "Better evidence identifying the Gospel authors and tracing particular narratives reliably to named eyewitnesses.",
+    "A persuasive argument substantially changing the prior probability of divine action or the relative likelihood of the competing explanations."
+  ],
+  "sources": [
+    {"citation": "The New Testament, especially the four Gospels and 1 Corinthians 15", "kind": "scripture"},
+    {"citation": "E. P. Sanders, The Historical Figure of Jesus, 1993", "kind": "scholarship"},
+    {"citation": "Richard Bauckham, Jesus and the Eyewitnesses, 2006", "kind": "scholarship"},
+    {"citation": "N. T. Wright, The Resurrection of the Son of God, 2003", "kind": "scholarship"},
+    {"citation": "Dale C. Allison Jr., The Resurrection of Jesus: Apologetics, Polemics, History, 2021", "kind": "scholarship"},
+    {"citation": "Raymond E. Brown, The Death of the Messiah, 1994", "kind": "scholarship"}
+  ]
+}
+
+
+--- stderr ---

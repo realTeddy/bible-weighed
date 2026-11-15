@@ -1,0 +1,45 @@
+{
+  "summary": "All four reviewers judge comprehensive inerrancy of the original writings unlikely. Their credences are GPT-6.1 2%, Gemini 3.8 3%, Grok 4.7 10%, and Opus 5.5 4%; their stated confidence ranges from low to high. All regard the Quirinius census chronology, Jesus’ genealogies, Passover timing, and the scale of the Exodus as serious difficulties, while acknowledging proposed harmonizations. They agree that genre, ancient conventions, and copying errors can explain some apparent problems, but differ in how strongly they characterize the remaining cases. They also differ over whether restricting the claim to lost originals makes it untestable and how much weight to give scientific objections and theological priors.",
+  "agreement": "high",
+  "agreed": [
+    "Full inerrancy is unlikely: one genuine error or contradiction would be enough to defeat the universal claim.",
+    "Some apparent discrepancies can be explained by genre, approximation, selective reporting, or copying; manuscript variants alone do not prove errors in the originals.",
+    "The Quirinius chronology, genealogies, Passover chronology, and large-scale Exodus are significant challenges, though defenders offer alternative readings or harmonizations.",
+    "Corroboration of some biblical people, places, or settings does not establish that every assertion is correct.",
+    "A strong belief that God guaranteed errorlessness would substantially affect the assessment; inspiration or theological reliability is a different claim from comprehensive factual inerrancy."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of conclusion and confidence",
+      "positions": "GPT-6.1 assigns inerrancy 2% with medium confidence; Gemini assigns 3% with high confidence; Grok assigns 10% with low confidence; Opus assigns 4% with medium confidence. Gemini describes some conflicts as irreconcilable, while the others emphasize that proposed resolutions may be possible but generally unlikely."
+    },
+    {
+      "point": "Lost originals and testability",
+      "positions": "Gemini calls autograph-only inerrancy unfalsifiable. Grok says it is not strictly falsified by surviving manuscripts and can be made unfalsifiable; Opus says the restriction is legitimate for copying slips but makes the claim hard to test. GPT-6.1 stresses that missing originals limit both proof and disproof, without declaring the claim unfalsifiable."
+    },
+    {
+      "point": "Scientific and cosmological objections",
+      "positions": "Gemini treats ancient cosmology and examples such as the hare’s cud-chewing as significant scientific problems when read as factual claims. Grok regards folk description and poetic cosmology as weaker evidence than historical cases, while treating a literal global flood as strongly contradicted. Opus treats folk classification as a weak objection and says cosmology depends substantially on what counts as an error. GPT-6.1 focuses on historical and textual cases rather than taking a comparable position on these examples."
+    },
+    {
+      "point": "Theological prior",
+      "positions": "GPT-6.1, Grok, and Opus say a sufficiently strong independent belief in a divine guarantee could rationally support a much higher estimate of inerrancy, though they do not themselves accept it as decisive. Gemini more sharply characterizes strict inerrancy as a theological presupposition that drives convoluted harmonizations."
+    },
+    {
+      "point": "Particular textual cases",
+      "positions": "Gemini lists Jehoiachin’s age among factual discrepancies, whereas Grok highlights it as a case that may be scribal and therefore less useful against autograph inerrancy. Opus and Grok discuss Judas’s death as a hard case but acknowledge a possible combined account; GPT-6.1 does not assess that case."
+    }
+  ],
+  "deciding_cruxes": [
+    "What did the authors intend to affirm, and which differences are permissible ancient conventions rather than false assertions?",
+    "Are the proposed harmonizations historically and textually probable, rather than merely possible?",
+    "How strongly do the census chronology, archaeological evidence, genealogies, and Passover accounts count against inerrancy?",
+    "How far can surviving textual evidence support conclusions about the missing originals, including possible early copying errors?",
+    "Is there independent reason to believe divine inspiration guarantees comprehensive factual errorlessness?"
+  ],
+  "what_is_settled": "The reviews agree that no original biblical manuscripts survive, surviving manuscripts contain variants, and some apparent discrepancies admit ordinary literary or copying explanations. They also agree that some biblical settings and figures have external corroboration, which alone cannot establish universal inerrancy.",
+  "what_is_open": "The original wording of every disputed passage, the intended meaning and historical resolution of particular tensions, and the likelihood of proposed harmonizations remain contested. The overall conclusion also depends on the definition of error and on prior theological commitments."
+}
+
+
+--- stderr ---

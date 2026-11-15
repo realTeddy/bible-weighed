@@ -1,0 +1,53 @@
+{
+  "summary": "All four reviewers consider it unlikely that all four Gospels were written by their traditional authors. They regard apostolic authorship of Matthew and John as especially doubtful, while treating the Mark and Luke attributions as more plausible but unproved. They agree that the Gospel narratives do not name their authors and that early church attributions are evidence worth considering. They differ in how strongly they interpret the literary evidence, how much weight they give tradition, and how confident they are. Their estimates for the full claim range from 3% to 14%, and all say a looser claim about sources or traditions would be more plausible.",
+  "agreement": "high",
+  "agreed": [
+    "The claim requires all four attributions to be correct; one or more could be correct even if the package is not.",
+    "The narratives do not explicitly name their authors, but this alone does not disprove the traditional attributions.",
+    "Early church testimony and the consistency of the traditional names count in their favor, though they do not settle the question.",
+    "Matthew's extensive relationship to Mark and the mismatch between Papias's description and the surviving Greek Gospel weigh against direct authorship by the apostle.",
+    "John's Beloved Disciple is not explicitly identified as John son of Zebedee, and John 21:24 raises questions about the relationship between witness and final writers.",
+    "Papias's testimony supports a possible Mark–Peter connection; Acts' 'we' passages support a possible connection between Luke–Acts and a companion of Paul, but neither establishes the identification.",
+    "A source relationship is different from authorship of the surviving text."
+  ],
+  "disagreed": [
+    {
+      "point": "Probability and confidence in the full claim",
+      "positions": "GPT-6.1 estimates 3% with medium confidence; Opus 5.5 estimates 4% with medium confidence; Gemini 3.8 estimates 14% with high confidence; Grok 4.7 estimates 14% with low confidence. All judge the package unlikely, but differ in their assessment of the evidence and uncertainty."
+    },
+    {
+      "point": "Strength of objections to Matthew and John",
+      "positions": "Gemini treats Matthew's dependence on Mark and John's composition as strong contradictions of apostolic authorship. GPT-6.1 treats literary features as evidence against, not decisive proof; Grok and Opus also find dependence a serious obstacle while allowing that an eyewitness could have used sources."
+    },
+    {
+      "point": "Greek literacy and composition",
+      "positions": "Gemini considers sophisticated Greek composition by Galilean disciples without extensive scribal help historically implausible. Grok and Opus caution against treating presumed illiteracy as a decisive shortcut, pointing to secretaries and other possibilities; GPT-6.1 places more weight on literary relationships and authorship evidence."
+    },
+    {
+      "point": "Mark and Luke",
+      "positions": "GPT-6.1, Grok and Opus describe both attributions as plausible or possible but unproved. Gemini is more doubtful, particularly of Luke as a direct companion of Paul, while allowing possible indirect connections. Their individual estimates are 28–40% for Mark and 25–40% for Luke."
+    },
+    {
+      "point": "Origins of the titles and weight of tradition",
+      "positions": "Gemini considers initial circulation without authorial names highly likely and favors second-century assignment of titles. Grok and GPT-6.1 leave their origin and reliability more open, while Opus considers early, uniform titles likely without treating them as proof. They differ over whether uniformity reflects preserved knowledge or later standardization."
+    },
+    {
+      "point": "A looser meaning of authorship",
+      "positions": "All say a source or tradition-bearer connection would be more plausible than direct composition. Grok suggests roughly 40–55% for a loose connection; Opus suggests 10–15%; GPT-6.1 and Gemini do not give comparable package estimates."
+    }
+  ],
+  "deciding_cruxes": [
+    "How reliable and independent are Papias and later church witnesses, and do their descriptions refer to the surviving Gospels?",
+    "When were the traditional titles attached, and does their uniformity preserve original knowledge or later standardization?",
+    "How difficult is Matthew's use of Greek Mark to reconcile with composition by an apostolic eyewitness?",
+    "Do Acts' 'we' passages reflect the author's travels with Paul, a source, or a literary choice, and how significant are differences between Acts and Paul's letters?",
+    "Who was John's Beloved Disciple, and what roles did that witness and later writers or editors have in composition?",
+    "Does 'written by' mean principal composition of the surviving texts, or a connection through sources, dictation, or a later school?",
+    "How much weight should be given to church tradition and assumptions about the authors' education and literary capabilities?"
+  ],
+  "what_is_settled": "The reviews agree that the narratives do not explicitly name Matthew, Mark, Luke or John as their authors, and that traditional attributions appear in early church testimony. They also agree that anonymity alone does not establish that the attributions are false.",
+  "what_is_open": "The identities of the authors, the origins and reliability of the titles and church traditions, and the roles of eyewitnesses, sources and editors remain disputed in the reviews. The answer also depends on the meaning of authorship and the weight given to tradition and literary evidence."
+}
+
+
+--- stderr ---

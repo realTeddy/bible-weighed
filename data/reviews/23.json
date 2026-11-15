@@ -1,0 +1,739 @@
+{
+ "topic": {
+  "id": 23,
+  "category": "Science",
+  "short": "Adam & Eve",
+  "resolution": "All humans descend from a single original couple, Adam and Eve, as Genesis describes.",
+  "question": "Were Adam and Eve real people from whom all humans descend?",
+  "claim": "All humans descend from a single original couple, Adam and Eve, as Genesis describes."
+ },
+ "analyses": [
+  {
+   "kind": "mixed",
+   "verdict": "Almost certainly not as a recent, sole founding couple",
+   "credence": 1,
+   "confidence": "medium",
+   "bottom_line": "I am scoring the claim that Adam and Eve were the first humans, specially created roughly within the last 10,000 years, and the sole biological ancestors of everyone alive today. Genesis itself does not specify that date; it is a common literal reading based partly on biblical genealogies. Human fossils, ancient DNA, and population genetics overwhelmingly favor a much older, branching human history involving large, interconnected populations. A different claim—that a couple living among other humans could eventually become genealogical ancestors of everyone alive—is much more plausible and is not ruled out by genetics. The direction of the evidence is robust, though an exact probability depends heavily on how one weighs scripture and possible miracles.",
+   "sub_claims": [
+    {
+     "claim": "A couple living within roughly the last 10,000 years were the first humans and sole biological ancestors of all people today.",
+     "kind": "empirical",
+     "case_for": "A literal reading of Genesis and its genealogies supports a relatively recent founding couple, especially if scripture is considered a reliable source of revealed history.",
+     "case_against": "Fossils and ancient DNA establish the existence of humans long before that period, while genetic diversity and admixture point to a long history of populations rather than a recent two-person origin.",
+     "consensus": "Scientists overwhelmingly reject this recent-origin account. Some confessional scholars and young-earth creationists affirm it; many other religious scholars accept an ancient human population.",
+     "evidence": [
+      "Homo sapiens fossils substantially predate 10,000 years.",
+      "Ancient human genomes and genetic evidence of interbreeding with Neanderthals predate that period.",
+      "Genesis gives genealogies but no explicit calendar date for creation."
+     ],
+     "verdict": "Overwhelmingly unlikely.",
+     "credence": 1
+    },
+    {
+     "claim": "The human ancestral population passed through a sole two-person bottleneck within the last several hundred thousand years.",
+     "kind": "empirical",
+     "case_for": "Population-size estimates depend on models and assumptions, and unusual population structure or a supernatural event could complicate ordinary inferences.",
+     "case_against": "Multiple independent genetic lineages and patterns of variation are much better explained by substantial ancestral populations and interbreeding among ancient groups. A two-person bottleneck would need an extraordinary alternative explanation for that evidence.",
+     "consensus": "Population geneticists broadly favor an ancestral population, not a recent sole founding pair. Some confessional researchers dispute particular models or propose alternative accounts; there is no consensus across scientific and confessional communities.",
+     "evidence": [
+      "Whole-genome analyses infer a complex population history rather than a recent founding pair.",
+      "Modern genomes retain ancestry from ancient groups including Neanderthals.",
+      "Inferred effective population size is a statistical quantity, not a direct census of every individual."
+     ],
+     "verdict": "Very unlikely under ordinary evolutionary assumptions.",
+     "credence": 2
+    },
+    {
+     "claim": "A couple who lived among other people could be genealogical ancestors of everyone alive today.",
+     "kind": "empirical",
+     "case_for": "Ancestral lines multiply rapidly, and migration can spread descendants widely. Models show that universal genealogical ancestry can arise without a two-person genetic bottleneck.",
+     "case_against": "Whether any particular ancient couple achieved this is difficult to establish; results depend on migration, isolation, and survival of descendant lines.",
+     "consensus": "The theoretical possibility is widely accepted. Confessional scholar Joshua Swamidass has argued for its relevance to Adam and Eve, though that does not establish that they existed.",
+     "evidence": [
+      "Genealogical ancestors need not contribute identifiable DNA to every living descendant.",
+      "Other contemporary people can also be ancestors of everyone alive today.",
+      "Models of common ancestry depend on assumptions about how populations mix."
+     ],
+     "verdict": "Plausible as a possibility, but not evidence for a particular couple.",
+     "credence": 98
+    },
+    {
+     "claim": "Genesis presents Adam and Eve as an original human couple.",
+     "kind": "textual",
+     "case_for": "Genesis 2–3 narrates the creation of a man and woman, and later passages portray them in an ancestral role. Traditional Jewish and Christian readings commonly take them as historical.",
+     "case_against": "The text's ancient literary and theological purposes do not automatically settle whether its authors intended modern biological claims or whether every narrative detail must be historical.",
+     "consensus": "Scholars recognize the narrative's ancestral role, but disagree about its intended historicity and how it relates to science. Confessional scholars likewise differ between historical, literary, and genealogical readings.",
+     "evidence": [
+      "Genesis 2–3 describes the man and woman in Eden.",
+      "Genesis 3:20 calls Eve the mother of all living.",
+      "Genesis does not explicitly discuss population genetics or give a creation date."
+     ],
+     "verdict": "The ancestral portrayal is clear; its intended and actual historicity are disputed.",
+     "credence": 90
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Must Adam and Eve have been the only human ancestors, rather than ancestors alongside other people?",
+     "type": "definition",
+     "if_yes": "The genetic and fossil evidence weighs strongly against a recent couple.",
+     "if_no": "A universal genealogical couple is compatible with evolutionary science, although their existence remains unestablished.",
+     "your_view": "I score the exclusive reading because the claim calls them a single original couple, and I distinguish it from the genealogical alternative."
+    },
+    {
+     "crux": "Is the couple placed within roughly the last 10,000 years?",
+     "type": "definition",
+     "if_yes": "The evidence against their being the first and sole founding humans is especially strong.",
+     "if_no": "An older founding pair avoids the most immediate dating conflict, but a sole bottleneck in the last several hundred thousand years still faces strong genetic objections.",
+     "your_view": "The date is a common literal interpretation, not an explicit statement in Genesis."
+    },
+    {
+     "crux": "Should scripture's apparent historical testimony outweigh conflicting scientific evidence?",
+     "type": "prior",
+     "if_yes": "A believer with a strong commitment to that interpretation can reasonably assign a much higher probability to the claim.",
+     "if_no": "Independent scientific evidence dominates, making the scored claim very unlikely.",
+     "your_view": "I give the independently testable evidence more weight. Science's ordinary methods do not disprove miracles, but invoking one does not by itself explain why the evidence looks as it does."
+    },
+    {
+     "crux": "Could the genetic evidence be explained without a large ancestral population?",
+     "type": "evidence",
+     "if_yes": "A sole founding couple becomes more plausible, especially on an older chronology.",
+     "if_no": "The exclusive-couple claim remains strongly disfavored.",
+     "your_view": "Current population-genetic explanations favor a long-lived, structured population; precise historical estimates remain model-dependent."
+    }
+   ],
+   "strongest_for": [
+    "Genesis is an ancient primary text whose straightforward ancestral narrative has been taken as historical by many religious communities.",
+    "For someone with strong independent reasons to trust divine revelation, apparent scientific conflict need not settle the historical question.",
+    "Population-genetic reconstructions involve assumptions and cannot directly observe every ancestral generation.",
+    "Universal genealogical ancestry is possible without genetic isolation, preserving a less exclusive historical-Adam proposal."
+   ],
+   "strongest_against": [
+    "Human fossils and ancient DNA show that humans existed far earlier than a recent literal chronology allows.",
+    "Genome-wide diversity and ancient admixture fit a branching population history much better than a recent sole couple.",
+    "The genealogical alternative permits other human ancestors and therefore does not establish the exclusive founding claim.",
+    "A miracle could be proposed to accommodate contrary evidence, but the proposal has little independent power to distinguish the claim from alternatives."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Mitochondrial Eve and Y-chromosomal Adam prove Genesis: they are ancestors along particular unbroken genetic lines, not necessarily contemporaries or the only people alive.",
+     "Everyone has ancestors, so everyone must descend exclusively from one original couple: shared ancestry does not imply exclusive ancestry.",
+     "Evolution is only a theory: in science, a theory is a well-supported explanatory framework, not merely a guess."
+    ],
+    "against": [
+     "Evolution makes universal common ancestors impossible: genealogical common ancestry is compatible with evolution and population mixing.",
+     "A two-person origin is impossible because two people could never have descendants: the objection concerns the fit with actual genetic and historical evidence, not arithmetic possibility.",
+     "Science has disproved every possible miraculous or theological interpretation: scientific methods constrain empirical versions but cannot eliminate every supernatural reinterpretation."
+    ]
+   },
+   "would_change": [
+    "Ancient genomes and fossils showing a recent, worldwide replacement from two founders, supported by independently verified dating.",
+    "A reproducible population-genetic model explaining observed diversity and ancient admixture from a sole couple substantially better than current population models.",
+    "Independent, well-dated historical evidence identifying a specific couple and tracing their descendants across populations.",
+    "A compelling independent argument that a particular literal interpretation of Genesis is divinely guaranteed despite the contrary empirical evidence."
+   ],
+   "sources": [
+    {
+     "citation": "Genesis, chapters 2–5",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Li and Durbin, “Inference of human population history from individual whole-genome sequence,” 2011",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Green et al., “A Draft Sequence of the Neandertal Genome,” 2010",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Rohde, Olson, and Chang, “Modelling the recent common ancestry of all living humans,” 2004",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Joshua Swamidass, The Genealogical Adam and Eve, 2019",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John H. Walton, The Lost World of Adam and Eve, 2015",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "gpt",
+   "label": "GPT-6.1",
+   "model": "gpt-6.1-terra",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Almost certainly false under standard biological and historical readings; sole genetic progenitorship is empirically ruled out.",
+   "credence": 2,
+   "confidence": "high",
+   "bottom_line": "Extensive data from modern population genomics, paleoanthropology, and comparative biology demonstrate that the human species arose from an ancestral hominin population that never contracted to a bottleneck of just two individuals. Coalescent modeling of human genetic diversity and trans-species polymorphisms requires an ancestral effective population size of thousands across the Pleistocene, and ancient DNA confirms interbreeding with other hominins such as Neanderthals and Denisovans. Furthermore, historical-critical and ancient Near Eastern scholarship shows that Genesis 1–3 was composed as a theological and mythopoetic etiology rather than modern biological reporting. While models such as a 'genealogical Adam and Eve' show a historical couple could be among the ancestors of all humans alongside an interbreeding broader population, the traditional claim of exclusive descent from a single original pair is contradicted by overwhelming empirical evidence.",
+   "sub_claims": [
+    {
+     "claim": "All modern humans biologically descend exclusively from a founding bottleneck of two individuals within the past several hundred thousand years.",
+     "kind": "empirical",
+     "case_for": "Young-earth and old-earth creationist geneticists argue that high initial 'created heterozygosity' in an original couple, followed by rapid post-creation mutation and geographic dispersal, can account for modern allelic diversity without an ancestral population.",
+     "case_against": "Coalescence times across thousands of independent genetic loci, linkage disequilibrium patterns, and ancient trans-species polymorphisms (notably in the HLA immune system) require an ancestral human breeding population that remained consistently at or above thousands of individuals.",
+     "consensus": "Universal consensus among geneticists and evolutionary biologists that a two-person biological bottleneck for Homo sapiens is genetically impossible; mainstream Christian biologists (e.g., at BioLogos) share this consensus.",
+     "evidence": [
+      "Trans-species polymorphisms at the HLA-DRB1 locus shared between humans and chimpanzees",
+      "Linkage disequilibrium decay curves in diverse human populations indicating ancestral effective population size (Ne) of roughly 10,000",
+      "Independent coalescence dates for distinct genomic regions ranging from hundreds of thousands to millions of years ago"
+     ],
+     "verdict": "Refuted by population genetics",
+     "credence": 1
+    },
+    {
+     "claim": "The human species originated through gradual evolutionary transitions in Africa rather than an instantaneous de novo creation of a single pair.",
+     "kind": "empirical",
+     "case_for": "Critics of human evolution point to debates over specific hominin phylogenetic branching, morphological gaps between Australopithecines and early Homo, and the rapid emergence of complex behavioral modernity.",
+     "case_against": "The fossil record provides an anatomically continuous series from early hominins through archaic Homo sapiens to modern humans, corroborated by archaeological tool cultures and ancient DNA demonstrating archaic admixture.",
+     "consensus": "Universal consensus among paleoanthropologists, evolutionary biologists, and mainstream physical anthropologists.",
+     "evidence": [
+      "Transitional fossil specimens from Jebel Irhoud (~300,000 years old) showing archaic-modern mosaics",
+      "Ancient genomic DNA demonstrating 1-2% Neanderthal DNA in non-Africans and Denisovan DNA in Oceanian/Asian populations",
+      "Stratified technological progression from Oldowan to Acheulean to Middle Stone Age assemblages"
+     ],
+     "verdict": "Overwhelmingly supported by fossil, archaeological, and genetic data",
+     "credence": 99
+    },
+    {
+     "claim": "Genesis 1-3 was intended by its original authors as an empirical, historical account of the biological origin of the human species.",
+     "kind": "textual",
+     "case_for": "Biblical genealogies in Genesis 5, 1 Chronicles 1, and Luke 3 treat Adam as a historical individual, and Apostle Paul in Romans 5 and 1 Corinthians 15 draws theological parallels between a historical Adam and a historical Christ.",
+     "case_against": "Genesis 1–11 utilizes cosmological, literary, and mytho-historical conventions typical of the ancient Near East (e.g., Enuma Elish, Atrahasis) to communicate theological claims regarding God's relationship to humanity and cosmic order, using symbolic motifs such as talking serpents and trees of life rather than physical natural history.",
+     "consensus": "Broad consensus among critical biblical scholars, Hebraists, and mainstream confessional theologians; rejected primarily by conservative evangelical inerrantists and fundamentalists.",
+     "evidence": [
+      "Etymological wordplay between 'adam' (mankind/earthling) and 'adamah' (ground)",
+      "Presence of two distinct, complementary creation accounts in Genesis 1:1-2:3 and Genesis 2:4-25 with different structural sequences",
+      "Pervasive structural and thematic parallels with ancient Mesopotamian primordial mythologies"
+     ],
+     "verdict": "Largely rejected by historical-critical and literary scholarship",
+     "credence": 10
+    },
+    {
+     "claim": "A historical couple living in the ancient Near East could have become universal genealogical ancestors of all living humans.",
+     "kind": "empirical",
+     "case_for": "Mathematical and genealogical models show that pedigree common ancestors accumulate rapidly due to exponential expansion of ancestral lineages, meaning an individual couple several thousand years ago could be genealogical ancestors to everyone alive today if their descendants interbred across global populations.",
+     "case_against": "Severe geographic isolation of certain ancient populations (such as Indigenous Australians and Tasmanians for tens of thousands of years) makes universal genealogical reach from a recent Middle Eastern couple geographically implausible; moreover, this requires interbreeding with an already existing outside population, abandoning sole biological ancestry.",
+     "consensus": "Accepted as mathematically possible in principle by population theorists, but heavily qualified by geographic constraints; theologians remain divided over whether non-exclusive genealogical ancestry preserves the intended biblical meaning.",
+     "evidence": [
+      "Mathematical pedigree simulations of universal most recent common ancestors (e.g., Chang 1999; Rohde et al. 2004)",
+      "Deep genetic divergence and archaeological evidence of continuous isolation in Sahul (Australia/New Guinea) for ~50,000 years",
+      "S. Joshua Swamidass's genealogical modeling in 'The Genealogical Adam and Eve' (2019)"
+     ],
+     "verdict": "Plausible for genealogical ancestry only if an outside population exists, but invalid as sole biological descent",
+     "credence": 30
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does the claim require exclusive biological/genetic progenitorship (no other human ancestors contributing to modern diversity)?",
+     "type": "definition",
+     "if_yes": "The claim is empirically disproven by population genetics, ancient DNA, and paleontology (credence <= 1%).",
+     "if_no": "If understood as universal genealogical ancestry or spiritual representation alongside a wider interbreeding population, the claim becomes biologically possible though historically unverifiable.",
+     "your_view": "The historical and confessional meaning of the Genesis claim has overwhelmingly entailed exclusive biological descent ('from one man he made all the nations'); non-exclusive genealogical models rescue possibility only by altering the traditional doctrine."
+    },
+    {
+     "crux": "Can empirical genetic diversity and fossil continuity be set aside by invoking direct supernatural intervention (e.g., created heterozygosity or apparent age)?",
+     "type": "prior",
+     "if_yes": "Any scientific finding can be harmonized with an original couple by positing miracles that mimic deep evolutionary history.",
+     "if_no": "The claim must be judged based on standard empirical and historical inferences, which rule out a two-person bottleneck.",
+     "your_view": "Invoking unfalsifiable supernatural mechanisms that precisely mimic evolutionary history undermines empirical reasoning and portrays the natural order as fundamentally deceptive; evidence must be evaluated naturalistically."
+    },
+    {
+     "crux": "Did ancient Near Eastern literature and the author(s) of Genesis intend Genesis 1-3 as literal historiography or theological etiology?",
+     "type": "evidence",
+     "if_yes": "Scripture's assertions are in direct, irreconcilable factual conflict with modern biological science.",
+     "if_no": "The text functions within ancient literary genres to convey theological realities, rendering modern scientific concordism a category error.",
+     "your_view": "Comparative Semitic literature and textual analysis strongly indicate Genesis 1-11 belongs to ancient mytho-historical and theological genres rather than modern material historiography."
+    }
+   ],
+   "strongest_for": [
+    "Coalescent theory establishes that all living humans trace uniparental genetic lineages back to individual ancestors ('Mitochondrial Eve' and 'Y-chromosomal Adam'), proving that single common ancestors do occur in human ancestry.",
+    "Mathematical modeling of family trees demonstrates that universal genealogical ancestors can exist far more recently than genetic ancestors, making a shared historical ancestral couple possible if interbreeding with others occurred.",
+    "Biblical genealogies (Genesis 5, 11; Luke 3) and key New Testament theological frameworks (Romans 5; 1 Corinthians 15) treat Adam as an individual historical figure, demonstrating that early Jewish and Christian communities understood him as a real person.",
+    "Models of 'created heterozygosity' provide a theoretical mechanism within a young-earth framework where an initial pair could be miraculously endowed with high allelic diversity."
+   ],
+   "strongest_against": [
+    "Human population genomics shows that allele frequencies and linkage disequilibrium require an effective ancestral population size that never dropped below several thousand individuals across the Pleistocene.",
+    "Ancient human genomes demonstrate genetic admixture with Neanderthals and Denisovans, proving our species interbred with other hominin populations rather than descending strictly from an isolated pair.",
+    "Mitochondrial Eve and Y-chromosomal Adam did not live concurrently (living tens of thousands of years apart) and were individual members of large contemporary populations, not an isolated pair.",
+    "The African fossil and archaeological record displays unbroken morphological and cultural progression spanning millions of years, leaving no room for a sudden de novo appearance of the species.",
+    "Comparative ancient Near Eastern literature demonstrates that Genesis 1-11 shares genre conventions with regional etiologies, meaning treating it as a literal biological report misinterprets the text."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Conflating 'Mitochondrial Eve' or 'Y-chromosomal Adam' with the biblical Adam and Eve, ignoring that they lived millennia apart in large breeding populations.",
+     "Claiming that massive mutation rates post-Fall generated all modern human genetic variation from two individuals, which would induce catastrophic, fatal mutational loads.",
+     "Relying on the Omphalos / apparent-age argument (God created human DNA with preexisting coalescent signatures), which is unfalsifiable and implies divine deception."
+    ],
+    "against": [
+     "Arguing that the theory of evolution disproves the existence of any historical individuals named Adam and Eve who could have lived in the ancient Near East as tribal leaders or spiritual representatives.",
+     "Asserting that Genesis is merely a direct plagiarism of the Epic of Gilgamesh or Enuma Elish without recognizing its distinct Hebrew theological polemic.",
+     "Claiming science has conclusively disproved the philosophical possibility of miracles, confusing methodological naturalism with metaphysical certainty."
+    ]
+   },
+   "would_change": [
+    "Discovery of a genuine, species-wide genetic bottleneck strictly limited to two individuals in the Homo sapiens lineage that coherently accounts for modern global nucleotide diversity without lethal mutational load.",
+    "Discovery of ancient Near Eastern comparative literature demonstrating that Genesis 1-11 was understood by contemporary Levantine cultures as rigorous, literal natural history rather than sacred etiology.",
+    "Genomic evidence showing that highly polymorphic immune loci (like HLA-DRB1) coalesced exclusively within the last 10,000 years rather than prior to the human-chimpanzee divergence.",
+    "Fossil and archaeological discoveries showing an absolute discontinuity in tool culture, physiology, and anatomy in the Levant, with an abrupt appearance lacking any evolutionary precursors."
+   ],
+   "sources": [
+    {
+     "citation": "Dennis R. Venema and Scot McKnight, Adam and the Genome: Reading Scripture after Genetic Science, 2017",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "S. Joshua Swamidass, The Genealogical Adam and Eve: The Surprising Science of Universal Ancestry, 2019",
+     "kind": "scientific"
+    },
+    {
+     "citation": "John H. Walton, The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate, 2015",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Peter Enns, The Evolution of Adam: What the Bible Does and Doesn't Say about Human Origins, 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Francis S. Collins, The Language of God: A Scientist Presents Evidence for Belief, 2006",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Joseph T. Chang, 'Recent common ancestors of all present-day individuals', Advances in Applied Probability, 1999",
+     "kind": "scientific"
+    }
+   ],
+   "id": "gemini",
+   "label": "Gemini 3.8",
+   "model": "gemini-3.8-flash",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Almost certainly false",
+   "credence": 2,
+   "confidence": "high",
+   "bottom_line": "Read as it is usually meant — one first couple, the only original humans, from whom everyone else exclusively descends, in the way Genesis tells it — the claim is almost certainly false. Human genetic variation is too deep and too structured to have passed through two people, and fossils plus ancient genomes show populations, not a single pair, over hundreds of thousands of years. Mitochondrial Eve and Y-chromosomal Adam are not that couple: each is only the most recent common ancestor of one non-recombining lineage, inside a large population, and they were not a founding pair. Critical biblical scholarship generally reads Genesis 2–3 as primeval theology rather than archival history, while many confessional theologians still affirm a historical Adam for doctrinal reasons. Those doctrinal views match the data only by weakening the claim, or by a prior that created evidence of population history can be set aside. On the claim as stated, the evidence is lopsided.",
+   "sub_claims": [
+    {
+     "claim": "All living humans descend exclusively through a bottleneck of one contemporaneous pair.",
+     "kind": "empirical",
+     "case_for": "If coalescent models and mutation-rate estimates were systematically wrong, a pair could be forced into the data. A further escape is specially created starting diversity: God made two people who already carried the variation of a large population. Uniparental common ancestors show that single-lineage ancestry is a real genetic phenomenon, so a founding pair is not conceptually confused.",
+     "case_against": "Independent genomic methods infer a long-term ancestral population of thousands, not two. One pair can pass on at most four copies of each autosomal locus, which cannot produce the depth, geographic structure, or very old alleles seen in humans, including variants shared with other apes. Ancient genomes already show structured human populations tens of thousands of years ago.",
+     "consensus": "Effectively unanimous among population geneticists. A small creationist minority rejects the inference, usually by invoking created diversity or disputed clocks rather than a mainstream alternative model. Many religious scientists accept the genetic conclusion and reinterpret Adam instead.",
+     "evidence": [
+      "Genome-wide coalescent estimates put long-term human effective population size in the thousands to tens of thousands, not two",
+      "A single pair transmits at most four autosomal haplotypes, far below observed polymorphism",
+      "Alleles older than the human lineage, including some maintained by balancing selection, are a poor fit to a total bottleneck of two",
+      "Li and Durbin 2011 and later ancient-genome work reconstruct a large, structured population rather than a pair"
+     ],
+     "verdict": "Almost certainly false",
+     "credence": 1
+    },
+    {
+     "claim": "Mitochondrial Eve and Y-chromosomal Adam were a mated couple and the only humans alive in their time.",
+     "kind": "empirical",
+     "case_for": "All living human mitochondrial DNA traces to one woman and all living Y chromosomes to one man, so it is easy to hear the technical names as the biblical couple. If date estimates were revised into the same generation and other lineages were assumed to have died out completely, a couple could be imagined.",
+     "case_against": "These figures are most recent common ancestors of two non-recombining lineages only. They need not have met, lived at the same time, or been anyone's unique parents. Most of their contemporaries also left autosomal descendants. The names record lineage sorting, not a census of two.",
+     "consensus": "Geneticists agree this popular reading is a mistake. Some religious apologists still use it; specialists in human evolutionary genetics, including religious ones, do not.",
+     "evidence": [
+      "Cann, Stoneking, and Wilson 1987 identified a maternal common ancestor without claiming she was the only woman alive",
+      "Mitochondrial and Y genealogies are a tiny fraction of ancestry and are expected even in a large population",
+      "Published molecular dates have not established them as contemporaries, and both fall in periods with other humans",
+      "Most genes do not descend from either person"
+     ],
+     "verdict": "False",
+     "credence": 1
+    },
+    {
+     "claim": "The fossil and archaeological record is what exclusive descent from one original couple would lead us to expect.",
+     "kind": "empirical",
+     "case_for": "The record is incomplete, anatomical humanity is a fuzzy boundary, and a spiritually first couple living inside a wider biological population could be archaeologically invisible. If radiometric dates were radically wrong, a recent sole pair would not be contradicted by apparently ancient bones.",
+     "case_against": "Homo sapiens appears as a pan-African population by roughly 300,000 years ago, with earlier Homo and later Neanderthal and Denisovan groups. Some of those groups interbred with ancestors of living people, so living humans have ancestry from more than one late hominin population. There is no empirical signature of a unique origin pair, and human remains and genomes older than a traditional Genesis chronology are already in hand.",
+     "consensus": "Paleoanthropologists overwhelmingly support a population origin in Africa and later archaic admixture. Confessional dissent mainly rejects the dates or denies that pre-Adamic hominins count as human, rather than offering a competing fossil synthesis.",
+     "evidence": [
+      "Hublin and colleagues 2017 reported Jebel Irhoud fossils about 300,000 years old, assigned to early Homo sapiens",
+      "Green and colleagues 2010 and later work found Neanderthal ancestry in many living people; Denisovan ancestry is also established",
+      "Stone tools and human remains form a long regional record, not a single point of origin a few thousand years ago",
+      "Sequenced humans older than any young-earth Adam already exist"
+     ],
+     "verdict": "The record strongly contradicts a sole first couple",
+     "credence": 3
+    },
+    {
+     "claim": "Genesis accurately reports a sole historical first couple from whom all humans exclusively descend.",
+     "kind": "textual",
+     "case_for": "Genesis 2–3 names particular people, has Eve called mother of all living, and follows them with genealogies. Paul in Romans 5 and 1 Corinthians 15 treats Adam as a real counterpart to Christ. Jewish and Christian tradition long took that as history. The story is coherent on its own ancient terms, and later scripture's use of Adam is easier if the author meant a real person.",
+     "case_against": "Genesis 1–11 is primeval narrative, with human-from-clay and early-catastrophe motifs known elsewhere in the ancient Near East. Adam is a wordplay on human and soil. Two creation accounts, a talking serpent, and Cain's fear of other people sit badly with a modern historical report of one sole pair. Even if the composers believed in a first pair, belief in a genre is not evidence the event happened. Comparative and literary study explains the text without a historical couple.",
+     "consensus": "Historical-critical scholars, including many Jewish and Christian ones, treat Genesis 2–3 as non-historical primeval literature. Confessional readers are divided: many evangelicals, traditional Catholics, and Orthodox Jews affirm a historical Adam; many mainline, academic Catholic, and academic Jewish interpreters do not. The split tracks priors about genre and scriptural authority more than a dispute over the Hebrew wording.",
+     "evidence": [
+      "Genesis 2–3; Genesis 3:20; Genesis 4–5 and 10–11 genealogies culminating in the nations",
+      "Romans 5:12–19 and 1 Corinthians 15:21–22, 45",
+      "Ancient Near Eastern motifs of gods forming humans from clay, alongside important differences from any one Mesopotamian text",
+      "Humani Generis (1950) treated polygenism as theologically problematic; later Catholic and evangelical theology has split over whether biological monogenism is required"
+     ],
+     "verdict": "The narrative depicts a first pair, but that depiction is very unlikely to be accurate history",
+     "credence": 4
+    },
+    {
+     "claim": "A recent couple who are genealogical ancestors of everyone, but not the first or sole genetic source, still fulfills the claim as Genesis describes.",
+     "kind": "philosophical",
+     "case_for": "Pedigree models show universal genealogical ancestry can arise within a few thousand years inside a large population. Joshua Swamidass and others argue a historical couple in the traditional biblical era could be ancestors of all living people by the first century without being genetic sole parents. If descend means appears in everyone's family tree, and if Genesis is read symbolically about status rather than biology, the claim can be salvaged.",
+     "case_against": "That model requires many humans outside the garden. Genesis presents Adam and Eve as the original humans and, through Noah, as the exclusive source of later nations, not as one couple among others. Federal headship and recent genealogical ancestry are coherent theological revisions. They are not the claim of a single original couple as Genesis describes.",
+     "consensus": "Geneticists accept recent universal pedigree ancestry as a modeling result and reject recent exclusive origins. The genealogical-Adam proposal is a live option among some Christian scholars and is rejected by readers who insist on biological monogenism and by scholars who see no historical Adam at all.",
+     "evidence": [
+      "Rohde, Olson, and Chang 2004 modelled a recent genealogical common ancestor of all living humans",
+      "Swamidass, The Genealogical Adam and Eve (2019), explicitly retains people outside the Adamic line",
+      "Genesis 3:20, the Genesis 5 genealogy, and the Table of Nations are naturally read as exclusive descent",
+      "Cain's wife and fear of others are sometimes cited as hints of outsiders, but traditional exegesis explains them as descendants and still affirms exclusive origin"
+     ],
+     "verdict": "Possible as a different claim; it does not establish the claim being tested",
+     "credence": 12
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does the claim require an exclusive first couple who are the sole biological source of humanity, as the plain Genesis story has usually been taken, rather than a federal head or a genealogical ancestor inside a larger population?",
+     "type": "definition",
+     "if_yes": "The claim is almost certainly false; credence stays near the low single digits.",
+     "if_no": "A much weaker claim becomes possible or, for mere genealogical ancestry, even likely — but that is no longer the claim under test.",
+     "your_view": "The wording single original couple, as Genesis describes, requires the strong reading. Weaker readings should be scored separately and not used to rescue this one."
+    },
+    {
+     "crux": "Should genetic, fossil, and archaeological evidence be discounted because a miracle could create two people who already looked like a large ancient population?",
+     "type": "prior",
+     "if_yes": "Empirical evidence cannot count against the claim. Credence then tracks one's confidence in a literal, inerrant Genesis, which for some believers is high.",
+     "if_no": "Convergent evidence drives credence near zero.",
+     "your_view": "I do not adopt that prior. It can be fitted to any contrary observation and is not independently supported. Apparent deep history across genetics, bones, and archaeology is best explained as real history."
+    },
+    {
+     "crux": "Are coalescent population-size estimates and ancient-DNA results reliable enough to exclude a two-person bottleneck?",
+     "type": "evidence",
+     "if_yes": "Exclusive descent from one couple fails even if one grants an old date for Adam.",
+     "if_no": "The genetic case weakens, though fossils, archaeology, and genomes older than a young-earth timeline would still count heavily against the Genesis chronology.",
+     "your_view": "Yes. Different methods and direct ancient genomes converge. Rejecting all of them together is not a reasonable reading of the evidence."
+    },
+    {
+     "crux": "Does a doctrine of original sin or Paul's contrast between Adam and Christ require biological descent from one historical couple?",
+     "type": "prior",
+     "if_yes": "Some theological systems will affirm the couple and reinterpret or override the science.",
+     "if_no": "Archetypal, federal, or population-level accounts of sin remain open, and the biological claim must stand on evidence, where it fails.",
+     "your_view": "Doctrinal fit is not historical evidence. Whether theology needs biological monogenism is a live debate even among confessional scholars, and a yes would still not show that the couple existed."
+    }
+   ],
+   "strongest_for": [
+    "Paul and a long Jewish and Christian tradition treat Adam as a real person whose act affected all humanity, so the claim is not a modern misreading of the story's role in that tradition.",
+    "Single common ancestors of particular lineages are real genetic facts, so talk of an ancestral individual is not nonsense.",
+    "Population models allow some recent couple to be genealogical ancestors of all living people if many other people existed outside that couple.",
+    "If one grants special creation of apparent ancestry, no genetic observation can logically exclude a miracle; the claim then becomes a theological posit rather than a scientific one.",
+    "The Hebrew narrative is theologically purposeful and was not written to answer modern coalescent theory, so conflict with genetics does not by itself prove the authors were doing failed science."
+   ],
+   "strongest_against": [
+    "Multiple genetic methods infer thousands of ancestors across the relevant period, not two, and a pair can transmit at most four copies of each autosomal gene.",
+    "Dated fossils and ancient genomes show human populations and close relatives over hundreds of thousands of years, including people older than any traditional Genesis date.",
+    "Neanderthal and Denisovan interbreeding means living people have ancestry from more than one late hominin population.",
+    "Mitochondrial Eve and Y-chromosomal Adam were not a sole founding couple and are not the source of most human genes.",
+    "Genesis 1–11 fits ancient primeval literature better than archival history, and even a historical intention would not outweigh the biological and fossil evidence."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Mitochondrial Eve and Y-chromosomal Adam prove the biblical couple. They do not: the titles name lineage ancestors in a large population, not the only two humans.",
+     "Because Jesus or Paul mentioned Adam, modern genetics must be wrong. A theological allusion does not identify genre or overturn convergent physical evidence.",
+     "There are no transitional fossils, so a first pair is required. Hominin fossils are numerous; absence-of-evidence rhetoric is outdated.",
+     "Genetic entropy or young-earth mutation clocks show a large ancient population is impossible. Those arguments are not accepted in population genetics and do not identify a historical Edenic pair."
+    ],
+    "against": [
+     "Genesis is just a copy of Enuma Elish or one other Mesopotamian myth. Parallels, especially human-from-clay motifs and the flood, are real, but the Adam story is not a simple plagiarism, and literary dependence would not by itself decide the biological question.",
+     "Science has disproved God, therefore Adam and Eve did not exist. The claim is about a couple and a text, not about the existence of God.",
+     "No one named Adam or Eve could have existed. The names are Hebrew words for human and life; the issue is exclusive original parenthood, not whether two people ever bore those names.",
+     "Believers disagree, so the text has no plain sense. The narrative does depict a first pair and later exclusive descent through Noah; disagreement is mostly about genre and authority, not about that depiction."
+    ]
+   },
+   "would_change": [
+    "A demonstrated fatal error, shared by coalescent methods, ancient genomes, and fossil dating, showing that human ancestry really did pass through two individuals.",
+    "Ancient DNA in which human variation collapsed toward four haplotypes in a way current data have missed, at a date that also fit the Genesis setting.",
+    "Strong evidence that Neanderthal and Denisovan admixture, and genomes older than a traditional Adam, were systematic misidentifications.",
+    "A textual demonstration that Genesis does not depict exclusive origin at all, which would change which claim is being scored rather than prove this one.",
+    "If the claim were officially restated as mere genealogical ancestry or federal headship, credence in that different claim would be much higher; that restatement is not evidence for the claim as written."
+   ],
+   "sources": [
+    {
+     "citation": "Genesis 1–11; Romans 5:12–19; 1 Corinthians 15:21–22, 45",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Cann, Stoneking, and Wilson, Mitochondrial DNA and human evolution, Nature, 1987",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Li and Durbin, Inference of human population history from individual whole-genome sequences, Nature, 2011",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Green et al., A Draft Sequence of the Neandertal Genome, Science, 2010",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Hublin et al., New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens, Nature, 2017",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Rohde, Olson, and Chang, Modelling the recent common ancestry of all living humans, Nature, 2004",
+     "kind": "scientific"
+    },
+    {
+     "citation": "David Reich, Who We Are and How We Got Here, 2018",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Pius XII, Humani Generis, 1950",
+     "kind": "primary"
+    },
+    {
+     "citation": "Peter Enns, The Evolution of Adam, 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John H. Walton, The Lost World of Adam and Eve, 2015",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "S. Joshua Swamidass, The Genealogical Adam and Eve, 2019",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "grok",
+   "label": "Grok 4.7",
+   "model": "grok-4.7",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "On the plain reading (a single couple as the sole biological progenitors of all humans), almost certainly false. Weaker reinterpretations remain possible but are mostly untestable.",
+   "credence": 2,
+   "confidence": "high",
+   "bottom_line": "The claim most naturally means that every human alive descends from one couple and from no one else, roughly as a straightforward reading of Genesis 1–5 suggests. Population genetics strongly rules this out for the last several hundred thousand years. Human genetic diversity, measured in many independent ways, requires an ancestral population that never fell below thousands of breeding individuals. Interbreeding with Neanderthals and Denisovans adds further non-Adamic ancestry. Two reframings survive the scientific evidence: S. Joshua Swamidass's 'genealogical' Adam and Eve, a recent couple who are among everyone's ancestors but not the only ones, and William Lane Craig's very ancient pair from roughly 750,000+ years ago. Whether either counts as 'as Genesis describes' is a matter of definition and theology that evidence cannot settle. Neither has positive empirical support; they are best described as compatibility arguments.",
+   "sub_claims": [
+    {
+     "claim": "Modern humans descend from a population that passed through a bottleneck of exactly two individuals (sole genetic progenitors) within the last ~10,000–500,000 years.",
+     "kind": "empirical",
+     "case_for": "Bottleneck estimates depend on models of mutation rate, recombination, selection and population structure, and some critics argue these models are imperfect. Hössjer and Gauger (2019) constructed models claiming a single-couple origin cannot be excluded beyond roughly 500,000 years ago. Before that horizon, the signal of a brief two-person bottleneck may be erased.",
+     "case_against": "Many independent methods agree that human effective population size has stayed in the thousands to tens of thousands for at least several hundred thousand years. These methods include linkage disequilibrium decay, allele frequency spectra, coalescence-based methods (PSMC), and the number and age of alleles at highly diverse loci such as HLA. Two people can carry at most four variants per autosomal locus. Many loci have dozens of ancient lineages that coalesce far deeper than any recent bottleneck. Incomplete lineage sorting with chimpanzees and gorillas points the same way.",
+     "consensus": "Near-unanimous among population geneticists, including Christian geneticists such as Francis Collins and Dennis Venema, that no two-person bottleneck occurred in at least the last ~300,000–500,000 years. A small number of ID-affiliated researchers dissent. Even Craig and Swamidass accept the recent-bottleneck exclusion.",
+     "evidence": [
+      "PSMC and related analyses of whole genomes (Li & Durbin 2011) show long-term effective population sizes in the thousands",
+      "HLA/MHC loci carry many trans-species allelic lineages far older than modern humans",
+      "1000 Genomes data show allele frequency spectra inconsistent with a recent severe bottleneck",
+      "Neanderthal and Denisovan admixture (~1–2% and up to ~4–6% in some populations) means non-sapiens ancestors contributed DNA"
+     ],
+     "verdict": "Essentially ruled out for any recent date; uncertain only for a horizon far older than Homo sapiens.",
+     "credence": 1
+    },
+    {
+     "claim": "A recent couple (Adam and Eve) could be universal genealogical ancestors of all living humans, though not the only ancestors.",
+     "kind": "empirical",
+     "case_for": "Genealogical ancestry spreads very fast because the number of ancestors doubles each generation. Simulations (Rohde, Olson & Chang 2004) suggest a universal common ancestor of all living humans may have lived only a few thousand years ago. Any person living somewhat earlier, who left descendants, is likely an ancestor of everyone today. So a couple living ~6,000–10,000 years ago could plausibly be ancestors of all humans by AD 1 or today, with no conflict with genetics.",
+     "case_against": "This holds only if 'descend from' allows many other ancestors as well. Genetics also cannot confirm that any particular couple existed or was specially created. Isolated populations (e.g., Tasmania, the Americas pre-1492) complicate how early universal ancestry is reached, depending on dating.",
+     "consensus": "Broadly accepted as mathematically sound by geneticists who have engaged with it. Swamidass's book received endorsements across theological and scientific lines. Its theological adequacy is disputed.",
+     "evidence": [
+      "Rohde, Olson & Chang, Nature 2004",
+      "Swamidass, The Genealogical Adam and Eve (2019)"
+     ],
+     "verdict": "Plausible as a possibility but unconfirmable. It does not match the 'sole progenitors' reading.",
+     "credence": 60
+    },
+    {
+     "claim": "Genesis 2–4 is intended as a historical account of the first two humans, the sole ancestors of all others.",
+     "kind": "textual",
+     "case_for": "Genesis 5 and 1 Chronicles 1 give genealogies tying Adam to later figures. Luke 3:38 traces Jesus's lineage to Adam. Paul treats Adam as a real individual through whom sin and death entered (Romans 5:12–21; 1 Corinthians 15:21–22, 45). Acts 17:26 says God made 'from one' every nation. Jewish and Christian interpreters read Adam historically for most of history.",
+     "case_against": "'Adam' (ha-adam) means 'the human' and is used with the article for much of Genesis 2–3, which suggests archetypal significance. The narrative features symbolic elements: a talking serpent, trees of life and knowledge, and formation from dust paralleling Ancient Near Eastern creation motifs. Genesis 4 presupposes other people: Cain fears being killed, takes a wife, and builds a city. Many scholars read Genesis 1–11 as theological primeval history, not reportage.",
+     "consensus": "No consensus. Critical biblical scholars largely see the text as mythic or theological. Many evangelical OT scholars (e.g., Walton, Enns) argue the text's focus is archetypal or vocational rather than biological origins. Traditional Catholic, Orthodox and conservative evangelical scholars uphold some historical Adam. The Catholic Church (Humani Generis, 1950) affirmed a single historical Adam and rejected polygenism, though how this is held today varies.",
+     "evidence": [
+      "Genesis 1–5; Romans 5; 1 Corinthians 15; Acts 17:26; Luke 3:38",
+      "Genesis 4:14–17 (Cain's fear of others, his wife, city building)",
+      "Walton, The Lost World of Adam and Eve (2015)"
+     ],
+     "verdict": "Contested. The text was read historically for most of history, but strong internal signs of archetypal/theological genre exist.",
+     "credence": 45
+    },
+    {
+     "claim": "A single pair from roughly 750,000+ years ago (e.g., Homo heidelbergensis) could be the sole genetic progenitors of all humans.",
+     "kind": "empirical",
+     "case_for": "Craig (2021) argues that genetic evidence excluding a two-person bottleneck may not reach back that far. He also notes that a deep date could encompass Neanderthals and Denisovans as Adamic descendants, absorbing the admixture problem.",
+     "case_against": "Some lines of evidence, such as trans-species polymorphisms and deep coalescence at many loci, push against even very ancient two-person bottlenecks. The proposal has no positive evidence. It strains the Genesis narrative, which places Adam near agriculture and metallurgy (Genesis 4).",
+     "consensus": "Most geneticists regard it as highly unlikely but harder to exclude rigorously than recent versions. Theologians are divided on whether it preserves anything like the Genesis picture.",
+     "evidence": [
+      "Craig, In Quest of the Historical Adam (2021)",
+      "Hössjer & Gauger (2019) bottleneck modeling"
+     ],
+     "verdict": "Very unlikely, though not as decisively excluded as recent sole-progenitor views.",
+     "credence": 5
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does 'descend from a single original couple' mean sole progenitors (no other ancestors), or merely universal genealogical ancestors among others?",
+     "type": "definition",
+     "if_yes": "Under sole progenitors, the claim is almost certainly false for any recent date (~1%).",
+     "if_no": "Under genealogical-ancestor-among-others, the claim is compatible with science and plausible as a possibility (~30–60% that such a couple existed, though whether they were specially created is untestable).",
+     "your_view": "The wording 'single original couple ... as Genesis describes' most naturally means sole progenitors, so I score that reading."
+    },
+    {
+     "crux": "Do population-genetic models reliably exclude a two-person bottleneck over the relevant time frame?",
+     "type": "evidence",
+     "if_yes": "Recent sole-progenitor views are ruled out.",
+     "if_no": "Some room opens for the traditional view.",
+     "your_view": "Yes for at least the last ~300–500 kyr. Multiple independent methods converge, and even sympathetic Christian scholars concede this."
+    },
+    {
+     "crux": "Is Genesis 2–4 historical narrative about biological origins, or archetypal/theological literature?",
+     "type": "evidence",
+     "if_yes": "There is a direct conflict with genetics. One must reject either the science or the historicity.",
+     "if_no": "The claim's failure carries little theological cost. Genesis is affirmed on its own terms.",
+     "your_view": "The text contains substantial archetypal signals. The genre question is open, but it does not rescue the empirical claim."
+    },
+    {
+     "crux": "Should one allow a miraculous creation and preservation of genetic diversity (e.g., created heterozygosity) that mimics a large ancestral population?",
+     "type": "prior",
+     "if_yes": "The claim becomes unfalsifiable rather than supported. Credence then rests entirely on theological authority.",
+     "if_no": "The genetic evidence counts against the claim at face value.",
+     "your_view": "Such moves make the evidence systematically deceptive and explain nothing more than the standard model. They are ad hoc and do not raise credence on evidential grounds."
+    }
+   ],
+   "strongest_for": [
+    "The New Testament, especially Paul (Romans 5; 1 Corinthians 15) and Acts 17:26, treats Adam as a real individual. That is a serious datum for anyone granting scriptural authority.",
+    "Genealogical ancestry mathematics shows that a recent couple can be universal ancestors of everyone, so a historical Adam per se does not conflict with genetics.",
+    "Population-genetic inferences depend on models, and very ancient bottlenecks (>500 kyr) are harder to exclude.",
+    "Long continuous Jewish, Christian and Islamic tradition held a historical first couple, and major churches still affirm a historical Adam in some form."
+   ],
+   "strongest_against": [
+    "Human genetic diversity, measured by many independent methods, requires an effective population in the thousands for hundreds of thousands of years. This is incompatible with a recent sole pair.",
+    "Highly polymorphic loci such as HLA carry many allelic lineages older than Homo sapiens. Far more than four variants per locus must have passed through any ancestral bottleneck.",
+    "Neanderthal and Denisovan DNA in living humans shows ancestry from populations outside any single sapiens couple.",
+    "The text itself (ha-adam as 'the human', the symbolic setting, and Cain's wife and city implying other people) suggests archetypal genre.",
+    "Fossil and archaeological records show gradual, geographically dispersed emergence of Homo sapiens over ~300,000 years, not a single recent origin point."
+   ],
+   "weak_arguments": {
+    "for": [
+     "'Mitochondrial Eve and Y-chromosomal Adam prove a first couple': they lived tens of thousands of years apart and coexisted with many other people whose DNA we also carry. Most-recent common ancestors for single loci are expected under any population size.",
+     "'Genetic science is just speculation': the bottleneck conclusions rest on direct sequencing data and many converging methods, not one assumption.",
+     "'All cultures have flood or first-human myths, so it must be true': widespread myths reflect shared human concerns, not specific shared history."
+    ],
+    "against": [
+     "'Cain must have married his sister, which is absurd, so the story is false': this is an internal objection the tradition addressed long ago. It is not evidence about human origins.",
+     "'Evolution shows humans came from apes, so there was no Adam': evolution alone does not rule out a genealogical Adam or a theologically special first pair within a population. The decisive evidence is the population-genetic diversity data, not common descent per se.",
+     "'No archaeological trace of Eden exists': the absence of a specific location is weak evidence given the antiquity and possible symbolic geography."
+    ]
+   },
+   "would_change": [
+    "Robust genomic analyses showing a two-person bottleneck signature in human DNA within the last ~200,000 years",
+    "Demonstration that standard diversity estimates (LD, SFS, HLA lineages) are systematically biased in a way that collapses inferred ancestral population size to near two",
+    "A convincing reading of the claim restricted to genealogical ancestry; that alone would raise the credence for that reading to roughly 30–60%",
+    "Evidence that Neanderthal and Denisovan admixture signals are artifacts (unlikely, given ancient DNA)"
+   ],
+   "sources": [
+    {
+     "citation": "Genesis 1–5; Romans 5:12–21; 1 Corinthians 15:21–22, 45; Acts 17:26; Luke 3:38",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Dennis R. Venema and Scot McKnight, Adam and the Genome: Reading Scripture after Genetic Science, 2017",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "S. Joshua Swamidass, The Genealogical Adam and Eve: The Surprising Science of Universal Ancestry, 2019",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "William Lane Craig, In Quest of the Historical Adam: A Biblical and Scientific Exploration, 2021",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John H. Walton, The Lost World of Adam and Eve: Genesis 2–3 and the Human Origins Debate, 2015",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Peter Enns, The Evolution of Adam, 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Pius XII, Humani Generis, 1950",
+     "kind": "primary"
+    },
+    {
+     "citation": "Douglas L. T. Rohde, Steve Olson, Joseph T. Chang, 'Modelling the recent common ancestry of all living humans', Nature, 2004",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Heng Li and Richard Durbin, 'Inference of human population history from individual whole-genome sequences', Nature, 2011",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Richard E. Green et al., 'A Draft Sequence of the Neandertal Genome', Science, 2010",
+     "kind": "scientific"
+    },
+    {
+     "citation": "1000 Genomes Project Consortium, 'A global reference for human genetic variation', Nature, 2015",
+     "kind": "scientific"
+    }
+   ],
+   "id": "opus",
+   "label": "Opus 5.5",
+   "model": "claude-opus-5-5",
+   "via": "claude"
+  }
+ ],
+ "stats": {
+  "mean": 1.8,
+  "median": 2.0,
+  "min": 1,
+  "max": 2,
+  "spread": 1
+ },
+ "synthesis": {
+  "summary": "All four reviewers judge the claim almost certainly false when it means that a single original couple were humanity’s sole biological founders. They cite genetic diversity, fossils and ancient DNA as evidence for a long history of human populations. All distinguish that claim from the possibility that a couple living among other people became genealogical ancestors of everyone alive today. None regards that possibility as evidence that the biblical couple existed. They differ in how categorically they state the genetic conclusion, how they interpret Genesis, and how much weight they give to older or non-exclusive alternatives. They also recognize that theological commitments or proposed miracles can affect the answer.",
+  "agreement": "high",
+  "agreed": [
+   "A recent sole founding couple is strongly contradicted by the genetic and fossil evidence.",
+   "Universal genealogical ancestry is possible alongside ancestry from other people, but it does not establish a particular historical Adam and Eve.",
+   "Mitochondrial Eve and Y-chromosomal Adam do not demonstrate that the biblical couple were the only humans or sole founders.",
+   "Scientific evidence does not rule out every possible miraculous or theological interpretation."
+  ],
+  "disagreed": [
+   {
+    "point": "Strength and scope of the genetic conclusion",
+    "positions": "Gemini calls a two-person biological bottleneck genetically impossible and speaks most categorically. Grok and GPT-6.1 also strongly reject an exclusive pair, while GPT-6.1 emphasizes model dependence and qualifies its conclusion under ordinary evolutionary assumptions. Opus stresses that recent bottlenecks are excluded much more decisively than very ancient ones."
+   },
+   {
+    "point": "Genesis and historical intent",
+    "positions": "Gemini strongly favors a theological, mythopoetic reading over empirical historical intent. Grok says the narrative depicts a first pair but is unlikely to be accurate history. GPT-6.1 says the ancestral portrayal is clear while intended and actual historicity are disputed; Opus likewise treats genre and intended historicity as contested, citing archetypal features."
+   },
+   {
+    "point": "Genealogical alternatives",
+    "positions": "All accept their possibility, but Gemini emphasizes geographic isolation as a constraint; GPT-6.1 and Opus also note dependence on migration and isolation. Grok and Gemini stress that non-exclusive ancestry changes the traditional claim, while GPT-6.1 and Opus distinguish it from the sole-founder reading. Their numerical scores address differently framed propositions and should not be compared directly."
+   },
+   {
+    "point": "A much older sole couple",
+    "positions": "Opus explicitly considers a pair roughly 750,000 or more years ago very unlikely but harder to exclude, and notes that such a date could encompass archaic hominins as descendants. GPT-6.1 says an older pair avoids the immediate recent-date conflict but faces genetic objections within the last several hundred thousand years. Gemini and Grok state the case against a sole pair more broadly."
+   },
+   {
+    "point": "Reported confidence",
+    "positions": "GPT-6.1 gives its scored claim a credence of 1% with medium confidence; Gemini, Grok and Opus each give 2% with high confidence. Their formulations and time horizons are not identical."
+   }
+  ],
+  "deciding_cruxes": [
+   "Whether the claim requires a sole founding couple or only genealogical ancestors alongside others.",
+   "When the proposed couple lived, and how reliably genetic evidence constrains a bottleneck at that date.",
+   "Whether Genesis should be read as historical biological origins, theological literature, or in another way.",
+   "How much weight to give scriptural authority or possible miracles relative to ordinary empirical inference.",
+   "Whether population mixing and geographic isolation would allow a particular couple’s descendants to reach every living population."
+  ],
+  "what_is_settled": "The reviews agree that the evidence strongly disfavors a recent sole founding pair, and that shared genealogical ancestry does not require such a pair. They agree that neither lineage nicknames nor genealogical models identify the biblical couple.",
+  "what_is_open": "The reviews leave open the existence of a particular historical couple, the reach of a couple’s genealogical descendants, the interpretation of Genesis and its theological implications. They differ over how firmly genetics excludes a much older sole pair and acknowledge that conclusions involving miracles depend on prior commitments.",
+  "model": "gpt-6.1-terra"
+ }
+}

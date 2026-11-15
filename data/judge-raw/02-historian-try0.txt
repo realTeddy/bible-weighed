@@ -1,0 +1,82 @@
+{
+  "scores": {
+    "theist": {"evidence": 5, "logic": 6, "engagement": 7, "honesty": 7, "clarity": 7, "overall": 6},
+    "atheist": {"evidence": 6, "logic": 7, "engagement": 7, "honesty": 8, "clarity": 7, "overall": 7}
+  },
+  "winner": "atheist",
+  "margin": "narrow",
+  "verdict": "The atheist wins narrowly because the theist did not establish the bodily resurrection on the evidence and background assumptions defended in the debate. Both sides argued seriously and made consequential concessions.\n\nThe theist’s strongest point was that early Jewish resurrection language makes a bodily interpretation of the proclamation plausible. The atheist offered a credible, though speculative, account of how visions and apocalyptic expectations could generate that belief. Neither side demonstrated exactly what the first witnesses experienced. The theist also overstated the evidence for commissions in the early group appearances and for James dying rather than renouncing his belief.\n\nThe atheist effectively distinguished belief in an empty tomb from evidence that someone inspected it, and exposed weaknesses in treating Paul’s experience as specifically evidence of a bodily rising. But an early verified empty tomb is not logically the only evidence that could establish a bodily resurrection; the later Gospel accounts also require assessment, even if their date and differences reduce their weight.\n\nThe theist’s conditional conclusion depended on a theistic probability judgment left substantially undefended. That does not make the conclusion false, but it leaves the affirmative burden unmet here. The atheist’s inability to specify a trigger for Paul remains a limitation, not a demonstration of resurrection.",
+  "highlights": [
+    {"round": 2, "side": "atheist", "quote": "That tells us what Paul believed. It doesn't tell us anyone checked.", "why": "Separates an early bodily belief from independent evidence of an empty grave."},
+    {"round": 3, "side": "theist", "quote": "Nothing in the experience itself has to set Damascus apart.", "why": "A significant concession about the limits of Paul’s experience."},
+    {"round": 5, "side": "theist", "quote": "a reading like \"God has raised him\" is not psychologically impossible", "why": "Narrows the disagreement over the origin of resurrection belief."},
+    {"round": 6, "side": "atheist", "quote": "the steps aren't independent", "why": "Challenges an overly simple multiplication of probabilities in the naturalistic account."},
+    {"round": 9, "side": "theist", "quote": "the resurrection's probability depends on whether God exists, and we did not argue that question here", "why": "States the central limitation of the affirmative case."}
+  ],
+  "fallacies": [
+    {
+      "round": 2,
+      "side": "theist",
+      "name": "Non sequitur",
+      "quote": "A Jesus who appeared only in visions would have no reason to stop appearing.",
+      "explanation": "A reported series could end or be classified differently without showing that its experiences were bodily."
+    },
+    {
+      "round": 6,
+      "side": "theist",
+      "name": "Overgeneralization",
+      "quote": "someone inventing a story wouldn't write that",
+      "explanation": "An appeal to living witnesses can count against invention, but it does not rule invention out."
+    },
+    {
+      "round": 1,
+      "side": "atheist",
+      "name": "Hasty generalization",
+      "quote": "That is how legends grow.",
+      "explanation": "Differences between later and earlier texts are consistent with elaboration, but chronology alone does not establish how each detail originated."
+    }
+  ],
+  "factual_errors": [
+    {
+      "round": 1,
+      "side": "theist",
+      "claim": "Some of them, including James (Josephus, Antiquities 20.200), died rather than give it up.",
+      "correction": "Josephus reports James’s execution but does not say he was offered a chance to renounce resurrection belief or died rather than do so.",
+      "severity": "moderate"
+    },
+    {
+      "round": 2,
+      "side": "theist",
+      "claim": "In 1 Corinthians 15, a man the witnesses knew is recognized and gives a commission.",
+      "correction": "1 Corinthians 15 lists appearances but does not describe their content or report a commission during a group appearance. The theist later conceded that the specific commission scenes are in the Gospels.",
+      "severity": "moderate"
+    },
+    {
+      "round": 1,
+      "side": "atheist",
+      "claim": "Luke and John add a Jesus who can be touched and who eats fish.",
+      "correction": "Luke explicitly describes Jesus eating fish. John describes Jesus preparing and distributing food, but does not explicitly say that he eats fish.",
+      "severity": "minor"
+    }
+  ],
+  "key_concessions": [
+    {"round": 2, "side": "theist", "point": "Pre-Gospel evidence for bodily appearances is inferential, not descriptive.", "impact": "moderate"},
+    {"round": 2, "side": "atheist", "point": "Paul probably believed that Jesus’s body had left the grave.", "impact": "moderate"},
+    {"round": 3, "side": "theist", "point": "James’s conversion after an appearance is an inference, weakening him as a hostile witness.", "impact": "moderate"},
+    {"round": 5, "side": "atheist", "point": "The bodily claim was in principle checkable, but no exact modern group-commission analogue was supplied.", "impact": "moderate"},
+    {"round": 7, "side": "atheist", "point": "Contagion does not directly explain Paul, and his trigger is unknown.", "impact": "moderate"},
+    {"round": 9, "side": "theist", "point": "The conclusion is conditional on a theistic background that was not defended in the debate.", "impact": "major"}
+  ],
+  "turning_point": {
+    "round": 6,
+    "description": "The atheist distinguished dependent steps in a naturalistic explanation from independent probabilities and challenged the comparison between one reconstruction and the entire resurrection hypothesis."
+  },
+  "best_argument": {
+    "theist": "Early bodily resurrection language, the Jerusalem setting, and Paul’s experience together create a cumulative challenge for a purely visionary account.",
+    "atheist": "Early sources establish resurrection belief more securely than bodily encounters or an inspected tomb; visions interpreted through Jewish apocalyptic expectations offer a plausible alternative."
+  },
+  "unanswered": {"theist": [], "atheist": []}
+}
+
+
+--- stderr ---

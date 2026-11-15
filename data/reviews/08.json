@@ -1,0 +1,790 @@
+{
+ "topic": {
+  "id": 8,
+  "category": "Text",
+  "short": "Prophecy",
+  "resolution": "Biblical prophecy shows supernatural foreknowledge",
+  "question": "Does biblical prophecy show genuine supernatural foreknowledge?",
+  "claim": "Biblical prophecy contains fulfilled predictions that are best explained by supernatural foreknowledge."
+ },
+ "analyses": [
+  {
+   "kind": "mixed",
+   "verdict": "Probably not established by the available evidence",
+   "credence": 5,
+   "confidence": "low",
+   "bottom_line": "I interpret the claim as saying that at least one publicly assessable biblical prediction is better explained by supernatural foreknowledge than by ordinary historical processes, taking prior probabilities into account. Some passages are striking, especially Isaiah’s naming of Cyrus and Daniel’s detailed account of later rulers. But their dates and interpretations are disputed, and apparent failures and the use of earlier texts to shape later narratives weaken the case. Most critical scholars favor natural explanations, while many confessional scholars defend genuine predictive prophecy; historical methods alone cannot rule miracles out. My estimate is 5%, but it is sensitive to reasonable disagreement about both dating and the prior probability of divine revelation.",
+   "sub_claims": [
+    {
+     "claim": "Isaiah’s naming of Cyrus was written before Cyrus became historically prominent.",
+     "kind": "textual",
+     "case_for": "The book is traditionally attributed to the eighth-century prophet Isaiah, long before Cyrus. Confessional scholars argue that its literary and theological unity supports substantial Isaianic authorship, making the named prediction remarkable.",
+     "case_against": "Isaiah 40–55 addresses a setting associated with the Babylonian exile and Cyrus’s rise. Its author could have written when Cyrus was already a prominent conqueror, before or around his capture of Babylon.",
+     "consensus": "Most critical scholars place Isaiah 40–55 in or near the sixth-century exile. Many conservative Jewish and Christian scholars defend earlier Isaianic authorship; there is no consensus across all scholars.",
+     "evidence": [
+      "Isaiah 44:28–45:1 names Cyrus and connects him with Jerusalem and its temple.",
+      "Cyrus captured Babylon in 539 BCE.",
+      "The Great Isaiah Scroll predates Jesus but is much later than both Isaiah and Cyrus, so it does not settle when the Cyrus passages were composed."
+     ],
+     "verdict": "An eighth-century prediction is possible but not the best-supported dating.",
+     "credence": 15
+    },
+    {
+     "claim": "Daniel 11’s detailed account of Hellenistic history was substantially written in the second century BCE.",
+     "kind": "textual",
+     "case_for": "The chapter closely tracks conflicts between Hellenistic dynasties through the reign of Antiochus IV, then appears to diverge from events around his death. This pattern fits a narrative written during his persecution of Jews.",
+     "case_against": "Traditional and some confessional scholars date Daniel to the sixth century BCE, argue that its historical and linguistic features are compatible with an early setting, and interpret the disputed final king or campaign differently.",
+     "consensus": "A second-century composition is the dominant critical scholarly view. Many confessional scholars defend an earlier date; agreement is not universal.",
+     "evidence": [
+      "Daniel 11 describes a succession of conflicts commonly identified with the Ptolemaic and Seleucid kingdoms.",
+      "Daniel 11:40–45 describes a king’s final campaigns and death in a way that does not straightforwardly match Antiochus IV’s death in Persia in 164 BCE.",
+      "Daniel 12 connects the crisis to deliverance and resurrection."
+     ],
+     "verdict": "The later dating is substantially more likely.",
+     "credence": 90
+    },
+    {
+     "claim": "Ezekiel’s prophecy of Tyre was fulfilled straightforwardly and literally as a whole.",
+     "kind": "textual",
+     "case_for": "Tyre suffered prolonged siege and later conquest; Alexander’s forces used mainland rubble to build a causeway to the island city. Ezekiel also speaks of many nations coming against Tyre, which defenders see as allowing successive attacks.",
+     "case_against": "The passage attributes extensive destruction to Nebuchadnezzar, while its sweeping language about Tyre becoming a bare rock and never being rebuilt is difficult to reconcile with the city’s subsequent history and present habitation.",
+     "consensus": "Interpretation is divided. Critical scholars commonly regard aspects of the oracle as unfulfilled; confessional interpreters offer qualified or staged fulfillments rather than all insisting on a single literal reading.",
+     "evidence": [
+      "Ezekiel 26 names Nebuchadnezzar and describes destruction of Tyre.",
+      "Ezekiel 29:18 says Nebuchadnezzar’s army received no wages from its labor against Tyre; what this implies about the siege is debated.",
+      "Alexander conquered island Tyre in 332 BCE, and Tyre exists as an inhabited city today."
+     ],
+     "verdict": "A straightforward literal fulfillment of the entire oracle is unlikely.",
+     "credence": 10
+    },
+    {
+     "claim": "Isaiah 53 was originally intended as an unmistakable prediction of Jesus’s particular life and death.",
+     "kind": "textual",
+     "case_for": "The servant suffers, dies, is associated with the rich in death, and bears others’ wrongdoing. Christians argue that the combination fits Jesus unusually well and that the passage’s preservation before his lifetime rules out its invention afterward.",
+     "case_against": "The text does not name Jesus or specify many distinctive details of his life. Other readings identify the servant with Israel, a representative figure, or another person; Gospel authors also knew earlier scripture, creating opportunities for interpretation or narrative shaping.",
+     "consensus": "Christological interpretation is central to historic Christianity and defended by confessional scholars. Jewish interpreters and many critical scholars favor other readings; there is no cross-tradition consensus on the passage’s ultimate referent.",
+     "evidence": [
+      "Isaiah 52:13–53:12 describes the servant’s suffering, death, and subsequent vindication.",
+      "The passage survives in a manuscript tradition demonstrably earlier than Jesus.",
+      "The New Testament explicitly applies the passage to Jesus, for example in Acts 8:32–35."
+     ],
+     "verdict": "The Christian application is significant, but an unmistakable original prediction of Jesus is unlikely.",
+     "credence": 10
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Were the strongest specific passages demonstrably written before the relevant events were foreseeable?",
+     "type": "evidence",
+     "if_yes": "The supernatural explanation gains weight, particularly if ordinary forecasting is implausible.",
+     "if_no": "Composition during or after the events is a stronger explanation.",
+     "your_view": "The strongest examples do not have securely established early dates; contextual evidence often favors later composition."
+    },
+    {
+     "crux": "Do the apparent matches remain specific and successful under readings fixed independently of the alleged fulfillment?",
+     "type": "evidence",
+     "if_yes": "Several independent, precise successes would increase my credence substantially.",
+     "if_no": "Flexible interpretation, selective examples, and narrative influence account for much of the apparent fit.",
+     "your_view": "The evidence for such independently fixed matches is weaker than the strongest apologetic presentations suggest."
+    },
+    {
+     "crux": "How likely is divine revelation before considering these texts?",
+     "type": "prior",
+     "if_yes": "With a high prior for a revealing God, even moderately surprising matches could make supernatural foreknowledge the preferred explanation.",
+     "if_no": "With a low prior, much stronger and less ambiguous evidence is needed.",
+     "your_view": "I assign a relatively low prior, without treating miracles as impossible; different defensible priors can change the verdict."
+    },
+    {
+     "crux": "Does the claim require publicly compelling historical evidence, or can it include meanings recognized through faith and later revelation?",
+     "type": "definition",
+     "if_yes": "On the public-evidence standard scored here, the case is weak.",
+     "if_no": "A faith-based or theological reading can reasonably assign a much higher probability, though it answers a different question.",
+     "your_view": "The public-evidence reading best captures the claim that supernatural foreknowledge is the best explanation."
+    }
+   ],
+   "strongest_for": [
+    "Isaiah names Cyrus in a passage associated with the restoration of Jerusalem, and an early date would make that unusually specific.",
+    "Daniel contains detailed correspondences with later political history; an early date would make those correspondences striking.",
+    "Isaiah’s suffering-servant passage existed before Jesus and has features that many Christians see as fitting his death and vindication.",
+    "Methodological naturalism is useful for historical research but does not itself prove that supernatural causation never occurs."
+   ],
+   "strongest_against": [
+    "The most detailed apparent predictions often have credible later-dating explanations.",
+    "Some prophecies appear inaccurate or require flexible readings to fit subsequent events.",
+    "Later biblical writers knew earlier scriptures, so apparent fulfillment is not always independent evidence.",
+    "Selecting striking matches from a large, interpretively flexible corpus can exaggerate their evidential force."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Multiplying tiny probabilities for alleged fulfillments without establishing independence or accounting for selection.",
+     "Treating traditional authorship as conclusive proof of an early composition date.",
+     "Assuming every verbal similarity between a prophecy and a later account establishes independent fulfillment."
+    ],
+    "against": [
+     "Declaring prophecy impossible solely because miracles cannot happen.",
+     "Assuming every religious scholar’s dating argument is dishonest rather than assessing its evidence.",
+     "Treating one disputed or failed prophecy as a logical disproof of every possible case of foreknowledge."
+    ]
+   },
+   "would_change": [
+    "An authenticated manuscript, securely dated well before an unforeseeable event, containing a precise and unambiguous prediction of it.",
+    "A series of comparably precise predictions selected and interpreted in advance, with successes and failures both recorded.",
+    "Strong independent evidence that reported fulfillments occurred as described and were not shaped by knowledge of the prophetic texts.",
+    "Compelling new textual or archaeological evidence establishing an early date for a detailed existing passage."
+   ],
+   "sources": [
+    {
+     "citation": "The Bible: Isaiah 44–45 and 52–53; Ezekiel 26 and 29; Daniel 11–12; Acts 8.",
+     "kind": "scripture"
+    },
+    {
+     "citation": "John J. Collins, Daniel: A Commentary on the Book of Daniel, 1993.",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Joseph Blenkinsopp, Isaiah 40–55: A New Translation with Introduction and Commentary, 2002.",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John N. Oswalt, The Book of Isaiah, Chapters 40–66, 1998.",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Bauckham, Jesus and the Eyewitnesses, 2006.",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "gpt",
+   "label": "GPT-6.1",
+   "model": "gpt-6.1-terra",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Very unlikely; best explained by post-event writing, creative reinterpretation, and theological typology",
+   "credence": 6,
+   "confidence": "high",
+   "bottom_line": "When evaluated through the methods of secular and mainstream historical-critical scholarship, biblical texts claimed as predictive prophecies fall into several well-documented natural categories. Apparent long-range, highly specific predictions (such as Daniel 11 or Isaiah 44-45) are consistently shown on linguistic, thematic, and historical grounds to have been composed during or shortly after the events they describe (vaticinium ex eventu). Purported New Testament fulfillments overwhelmingly represent early Christian scribal midrash, typological retrofitting, or deliberate staging of symbolic acts by Jesus rather than advance clairvoyance. Furthermore, several explicit biblical prophecies failed historically (such as Nebuchadnezzar's siege of Tyre in Ezekiel 26, acknowledged in Ezekiel 29). Consequently, while confessional believers with a high prior on divine inspiration interpret these texts supernaturally, the empirical and textual evidence does not favor supernatural foreknowledge over naturalistic scribal and cultural explanations.",
+   "sub_claims": [
+    {
+     "claim": "The Book of Daniel contains specific predictive prophecies written centuries before the Hellenistic events described.",
+     "kind": "textual",
+     "case_for": "Traditional dating places Daniel in 6th-century BCE Babylon; the text presents an astonishingly accurate sequence of historical transitions from Babylon to Medo-Persia, Greece, and the Seleucid/Ptolemaic rivalries culminating in Antiochus IV Epiphanes, which conservative scholars argue demonstrates divine foreknowledge.",
+     "case_against": "Mainstream historical-critical analysis dates Daniel to 167-164 BCE during the Maccabean crisis. Its historical precision is detailed and accurate up to the desecration of the Temple by Antiochus IV, but immediately turns inaccurate regarding the location of Antiochus's death and the anticipated eschatological resurrection, fitting the classic signature of vaticinium ex eventu.",
+     "consensus": "Overwhelming critical consensus (including Catholic and mainline Protestant scholars) dates Daniel 7-12 to c. 164 BCE; only conservative/evangelical confessional scholars defend 6th-century authorship.",
+     "evidence": [
+      "Linguistic features including late Aramaic and Greek loanwords (e.g., musical instruments in Dan 3)",
+      "Historical inaccuracies regarding the 6th century (e.g., 'Darius the Mede')",
+      "Abrupt loss of accuracy after Antiochus IV Epiphanes's desecration of the Temple in Daniel 11:40-45"
+     ],
+     "verdict": "Almost certainly written after the events (vaticinium ex eventu)",
+     "credence": 4
+    },
+    {
+     "claim": "Isaiah's explicit naming of Cyrus the Great (Isaiah 44:28, 45:1) was composed 150 years before Cyrus's reign.",
+     "kind": "textual",
+     "case_for": "The canonical Book of Isaiah presents itself as a unified work of the 8th-century prophet; the Great Isaiah Scroll at Qumran shows no break between chapters 39 and 40; New Testament authors quote both halves as the prophet Isaiah.",
+     "case_against": "Chapters 40-55 (Deutero-Isaiah) presuppose the Babylonian exile as a present reality, Jerusalem already destroyed, and Cyrus already actively conquering. The vocabulary, poetic style, theological themes (strict monotheism, the Servant), and historical milieu contrast sharply with Proto-Isaiah (chapters 1-39).",
+     "consensus": "Near-universal academic consensus views Isaiah 40-55 as exilic (mid-6th century BCE), contemporary with Cyrus; traditional single-author 8th-century views are held almost exclusively by theological conservatives.",
+     "evidence": [
+      "Isaiah 40 speaks to an audience already exiled in Babylon ('comfort my people')",
+      "Distinctive Hebrew vocabulary and absence of 8th-century Assyrian crisis context in chapters 40-55",
+      "No historical record in the ancient Near East of a prophet naming a foreign king 150 years in advance"
+     ],
+     "verdict": "Very likely written contemporaneously with the rise of Cyrus",
+     "credence": 7
+    },
+    {
+     "claim": "Hebrew Bible texts (e.g., Isaiah 53, Psalm 22, Micah 5:2) were literal predictive prophecies foretelling Jesus's life and death.",
+     "kind": "textual",
+     "case_for": "The descriptive correspondence between Isaiah 53's suffering servant, Psalm 22's pierced hands and feet/casting lots, and Jesus's crucifixion is remarkably vivid, leading confessional scholars to argue the probability of coincidence is negligible.",
+     "case_against": "In their original grammatical-historical contexts, these passages are not predictive prophecies of an individual dying messiah: Isaiah 53 refers to the corporate servant (Israel) or a contemporary prophet; Psalm 22 is an individual lament of illness/persecution that ends in deliverance without death; Micah 5:2 concerns a contemporary ruler against Assyria. Early Christians engaged in pesher and midrashic exegesis, mining scriptures to interpret and narrate the trauma of Jesus's crucifixion.",
+     "consensus": "Mainstream biblical scholarship views New Testament usage as retrospective typological midrash; evangelical scholars view them as literal, forward-looking predictive prophecies.",
+     "evidence": [
+      "Isaiah explicitly identifies the servant as Israel multiple times (Isa 41:8-9, 44:1-2, 49:3)",
+      "Gospel writers show clear evidence of framing biographical details to match Septuagint texts (e.g., Matthew 21:1-7 inventing two donkeys from Zechariah 9:9)",
+      "Pre-Christian Second Temple Judaism had no widespread expectation of a crucified/suffering messiah based on these texts"
+     ],
+     "verdict": "Best explained as retrospective midrash and typological hermeneutics",
+     "credence": 5
+    },
+    {
+     "claim": "Ezekiel 26's prophecy of the total destruction and permanent desolation of Tyre was fulfilled accurately.",
+     "kind": "empirical",
+     "case_for": "Ezekiel 26 predicted that Nebuchadnezzar would attack Tyre, that many nations would come against it, that its stones and timber would be cast into the water, and it would become bare rock, which defenders argue was fulfilled over centuries by Nebuchadnezzar and Alexander the Great.",
+     "case_against": "Ezekiel 26:7-14 explicitly prophesied that Nebuchadnezzar himself would breach island Tyre, loot it, and reduce it to bare rock never to be rebuilt. Nebuchadnezzar besieged Tyre for 13 years but failed to sack the island fortress. Crucially, Ezekiel itself explicitly acknowledges this failure in Ezekiel 29:17-20, where God grants Egypt to Nebuchadnezzar as compensation because he and his army got 'no wages' from Tyre. Tyre remains an inhabited city today.",
+     "consensus": "Consensus among historians and critical scholars is that Ezekiel 26 was an unfulfilled prophecy, which the biblical author himself amended in chapter 29.",
+     "evidence": [
+      "Ezekiel 29:18-20 admits Nebuchadnezzar received no reward or plunder from Tyre",
+      "Alexander the Great took island Tyre in 332 BCE, but Ezekiel attributed the conquest specifically to Nebuchadnezzar",
+      "Tyre continued as a prominent, inhabited Greco-Roman and modern Lebanese city (Sour), contradicting Ezekiel 26:14 ('you will never be rebuilt')"
+     ],
+     "verdict": "Demonstrably failed in its explicit claims and acknowledged as such within the text",
+     "credence": 2
+    },
+    {
+     "claim": "Jesus's prediction of the destruction of the Second Temple (Mark 13) demonstrates supernatural foreknowledge.",
+     "kind": "empirical",
+     "case_for": "The Gospels record Jesus predicting that not one stone would be left on another of the Jerusalem Temple, a catastrophic event precisely fulfilled by Titus and Roman legions in 70 CE. Traditional and moderate conservative scholars date Mark in the 50s or early 60s CE, prior to the Jewish War.",
+     "case_against": "Mark is dated by most critical scholars to c. 68-73 CE, during or immediately following the Roman siege. Furthermore, geopolitical tensions were severe throughout the 60s, and other Jewish figures (such as Jesus ben Ananias in Josephus, War 6.300) predicted the destruction of the Temple without supernatural inspiration. The language draws heavily on standard Old Testament doom motifs (e.g., Micah 3:12, Jeremiah 7).",
+     "consensus": "Scholars are divided on the exact date of Mark relative to 70 CE, but critical scholars agree that predicting the destruction of the Temple during acute Roman-Judean conflict required astute political intuition or standard apocalyptic tropes rather than supernatural foreknowledge.",
+     "evidence": [
+      "Josephus records Jesus ben Ananias crying 'Woe to Jerusalem and the sanctuary!' starting four years before the war",
+      "Mark 13 includes standard Danielic apocalyptic imagery rather than specific details of the siege tactics",
+      "Substantial critical scholarship dates Mark's composition to the immediate context of the First Jewish-Roman War (66-70 CE)"
+     ],
+     "verdict": "Planimetrically explainable by acute geopolitical foresight, apocalyptic tradition, or post-70 composition",
+     "credence": 12
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Are the dates of prophetic texts established by objective external evidence or circular anti-supernatural assumptions?",
+     "type": "evidence",
+     "if_yes": "If late dates are independent findings based on linguistic, manuscript, and historical markers, naturalistic composition (vaticinium ex eventu) is decisively demonstrated.",
+     "if_no": "If late dates are assigned solely because miracles are deemed impossible, conservative claims of genuine predictive prophecy remain viable.",
+     "your_view": "Late dates for texts like Daniel and Deutero-Isaiah are established by independent historical, thematic, and philological evidence (e.g., Persian/Greek loanwords, historical blunders regarding the 6th century, and the abrupt end of accuracy in 164 BCE), not merely an a priori dogmatic rejection of miracles."
+    },
+    {
+     "crux": "What is the rational prior probability of supernatural divine revelation versus natural human scribal behaviors?",
+     "type": "prior",
+     "if_yes": "If one has a high prior on the Christian/Theistic worldview (e.g., grounded in cosmological arguments or personal religious experience), ambiguous prophecies are reasonably integrated into that theological framework.",
+     "if_no": "If one evaluates the claims under standard historical methodology, the prior probability of human scribal retrofitting, post-event prophecy, or poetic metaphor is vastly higher than supernatural violation of temporal causality.",
+     "your_view": "Standard Bayesian historical methodology requires extraordinary evidence for supernatural claims; since every documented society produces retrofitted prophecies, mythological narratives, and midrashic reinterpretations, naturalistic mechanisms are overwhelmingly more parsimonious."
+    },
+    {
+     "crux": "Did the New Testament authors use Hebrew scriptures as literal forward-looking predictions or as typological resources?",
+     "type": "definition",
+     "if_yes": "If intended as strict empirical predictions, their failure to match original contexts undermines claims of supernatural fulfillment.",
+     "if_no": "If intended as creative typological and theological reflection (pesher/midrash), they cannot be used as empirical proofs of supernatural foreknowledge in the modern apologetic sense.",
+     "your_view": "Ancient Jewish hermeneutics did not treat scripture as an empirical riddle-book for the 21st century; NT authors reread Israel's story through the lens of their crucified and risen Messiah, making the apologetic claim of 'mathematically improbable fulfillment' a modern category error."
+    }
+   ],
+   "strongest_for": [
+    "The Dead Sea Scrolls prove beyond doubt that the entire prophetic corpus of the Hebrew Bible existed centuries before Jesus, excluding any possibility that the Old Testament texts were forged by Christians post-facto.",
+    "The structural coherence and thematic continuity of the messianic concept across disparate centuries, genres, and authors culminates powerfully in the New Testament narrative.",
+    "Certain historical details (e.g., the execution of a messianic claimant, the desolation of the Second Temple, and the exile of the Jewish people) did occur and align strikingly with biblical themes."
+   ],
+   "strongest_against": [
+    "The undeniable signature of vaticinium ex eventu in texts like Daniel: historical accuracy is razor-sharp up until the precise moment of composition (164 BCE) and fails immediately thereafter.",
+    "Clear, unfulfilled prophecies explicitly acknowledged and revised within the biblical canon itself, such as Ezekiel 29 correcting Ezekiel 26's prediction that Nebuchadnezzar would conquer and despoil island Tyre.",
+    "The heavy reliance on translation errors, decontextualized verses, and midrashic retrofitting in New Testament 'fulfillments' (e.g., Isaiah 7:14's young woman of childbearing age translated as 'virgin' via the Septuagint; Hosea 11:1's past-tense reference to the Exodus retrofitted to Jesus's flight to Egypt).",
+    "Deliberate self-fulfillment: biblical figures (notably Jesus) were steeped in prophetic literature and consciously acted to embody prophetic imagery (e.g., arranging to ride a colt into Jerusalem in accordance with Zechariah 9:9)."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Peter Stoner's statistical probability calculations (claiming 1 in 10^17 odds for fulfilling prophecies), which commit elementary independence fallacies, treat non-predictive poetry as mathematical variables, and ignore that gospel writers wrote with Hebrew scripture open before them.",
+     "Modern dispensationalist claims that 20th-century geopolitical events (e.g., the 1948 establishment of Israel or the Six-Day War) were explicitly prophesied in Ezekiel's dry bones, ripping ancient Near Eastern restoration oracles out of their immediate exilic contexts.",
+     "Treating generic ancient curses (plagues, wars, earthquakes) as distinct, verified prognostications of modern historical events."
+    ],
+    "against": [
+     "The 'mythicist' argument that Jesus never existed at all, which is rejected by virtually all secular and critical ancient historians.",
+     "The accusation that all biblical prophecies were deliberate, conscious frauds designed to deceive, ignoring the deeply sincere theological, liturgical, and scribal traditions of the ancient Near East.",
+     "Dismissing all conservative or confessional scholarship out of hand as dishonest rather than engaging their specific linguistic, structural, and historical arguments."
+    ]
+   },
+   "would_change": [
+    "Archaeological discovery of a securely stratified, pre-170 BCE manuscript of Daniel containing the detailed Ptolemaic and Seleucid dynastic wars of Daniel 11.",
+    "External contemporary historical or archaeological documentation confirming that an unambiguous, detailed long-range prophecy (such as Ezekiel's total, permanent eradication of Tyre by Nebuchadnezzar) occurred exactly as predicted.",
+    "Unimpeachable historical evidence that early gospel accounts of Jesus fulfilling obscure, non-actionable prophecies (e.g., the specific division of garments, the 30 pieces of silver) were recorded by hostile or neutral contemporary observers prior to Christian theological composition."
+   ],
+   "sources": [
+    {
+     "citation": "John J. Collins, Daniel: A Commentary on the Book of Daniel (Hermeneia), Fortress Press, 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Joseph Blenkinsopp, Isaiah 40–55: A New Translation with Introduction and Commentary (Anchor Bible), Doubleday, 2002",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Raymond E. Brown, The Birth of the Messiah: A Commentary on the Infancy Narratives in the Gospels of Matthew and Luke, Yale University Press, 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gleason L. Archer, A Survey of Old Testament Introduction, Moody Publishers, 1994",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Ezekiel chapters 26 and 29, Hebrew Bible",
+     "kind": "primary"
+    },
+    {
+     "citation": "Daniel chapters 7 through 12, Hebrew Bible",
+     "kind": "primary"
+    }
+   ],
+   "id": "gemini",
+   "label": "Gemini 3.8",
+   "model": "gemini-3.8-flash",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Very unlikely the best explanation",
+   "credence": 10,
+   "confidence": "medium",
+   "bottom_line": "Biblical prophecy contains some oracles issued before events that roughly came true, but the cases specific enough to suggest supernatural knowledge are mostly those with strong evidence of being written after the fact. Daniel 11 matches Seleucid history in detail and then gets Antiochus IV's end wrong, the usual signature of writing after the events; Isaiah's naming of Cyrus sits in chapters that address the exile as present. Agreed-early predictions are generally politically foreseeable, poetic, conditional, or only partly matched, and several specific forecasts failed. Gospel 'fulfillment' often reuses texts that were not predictions, or narratives shaped to fit them. That pattern fits ancient Near Eastern prophetic practice, later editing, and selective memory better than supernatural foreknowledge, though how sure one is depends partly on one's prior for miracles.",
+   "sub_claims": [
+    {
+     "claim": "Daniel's detailed forecast of Hellenistic history was written around 167-164 BCE, after most of the events, and errs once it passes the author's time.",
+     "kind": "textual",
+     "case_for": "Daniel 11:2-39 tracks Persian and Seleucid history, especially Antiochus IV, with a specificity political insight cannot produce centuries earlier. From 11:40 the predicted final campaign and a death in the land between the seas do not match Antiochus's failed eastern campaign and death in Persia in 164 BCE (1 Maccabees 6; 2 Maccabees 9). An accurate run that stops and fails at the author's present is the classic pattern of prophecy after the event. Apocalyptic literature of this type clusters in the second century; 'Darius the Mede' is unknown to Babylonian and Persian sources as ruler of Babylon.",
+     "case_against": "The stories are set in the sixth century; Jesus cites 'Daniel the prophet' (Matthew 24:15); a few Greek instrument names do not require a Hellenistic date; Hebrew linguistic dating is disputed; Qumran copies exist relatively soon after 164 BCE; and the mismatched ending can be read as a still-future king beyond Antiochus. Evangelical scholars such as Joyce Baldwin and Gleason Archer defend an early date, and some historical skepticsms about Daniel (Belshazzar's existence) were later weakened by archaeology.",
+     "consensus": "A strong majority of critical scholars, including many Jewish, Catholic, and mainline Protestant specialists, date the apocalyptic chapters to the Antiochene crisis. John Goldingay, an evangelical commentator, also accepts a second-century date. A minority of inerrantist scholars defend the sixth century. The split tracks commitments about inerrancy more than a split inside critical scholarship.",
+     "evidence": [
+      "Daniel 11:2-39 matches known Seleucid events; 11:40-45 does not match Antiochus IV's death",
+      "1 Maccabees 6 and 2 Maccabees 9 place that death in the east, not between the seas in Judea",
+      "No Darius the Mede is attested as king of Babylon between Belshazzar and Cyrus",
+      "The apocalyptic genre and the book's preoccupation with the 160s BCE fit a Maccabean setting"
+     ],
+     "verdict": "Late composition is much more likely than sixth-century foreknowledge",
+     "credence": 90
+    },
+    {
+     "claim": "Isaiah's naming of Cyrus does not reliably show eighth-century foreknowledge.",
+     "kind": "textual",
+     "case_for": "Isaiah 40-55 addresses Jacob in exile, treats Babylon and Cyrus as the audience's present problem, and differs in setting, tone, and argument from Isaiah 1-39. Since Bernhard Duhm (1892), specialists have read 44:28 and 45:1 as exilic preaching from the 540s, when Cyrus was already the obvious liberator, not as a name dropped in the 730s. The Cyrus Cylinder shows the policy being interpreted. Literary unity in the Great Isaiah Scroll only shows the book was one scroll by about 125 BCE.",
+     "case_against": "Every ancient witness treats Isaiah as one book; the New Testament cites both halves as Isaiah; thematic links cross the usual divide; a single prophet could be portrayed as speaking to a future generation. If the Cyrus oracles really are eighth-century, naming a future king is very hard to explain naturally. Conservatives such as John Oswalt and E. J. Young defend unity, and Josephus later claims Cyrus was shown the prophecy.",
+     "consensus": "Large majority of academic Isaiah specialists accept an exilic Second Isaiah. Many evangelical commentators still defend single authorship. The field consensus is clear. Anti-miracle assumptions play a role, but the exilic address and historical horizon are positive literary evidence, not merely a veto on miracles.",
+     "evidence": [
+      "Isaiah 44:28 and 45:1 name Cyrus as shepherd and anointed one",
+      "Isaiah 40-55 speaks to exiles and to Zion as a present situation",
+      "1QIsa-a shows a 66-chapter book in the second century BCE, not eighth-century authorship",
+      "Ezra 1:1 credits Jeremiah's exile timing, not a famous Isaianic naming of Cyrus, with moving the return"
+     ],
+     "verdict": "Exilic dating is likely; the Cyrus text is weak evidence of supernatural foreknowledge",
+     "credence": 85
+    },
+    {
+     "claim": "Where prophecies are widely agreed to predate the events, they are mostly foreseeable, conventional, conditional, or only partly matched.",
+     "kind": "empirical",
+     "case_for": "Jeremiah's warning that Jerusalem would fall was issued under an obvious Babylonian threat; the canon itself records a rival prophet, Hananiah, who was wrong (Jeremiah 28). 'Seventy years' is a symbolic span that can be fitted to more than one chronology. Oracles against Nineveh and other nations use standard curse imagery. Sennacherib's withdrawal in 701, if predicted beforehand, was one bold call, and the story of 185,000 dead is historically doubtful beside Assyrian records. Courts had political intelligence. Survivorship kept the vindicated voices.",
+     "case_against": "A run of risky calls — Zion spared in 701, Babylon's victory, a later return — is less comfortable as pure luck. Deuteronomy 18:21-22 shows the tradition itself tested prophets by outcomes. Symbolic numbers and political sense do not automatically explain every hit, and a theist can treat the successes as providence without needing the spectacular late-dated cases.",
+     "consensus": "No agreed numerical base rate. Critical scholars generally treat prophets as politically engaged theologians whose hits do not require supernatural information. Confessional scholars treat the same hits as divine. There is no consensus score of the whole oracle corpus.",
+     "evidence": [
+      "Jeremiah 25-29, including the false prophet Hananiah and the 70-year figure",
+      "Deuteronomy 18:21-22 states an outcome test",
+      "2 Kings 18-19 and Isaiah 36-37 versus Assyrian claims of tribute rather than a catastrophic supernatural defeat",
+      "Neo-Assyrian and Mari oracles show the same institution elsewhere"
+     ],
+     "verdict": "Ordinary forecasting plus selection explains the agreed-early successes",
+     "credence": 75
+    },
+    {
+     "claim": "Several specific predictions failed in their stated details, which counts against reliable supernatural foreknowledge.",
+     "kind": "empirical",
+     "case_for": "Ezekiel 26 has Nebuchadnezzar scrape Tyre bare and leave it never rebuilt; Ezekiel 29:18 then admits Nebuchadnezzar got no wages from Tyre and offers Egypt instead. Tyre continued and exists. Ezekiel 29's forty-year desolation of Egypt did not happen. Daniel 11:40-45 misses the climax. On the natural reading, Mark 13:30 says that generation would see the climactic events, including cosmic collapse; it did not. A source with real foreknowledge should not nail preliminaries and miss the decisive facts.",
+     "case_against": "Ancient destruction rhetoric is often hyperbole, so 'never rebuilt' need not be cartography; some restrict the Tyre oracle to the island fortress Alexander later scraped. Conditional prophecy (Jeremiah 18) means non-fulfillment need not falsify. N. T. Wright and others read Mark 13 as about the temple, with 'generation' not covering a failed cosmic end. Partial match can still be counted as fulfillment under a looser definition.",
+     "consensus": "Critical scholars treat these as failed, conventional, or later-adjusted oracles. Evangelical apologists offer harmonizations that some other evangelicals find strained. The textual mismatches themselves are not seriously disputed; what is disputed is how much they are allowed to matter.",
+     "evidence": [
+      "Ezekiel 26:7-14 and 26:19-21 assign Tyre's permanent ruin to Nebuchadnezzar",
+      "Ezekiel 29:17-20 concedes the siege yielded no plunder",
+      "Ezekiel 29:10-12's forty desolate years of Egypt did not occur",
+      "Mark 13:24-30 links cosmic signs and 'this generation'"
+     ],
+     "verdict": "The mismatches are real and weigh against the claim",
+     "credence": 82
+    },
+    {
+     "claim": "New Testament fulfillment citations mostly do not show that Hebrew Bible texts were long-range predictions of Jesus's life.",
+     "kind": "textual",
+     "case_for": "Hosea 11:1 is about Israel, cited in Matthew 2:15 of Jesus. Isaiah 7:14 is a sign for Ahaz about a child soon to be born; 'almah' means young woman, and the virgin sense comes via the Greek. Psalm 22 is a lament, not a forecast. Zechariah 9:9 was available to be deliberately enacted. Matthew's formula quotations match known Jewish interpretive methods, not an independent check that the old text specified Jesus. Conflicting infancy narratives make a Bethlehem birth shaped toward Micah 5:2 a live possibility.",
+     "case_against": "A deeper divine sense, or dual fulfillment, is a coherent theological idea even when the prophet's own horizon was nearer. Isaiah 53 has individual features many readers find strikingly apt. Some Dead Sea texts show pre-Christian messianic rereading, so the church did not invent messianic interpretation from nothing. If Jesus was actually born in Bethlehem and the triumphal entry was not staged, circularity shrinks. A cluster can be improbable even when each text is ambiguous.",
+     "consensus": "Most critical scholars agree the New Testament often uses typology and rereading rather than the original predictive sense. Many confessional scholars grant the hermeneutical point and still affirm a divine intention behind the texts. There is no consensus that a pre-Christian reader would have extracted Jesus's biography from these passages.",
+     "evidence": [
+      "Hosea 11:1 in Matthew 2:15",
+      "Isaiah 7:14-16 in Matthew 1:23, including the shift from young woman to virgin in Greek",
+      "Micah 5:2, Zechariah 9:9, and Psalm 22 as applied in the Gospels",
+      "Isaiah 53's servant, whose original referent remains disputed and whose 'offspring' and long life do not map cleanly"
+     ],
+     "verdict": "Gospel fulfillment claims are weak evidence of advance foreknowledge",
+     "credence": 80
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Were Daniel 11 and Isaiah 44-45 written before the events they describe?",
+     "type": "evidence",
+     "if_yes": "The claim rises sharply. A sixth-century play-by-play of Seleucid politics, or an eighth-century naming of Cyrus, would be the strongest historical evidence in the Bible for supernatural foreknowledge, and credence could move into the 40-60 range if interpolation and other natural alternatives were also weak.",
+     "if_no": "The spectacular cases collapse, and what remains does not outrun ordinary explanation. The claim stays unlikely.",
+     "your_view": "No. The accuracy cliff in Daniel and the exilic setting of Isaiah 40-55 are positive evidence of date. Late dating does not depend only on deciding in advance that miracles cannot happen."
+    },
+    {
+     "crux": "Before looking at these texts, how plausible is supernatural disclosure of future facts?",
+     "type": "prior",
+     "if_yes": "If one already thinks God regularly reveals the distant future to prophets, ambiguous hits are reasonably read as prophecy, traditional dates get the benefit of the doubt, and the claim can be accepted at moderate or high credence.",
+     "if_no": "If that prior is low, only early, public, highly specific, unedited, unfailed predictions would suffice. The present evidence does not clear that bar.",
+     "your_view": "A low prior is the right default for historical explanation. Not because miracles are logically impossible, but because supernatural-foreknowledge hypotheses are easy to fit to any oracle and have lost when dating evidence improved, Daniel being the central example."
+    },
+    {
+     "crux": "What must a 'fulfilled prediction' be to support foreknowledge?",
+     "type": "definition",
+     "if_yes": "If it must be specific, issued beforehand, literally matched, and not self-enacted, few candidates survive and the claim is unlikely.",
+     "if_no": "If typology, partial match, theological fulfillment, or deliberate enactment count, many fulfillments exist, but they no longer favor supernatural foreknowledge over creative reinterpretation.",
+     "your_view": "The claim under test says foreknowledge, so the strict sense is the one being scored. Typological fulfillment can be religiously meaningful without being evidence that a writer knew future facts."
+    },
+    {
+     "crux": "Do failed climaxes count against supernatural origin, or can hyperbole, conditionality, and delay absorb them?",
+     "type": "value",
+     "if_yes": "Daniel's ending and Ezekiel's Tyre and Egypt oracles are serious evidence against supernatural knowledge of those events.",
+     "if_no": "The hypothesis becomes hard to falsify: hits count and misses are redefined. It then explains less, not more, than ordinary prophetic practice.",
+     "your_view": "Conditionality is a real biblical idea and hyperbole is real ancient rhetoric, but neither rescues highly specific unconditional scenes that get the decisive facts wrong."
+    }
+   ],
+   "strongest_for": [
+    "If Isaiah 40-55 and Daniel were genuinely early, their specificity — a named Cyrus, a running account of Seleucid politics — would be very hard to explain by political insight or chance.",
+    "Some agreed-early calls were risky in context, notably Jerusalem's survival in 701 and a return after Babylonian victory, and Deuteronomy 18 shows the tradition cared about real outcomes.",
+    "The circularity charge has force: a method that forbids miraculous conclusions cannot by itself be cited as having discovered that no miracle occurred, and some popular linguistic objections to early Daniel are weaker than skeptics claim.",
+    "Pre-Christian messianic rereading means the Jesus connection is not a pure post-hoc invention, even if it is not a biographical checklist.",
+    "Dismissing every success as Nostradamus-like vagueness is itself selective; Daniel 11 shows that some biblical prediction is highly checkable."
+   ],
+   "strongest_against": [
+    "Daniel 11 is detailed and right up to the author's time, then wrong about Antiochus IV's end. That is what after-the-fact writing produces and what supernatural foreknowledge should not produce.",
+    "Isaiah 40-55's exilic address explains the Cyrus oracles without precognition; the argument is literary and historical, not only a ban on miracles.",
+    "Specific misses — Tyre not permanently destroyed by Nebuchadnezzar, Egypt not desolate for forty years, the Olivet generation saying — are as concrete as many alleged hits and drop out of apologetic tallies.",
+    "Canon and retelling select winners: Hananiah is remembered as false and Jeremiah as true. That is survivorship, not a measured hit rate.",
+    "Mari letters, Neo-Assyrian oracles, and the Deir Alla Balaam text show the same prophetic institution elsewhere, so Israelite hits do not require a unique supernatural mechanism.",
+    "Many Gospel proofs were not predictions, were enactable on purpose, or depend on a Greek wording the Hebrew does not have."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Probability products in the tradition of Peter Stoner and Josh McDowell, which multiply post-selected, non-independent, and often non-predictive details while ignoring misses and disputed dates.",
+     "The popular claim that Jesus fulfilled hundreds of prophecies, which counts types, metaphors, and out-of-context citations as advance specifications.",
+     "The claim that the Dead Sea Scrolls prove Isaiah predicted Cyrus. They show a unified book about two centuries after Cyrus, not an eighth-century composition.",
+     "Treating any archaeological confirmation of a biblical place, king, or custom as if it confirmed predictive prophecy."
+    ],
+    "against": [
+     "The claim that all biblical prophecy is as vague as Nostradamus. That is false of Daniel 11; the problem there is date, not fog.",
+     "The claim that nothing can be dated because manuscripts are late. Dating also uses language, historical horizon, citation, and genre, and the manuscript tradition is not empty.",
+     "The claim that one failed verse makes every oracle in the Bible worthless. The claim fails because the best cases have better natural explanations, not because a single miss is a universal logical veto.",
+     "The claim that ancient people were too primitive to forecast politics. Courts had intelligence and incentives; that dismissal is unnecessary and false."
+    ]
+   },
+   "would_change": [
+    "A manuscript of Isaiah 44-45 securely dated before Cyrus's rise, or of Daniel 11 securely dated before Antiochus IV, would substantially raise credence.",
+    "A contemporary non-biblical notice that a specific, unlikely biblical prediction was publicly issued before the event and then matched in detail.",
+    "A reconstruction in which Daniel 11:40-45 actually fits Antiochus IV's death as ancient sources report it, together with a serious collapse of the other arguments for a Maccabean date.",
+    "New linguistic and historical evidence that overturns the exilic date of Isaiah 40-55 and the second-century date of Daniel without assuming that long-range prophecy is possible.",
+    "A complete, pre-set scoring of every unambiguous oracle that showed a large excess of specific hits over informed-human baselines, with misses counted rather than harmonized."
+   ],
+   "sources": [
+    {
+     "citation": "John J. Collins, Daniel: A Commentary on the Book of Daniel (Hermeneia), 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John Goldingay, Daniel (Word Biblical Commentary), 1989",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Joyce G. Baldwin, Daniel: An Introduction and Commentary, 1978",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gleason L. Archer Jr., A Survey of Old Testament Introduction, revised edition 1994",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bernhard Duhm, Das Buch Jesaia, 1892",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Joseph Blenkinsopp, Isaiah 40-55 (Anchor Bible), 2002",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John N. Oswalt, The Book of Isaiah, Chapters 1-39 (NICOT), 1986",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Walther Zimmerli, Ezekiel (Hermeneia), 1979",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Robert P. Carroll, When Prophecy Failed, 1979",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Martti Nissinen, Prophets and Prophecy in the Ancient Near East, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Michael Fishbane, Biblical Interpretation in Ancient Israel, 1985",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison Jr., Jesus of Nazareth: Millenarian Prophet, 1998",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N. T. Wright, Jesus and the Victory of God, 1996",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Josh McDowell, Evidence That Demands a Verdict, 1972",
+     "kind": "other"
+    },
+    {
+     "citation": "Daniel 11; Isaiah 7:14; 44:28-45:1; 53; Ezekiel 26-29; Hosea 11:1; Micah 5:2; Zechariah 9:9; Jeremiah 18; 25-29; Deuteronomy 18:21-22; Mark 13; Matthew 1-2; 1 Maccabees 6; 2 Maccabees 9",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Cyrus Cylinder, Babylonian text, c. 539 BCE",
+     "kind": "primary"
+    }
+   ],
+   "id": "grok",
+   "label": "Grok 4.7",
+   "model": "grok-4.7",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Very unlikely; the evidence does not support supernatural foreknowledge as the best explanation",
+   "credence": 5,
+   "confidence": "medium",
+   "bottom_line": "The most impressive-looking biblical predictions mostly fall into one of four groups. Some were written after the events they describe (Daniel 11, Cyrus in Isaiah 44-45). Some are vague enough to fit many outcomes. Some were only identified as prophecies after the fact by later readers (most New Testament readings of Hebrew Bible texts). Some were self-fulfilling or politically foreseeable. Meanwhile the corpus also contains clear predictions that failed, such as Tyre, Egypt's forty-year desolation, and Daniel's account of Antiochus IV's death, which is exactly the pattern expected from human authors writing in real time. No single case clearly meets all three tests: the text is securely dated before the event, the prediction is specific, and the outcome was improbable. Someone with a high prior for theism and miracles can reasonably stay open, but even on that prior the prophecy evidence itself adds little.",
+   "sub_claims": [
+    {
+     "claim": "The book of Daniel accurately predicted events from the 6th century BCE through the 2nd century BCE (Daniel 2, 7, 8, 11).",
+     "kind": "textual",
+     "case_for": "Conservative scholars argue for a 6th-century date by appeal to Daniel's appearance among the Dead Sea Scrolls, Jesus's reference to 'Daniel the prophet', claimed early Aramaic features, and Ezekiel's mention of a 'Daniel'. If the early date holds, the detailed Ptolemaic-Seleucid history in chapter 11 would be extraordinary.",
+     "case_against": "Daniel 11 is precise up to roughly 167-165 BCE (the desecration of the temple by Antiochus IV) and then goes wrong. Verses 40-45 place his death between the sea and the holy mountain after a final Egyptian campaign, but he died in Persia around 164 BCE. Accuracy that ends exactly at the time of writing is the textbook signature of ex eventu prophecy. Other problems point the same way: Greek loanwords for instruments, historical errors about the 6th century (Belshazzar as king and son of Nebuchadnezzar, 'Darius the Mede'), placement among the Writings rather than the Prophets in the Jewish canon, and absence from Ben Sira's list of heroes (c. 180 BCE). The Ezekiel 'Danel' is likely the Ugaritic figure.",
+     "consensus": "Mainstream critical scholarship, including many Catholic and mainline Protestant scholars (e.g., Hartman and Di Lella in the Anchor Bible), dates the visions to c. 167-164 BCE. A minority of evangelical scholars (Baldwin, Archer, Steinmann, Miller) defend a 6th-century date.",
+     "evidence": [
+      "Daniel 11:2-39 tracks Hellenistic history closely",
+      "Daniel 11:40-45 does not match Antiochus IV's actual death in Persia",
+      "Dead Sea Scroll Daniel fragments date from the late 2nd century BCE onward",
+      "Greek loanwords (e.g., symphonia, psanterin) in Daniel 3",
+      "Daniel absent from Sirach 44-49"
+     ],
+     "verdict": "Almost certainly written after most of the events it 'predicts'; the genuine forward prediction in it failed",
+     "credence": 4
+    },
+    {
+     "claim": "Isaiah predicted Cyrus by name ~150 years in advance (Isaiah 44:28; 45:1).",
+     "kind": "textual",
+     "case_for": "The book circulated under Isaiah of Jerusalem's name (8th century BCE). The Great Isaiah Scroll (1QIsa-a) shows the book transmitted as a unit by the 2nd century BCE. Traditionalists argue that denying predictive prophecy is circular.",
+     "case_against": "Chapters 40-55 address exiles in Babylon as a present audience, speak of Jerusalem as already ruined, and treat Cyrus as a contemporary already on the march (c. 545-539 BCE). Their style, theology, and historical horizon differ from chapters 1-39. The unity of the scroll in 125 BCE says nothing about 8th-century composition. Even some prophecies about Cyrus did not come true as stated: he did not violently conquer Babylon, and his religious policy was not monotheistic.",
+     "consensus": "A broad critical consensus (including most Catholic and many evangelical-adjacent scholars) assigns chapters 40-55 to an exilic author ('Deutero-Isaiah'). Conservative evangelicals (e.g., Oswalt, Motyer) defend single authorship.",
+     "evidence": [
+      "Isaiah 40:1-2 and 44:26-28 presuppose a ruined Jerusalem",
+      "Cyrus Cylinder shows Babylon taken largely without destruction",
+      "1QIsa-a dates to c. 125 BCE"
+     ],
+     "verdict": "Very likely written during Cyrus's career, not foreknowledge",
+     "credence": 5
+    },
+    {
+     "claim": "Hebrew Bible messianic prophecies were specifically fulfilled in Jesus (e.g., Isaiah 53, Psalm 22, Micah 5:2, Daniel 9:24-27).",
+     "kind": "textual",
+     "case_for": "Isaiah 53 predates Jesus (the Great Isaiah Scroll proves this) and describes a suffering, vicarious, vindicated servant strikingly like the Passion. Psalm 22's pierced-hands reading and clothing-division motifs, Micah's Bethlehem, and some calculations of Daniel's 70 weeks reaching to around 30 CE form a cumulative case. Jesus's crucifixion was historically certain and not obviously self-arranged.",
+     "case_against": "In context the Isaiah servant is frequently identified as Israel (41:8; 44:1; 49:3), and Isaiah 53 was not read as a dying-messiah text in pre-Christian Judaism. 'Pierced' in Psalm 22:16 is a contested reading ('like a lion'). Gospel writers knew these texts and shaped narratives around them; e.g., Matthew's two-animal entry, and the Bethlehem birth stories in Matthew and Luke conflict with each other. Isaiah 7:14 concerns a sign in Ahaz's day and uses almah ('young woman'). Daniel 9's 70 weeks were computed in many incompatible ways in antiquity and most naturally end with Antiochus IV. Fulfillment claims are unfalsifiable when the fulfilling texts are written by believers.",
+     "consensus": "Critical scholars (including many Christian ones, e.g., Raymond Brown on Matthew's formula citations) see these as early Christian interpretive readings rather than predictions. Jewish scholars reject the messianic readings. Conservative apologists (McDowell, Michael Brown, Kaiser) defend predictive fulfillment.",
+     "evidence": [
+      "Isaiah 49:3 names the servant as 'Israel'",
+      "Psalm 22:16 MT reads ka'ari ('like a lion'); LXX and some DSS evidence support a verb",
+      "Matthew 21:2-7 vs Mark 11:2-7",
+      "Matthew 2:23 cites a prophecy not found in the Hebrew Bible",
+      "Ancient Jewish and Christian computations of Daniel 9 diverge widely"
+     ],
+     "verdict": "Real theological resonance, but the evidence points to retrospective interpretation and narrative shaping, not demonstrable prediction",
+     "credence": 6
+    },
+    {
+     "claim": "Biblical prophecies about nations and cities (Tyre, Babylon, Nineveh, Egypt, Edom, Israel's dispersion and return) came true in ways beyond human foresight.",
+     "kind": "empirical",
+     "case_for": "Tyre was eventually razed by Alexander (332 BCE). Babylon lies in ruins. Nineveh fell (612 BCE). Jews were scattered and returned to the land in 1948. Deuteronomy 28-30 seems to anticipate a long exile and regathering.",
+     "case_against": "Ezekiel 26 says Nebuchadnezzar would destroy Tyre permanently. He failed after a 13-year siege, Ezekiel 29:17-20 concedes this, and Tyre remains a city today. Ezekiel 29:10-12 predicts 40 years of total Egyptian desolation, which never happened. Babylon remained inhabited for centuries after Isaiah 13. The fall of Nineveh was foreseeable from Assyria's decline. Deuteronomy's exile-and-return pattern was likely written in or after the Babylonian exile, and generic dispersion/return motifs fit many outcomes. 1948 had clear human causes. Hits are remembered and misses explained away.",
+     "consensus": "Critical scholars treat these as oracles against nations, often revised after the fact. Robert Carroll and others document failed prophecy and later reinterpretation. Conservative scholars offer harmonizations, e.g., 'they' in Ezekiel 26:4 refers to many nations over time.",
+     "evidence": [
+      "Ezekiel 26:7-14 vs 29:17-20",
+      "Ezekiel 29:10-12 Egyptian desolation",
+      "Jeremiah 36:30 vs 2 Kings 24:6-8 (Jehoiachin reigns)",
+      "2 Kings 22:20 (Josiah to die 'in peace') vs 23:29",
+      "Tyre (Sur) is an inhabited Lebanese city"
+     ],
+     "verdict": "Mixed hit-and-miss record typical of human forecasting, with explicit acknowledged failures",
+     "credence": 4
+    },
+    {
+     "claim": "New Testament prophecies (temple destruction, imminent return) show foreknowledge.",
+     "kind": "textual",
+     "case_for": "Jesus's prediction of the temple's destruction (Mark 13:2) was fulfilled in 70 CE. Some scholars date Mark or its sources before 70, and a historical Jesus could have made such a prediction.",
+     "case_against": "Most scholars date Mark around 70 CE and Luke's more detailed siege language (Luke 19:43-44; 21:20) after 70. Predictions of the temple's ruin had precedents (Jeremiah, Jesus ben Ananias) and fit political tensions. The same discourse predicts the end within 'this generation' (Mark 13:30; 9:1), which did not happen.",
+     "consensus": "Most critical scholars see Mark 13 as reflecting the Jewish War. Some, including conservatives and a few critics, defend a genuine pre-70 saying. Near-unanimity among critical scholars that early Christians expected an imminent end.",
+     "evidence": [
+      "Mark 13:2, 13:30",
+      "Luke 21:20",
+      "Josephus, Jewish War 6.300-309 (Jesus son of Ananias)"
+     ],
+     "verdict": "Plausibly a foreseeable or post-event prediction, paired with a failed eschatological one",
+     "credence": 5
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Were the key prophetic texts (Daniel 7-12, Isaiah 40-55, Deuteronomy 28-30) written before the events they describe?",
+     "type": "evidence",
+     "if_yes": "Daniel 11 alone would be strong evidence for supernatural foreknowledge, and the claim could rise above 50%",
+     "if_no": "The best cases collapse into ex eventu prophecy",
+     "your_view": "The linguistic, historical, and internal-accuracy evidence strongly favors late dating, especially for Daniel, where the switch from accurate to wrong at 165 BCE is close to decisive"
+    },
+    {
+     "crux": "What prior probability should be assigned to a supernatural agent revealing future events?",
+     "type": "prior",
+     "if_yes": "With a substantial prior (e.g., firm theism), ambiguous fits look more meaningful, though failed prophecies still count against",
+     "if_no": "With a low prior, naturalistic explanations (late dating, vagueness, retrofitting) easily win",
+     "your_view": "Even granting theism, the specific evidence here is weak, so the prior matters less than apologists suggest; the dating evidence does most of the work"
+    },
+    {
+     "crux": "Should fulfillment be judged by the original author's meaning, or by later typological or fuller-sense readings?",
+     "type": "definition",
+     "if_yes": "If later readings count, 'fulfillment' becomes easy but no longer evidences foreknowledge, because it cannot be tested",
+     "if_no": "If the original meaning governs, most messianic proof-texts were not predictions about Jesus",
+     "your_view": "For an evidential claim, only predictions understood as such beforehand can count"
+    },
+    {
+     "crux": "Do failed prophecies count against the claim, or can they be harmonized (conditional prophecy, multiple fulfillment)?",
+     "type": "evidence",
+     "if_yes": "Clear failures like Tyre, Egypt, and Daniel 11:40-45 strongly favor human authorship",
+     "if_no": "If the framework absorbs every outcome, it also loses evidential power for the hits",
+     "your_view": "The failures are real and the harmonizations are ad hoc; the hit/miss pattern matches human forecasting"
+    }
+   ],
+   "strongest_for": [
+    "Isaiah 53 is demonstrably pre-Christian and has unusual parallels with Jesus's death and its interpretation",
+    "If Daniel were 6th-century, chapter 11's detail would be extraordinary; a minority of scholars defend this dating",
+    "Jewish survival through long dispersion and a return to the land is historically unusual and echoes Deuteronomy and the prophets",
+    "Critics' late dating is sometimes partly motivated by rejecting prediction a priori, so the circularity charge has some force",
+    "The crucifixion of a claimed messiah was not something early followers would have invented to match Isaiah"
+   ],
+   "strongest_against": [
+    "Daniel 11 is precise until c. 165 BCE and then wrong about Antiochus IV's death, the classic signature of ex eventu writing",
+    "Explicit, self-acknowledged failures exist: Ezekiel 26 vs 29:17-20 on Tyre, Egypt's 40-year desolation, Jehoiakim's dynasty, Josiah's peaceful death",
+    "New Testament authors knew the prophecies and shaped narratives to match, so 'fulfillment' cannot be checked independently",
+    "Many messianic proof-texts mean something else in context (Isaiah 7:14, Hosea 11:1, the servant as Israel)",
+    "Imminent end-time predictions (Mark 9:1, 13:30) failed",
+    "No prophecy combines a secure pre-event date, specificity, and improbability in a way that resists naturalistic explanation"
+   ],
+   "weak_arguments": {
+    "for": [
+     "Probability calculations of 'one in 10^17' odds (e.g., Stoner's Science Speaks): these assume independence and pre-dating, and count retrofitted and vague texts as specific hits",
+     "Israel's 1948 founding as precise fulfillment: claimed date calculations (e.g., from Ezekiel 4) rely on arbitrary arithmetic, and return was a widely shared hope",
+     "Babylon never being rebuilt: it was inhabited for centuries, and partially rebuilt in modern times",
+     "Josiah named in 1 Kings 13:2: Kings was compiled after Josiah's reign"
+    ],
+    "against": [
+     "'Prophecy is impossible, so these texts must be late': this is circular, and late dates should rest on textual evidence, which fortunately exists independently",
+     "'Prophets were just making vague guesses': some prophecies are quite specific, which is precisely how we know some failed",
+     "'The Bible was rewritten centuries later so no text is reliable': the Dead Sea Scrolls show substantial textual stability from the 2nd century BCE onward",
+     "'Jesus never existed so messianic fulfillment is moot': nearly all historians accept a historical Jesus who was crucified"
+    ]
+   },
+   "would_change": [
+    "Discovery of a securely dated pre-6th-century manuscript of Isaiah 40-55 or a pre-2nd-century copy of Daniel 11",
+    "A pre-Christian Jewish text explicitly predicting a crucified Messiah from Bethlehem with dated precision",
+    "Strong linguistic evidence that Daniel's Aramaic and Hebrew are 6th-century rather than Hellenistic",
+    "A specific, unambiguous prophecy, verifiably written before the event, fulfilled against strong base-rate odds and lacking any clear misses in the same source",
+    "Compelling resolution of the Tyre, Egypt, and Daniel 11:40-45 failures without ad hoc moves"
+   ],
+   "sources": [
+    {
+     "citation": "John J. Collins, Daniel (Hermeneia), 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Louis F. Hartman and Alexander A. Di Lella, The Book of Daniel (Anchor Bible 23), 1978",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Joyce G. Baldwin, Daniel (Tyndale Old Testament Commentaries), 1978",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Robert P. Carroll, When Prophecy Failed: Cognitive Dissonance in the Prophetic Traditions of the Old Testament, 1979",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Joseph Blenkinsopp, A History of Prophecy in Israel, 1983 (rev. 1996)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Raymond E. Brown, The Birth of the Messiah, 1977",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "J. Barton Payne, Encyclopedia of Biblical Prophecy, 1973",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Michael L. Brown, Answering Jewish Objections to Jesus, Vol. 3: Messianic Prophecy Objections, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Martti Nissinen, Prophets and Prophecy in the Ancient Near East, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Daniel 11; Isaiah 44-45, 53; Ezekiel 26, 29; Jeremiah 36:30; 2 Kings 22-24; Mark 13",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Josephus, The Jewish War, Book 6",
+     "kind": "primary"
+    }
+   ],
+   "id": "opus",
+   "label": "Opus 5.5",
+   "model": "claude-opus-5-5",
+   "via": "claude"
+  }
+ ],
+ "stats": {
+  "mean": 6.5,
+  "median": 5.5,
+  "min": 5,
+  "max": 10,
+  "spread": 5
+ },
+ "synthesis": {
+  "summary": "All four reviewers judge supernatural foreknowledge unlikely to be the best explanation of the evidence, assigning the claim probabilities of 5% to 10%. They favor later composition, reinterpretation, narrative shaping, or ordinary forecasting for the strongest examples. All regard the dating of Daniel 11 and Isaiah’s naming of Cyrus as crucial, and note that an established early date would make those cases much more striking. They also point to disputed or apparent failures and to the difficulty of independently assessing New Testament fulfillment claims. They differ substantially in confidence and in how much a prior belief in divine revelation could change the conclusion.",
+  "agreement": "high",
+  "agreed": [
+   "Daniel 11 and Isaiah 44–45 are striking if demonstrably written long before the events, but the reviewers favor later dates.",
+   "Isaiah 53 existed before Jesus; whether it predicts him is disputed, and later writers knew the earlier scriptures.",
+   "Ezekiel’s Tyre oracle presents difficulties for a straightforward account of complete fulfillment.",
+   "Specificity, secure pre-event dating, independent confirmation and the treatment of misses matter when evaluating the claim.",
+   "Statistical arguments that assume independent, preselected fulfillments are weak, and rejecting miracles by assumption is not itself a demonstration."
+  ],
+  "disagreed": [
+   {
+    "point": "Certainty and dating",
+    "positions": "GPT-6.1 assigns 5% with low confidence and stresses disputed dating and interpretation. Gemini assigns 6% with high confidence and describes later dating and natural explanations in more definitive terms. Grok assigns 10% and Opus 5%, both with medium confidence, and strongly favor later dating."
+   },
+   {
+    "point": "Tyre and Ezekiel 29",
+    "positions": "GPT-6.1 says the implications of Ezekiel 29’s statement that Nebuchadnezzar received no wages are debated and judges literal fulfillment of the whole oracle unlikely. Gemini, Grok and Opus treat the Tyre prediction as a failure; Gemini and Opus describe Ezekiel 29 as acknowledging it."
+   },
+   {
+    "point": "Role of prior belief",
+    "positions": "GPT-6.1, Gemini and Grok emphasize that a higher prior for divine revelation can support a substantially more favorable interpretation. Opus also recognizes the prior’s relevance but argues that the prophecy evidence adds little even if theism is granted."
+   },
+   {
+    "point": "Original meaning of Isaiah 53",
+    "positions": "GPT-6.1 and Grok emphasize disputed alternatives, including Israel or another figure. Gemini more directly favors Israel or a contemporary prophet, while Opus emphasizes the servant’s identification with Israel elsewhere in Isaiah."
+   }
+  ],
+  "deciding_cruxes": [
+   "Were the most specific passages written before the relevant events were foreseeable, and is their dating supported independently of assumptions about miracles?",
+   "Were predictions specific and interpreted as predictions before fulfillment, with outcomes independently confirmed rather than shaped by the texts?",
+   "How should apparent failures, conditionality, hyperbole and selective reporting affect the evaluation?",
+   "Does theological or typological fulfillment count as evidence of foreknowledge, or is a stricter historical test required?",
+   "How probable is divine revelation before considering the prophecies?"
+  ],
+  "what_is_settled": "The reviews agree that Isaiah 53 predates Jesus, that Daniel 11 contains detailed historical correspondences, and that later biblical authors knew earlier scriptures. They also agree that critical scholars generally favor later dates for Daniel’s visions and Isaiah 40–55, while confessional scholars defend earlier dating.",
+  "what_is_open": "The precise dating and interpretation of contested passages, the independence and accuracy of reported fulfillments, and how to weigh apparent failures remain disputed. The conclusion also depends on the standard of evidence and prior commitments concerning divine revelation.",
+  "model": "gpt-6.1-terra"
+ }
+}

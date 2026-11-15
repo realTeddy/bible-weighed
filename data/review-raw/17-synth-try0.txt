@@ -1,0 +1,45 @@
+{
+  "summary": "All four reviews judge the full claim unlikely: GPT-6.1 assigns it 15%, Gemini 3.8 18%, Grok 4.7 18%, and Opus 5.5 17%. They consider objective morality plausible but deny that its existence establishes that God is required or is the best explanation. All treat secular moral realism as a serious alternative and recognize substantive arguments for theistic grounding. They differ in how strongly they think objections undermine theistic accounts and how confidently they endorse necessary moral truths without God. GPT-6.1, Grok, and Opus report low confidence; Gemini reports medium confidence. They also emphasize that the answer depends on contested assumptions about explanation, obligation, and theism.",
+  "agreement": "high",
+  "agreed": [
+    "Objective morality is more likely than not, though contested; its existence alone would not establish God.",
+    "Secular realist accounts offer serious alternatives to divine grounding, even if they face unresolved challenges.",
+    "Theistic accounts can connect moral value and duty to a good personal God, but face questions about divine goodness and authority.",
+    "The crude Euthyphro dilemma does not by itself dispose of sophisticated divine-nature or modified divine-command theories.",
+    "Whether atheists behave morally or religious people behave badly does not settle the metaphysical grounding question."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of objections to theistic grounding",
+      "positions": "Gemini regards the remaining Euthyphro and prior-obligation problems as severe and unlikely to be solved. GPT-6.1, Grok, and Opus treat the divine-nature response as more substantial, while remaining unconvinced that it establishes the claim; Grok calls it coherent, and Opus says the dilemma is partially answerable."
+    },
+    {
+      "point": "Necessary moral truths",
+      "positions": "Gemini is strongly confident that fundamental moral truths are necessary and do not require a divine author. Grok and Opus regard necessary, ungrounded moral truths as a viable stopping point; GPT-6.1 regards irreducible normative facts as admissible but unresolved."
+    },
+    {
+      "point": "Values versus duties",
+      "positions": "Grok and Opus separately assess strong categorical duties as plausible but less secure than objective values, emphasizing whether duties need a distinct ground. GPT-6.1 and Gemini assess moral realism more collectively, though both discuss the authority of obligation."
+    },
+    {
+      "point": "Evolutionary debunking",
+      "positions": "Opus sees the challenge as slightly favoring theism, while noting secular replies. Grok stresses its force but says theists also need an account of moral reliability; GPT-6.1 regards the evidence as underdetermining its explanation. Gemini identifies providential design as a possible theistic advantage but favors secular accounts overall."
+    },
+    {
+      "point": "Degree of philosophical consensus",
+      "positions": "Gemini describes broad consensus support for moral realism, citing the 2020 survey. GPT-6.1 and Grok emphasize that there is no consensus despite substantial survey support; Opus describes a majority leaning toward realism while recognizing a serious anti-realist minority."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether objective values and categorical duties exist, and whether duties require a distinct account beyond moral reasons or value.",
+    "Whether natural moral facts or irreducible necessary normative truths can adequately ground morality without God.",
+    "Whether divine nature and commands explain goodness and obligation without arbitrariness, circularity, or an independent standard.",
+    "Whether evolutionary challenges to moral knowledge favor theism over secular realism.",
+    "How probable God is independently of morality, and how explanatory unification, simplicity, and ultimate stopping points should be weighed."
+  ],
+  "what_is_settled": "The reviews agree that moral realism, secular alternatives, and sophisticated theistic theories are serious philosophical positions. They also distinguish moral behavior and knowledge from the question of what grounds moral truth.",
+  "what_is_open": "Whether objective morality exists, whether it metaphysically depends on God, and which account explains it best remain disputed. The comparative answer depends on assessments of moral authority, necessary truths, divine goodness, evolutionary debunking, and prior commitments about theism."
+}
+
+
+--- stderr ---

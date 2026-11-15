@@ -1,0 +1,46 @@
+{
+  "summary": "All four reviews conclude that the disciples’ willingness to suffer is not, by itself, strong evidence that Jesus rose bodily from the dead. They distinguish evidence of sincere belief, which can count against deliberate fraud, from evidence that the belief was correct. They agree that some early leaders suffered and that a few deaths have meaningful historical support, but that accounts for most of the Twelve are much less secure. They also find no reliable early account establishing a choice between recanting a specific resurrection claim and being spared. Their differences concern chiefly how strongly the evidence establishes sincerity, how securely particular deaths are attested, and how historical method and prior beliefs about miracles should affect the inference. All describe their verdict as mixed, with medium confidence and credences of 13–20% for the strong-evidence claim.",
+  "agreement": "high",
+  "agreed": [
+    "Costly persistence supports sincere conviction and counts against conscious fabrication, at least for some early leaders.",
+    "Sincerity does not establish truth: mistaken experiences or interpretations could also produce steadfast belief.",
+    "Paul’s letters provide early evidence of both resurrection belief and serious hardship; a few early leaders’ deaths have historical support.",
+    "The familiar claim that most or all of the Twelve died rather than recant their own resurrection testimony is not established by the early evidence.",
+    "Suffering may contribute to a broader cumulative case, but it does little by itself to distinguish resurrection from sincere error.",
+    "Better early evidence of named witnesses’ experiences and explicit refusals to recant would strengthen the case, especially against fraud."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of the inference to sincerity and against fraud",
+      "positions": "Gemini says the evidence effectively refutes a deliberate hoax and demonstrates unshakeable conviction, while acknowledging possible complications. Opus says it largely rules out fraud. GPT-6.1 and Grok are more qualified, emphasizing evidence for sincerity among some leaders and uncertainty about individuals’ motives and opportunities to recant; Grok gives the narrower anti-fraud claim about 60% credence, compared with Opus’s roughly 80% for a similar reading."
+    },
+    {
+      "point": "Certainty and scope of the death accounts",
+      "positions": "Gemini treats the martyrdoms of Peter, Paul and both Jameses as well attested, and the remaining apostles’ violent deaths as legendary. Opus regards James son of Zebedee’s execution as reasonably attested and the deaths of Peter, Paul and James the brother of Jesus as probable. GPT-6.1 emphasizes varying source quality and uncertain motives, while Grok identifies Peter and Paul as the clearest cases and stresses that their precise legal circumstances are undocumented."
+    },
+    {
+      "point": "Historical method and prior probability",
+      "positions": "Gemini argues that historical analysis should prioritize documented natural phenomena over a biological miracle. GPT-6.1 emphasizes reasonable disagreement about miracle priors and whether history can establish a miracle. Grok and Opus also recognize the importance of priors, but stress that this particular evidence remains weakly discriminating even on a more favorable theistic prior."
+    },
+    {
+      "point": "The disciples’ transformation",
+      "positions": "Gemini lists a shift from fearful followers to fearless heralds as a strong point for the argument. Grok cautions that Acts’ portrait of this transformation is itself part of the tradition and is weak as independent proof."
+    },
+    {
+      "point": "Distinctiveness of firsthand witnesses",
+      "positions": "Opus regards firsthand status as a real but limited distinction from dying for an inherited belief; Grok and Gemini also acknowledge its relevance against fraud. Gemini emphasizes that firsthand claimants in other movements have likewise suffered, so the sacrifice is not unique to Christianity. These emphases are compatible rather than a clear contradiction."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether strong evidence must distinguish a real resurrection from sincere error, or whether substantially weakening a fraud hypothesis is enough.",
+    "How reliably named witnesses’ suffering, deaths, specific testimony and opportunities to recant can be established.",
+    "Whether the reported experiences can plausibly be explained by visions, grief, group dynamics or developing traditions, including reported group appearances.",
+    "How prior beliefs about divine action and views of historical inference affect the weight of the wider evidence.",
+    "How much suffering adds once sincere early belief is already accepted, rather than counting the same evidence twice."
+  ],
+  "what_is_settled": "The reviews agree that early sources report resurrection appearances and that Paul described substantial hardship. They accept that at least some early followers sincerely believed Jesus had appeared to them and that some leaders suffered; they also agree that the detailed claim that most apostles chose death over recanting their firsthand resurrection testimony is not established.",
+  "what_is_open": "The precise experiences and motives of individual followers, the circumstances of several deaths, and the historical reliability of later martyrdom accounts remain disputed or uncertain. Whether the wider appearance evidence favors resurrection over natural explanations, and how much weight to give a miracle, depends on contested evidence, historical method and prior commitments."
+}
+
+
+--- stderr ---

@@ -1,0 +1,46 @@
+{
+  "summary": "All four reviewers judge it very unlikely that Moses wrote the Torah substantially in its present form. They instead favor composition and editing over an extended period, while noting that scholars dispute the details. They distinguish that claim from the possibility that older traditions or material associated with Moses survived in the text. All recognize the Torah’s attribution of some writing to Moses and later Jewish and Christian attribution of the Torah to him, but do not consider these decisive historical proof of the stronger claim. They differ in confidence, in how strongly they treat particular evidence, and in their characterization of scholarly agreement.",
+  "agreement": "high",
+  "agreed": [
+    "The claim concerns substantially the existing five books, not merely an early tradition or legal core.",
+    "Repeated narratives, differences in laws and emphases, and apparent references to later circumstances favor a multi-stage composition.",
+    "The Torah attributes some writing to Moses, and later religious traditions associate him with the law, but these do not independently establish his authorship of the entire present Torah.",
+    "A later account of Moses’s death alone would not disprove substantial Mosaic authorship if it were an addition.",
+    "The existence of writing in Moses’s traditional era makes authorship possible, not demonstrated; uncertainty about Moses’s existence does not itself settle authorship.",
+    "The exact sources, dates, and process of the Torah’s formation remain debated."
+  ],
+  "disagreed": [
+    {
+      "point": "Probability and confidence",
+      "positions": "GPT-6.1 assigns the claim 1% and Grok 4.7 assigns 8%, both with medium confidence; Gemini 3.8 and Opus 5.5 each assign 2% with high confidence. Grok’s higher estimate leaves more room for uncertainty in the evidence and its interpretation."
+    },
+    {
+      "point": "Strength of archaeological and historical indicators",
+      "positions": "Gemini treats anachronisms, including camel caravans, as strongly confirmed evidence of later composition. Grok considers the cumulative later standpoint persuasive but explicitly regards camel dating and some other examples as contested. Opus also cites camel evidence, while GPT-6.1 emphasizes literary and legal patterns and retrospective passages rather than making camels a central argument."
+    },
+    {
+      "point": "How broadly to characterize scholarly agreement",
+      "positions": "Gemini describes near-universal or universal agreement on several individual findings and says even most modern conservative scholars concede substantial post-Mosaic work. GPT-6.1 emphasizes disagreement over sources and dates and notes that some confessional scholars defend substantial Mosaic authorship. Grok and Opus describe a strong critical-scholarly consensus while identifying traditional Orthodox and conservative evangelical dissent."
+    },
+    {
+      "point": "Theological assumptions",
+      "positions": "Gemini and Grok emphasize that historical inquiry cannot use doctrinal assumptions to settle authorship against the literary evidence. GPT-6.1 and Opus explicitly maintain that their main case does not require ruling out prophecy; they note that revelation or inspiration could also operate through later writers."
+    },
+    {
+      "point": "Weaker Mosaic associations",
+      "positions": "GPT-6.1 estimates a 10% chance that Moses personally wrote some incorporated material and 35% that a historical Moses existed. Opus puts a historical Moses at 40% and describes a heavily reworked Mosaic legal or traditional core as possible but hard to sustain. Grok considers a Mosaic-era traditional background substantially more plausible than the strong claim, while Gemini allows older traditions and cultural memories without assigning comparable probabilities."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether 'substantially as we have it' permits only minor additions or major later rewriting and expansion.",
+    "Whether the combined literary, legal, linguistic, and retrospective features are better explained by multiple stages or by a single author using varied sources and later scribal updates.",
+    "How much historical weight to give the Torah’s limited writing notices and later religious attribution.",
+    "Whether prophecy or doctrinal authority can explain apparent later references, and whether such explanations address the broader compositional evidence.",
+    "Whether early cultural parallels, poetry, or legal forms establish substantial Mosaic authorship or only preserve older material within later works."
+  ],
+  "what_is_settled": "The reviewers agree that the Torah contains passages attributing specific writing to Moses, that later Jewish and Christian traditions associate the Torah with him, and that substantial disagreement persists over the details of composition. They all report strong support in critical scholarship for a composite Torah rather than substantial authorship by Moses.",
+  "what_is_open": "The precise sources, dates, and stages of composition remain disputed, as do the age and identification of particular early traditions and whether Moses existed or personally wrote any surviving material. The significance of later attribution and prophecy depends partly on methodological and religious commitments."
+}
+
+
+--- stderr ---

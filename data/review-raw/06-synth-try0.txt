@@ -1,0 +1,35 @@
+{
+  "summary": "All four reviews give a mixed verdict: they reject the idea that the canon was chiefly an imperial invention, but doubt that the process reliably verified genuine apostolic or prophetic origins. They describe a gradual process involving inherited use, theological judgment and institutional authority. All point to an early New Testament core and reject the claim that Nicaea selected the canon. They differ in how strongly they state the case against traditional authorship and how much weight they give ecclesiastical power. Their overall credences in the claim range from 25% to 35%, with confidence ranging from low to high.",
+  "agreement": "high",
+  "agreed": [
+    "A substantial New Testament core was in use before Constantine, and the Council of Nicaea did not select the canon.",
+    "Canon formation involved extended communal reception and theological criteria, not simply a single political decree.",
+    "Early use and traditional attribution do not by themselves establish genuine authorship for every book.",
+    "Institutional authority and conflicts over doctrine influenced canonical boundaries, and major traditions retain different canons."
+  ],
+  "disagreed": [
+    {
+      "point": "Certainty about authorship tracking",
+      "positions": "Gemini states with high confidence that the process failed to track historical provenance. Grok and Opus also judge authorship tracking probably unreliable, with medium confidence. GPT-6.1 says strong reliability is unestablished and probably too strong, but emphasizes substantial uncertainty and assigns low confidence."
+    },
+    {
+      "point": "The role of power",
+      "positions": "Grok emphasizes institutional power as a major factor in closure and disputed boundaries. GPT-6.1 says boundary-setting can reasonably be called political. Opus treats power as a contributing factor but not the main driver, while Gemini considers calling pre-imperial theological debate political anachronistic and stresses later coercive enforcement."
+    },
+    {
+      "point": "How much was settled early",
+      "positions": "Gemini claims a specified core was universally recognized across several regions by 180–200 CE; Opus describes a similar core as widely accepted. Grok makes a narrower claim about the four Gospels and a Pauline collection, and GPT-6.1 emphasizes early continuity without claiming that the same detailed list was universally recognized."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether reliable origin-tracking requires historically authentic authorship or can include a genuine connection to an apostolic circle or era.",
+    "Whether disputed books, especially 2 Peter, the Pastoral Epistles and Daniel, have their traditional authorship or dates.",
+    "Whether politics means imperial imposition alone or also ecclesiastical boundary-setting, and whether the focus is the early core or final closure and enforcement.",
+    "Whether divine providence or traditional ecclesial authority should be assumed when judging reliability."
+  ],
+  "what_is_settled": "All four treat the early existence of a substantial New Testament core, Nicaea's lack of a canon decision, and continuing differences between canonical traditions as established. They also agree that the first surviving list matching the 27-book New Testament is Athanasius's 367 letter.",
+  "what_is_open": "The reviews identify the accuracy of disputed authorship claims, the reliability of the overall selection process, and the relative weight of theology and institutional power as contested. The answer also depends on how broadly apostolic origin and politics are defined, and on theological commitments about providence."
+}
+
+
+--- stderr ---

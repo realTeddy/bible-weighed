@@ -1,0 +1,154 @@
+{
+  "kind": "mixed",
+  "verdict": "Very unlikely to be literally true. History cannot confirm it, and accepting it depends almost entirely on a prior willingness to accept miracles.",
+  "credence": 4,
+  "confidence": "medium",
+  "bottom_line": "Only two sources describe a virginal conception, Matthew and Luke, both written roughly 80 to 90 years after Jesus' birth. They tell very different stories and agree only on a core tradition. The earliest Christian writers, Paul and Mark, never mention it. Luke's infancy story contains a dating problem, and Matthew's contains events no other source records, which weakens their value as eyewitness history. A virginal conception would be a miracle by definition: natural human parthenogenesis does not occur and could not produce a male child. So the question comes down to whether you already find miracles plausible, ideally on independent grounds such as the resurrection. On a broadly naturalistic or historically neutral prior, the best explanation is a theological tradition that developed in the decades after Jesus. Someone who already accepts Christian theism could reasonably hold a much higher credence, but the historical evidence alone does not get them there.",
+  "sub_claims": [
+    {
+      "claim": "Matthew and Luke independently attest a tradition of virginal conception that predates both gospels.",
+      "kind": "textual",
+      "case_for": "The two infancy narratives do not depend on each other. They have different genealogies, different visitors (magi vs. shepherds), different home towns at the start (Bethlehem vs. Nazareth), and different angelic recipients (Joseph vs. Mary). Yet they agree on a core: Mary and Joseph are betrothed, conception happens before they live together, it is by the Holy Spirit, the child is named Jesus, the birth is in Bethlehem, and Davidic descent runs through Joseph. Independent agreement points to an earlier shared tradition, plausibly from the 60s to 80s CE.",
+      "case_against": "Some scholars argue the virginal element in Luke is thin or secondary, resting heavily on Luke 1:34-35 and the phrase 'as was supposed' in 3:23. A few argue Luke's original story may not have required a virginal conception. Shared tradition also shows only what some Christians believed by the late first century, not where the belief came from.",
+      "consensus": "Broad agreement across critical and confessional scholars (e.g., Raymond Brown, John Meier) that Matthew and Luke independently reflect a pre-gospel tradition. There is disagreement over how early it is and where it came from.",
+      "evidence": ["Matthew 1:18-25", "Luke 1:26-38; 3:23", "Divergent genealogies in Matthew 1:1-17 and Luke 3:23-38", "Ignatius of Antioch, Ephesians 19 (c. 110 CE) affirms the virginity of Mary"],
+      "verdict": "Very likely true. A pre-gospel tradition existed.",
+      "credence": 80
+    },
+    {
+      "claim": "The earliest Christian sources (Paul, Mark) know of or support the virginal conception.",
+      "kind": "textual",
+      "case_for": "Silence is weak evidence. Paul's letters are situational and rarely discuss Jesus' life. Mark begins at Jesus' baptism and narrates no birth at all. Mark 6:3 calls Jesus 'son of Mary' rather than 'son of Joseph', which some read as a hint of unusual paternity.",
+      "case_against": "Paul says Jesus was 'born of a woman' (Gal 4:4) and 'from the seed of David according to the flesh' (Rom 1:3), with no hint of anything unusual, even though a virginal conception would have suited his Christology. Mark shows Jesus' family thinking he was out of his mind (Mark 3:21, 31-35), which fits poorly with a family that knew of an angelic annunciation. John never mentions it and twice has Jesus called 'son of Joseph' (John 1:45; 6:42) without correction.",
+      "consensus": "Most critical scholars hold that Paul and Mark show no knowledge of it. Conservative scholars argue their silence is not denial. Nearly all agree the 'son of Mary' reading in Mark 6:3 is inconclusive.",
+      "evidence": ["Galatians 4:4", "Romans 1:3", "Mark 3:21, 31-35; 6:3", "John 1:45; 6:42"],
+      "verdict": "Probably false. The earliest sources do not show awareness of it.",
+      "credence": 10
+    },
+    {
+      "claim": "The infancy narratives are historically reliable in their checkable details.",
+      "kind": "empirical",
+      "case_for": "Some details may be historical, such as the names of Jesus' parents and possibly a Bethlehem tradition. Defenders offer harmonizations for Luke's census, such as an earlier Quirinius governorship or an alternative translation of 'protē' as 'before'.",
+      "case_against": "Luke ties the birth to the census of Quirinius (6 CE), while Matthew places it under Herod the Great, who died around 4 BCE. Josephus records no empire-wide census requiring travel to ancestral towns. Josephus does detail Herod's cruelties, but neither he nor any other source mentions Matthew's massacre of the innocents. Both narratives are heavily shaped by scriptural typology: Moses in Matthew, and Samuel and the story of Hannah in Luke.",
+      "consensus": "Most critical scholars, including Catholic scholars such as Raymond Brown, judge the infancy narratives to be largely theological composition with limited historical value. Conservative evangelicals defend them more.",
+      "evidence": ["Luke 2:1-2 vs. Josephus, Antiquities 18.1-2 (census of 6 CE)", "Matthew 2:16-18 (massacre of innocents), unattested elsewhere", "Typological parallels: Matthew 2 and Exodus 1-4; Luke 1-2 and 1 Samuel 1-2"],
+      "verdict": "Probably unreliable as detailed history.",
+      "credence": 15
+    },
+    {
+      "claim": "The virginal conception tradition is better explained as theological development than as preserved family memory.",
+      "kind": "textual",
+      "case_for": "The tradition first appears late, in two theologically shaped narratives. It serves a clear Christological purpose, expressing that Jesus was Son of God from conception rather than from his resurrection or baptism. Matthew finds a proof text in the Greek of Isaiah 7:14 ('parthenos'), and the Hellenistic world had stories of divinely fathered heroes that made such claims intelligible. Christological development moving from resurrection to baptism to conception to preexistence is a well-documented pattern.",
+      "case_against": "A virginal conception would be an odd thing for Jewish Christians to invent. Judaism had no expectation of a virgin-born Messiah, and Isaiah 7:14 was not read messianically in this way. Pagan parallels involve sexual unions with gods, not virginal conceptions. The claim also invited slander of illegitimacy. That gives it some claim to the criterion of embarrassment, and some argue it reflects a family tradition, possibly from Mary.",
+      "consensus": "No full consensus. Many mainline and critical scholars (e.g., Geza Vermes, Andrew Lincoln) regard it as theologoumenon or legend. Raymond Brown and John Meier, both Catholic priests and critical scholars, concluded that historical-critical method cannot settle the question, while personally affirming the doctrine by faith. Traditional Catholic, Orthodox and evangelical scholars affirm historicity. A minority (e.g., Jane Schaberg) argue it covers an illegitimate conception.",
+      "evidence": ["Isaiah 7:14 (Hebrew 'almah' vs. LXX 'parthenos'); Matthew 1:22-23", "Romans 1:4 and Mark 1:11 show earlier Christological 'moments'", "Justin Martyr, First Apology 21-22 compares Jesus' birth to Perseus; Dialogue with Trypho 43, 67 shows Jewish objection to 'parthenos'", "Ebionites rejected virginal conception (Irenaeus, Against Heresies 1.26)"],
+      "verdict": "More likely than not, though the origin of the tradition is genuinely uncertain.",
+      "credence": 65
+    },
+    {
+      "claim": "Early charges of illegitimacy reflect a real irregularity in Jesus' conception.",
+      "kind": "empirical",
+      "case_for": "Several texts may hint at rumors. Mark 6:3 calls Jesus 'son of Mary'. In John 8:41 opponents say 'we were not born of fornication'. Matthew includes irregular women (Tamar, Rahab, Ruth, Bathsheba) in his genealogy, perhaps anticipating a charge. Celsus (c. 170s CE, quoted in Origen) reports a story of a soldier named Panthera. If Jesus was conceived before Mary and Joseph lived together, that could have given rise both to slander and to the virginal-conception interpretation.",
+      "case_against": "Celsus and later Jewish polemic (e.g., Toledot Yeshu) may simply be reacting to the Christian virgin-birth claim rather than preserving independent memory. The gospel hints are ambiguous and admit other readings.",
+      "consensus": "No consensus. A minority view, defended by Schaberg and considered seriously by some others. Most scholars treat the polemic as reactive.",
+      "evidence": ["Mark 6:3", "John 8:41", "Matthew 1:3-6", "Origen, Contra Celsum 1.28, 1.32"],
+      "verdict": "Possible but unproven. Even if true, it would count against a literal virginal conception, not for it.",
+      "credence": 30
+    },
+    {
+      "claim": "A human male could be conceived without a male parent through natural processes.",
+      "kind": "empirical",
+      "case_for": "Parthenogenesis occurs in some vertebrates, including some reptiles, fish and birds.",
+      "case_against": "Mammals require paternal genomic imprinting for normal development, so natural mammalian parthenogenesis does not produce viable offspring. A child born from Mary alone would lack a Y chromosome and so could not be a typical male. The claim therefore requires a miracle, and believers agree.",
+      "consensus": "Scientific consensus is that this is naturally impossible. Theologians who affirm the doctrine typically agree and present it as a miracle, not a natural event.",
+      "evidence": ["Genomic imprinting requirement in mammals", "Sex determination via the SRY gene on the Y chromosome", "Parthenogenesis documented in some non-mammalian vertebrates"],
+      "verdict": "Naturally impossible. The claim stands or falls as a miracle claim.",
+      "credence": 1
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Do miracles have a non-negligible prior probability, such as on Christian theism?",
+      "type": "prior",
+      "if_yes": "With a theistic prior that expects God to act uniquely in Jesus, the two independent gospel traditions could reasonably support a moderate or even high credence (roughly 30-80%, depending on further assumptions).",
+      "if_no": "On a naturalistic or historically neutral prior, a late, theologically motivated tradition is overwhelmingly the better explanation (below 1%).",
+      "your_view": "I do not think a strong theistic prior can be assumed going in, so I weight toward the naturalistic answer while leaving some room for theism."
+    },
+    {
+      "crux": "Was Jesus raised from the dead?",
+      "type": "evidence",
+      "if_yes": "If the resurrection is accepted on its own evidence, a virginal conception becomes much more plausible as part of the same pattern of divine action, though still not established historically.",
+      "if_no": "The virginal conception loses its strongest background support and looks like legendary development.",
+      "your_view": "The resurrection is a separate debate. I do not think it is established to a degree that would lift this claim very far."
+    },
+    {
+      "crux": "Do the infancy narratives preserve family testimony, ultimately from Mary or Joseph, rather than later theological composition?",
+      "type": "evidence",
+      "if_yes": "The claim would gain real historical weight, though testimony of a private miracle would still be hard to verify.",
+      "if_no": "The tradition is best read as theological reflection, and credence stays low.",
+      "your_view": "There is no direct evidence of a family source. The typological shaping and historical problems point toward composition."
+    },
+    {
+      "crux": "Is the silence of Paul, Mark and John meaningful?",
+      "type": "evidence",
+      "if_yes": "The tradition likely arose after the mid-first century, which supports theological development.",
+      "if_no": "The tradition could be early, and the late attestation is a matter of genre and focus.",
+      "your_view": "The silence is moderately significant, especially Paul's 'seed of David according to the flesh' and Mark's portrayal of Jesus' family."
+    },
+    {
+      "crux": "Is the claim meant literally (biological) or as a theological affirmation about Jesus' divine sonship?",
+      "type": "definition",
+      "if_yes": "If read literally, as scored here, the credence is low.",
+      "if_no": "Read as theological truth (as Andrew Lincoln proposes), the claim is not a historical assertion and cannot be scored on historical evidence.",
+      "your_view": "I score the literal reading. The later doctrine of virginity during birth (virginitas in partu) and perpetual virginity are separate and even less supported historically."
+    }
+  ],
+  "strongest_for": [
+    "Matthew and Luke independently attest the core tradition, so it predates both gospels.",
+    "A virginal conception was not a Jewish messianic expectation and exposed Christians to charges of illegitimacy. This gives it some claim to the criterion of embarrassment.",
+    "Pagan stories of divine births typically involve sexual unions with gods, not virginal conceptions, so the tradition is not a straightforward borrowing.",
+    "If God exists and raised Jesus, a miraculous conception fits a coherent pattern of divine action and is not antecedently absurd.",
+    "Even very critical Catholic scholars such as Raymond Brown and John Meier concluded the historical evidence is inconclusive rather than disconfirming."
+  ],
+  "strongest_against": [
+    "The claim requires a biological miracle, which on any non-theistic prior has very low probability.",
+    "The earliest Christian sources (Paul, Mark) show no awareness of it, and Paul describes Jesus' descent from David 'according to the flesh' without qualification.",
+    "The only sources are two late narratives with significant historical problems, such as Luke's census conflicting with Matthew's dating under Herod, and an unattested massacre of the innocents.",
+    "The narratives are heavily shaped by scriptural typology and serve clear Christological purposes, which matches known patterns of legendary development.",
+    "Mark's account of Jesus' family thinking he was out of his mind fits poorly with a family that knew of an angelic annunciation."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Isaiah 7:14 predicted it. The Hebrew 'almah' means young woman, and in context the sign concerns King Ahaz's own time. Matthew uses the Greek translation as a proof text.",
+      "Two gospels agree, so it is well attested. They attest a belief held by the late first century, not the event itself.",
+      "Mary must have told Luke. This is speculative, and nothing in the text indicates a source.",
+      "The early church believed it unanimously. By the second century it was widely accepted, but the Ebionites rejected it, and later belief depends on the gospels."
+    ],
+    "against": [
+      "It was copied from Horus, Mithras or Krishna. These parallels are often exaggerated: Mithras was born from rock, and Horus was conceived by Isis and Osiris. Few involve a true virginal conception.",
+      "Science disproves it. Science shows it is naturally impossible, which believers already concede. This argument against a miracle claim just restates the prior.",
+      "The whole idea came from mistranslating 'almah'. Luke contains the tradition without citing Isaiah, suggesting the belief came before the proof text.",
+      "The two genealogies contradict each other, so the virginal conception is false. The genealogies are a real tension, but they trace Davidic descent through Joseph and do not directly bear on the conception claim."
+    ]
+  },
+  "would_change": [
+    "Strong independent evidence for the resurrection or for Christian theism generally, which would raise the prior on miracles.",
+    "An authentic early source (pre-70 CE) clearly affirming the virginal conception, which would undercut the late-development explanation.",
+    "Evidence that the infancy narratives draw on early family testimony, such as a demonstrable pre-gospel source traceable to Jesus' family.",
+    "Conversely, a demonstrable early source describing Jesus' natural paternity would lower credence further.",
+    "A resolution of Luke's census problem and independent corroboration of other infancy-narrative details, which would improve their general reliability."
+  ],
+  "sources": [
+    {"citation": "Raymond E. Brown, The Birth of the Messiah, 1977 (updated 1993)", "kind": "scholarship"},
+    {"citation": "Raymond E. Brown, The Virginal Conception and Bodily Resurrection of Jesus, 1973", "kind": "scholarship"},
+    {"citation": "John P. Meier, A Marginal Jew: Rethinking the Historical Jesus, Vol. 1, 1991", "kind": "scholarship"},
+    {"citation": "Andrew T. Lincoln, Born of a Virgin? Reconceiving Jesus in the Bible, Tradition, and Theology, 2013", "kind": "scholarship"},
+    {"citation": "Jane Schaberg, The Illegitimacy of Jesus, 1987", "kind": "scholarship"},
+    {"citation": "J. Gresham Machen, The Virgin Birth of Christ, 1930", "kind": "scholarship"},
+    {"citation": "Geza Vermes, The Nativity: History and Legend, 2006", "kind": "scholarship"},
+    {"citation": "Matthew 1-2; Luke 1-3; Isaiah 7:14; Galatians 4:4; Romans 1:3-4; Mark 3:21, 6:3", "kind": "scripture"},
+    {"citation": "Origen, Contra Celsum (c. 248 CE), Book 1", "kind": "primary"},
+    {"citation": "Justin Martyr, First Apology and Dialogue with Trypho (mid-2nd century CE)", "kind": "primary"}
+  ]
+}
+--- stderr ---

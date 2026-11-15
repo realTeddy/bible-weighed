@@ -1,0 +1,173 @@
+{
+  "kind": "empirical",
+  "verdict": "Very likely true for direct borrowing of the core claims; the main uncertainties are diffuse cultural influence and how the Gospel stories were told.",
+  "credence": 87,
+  "confidence": "medium",
+  "bottom_line": "The idea that early Christians copied the death and resurrection of Jesus from pagan 'dying-and-rising gods' comes mainly from 19th- and early-20th-century comparative scholarship, especially Frazer. Specialists in ancient religion have since largely rejected or heavily qualified that idea. Several supposed parallels are poorly attested, attested only after Christianity began, or much less similar than popular accounts claim. The earliest Christian resurrection claim, the creed in 1 Corinthians 15, is phrased entirely in Jewish terms: a recently executed, named man raised bodily as the first instance of the end-time resurrection 'according to the Scriptures.' It is not presented as a seasonal myth about a god. Even Mettinger, the leading scholar who defends the category 'dying-and-rising god' for some Near Eastern figures, concluded that Christian resurrection belief was not derived from them. Two things keep this from near-certainty: older Near Eastern imagery may have shaped Israelite resurrection language long before Jesus, and the Gospel narratives (empty tomb, vanished body) may borrow Greco-Roman storytelling conventions even though the core claim does not.",
+  "sub_claims": [
+    {
+      "claim": "'Dying-and-rising god' is a coherent, well-attested pre-Christian category that could have served as a template.",
+      "kind": "empirical",
+      "case_for": "Mettinger (2001) argued that Dumuzi/Tammuz, Baal, Melqart, and probably Adonis are attested before Christianity as gods who die and return in some sense, often tied to seasonal cycles. On this view J.Z. Smith's wholesale dismissal overreaches. Osiris is dismembered and revived. Inanna returns from the underworld.",
+      "case_against": "J.Z. Smith (1987) and Mark S. Smith (1998) argued that Frazer's category merged dissimilar figures and imposed a Christian template onto them. Osiris is revived to rule the dead; he does not return to life on earth. Dumuzi alternates between the realms, perhaps half the year each. Adonis's 'rising' is attested late and is ambiguous. Attis's resurrection elements, such as the Hilaria festival, appear mostly in post-Christian sources. Mithras does not die at all.",
+      "consensus": "No consensus on the category itself. J.Z. Smith's skepticism dominated for decades, and Mettinger partially rehabilitated a narrower version for a few West Semitic figures. Secular and confessional scholars alike agree that Frazer's broad version does not hold up.",
+      "evidence": [
+        "Descent of Inanna / Dumuzi texts",
+        "Ugaritic Baal Cycle (Baal's death at Mot's hands and his return)",
+        "Plutarch's 'On Isis and Osiris' (Osiris revived as lord of the dead)",
+        "Late sources for Attis (e.g., Firmicus Maternus, 4th c. CE)"
+      ],
+      "verdict": "A few genuine pre-Christian cases exist, but the category is much narrower and less 'resurrection-like' than popular claims assume.",
+      "credence": 35
+    },
+    {
+      "claim": "The earliest Christian resurrection claim is best explained by Jewish categories, not pagan cult myth.",
+      "kind": "textual",
+      "case_for": "1 Corinthians 15:3-8 is a pre-Pauline formula, usually dated within a few years of the crucifixion. It is Jewish in vocabulary and frame: Messiah, 'raised on the third day according to the Scriptures,' named witnesses. Bodily resurrection as an end-time event is attested in Daniel 12:2, 2 Maccabees 7, and Pharisaic belief. Jesus is presented as the 'firstfruits' of a general resurrection, which is an apocalyptic Jewish idea. The early movement was led by Torah-observant Palestinian Jews hostile to pagan cults.",
+      "case_against": "Galilee and Judea were Hellenized, and Paul's mission targeted Gentiles in cities with mystery cults. Paul's theology of baptism as dying and rising with Christ (Romans 6) has some structural resemblance to initiatory participation in a god's fate. The Jewish background may itself have absorbed foreign ideas, such as possible Persian influence on Daniel.",
+      "consensus": "Broad agreement across secular (e.g., Ehrman), Jewish, and confessional (e.g., N.T. Wright) scholarship that the resurrection claim arose within Jewish apocalypticism. Mythicists such as Carrier dissent.",
+      "evidence": [
+        "1 Corinthians 15:3-8, 20-23",
+        "Daniel 12:2; 2 Maccabees 7",
+        "Josephus on Pharisaic resurrection belief",
+        "Galatians 1-2 (Jerusalem leadership)"
+      ],
+      "verdict": "Strongly supported.",
+      "credence": 90
+    },
+    {
+      "claim": "The structural differences between the Jesus claim and the pagan myths are large enough to make direct borrowing unlikely.",
+      "kind": "empirical",
+      "case_for": "Jesus was a recent historical person executed under a named Roman governor, not a figure of primordial time. His resurrection is claimed as a one-time, unrepeatable, eschatological, bodily event, not a yearly agricultural cycle. Nothing parallels his death being interpreted as atonement 'for our sins' through Jewish sacrificial and Servant (Isaiah 53) categories. Pagan cult myths did not generate eyewitness lists.",
+      "case_against": "Borrowing need not be wholesale. A general Mediterranean familiarity with gods who die and return could have made the claim intelligible or attractive, and helped it spread, even if it originated elsewhere. Similarities in later liturgy and festival timing show some cross-pollination occurred.",
+      "consensus": "Majority of historians of religion and NT scholars accept that the differences tell against derivation, while allowing for later contextual resonance.",
+      "evidence": [
+        "Contrast between seasonal cult rituals (Adonia) and the Christian once-for-all claim",
+        "Pauline 'firstfruits' language",
+        "Mettinger's own conclusion against derivation"
+      ],
+      "verdict": "Likely true.",
+      "credence": 85
+    },
+    {
+      "claim": "Ancient Near Eastern dying-and-rising imagery indirectly influenced Christianity through earlier Israelite religion.",
+      "kind": "textual",
+      "case_for": "Some Hebrew Bible scholars, such as John Day, see Baal/Mot imagery behind Hosea 6:2 ('on the third day he will raise us up'), Hosea 13-14, and Isaiah 26:19. Early Christians may have drawn on Hosea 6:2 for the 'third day' motif. If so, Canaanite myth shaped the scriptural vocabulary the first Christians used.",
+      "case_against": "This is speculative and contested. Even if true, it is centuries-removed background influence on Israelite metaphor for national restoration, not Christian borrowing of a pagan god's story. Few would call that 'borrowing' in the sense the question intends.",
+      "consensus": "No consensus; plausible minority-to-moderate view among Hebrew Bible scholars.",
+      "evidence": [
+        "Hosea 6:1-3",
+        "Isaiah 26:19",
+        "Ugaritic Baal texts"
+      ],
+      "verdict": "Possible deep-background influence; does not amount to direct borrowing.",
+      "credence": 40
+    },
+    {
+      "claim": "Gospel resurrection narratives use Greco-Roman literary conventions (translation fables, apotheosis).",
+      "kind": "textual",
+      "case_for": "Richard C. Miller (2015) and Adela Yarbro Collins argued that Mark's empty tomb and vanished-body motif match Greco-Roman 'translation' stories of heroes and founders, such as Romulus and Heracles. Ancient readers would have recognized these stories as signs of deification.",
+      "case_against": "These parallels concern heroes and emperors, not dying-and-rising vegetation gods, so they don't bear on the specific claim. They also concern narrative form decades after the core claim (1 Cor 15) was already established. Many scholars see the parallels as loose.",
+      "consensus": "Contested; respected minority position in NT studies.",
+      "evidence": [
+        "Mark 16:1-8",
+        "Livy and Plutarch on Romulus's disappearance and apotheosis"
+      ],
+      "verdict": "Plausible for literary shaping of the narratives; largely irrelevant to dying-and-rising god borrowing.",
+      "credence": 45
+    },
+    {
+      "claim": "Popular lists of Jesus-like pagan saviors (Horus, Mithras, Krishna born of virgins on Dec 25, crucified, rose after three days) are accurate.",
+      "kind": "empirical",
+      "case_for": "Some early Christians (Justin Martyr) acknowledged pagan parallels and explained them as demonic imitation, so ancients noticed similarities.",
+      "case_against": "Most such lists trace to Kersey Graves (1875), Gerald Massey, and later popularizers such as the 'Zeitgeist' film, and rely on invented or distorted details. Specialists in Egyptology and Mithraic studies reject them. Justin's parallels are mostly to sons of Zeus and generic miracle motifs, not to resurrection in the Christian sense.",
+      "consensus": "Rejected by virtually all specialists, including skeptical scholars such as Ehrman.",
+      "evidence": [
+        "Justin Martyr, First Apology 21-22, 54",
+        "Absence of primary sources for a crucified or resurrected Horus or Mithras"
+      ],
+      "verdict": "Almost entirely false.",
+      "credence": 5
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does 'borrow' include diffuse cultural influence and indirect background shaping, or only direct derivation of the core claim?",
+      "type": "definition",
+      "if_yes": "The claim weakens considerably (perhaps 55-65), since some indirect shaping via Hellenistic environment or Israelite scripture is plausible.",
+      "if_no": "The claim is strongly supported (around 90+).",
+      "your_view": "I score the natural reading: whether the death and resurrection of Jesus was derived from pagan dying-and-rising myths. On that reading the answer is very likely no."
+    },
+    {
+      "crux": "Are there securely pre-Christian dying-and-RISING (not merely dying, or revived-in-underworld) gods whose myths were current in 1st-century Judea or Syria?",
+      "type": "evidence",
+      "if_yes": "A real but still only partial avenue for influence opens; credence drops moderately.",
+      "if_no": "The borrowing thesis loses its basic premise.",
+      "your_view": "A few cases, such as Baal, Dumuzi, and Melqart, plausibly qualify in a weak sense. Their relevance to Jewish followers of Jesus in the 30s CE is thin."
+    },
+    {
+      "crux": "Was Jesus a historical person whose followers reported post-mortem experiences?",
+      "type": "evidence",
+      "if_yes": "The resurrection belief has a natural origin in followers' experiences interpreted through Jewish apocalyptic categories; borrowing is unnecessary.",
+      "if_no": "Mythicist frameworks such as Carrier's make the pagan-parallel hypothesis more attractive, though it remains far from established.",
+      "your_view": "Historicity is accepted by nearly all historians, secular and religious, which strongly favors the claim."
+    },
+    {
+      "crux": "Does one's prior on miracles matter?",
+      "type": "prior",
+      "if_yes": "Not really. Naturalists and believers can both explain the claim's origin without pagan borrowing: as followers' experiences, or as an actual event.",
+      "if_no": "Same conclusion.",
+      "your_view": "This question is largely independent of whether the resurrection actually occurred, which helps explain why skeptical and confessional scholars converge here."
+    }
+  ],
+  "strongest_for": [
+    "The earliest resurrection formula (1 Cor 15:3-8) is thoroughly Jewish in content and dates to within a few years of Jesus' death, leaving little time or motive for pagan importation.",
+    "Jewish apocalyptic resurrection belief (Daniel 12, 2 Maccabees 7, Pharisees) provides a full, sufficient native background.",
+    "Mettinger, the main defender of 'dying-and-rising gods' as a category, explicitly found no evidence the Christian resurrection belief was a construct drawn from them.",
+    "Key alleged parallels (Attis, Adonis's rising, Mithras, Horus) are post-Christian, ambiguous, or fabricated.",
+    "The structures differ: a historical, once-for-all, eschatological, bodily resurrection versus cyclical, seasonal, mythic-time return or underworld rule."
+  ],
+  "strongest_against": [
+    "Some genuinely pre-Christian Near Eastern gods (Baal, Dumuzi, Melqart) do die and return in a meaningful sense, so the concept existed in the region.",
+    "Israelite scripture used by early Christians (e.g., Hosea 6:2's 'third day') may itself echo Canaanite dying-and-rising imagery, giving an indirect genealogical link.",
+    "Gospel resurrection narratives may adopt Greco-Roman translation and apotheosis conventions (Miller, Yarbro Collins).",
+    "Paul's participatory baptism theology and later Christian sacramental and festival practice show contact with the Hellenistic religious environment.",
+    "Early Christian apologists (Justin Martyr) themselves acknowledged pagan resemblances."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'Jews would never have been influenced by pagan ideas at all.' This is false: Second Temple Judaism absorbed Persian and Hellenistic elements. The real argument is that this specific claim has a sufficient Jewish explanation.",
+      "'J.Z. Smith proved no dying-and-rising gods ever existed.' Mettinger and others showed this overstates the case for some figures.",
+      "'The resurrection must be original because it really happened.' This is a theological premise and does not answer the historical question of influence."
+    ],
+    "against": [
+      "Lists of 'crucified saviors' (Horus, Mithras, Krishna) with virgin births, Dec 25 birthdays, and three-day resurrections rest on fabricated or distorted claims (Graves, Massey, 'Zeitgeist').",
+      "'Any resemblance proves borrowing.' Death-and-return motifs are cross-culturally common, and resemblance alone does not establish dependence.",
+      "Citing Attis's resurrection as pre-Christian relies on sources from centuries after Christianity began.",
+      "'Christmas is on Dec 25 and Easter has a pagan name, so the core claims are pagan.' These are later calendrical or linguistic matters, not the core claims."
+    ]
+  },
+  "would_change": [
+    "Discovery of securely pre-Christian texts showing a god's bodily, one-time, eschatological resurrection cult active in 1st-century Judea or Galilee.",
+    "Evidence that the 1 Corinthians 15 formula is much later or Gentile in origin rather than an early Jewish-Christian tradition.",
+    "Strong new evidence for Jesus mythicism, which would make literary or mythic sources more central.",
+    "Demonstrated direct textual dependence of early Christian resurrection texts on specific pagan cult liturgies.",
+    "Conversely, securely dating the Attis and Adonis resurrection elements to before Christianity would modestly lower my credence."
+  ],
+  "sources": [
+    {"citation": "James George Frazer, The Golden Bough (3rd ed., 1906-1915)", "kind": "scholarship"},
+    {"citation": "Jonathan Z. Smith, 'Dying and Rising Gods,' in The Encyclopedia of Religion, ed. Mircea Eliade, 1987", "kind": "scholarship"},
+    {"citation": "Jonathan Z. Smith, Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity, 1990", "kind": "scholarship"},
+    {"citation": "Tryggve N. D. Mettinger, The Riddle of Resurrection: 'Dying and Rising Gods' in the Ancient Near East, 2001", "kind": "scholarship"},
+    {"citation": "Mark S. Smith, 'The Death of \"Dying and Rising Gods\" in the Biblical World,' Scandinavian Journal of the Old Testament, 1998", "kind": "scholarship"},
+    {"citation": "N. T. Wright, The Resurrection of the Son of God, 2003", "kind": "scholarship"},
+    {"citation": "Bart D. Ehrman, Did Jesus Exist? The Historical Argument for Jesus of Nazareth, 2012", "kind": "scholarship"},
+    {"citation": "Richard Carrier, On the Historicity of Jesus: Why We Might Have Reason for Doubt, 2014", "kind": "scholarship"},
+    {"citation": "Richard C. Miller, Resurrection and Reception in Early Christianity, 2015", "kind": "scholarship"},
+    {"citation": "Ronald H. Nash, The Gospel and the Greeks (2nd ed., 2003)", "kind": "scholarship"},
+    {"citation": "1 Corinthians 15; Daniel 12:2; Hosea 6:1-3; 2 Maccabees 7", "kind": "scripture"},
+    {"citation": "Justin Martyr, First Apology (chs. 21-22, 54)", "kind": "primary"},
+    {"citation": "Plutarch, On Isis and Osiris (Moralia)", "kind": "primary"}
+  ]
+}
+--- stderr ---

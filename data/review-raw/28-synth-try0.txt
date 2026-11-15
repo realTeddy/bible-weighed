@@ -1,0 +1,43 @@
+{
+  "summary": "All four reviewers judge the claim probably false, with medium confidence: GPT-6.1 and Opus 5.5 assign it 20% credence, Gemini 3.8 22%, and Grok 4.7 30%. They find that several Gospel sayings most naturally suggest a decisive divine coming or kingdom within the lifetimes of Jesus’ contemporaries. They also think an imminent expectation probably goes back to Jesus, while distinguishing that historical question from what the Gospels portray. All acknowledge a serious alternative: the imagery may describe Jesus’ vindication and Jerusalem’s destruction in 70 CE rather than a final return. They agree that “end of the age” need not mean the physical destruction of the universe.",
+  "agreement": "high",
+  "agreed": [
+    "The Gospel passages offer substantial support for a near-term expectation, especially the proximity of the coming of the Son of Man to the statement that “this generation” will not pass away.",
+    "“This generation” most naturally refers to Jesus’ contemporaries; readings meaning the Jewish race or a distant future generation are weaker.",
+    "Jerusalem and its temple were destroyed in 70 CE, within roughly a generation of Jesus’ ministry, and prophetic cosmic imagery can describe historical judgment.",
+    "The 70 CE or vindication interpretation is a serious, though disputed, alternative to a failed-final-return reading.",
+    "The authenticity and precise meaning of individual sayings remain disputed; the Gospels are not automatically verbatim records of Jesus.",
+    "An imminent kingdom or end of an age should not automatically be equated with the physical destruction of the planet."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of the alternative 70 CE interpretation",
+      "positions": "All consider it possible but less persuasive as a complete explanation. GPT-6.1 and Opus emphasize tensions with the coming and gathering of the elect; Gemini and Grok additionally stress Paul’s resurrection expectation and later texts about delay. Grok gives the claim the highest overall credence and calls the alternative serious enough that the issue is not a rout."
+    },
+    {
+      "point": "How securely a specific prediction goes back to Jesus",
+      "positions": "GPT-6.1 is especially explicit that an imminent expectation is more secure than a prediction of Jesus’ own return. Gemini and Grok place more weight on early Christian imminence as evidence of its origin with Jesus. Opus highlights the possibility, associated with Meier, that particular deadline sayings are inauthentic even if Jesus expected the kingdom soon."
+    },
+    {
+      "point": "How to score a fulfilled 70 CE reading",
+      "positions": "Gemini says that, if the relevant imagery means historical judgment fulfilled in 70 CE, the claim is largely true. Grok distinguishes the two clauses: a 70 CE fulfillment could support no failed prophecy while still involving a generation-timed prediction of an end of an age. GPT-6.1 and Opus likewise treat the referent and the wording of the claim as important to the verdict."
+    },
+    {
+      "point": "Description of scholarly agreement",
+      "positions": "Gemini characterizes the apocalyptic historical-Jesus view as having overwhelming scholarly support. GPT-6.1 and Grok more explicitly qualify consensus across critical and confessional scholarship, while Opus distinguishes the majority view on imminent expectation from disagreement over particular sayings."
+    }
+  ],
+  "deciding_cruxes": [
+    "Does “all these things” include the immediately preceding coming of the Son of Man and gathering of the elect?",
+    "Does that coming signify a final public return and judgment, or heavenly vindication and judgment associated with Jerusalem’s fall?",
+    "Did Jesus himself make the specific time-bound predictions, or did later Christian tradition formulate them?",
+    "How much weight should early Christian expectations and later discussions of delay carry when reconstructing Jesus’ own views?",
+    "Is the claim assessed as denying any generation-timed prediction, or principally as denying that a prediction failed?",
+    "Should theological commitments such as prophetic inerrancy constrain the interpretation?"
+  ],
+  "what_is_settled": "The reviews agree that the Gospels contain the cited generation and lifetime sayings, that the discourse is connected to the temple, and that the temple was destroyed in 70 CE. They also agree that the texts do not require identifying the end of the age with physical annihilation of the universe.",
+  "what_is_open": "The intended event, the scope of the generation deadline, and whether specific sayings originated with Jesus remain contested. Whether a prophecy failed depends on those interpretations and on whether the question concerns the historical Jesus or the Gospel portrayal; theological priors can also affect the answer."
+}
+
+
+--- stderr ---

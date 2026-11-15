@@ -1,0 +1,42 @@
+{
+  "summary": "All four reviewers judge a coordinated conquest substantially like Joshua’s account very unlikely, while allowing that some conflicts may lie behind the narrative. They give the claim probabilities of 5% (GPT-6.1), 6% (Gemini 3.8), 8% (Grok 4.7), and 4% (Opus 5.5). All identify serious problems at Jericho and the usual site of Ai, and see substantial continuity between early Israelite and Canaanite material culture. They also recognize Hazor’s destruction and Israel’s presence in Canaan by about 1208 BCE, but say neither establishes Joshua’s campaign. Their differences concern confidence, how decisively particular alternatives are ruled out, and how to weigh the biblical text.",
+  "agreement": "high",
+  "agreed": [
+    "Jericho’s major destruction predates the usual conquest dates under the prevailing interpretation, and et-Tell, the standard identification of Ai, lacks a suitable Late Bronze city.",
+    "Hazor suffered a major destruction, but its perpetrator is disputed; destruction alone does not establish an Israelite campaign.",
+    "Early highland settlements show substantial Canaanite material continuity, though this does not exclude outsiders.",
+    "The Merneptah Stele attests a people called Israel in Canaan by about 1208 BCE, not how they arrived.",
+    "A historical memory of local conflict is more plausible than a coordinated campaign substantially matching Joshua.",
+    "Conquest rhetoric can be exaggerated, and Joshua does not require every captured city to have been burned; literary or theological shaping alone does not rule out historical memories."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of confidence and archaeological objections",
+      "positions": "Gemini and Opus report high confidence; GPT-6.1 and Grok report medium confidence. Gemini calls the Jericho and Ai evidence definitive for the 13th-century scenario, while GPT-6.1 stresses disputed dating, site identification, and possible loss of remains. Grok and Opus also judge the evidence highly damaging while acknowledging alternative proposals."
+    },
+    {
+      "point": "Erosion as an explanation for missing remains",
+      "positions": "GPT-6.1 lists erosion as a possible reason for an incomplete record, and Opus notes it as a defense. Gemini explicitly considers the erosion explanation weak at Jericho; Grok likewise considers generic appeals to missing evidence weak at extensively excavated sites."
+    },
+    {
+      "point": "Role of prior trust in scripture",
+      "positions": "GPT-6.1 says a strong theological presumption of scriptural accuracy may rationally lead to a higher probability and favor contested interpretations. Grok and Opus also identify such a prior as consequential but emphasize that it gives the text priority over contrary archaeological evidence. Gemini does not explicitly frame this as a separate prior."
+    },
+    {
+      "point": "Reading the conquest narrative",
+      "positions": "All allow for stylized or exaggerated language. Gemini explicitly distinguishes a strict literal reading from a rhetorical one; GPT-6.1, Grok, and Opus assess the central coordinated campaign without requiring every reported killing or conquest claim to be literal. Opus particularly emphasizes that the text itself has mixed, incomplete-conquest voices."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether 'substantially as described' requires the central named captures and a coordinated campaign, rather than scattered conflicts later incorporated into tradition.",
+    "Whether Jericho’s destruction can be dated to a plausible conquest period and whether biblical Ai can be identified with a suitable occupied site.",
+    "Whether city destructions can be dated and linked to one Israelite campaign, rather than separate conflicts with uncertain perpetrators.",
+    "How much the highland settlement pattern indicates local origins, and how much migration or assimilation it can accommodate.",
+    "How much historical weight to give the later biblical narrative, including its hyperbole and theological aims, relative to archaeological evidence and prior religious commitments."
+  ],
+  "what_is_settled": "The reviewers agree that Israel is attested in Canaan by about 1208 BCE, Hazor was destroyed, and early highland material culture shows substantial Canaanite continuity. They agree that these facts alone do not establish Joshua’s campaign.",
+  "what_is_open": "The perpetrators of individual destructions, Ai’s identification, the extent of outside migration, and whether particular conflicts or leaders survive in the narrative remain disputed. The assessment also depends on the required degree of correspondence with Joshua and the prior weight given to scripture."
+}
+
+
+--- stderr ---

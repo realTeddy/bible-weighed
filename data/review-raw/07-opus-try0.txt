@@ -1,0 +1,166 @@
+{
+  "kind": "mixed",
+  "verdict": "Very unlikely: a few apparent contradictions can be explained, but several cannot",
+  "credence": 4,
+  "confidence": "medium",
+  "bottom_line": "Strict inerrancy is a universal claim: there is not one real error or contradiction anywhere in the original texts. So it fails if even one discrepancy is real. Some popular 'contradictions' are weak and fall apart once you account for ancient genre, round numbers or ordinary descriptive language. Even so, several cases remain hard: the census under Quirinius, the two accounts of Judas's death, the two genealogies of Jesus, Mark's reference to Abiathar, and the archaeology of the Exodus and the Conquest. For these, the harmonizations on offer are possible but usually not the most likely reading. Most academic biblical scholars reject inerrancy, and so do many Catholic, Orthodox, mainline Protestant and even some evangelical scholars. Committed inerrantists mostly hold the view because of a theological prior, not because the texts point there on their own. The claim can be kept alive by appealing to lost original manuscripts and by defining 'error' generously, but those moves also make it hard to test at all.",
+  "sub_claims": [
+    {
+      "claim": "The four Gospels, and the Gospels together with Acts, contain no real contradictions",
+      "kind": "textual",
+      "case_for": "Witnesses who abbreviate, choose different details or arrange events by topic do not contradict each other. Ancient biographers paraphrased and compressed. Many apparent conflicts dissolve this way: one angel or two at the tomb, the different wording of the sign on the cross, the order of the temptations. Plausible harmonizations exist for others, for example Matthew's genealogy tracing Joseph's line and Luke's tracing Mary's, or Judas hanging himself and the body later falling.",
+      "case_against": "Some cases resist harmonization. Matthew 27:3-8 says the priests bought the field; Acts 1:18 says Judas bought it and that he fell headlong. The two genealogies disagree on Joseph's father and on almost every name between David and Jesus. Mark 2:26 names Abiathar as high priest, but 1 Samuel 21 has Ahimelech. Matthew 27:9 attributes a Zechariah passage to Jeremiah. In John, Jesus dies on the day of Preparation, before the Passover meal; in the Synoptics the Last Supper is the Passover meal. The appearance traditions differ, with Galilee in Matthew and Jerusalem only in Luke-Acts. Each fix can be imagined, but together they require many unlikely assumptions.",
+      "consensus": "Critical New Testament scholarship broadly holds that the Gospels contain real discrepancies. Evangelical scholars are split. Strict harmonizers follow the Archer and Geisler tradition. Others, such as Michael Licona, explain the differences as ancient compositional devices. Critics argue Licona's approach effectively concedes that the texts depart from literal fact in places, even while he maintains inerrancy rightly understood.",
+      "evidence": [
+        "Matthew 27:3-10 vs Acts 1:18-19 on Judas",
+        "Matthew 1:1-17 vs Luke 3:23-38 genealogies",
+        "Mark 2:26 vs 1 Samuel 21:1-6",
+        "Matthew 27:9-10 vs Zechariah 11:12-13",
+        "John 19:14, 31 vs Mark 14:12-16 on the date of the crucifixion"
+      ],
+      "verdict": "Probably contains at least one real contradiction",
+      "credence": 8
+    },
+    {
+      "claim": "Every historical claim in the Old Testament narratives is accurate",
+      "kind": "empirical",
+      "case_for": "Archaeology has confirmed many details once doubted: the 'House of David' in the Tel Dan inscription, Belshazzar as a real person, Hezekiah's tunnel, the Assyrian kings named in Kings. Absence of evidence is weak evidence for a small, mobile population such as Israel in the wilderness. Large numbers may be mistranslated, since 'elef can mean a military unit rather than a thousand. The Exodus could be dated differently from the usual reconstruction.",
+      "case_against": "There is no archaeological trace of roughly two million people in Sinai, nor of the Exodus as Exodus describes it. Jericho and Ai do not appear to have been occupied, or at least not walled, at any plausible date for the conquest. Daniel's 'Darius the Mede' does not match known history, and Daniel calls Belshazzar a king and Nebuchadnezzar's son when he was the son and co-regent of Nabonidus. Kings and Chronicles disagree on numbers: 700 or 7,000 charioteers (2 Sam 10:18 vs 1 Chr 19:18), and 40,000 or 4,000 stalls of horses. Genesis has doubled stories, such as the two versions of the flood.",
+      "consensus": "Mainstream archaeologists and historians, including Israelis such as Finkelstein, regard the Exodus and the Conquest as largely not historical as narrated. Maximalists such as Kenneth Kitchen defend broad reliability but not detailed inerrancy. Confessional scholars are split, and most outside conservative evangelicalism accept that the narratives contain non-historical elements.",
+      "evidence": [
+        "Excavations at Jericho (Kathleen Kenyon) and Ai (et-Tell)",
+        "Tel Dan stele and Mesha stele (confirm some details)",
+        "Nabonidus Chronicle and the Belshazzar texts",
+        "2 Samuel 10:18 vs 1 Chronicles 19:18; 1 Kings 4:26 vs 2 Chronicles 9:25"
+      ],
+      "verdict": "Almost certainly contains historical inaccuracies",
+      "credence": 5
+    },
+    {
+      "claim": "The Bible makes no false claims about the natural world, when read as its authors intended",
+      "kind": "textual",
+      "case_for": "The Chicago Statement allows observational language ('the sun rises'), folk classification and poetic imagery. Under that standard, bats listed among birds, 'pi = 3' and the mustard seed are not errors. Genesis 1 can be read as temple cosmology or a polemic against other gods rather than a scientific account.",
+      "case_against": "Some texts appear to affirm an ancient cosmology: a solid firmament (raqia) holding back the waters above, pillars of the earth, a global flood. Literal readings imply a young earth. If these are 'accommodation', the line between accommodation and error becomes a matter of definition.",
+      "consensus": "No consensus on what counts as an error. Most scholars, including many confessional ones such as John Walton and Peter Enns, agree the texts reflect Ancient Near Eastern cosmology. They disagree on whether this is an error or acceptable accommodation.",
+      "evidence": [
+        "Genesis 1:6-8 (raqia)",
+        "Leviticus 11:19 and 11:6",
+        "1 Kings 7:23",
+        "Ancient Near Eastern parallels such as Enuma Elish and Atrahasis"
+      ],
+      "verdict": "Depends mostly on how 'error' is defined; under a strict standard there are probably errors",
+      "credence": 25
+    },
+    {
+      "claim": "Every discrepancy in today's manuscripts comes from copying, not from the original texts",
+      "kind": "textual",
+      "case_for": "Some discrepancies are clearly copyist slips. 2 Chronicles 22:2 makes Ahaziah 42 at his accession, older than his own father; 2 Kings 8:26 says 22, and some manuscripts and versions of Chronicles also read 22. Numbers are especially easy to corrupt. Textual criticism can recover much of the original.",
+      "case_against": "Many differences show deliberate editing. The Chronicler reshapes Samuel and Kings for theological reasons. Matthew and Luke edit Mark on purpose. The manuscripts give no support for an error-free original behind these differences. The appeal to the originals cannot be tested and can be used to dismiss any problem.",
+      "consensus": "Textual critics of every persuasion agree that the extant manuscripts contain errors. Outside inerrantist circles, almost none think every substantive discrepancy disappears once the original is restored.",
+      "evidence": [
+        "2 Kings 8:26 vs 2 Chronicles 22:2",
+        "Synoptic redaction patterns (Markan priority)",
+        "Dead Sea Scrolls showing more than one textual tradition (e.g., Jeremiah)"
+      ],
+      "verdict": "True for some cases, not plausibly for all",
+      "credence": 12
+    },
+    {
+      "claim": "A truthful God who inspired Scripture would make the original texts free of error",
+      "kind": "philosophical",
+      "case_for": "This is the Warfield argument. If God is truthful and Scripture is 'God-breathed' (2 Tim 3:16) and 'cannot be broken' (John 10:35), then what Scripture affirms, God affirms. Given these premises, inerrancy follows deductively, and hard cases should be treated as unresolved rather than as errors.",
+      "case_against": "Inspiration need not mean dictation or error-free detail. On an 'incarnational' model, God works through limited human authors, as Enns and others argue. Most Christian traditions through history have held a high view of Scripture without a modern technical doctrine of inerrancy. The argument is also circular if it rests on Scripture's testimony about itself. And if inerrancy mattered so much, it is odd that God preserved no original manuscript.",
+      "consensus": "This is a theological question with no consensus. The Chicago Statement camp affirms the argument. Catholic teaching (Dei Verbum 11) speaks of truth 'for the sake of salvation', and its meaning is disputed. Most mainline and Orthodox theologians reject strict inerrancy.",
+      "evidence": [
+        "2 Timothy 3:16; John 10:35; Matthew 5:18",
+        "Chicago Statement on Biblical Inerrancy (1978)",
+        "Dei Verbum 11 (1965)"
+      ],
+      "verdict": "Valid only given strong theological premises, which are themselves contested",
+      "credence": 20
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Should 'error' be judged by what the author intended to affirm, allowing round numbers, observational language, ancient historiographical freedom and accommodated cosmology?",
+      "type": "definition",
+      "if_yes": "Many alleged errors go away. Credence for the claim might rise to about 10-15%, but the claim also becomes harder to falsify.",
+      "if_no": "With a strict, literal standard of factual accuracy, credence is close to 0-1%.",
+      "your_view": "The generous reading is the fair one to score, because it is what the Chicago Statement says. Even under it, several hard cases remain."
+    },
+    {
+      "crux": "Does one have strong prior reason to believe God exists and specifically guaranteed an error-free text?",
+      "type": "prior",
+      "if_yes": "Strained harmonizations become reasonable to accept, and hard cases count as 'not yet solved'. An inerrantist could reasonably hold 80% or more.",
+      "if_no": "Each text should be judged on its own merits, and the overall chance of zero real errors across hundreds of tensions is tiny.",
+      "your_view": "Even many theists who accept inspiration do not think it implies inerrancy. A prior strong enough to override the textual evidence is hard to justify without reasoning in a circle."
+    },
+    {
+      "crux": "Can the hardest specific cases be resolved by readings that are actually likely, not merely possible?",
+      "type": "evidence",
+      "if_yes": "The claim becomes a live option.",
+      "if_no": "The claim fails, since one real error is enough.",
+      "your_view": "For Quirinius, Judas, Abiathar and the conquest archaeology, the best harmonizations are possible but less likely than the plain reading. Since only one needs to fail, the combined probability is low."
+    },
+    {
+      "crux": "Is it legitimate to protect the claim by appealing to original manuscripts that no longer exist?",
+      "type": "definition",
+      "if_yes": "Copying-type discrepancies can be set aside, which gives a small boost to the claim.",
+      "if_no": "Inerrancy has to be judged on the texts we actually have, and it clearly fails there.",
+      "your_view": "The appeal is legitimate for obvious copying slips. It does not help with deliberate editorial differences, so it leaves most of the hard cases untouched."
+    }
+  ],
+  "strongest_for": [
+    "Many famous 'contradictions' really do disappear once you account for genre, compression, topical ordering and round numbers. That suggests some, perhaps many, remaining cases could have explanations we have not found yet.",
+    "Several confident skeptical claims in the past were later overturned by archaeology, for example Belshazzar's existence and the House of David inscription. That is a reason for caution before declaring something an error.",
+    "Given theism and a high view of inspiration, the deductive argument from God's truthfulness is coherent and has a long history in the church, from Augustine's remarks on scribal error to Warfield.",
+    "Some numerical discrepancies are very likely copying errors, and that supports the logic of appealing to the originals in those cases."
+  ],
+  "strongest_against": [
+    "The claim is universal, so it fails if even one of many independent hard cases is a real error. Even if each case were only modestly likely to be real, the chance that none is real is very small.",
+    "The parallel accounts (Kings and Chronicles, the Synoptic Gospels) show deliberate editorial changes that produce factual differences, not just copying slips.",
+    "Archaeological evidence about the Exodus and the Conquest conflicts with the narratives as written.",
+    "Several harmonizations require assumptions that have no independent support and are offered only to remove the conflict. That is a sign of ad hoc reasoning.",
+    "Most scholars who study these texts professionally reject inerrancy, including many devout Catholic, Orthodox, Jewish and Protestant scholars. Their rejection cannot be put down to hostility toward faith."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'Archaeology keeps confirming the Bible': it confirms some details and contradicts others, and corroborating some details does not show that every detail is right.",
+      "'The Bible says it is inerrant': this is circular, and the proof texts speak of inspiration and authority, not the modern technical doctrine.",
+      "'Over 5,800 Greek manuscripts prove reliability': that concerns how well the text was copied, and it actually confirms that the copies contain errors.",
+      "'Fulfilled prophecy proves divine authorship': even if granted, it would not show that every historical or numerical detail is error-free, and the dating of several texts is disputed."
+    ],
+    "against": [
+      "'Bats are called birds' or 'hares chew the cud': these use folk categories (the Hebrew 'of' means flying creatures), so they are not real errors.",
+      "'1 Kings 7:23 says pi equals 3': this is a round number, possibly measured at different points on a rimmed basin.",
+      "'The Bible is a game of telephone through many translations': modern translations work directly from Hebrew and Greek manuscripts, and the point has nothing to do with the originals.",
+      "'There are 400,000 textual variants': most are spelling or word order, and the claim is about the originals in any case.",
+      "'Who did Cain marry?': this is a gap in the story, not a contradiction."
+    ]
+  },
+  "would_change": [
+    "Discovery of original or very early manuscripts showing that the problem passages agreed with each other",
+    "Inscriptional evidence of a Roman census under Quirinius during Herod the Great's lifetime",
+    "Archaeological evidence for a large Exodus-era population in Sinai and a destruction of walled Jericho and Ai that fits any proposed date",
+    "A harmonization method that successfully predicts new evidence, instead of only explaining known conflicts after the fact",
+    "A convincing philosophical argument that inspiration necessarily implies detailed factual inerrancy, without relying on Scripture's testimony about itself"
+  ],
+  "sources": [
+    {"citation": "International Council on Biblical Inerrancy, The Chicago Statement on Biblical Inerrancy, 1978", "kind": "primary"},
+    {"citation": "B. B. Warfield and A. A. Hodge, 'Inspiration', Presbyterian Review, 1881", "kind": "scholarship"},
+    {"citation": "Gleason L. Archer, Encyclopedia of Bible Difficulties, 1982", "kind": "scholarship"},
+    {"citation": "Norman Geisler and Thomas Howe, When Critics Ask, 1992", "kind": "scholarship"},
+    {"citation": "J. Merrick and Stephen M. Garrett (eds.), Five Views on Biblical Inerrancy, 2013", "kind": "scholarship"},
+    {"citation": "Michael R. Licona, Why Are There Differences in the Gospels?, 2017", "kind": "scholarship"},
+    {"citation": "Peter Enns, Inspiration and Incarnation, 2005", "kind": "scholarship"},
+    {"citation": "Kenton L. Sparks, God's Word in Human Words, 2008", "kind": "scholarship"},
+    {"citation": "Bart D. Ehrman, Jesus, Interrupted, 2009", "kind": "scholarship"},
+    {"citation": "Raymond E. Brown, The Birth of the Messiah, 1977", "kind": "scholarship"},
+    {"citation": "Israel Finkelstein and Neil Asher Silberman, The Bible Unearthed, 2001", "kind": "scholarship"},
+    {"citation": "Kenneth A. Kitchen, On the Reliability of the Old Testament, 2003", "kind": "scholarship"},
+    {"citation": "James Barr, Fundamentalism, 1977", "kind": "scholarship"},
+    {"citation": "Second Vatican Council, Dei Verbum, 1965", "kind": "primary"},
+    {"citation": "Matthew 27:3-10; Acts 1:18-19; Luke 2:1-2; Mark 2:26; 2 Samuel 10:18; 1 Chronicles 19:18", "kind": "scripture"}
+  ]
+}
+--- stderr ---

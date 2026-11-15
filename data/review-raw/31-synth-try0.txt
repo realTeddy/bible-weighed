@@ -1,0 +1,41 @@
+{
+  "summary": "All four reviewers judge the claim unlikely on a universal reading, while recognizing that it has stronger support within traditional religious frameworks. They agree that biblical passages condemn at least some same-sex acts, but distinguish that textual question from whether the prohibition is morally binding today. They find no demonstrated intrinsic harm in committed, consensual same-sex relationships and regard divine authority and natural-law accounts as important traditional defenses. Their main differences concern confidence, the scope and historical context of the texts, the strength of the empirical claims, and how much weight to give contested moral frameworks. Their credences range from 10% to 27% and are judgments, not measurements.",
+  "agreement": "high",
+  "agreed": [
+    "Leviticus and Romans express disapproval of at least some same-sex sexual acts; ancient and modern contexts differ.",
+    "Committed, consensual same-sex relationships can involve love and care, and no intrinsic harm to them has been demonstrated.",
+    "Whether a biblical prohibition remains binding today depends substantially on scriptural interpretation and moral or theological premises.",
+    "Divine authority and procreative or complementary natural-law accounts are significant defenses of the traditional position.",
+    "A simple claim that the Bible contains no negative references to same-sex acts is weak."
+  ],
+  "disagreed": [
+    {
+      "point": "Overall probability and confidence",
+      "positions": "GPT-6.1 assigns 10% with low confidence, Gemini 3.8 12% with high confidence, Grok 4.7 18% with low confidence, and Opus 5.5 27% with low confidence. Opus gives greater weight to traditional frameworks as live possibilities; Gemini presents the secular moral and empirical case more decisively."
+    },
+    {
+      "point": "Scope and historical context of the texts",
+      "positions": "Grok and Opus argue that the main texts condemn same-sex intercourse generally, not only exploitation; GPT likewise finds a broad prohibition of at least male intercourse more plausible than an exploitation-only reading. Gemini emphasizes that the authors condemned ancient practices typically associated with exploitation, excess, or ritual and distinguishes these from modern egalitarian unions. Opus also notes ancient evidence of enduring same-sex preferences, qualifying claims that the ancients had no relevant concept."
+    },
+    {
+      "point": "Strength of empirical and moral conclusions",
+      "positions": "Gemini calls inherent harm decisively refuted and emphasizes substantial harm from enforcing prohibitions. GPT cautions that associations between discrimination and harm do not establish that every religious teaching or practice produces harm. Grok and Opus acknowledge specific health risks and disparities while distinguishing them from intrinsic harm; Grok notes that stigma does not fully explain the HIV burden."
+    },
+    {
+      "point": "Weight of traditional moral frameworks",
+      "positions": "All regard divine-command and natural-law premises as contested. Gemini considers the claim demonstrably false under its stated public moral criteria; GPT and Grok reject it on their universal readings while acknowledging those defenses. Opus stresses that the underlying values and priors remain genuinely contested and gives the traditional frameworks more weight."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether Scripture is authoritative divine moral revelation and whether its prohibitions were intended to bind people today.",
+    "Whether sexual morality requires male-female, procreative-form union or is primarily assessed through consent, care, harm, fairness, and flourishing.",
+    "Whether the biblical texts condemn same-sex acts generally and how ancient contexts relate to modern committed relationships.",
+    "Whether the relevant claim concerns universal moral truth or obligations within a community that accepts biblical authority.",
+    "Whether a convincing account identifies a wrong-making feature or intrinsic harm in consensual same-sex relations."
+  ],
+  "what_is_settled": "The reviews agree that some biblical passages disapprove of same-sex acts and that their present moral authority is a separate question. They also agree that committed, consensual same-sex relationships have not been shown to be intrinsically harmful.",
+  "what_is_open": "The passages' precise scope and application, the authority of Scripture, and the moral force of natural-law and other ethical frameworks remain disputed. The strength of conclusions about harms from enforcing prohibitions also differs among the reviews."
+}
+
+
+--- stderr ---

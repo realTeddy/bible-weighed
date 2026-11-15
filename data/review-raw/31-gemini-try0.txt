@@ -1,0 +1,148 @@
+{
+  "kind": "mixed",
+  "verdict": "Very unlikely to be morally sound under empirical, human-rights, and modern philosophical frameworks, though consistently maintained within traditionalist theological systems.",
+  "credence": 12,
+  "confidence": "high",
+  "bottom_line": "When evaluated by standard criteria of moral soundness—such as human flourishing, harm avoidance, justice, and reciprocity—blanket prohibitions on same-sex sexual relations fail because loving, consensual same-sex partnerships produce no intrinsic harm and foster genuine well-being. Conversely, enforcing these prohibitions produces substantial, documented psychological and social harm through stigma, discrimination, and family rejection. The ancient biblical texts consistently condemn the same-sex sexual behaviors known in antiquity, but those practices were typically embedded in pederasty, master-slave exploitation, prostitution, or pagan ritual, lacking any concept of sexual orientation or mutual, egalitarian union. The claim to moral soundness survives almost exclusively within confessional frameworks committed to Divine Command Theory or traditional teleological natural law, both of which require metaphysical assumptions rejected by contemporary ethics and the broader scientific community.",
+  "sub_claims": [
+    {
+      "claim": "The biblical texts uniformly express moral disapproval of same-sex sexual acts within their historical contexts.",
+      "kind": "textual",
+      "case_for": "Every clear scriptural reference to same-sex intercourse (Leviticus 18:22, Leviticus 20:13, Romans 1:26-27, 1 Corinthians 6:9-10, 1 Timothy 1:10) is unmistakably negative, framing such acts as violating creation order, ritual purity, or divine law.",
+      "case_against": "The authors condemned specific exploitative practices known to them—such as temple prostitution, pederasty, and promiscuous excess—rather than mutual, loving, lifelong covenants between equal partners, a social category that did not exist in the ancient Near East or Greco-Roman world.",
+      "consensus": "Wide consensus among historians and biblical scholars that ancient texts uniformly condemn the same-sex acts they describe; intense division on whether those texts can be legitimately extended to modern sexual orientation and egalitarian partnerships.",
+      "evidence": [
+        "Leviticus 18:22 and 20:13 label male-male intercourse an 'abomination' (to'evah) subject to capital punishment.",
+        "Paul in Romans 1:26-27 describes same-sex acts as 'contrary to nature' (para physin) and resulting from idolatrous degeneration.",
+        "Pauline neologism 'arsenokoitai' in 1 Corinthians 6:9 likely derives directly from the Septuagint rendering of Leviticus 20:13."
+      ],
+      "verdict": "Textually and historically well-supported regarding ancient acts; inapplicable as a description of modern sexual orientation.",
+      "credence": 88
+    },
+    {
+      "claim": "Consensual adult same-sex sexual relations cause inherent psychological, biological, or social harm.",
+      "kind": "empirical",
+      "case_for": "Historically, proponents argued that homosexual activity disrupted marital stability, undermined demographic replacement rates, and spread sexually transmitted infections.",
+      "case_against": "Extensive empirical research across psychology, medicine, and sociology demonstrates that sexual orientation is a normal variation of human sexuality, same-sex couples show relationship satisfaction and parenting outcomes comparable to opposite-sex couples, and health disparities stem from minority stress and societal stigma rather than sexual orientation itself.",
+      "consensus": "Near-total consensus among major scientific, psychiatric, and psychological organizations worldwide (APA, WHO, AMA).",
+      "evidence": [
+        "American Psychological Association declassified homosexuality as a mental disorder in 1973 based on empirical evidence of normal functioning.",
+        "Decades of longitudinal studies showing children raised by same-sex parents show no differences in emotional, cognitive, or social development compared to children of opposite-sex parents.",
+        "Public health data showing elevated rates of anxiety, depression, and suicidality among LGBTQ+ youth correlate directly with family and societal rejection rather than intrinsic pathology."
+      ],
+      "verdict": "Decisively refuted by empirical evidence.",
+      "credence": 4
+    },
+    {
+      "claim": "A blanket prohibition on same-sex sexual relations satisfies secular criteria of moral soundness (justice, autonomy, and flourishing).",
+      "kind": "philosophical",
+      "case_for": "If morality is grounded in a teleological natural law where biological sex is intrinsically ordered toward procreation and complementary union, bypassing that order frustrates human nature and constitutes a moral failing.",
+      "case_against": "Normative ethics grounded in consequentialism, deontology, contractualism, or virtue ethics requires a showing of non-arbitrary harm, violation of consent, or injustice; forbidding two consenting adults from expressing intimacy and forming families arbitrarily deprives them of foundational human goods without preventing any tangible harm.",
+      "consensus": "Overwhelming consensus among contemporary secular moral philosophers that blanket prohibitions are ethically indefensible.",
+      "evidence": [
+        "Harm principle and contractualist ethics identify no victim or rights violation in consensual adult sexual intimacy.",
+        "The arbitrary denial of fundamental relational goods conflicts with the principle of equal moral consideration of persons.",
+        "Traditional natural law teleology struggles to explain why same-sex sexual acts are immoral while infertile heterosexual sex is considered morally acceptable."
+      ],
+      "verdict": "Fails across all major modern philosophical and normative frameworks.",
+      "credence": 9
+    },
+    {
+      "claim": "The biblical prohibition reflects a timeless divine design revealed in creation rather than time-bound cultural norms.",
+      "kind": "philosophical",
+      "case_for": "Scriptural sexual ethics consistently ground marriage and sexual expression in the Genesis 1-2 creation narrative of male-female bodily complementarity, endorsed by Jesus in Matthew 19:4-6 and sustained without exception throughout Christian tradition for two millennia.",
+      "case_against": "The Bible contains numerous moral instructions rooted in creation rhetoric or divine command that the church and society later recognized as culturally bound, including chattel slavery, female subordination, and capital punishment for ritual infractions, showing that moral revelation is progressive and culturally contextualized.",
+      "consensus": "Deep, intractable division between confessional traditionalists (Roman Catholic Magisterium, Eastern Orthodoxy, conservative evangelicals) and progressive/liberal theologians.",
+      "evidence": [
+        "Genesis 1:27 and 2:24 link marital unity explicitly to sexual differentiation ('male and female he created them').",
+        "Widespread historical re-evaluation of biblical teachings on slavery (Ephesians 6:5) and patriarchy (1 Timothy 2:12) demonstrates interpretive evolution on issues once deemed settled by creation order.",
+        "Fruit-based hermeneutic (Matthew 7:16-20) used by affirming theologians to argue that prohibitions produce bad fruit (suffering, suicide) while affirmed unions produce good fruit (love, stability, service)."
+      ],
+      "verdict": "Contingent entirely on religious authority and theological priors; unsupported by external evidence.",
+      "credence": 18
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "What is the ultimate epistemological source and definition of moral soundness?",
+      "type": "prior",
+      "if_yes": "If moral soundness is defined exclusively by Divine Command Theory or canonical fidelity to ancient religious texts, the claim is true within that confessional boundary.",
+      "if_no": "If moral soundness requires rational justification based on human well-being, harm minimization, justice, and empirical evidence, the claim is demonstrably false.",
+      "your_view": "Moral soundness must be evaluated through intersubjective reasons, human flourishing, and observable consequences rather than fideistic appeals to ancient theological taboos."
+    },
+    {
+      "crux": "Does biological and procreative complementarity impose a normative moral duty on all sexual expression?",
+      "type": "philosophical",
+      "if_yes": "If every moral sexual act must remain open to procreation and reflect male-female anatomical complementarity, same-sex relations are inherently disordered.",
+      "if_no": "If the moral goods of sexuality include mutual love, intimacy, emotional support, and partnership independent of procreative capability, same-sex relations are fully capable of moral goodness.",
+      "your_view": "Deducing moral obligation solely from biological function commits the is-ought fallacy, which even traditional theology abandons by endorsing the moral validity of sex between infertile heterosexual spouses."
+    },
+    {
+      "crux": "Did ancient biblical authors possess an understanding of sexual orientation analogous to modern concepts?",
+      "type": "evidence",
+      "if_yes": "If biblical authors understood and intentionally condemned loving, egalitarian same-sex orientation, their prohibitions directly address modern gay relationships.",
+      "if_no": "If they only conceived of same-sex acts as excess passion, pagan excess, or exploitative social domination, their prohibitions cannot be automatically mapped onto modern lifelong partnerships.",
+      "your_view": "Historical evidence demonstrates ancient authors lacked any framework for sexual orientation as an innate, unchosen romantic and sexual disposition, viewing same-sex behavior through the lens of excess, domination, or ritual impurity."
+    }
+  ],
+  "strongest_for": [
+    "Unbroken textual consistency across both Old and New Testaments condemning same-sex sexual intercourse whenever mentioned.",
+    "Rootedness in a coherent theological anthropology of gender complementarity and procreative purpose established in the Genesis creation narratives.",
+    "Continuous, two-millennium consensus across mainstream Jewish and Christian traditions until the late twentieth century.",
+    "Classical natural law philosophy offering a systematic, non-arbitrary teleological framework linking anatomical design with moral purpose."
+  ],
+  "strongest_against": [
+    "Consensual same-sex relationships produce tangible goods (love, stability, mutual care) and zero demonstrable intrinsic harm to partners or society.",
+    "Enforcing the prohibition generates severe, measurable harm, including depression, psychological trauma, family alienation, and elevated suicide risk among sexual minorities.",
+    "The biblical authors addressed ancient cultural forms (pederasty, prostitution, status-assertion, hyper-arousal) fundamentally distinct from modern egalitarian covenants.",
+    "Applying the prohibition violates universal principles of justice, equal moral worth, personal autonomy, and reciprocal fairness (the Golden Rule).",
+    "Inconsistency with how modern believers treat other biblical moral mandates (slavery, subjugation of women, usury, and dietary laws) as historically conditioned."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Claiming homosexuality is merely a chosen hedonistic lifestyle or psychological pathology (empirically falsified by modern neuroscience, genetics, and psychology).",
+      "Arguing that the narrative of Sodom and Gomorrah establishes the immorality of loving gay relationships (Ezekiel 16:49 and modern scholarship identify the sin as inhospitality, pride, and violent gang rape).",
+      "Asserting that accepting same-sex marriage causes civilizational collapse or demographic ruin (empirically disproven by stable social indicators in early-adopting nations)."
+    ],
+    "against": [
+      "Claiming the Bible contains zero negative references to same-sex acts or that passages were created entirely by mistranslation (anachronistic revisionism that ignores clear historical-grammatical context).",
+      "Arguing that because Jesus never explicitly mentioned homosexuality in the Gospels, he endorsed it (an argument from silence that ignores his second-Temple Jewish context).",
+      "Dismissing ancient moral reflection as primitive ignorance without engaging the rigorous philosophical structure of classical natural law or biblical anthropology."
+    ]
+  },
+  "would_change": [
+    "Replicated empirical evidence showing that stable, consensual same-sex partnerships cause inherent psychological, biological, or societal harm independent of social stigma.",
+    "A philosophically rigorous demonstration of natural law teleology that shows why non-procreative same-sex acts are immoral while non-procreative heterosexual acts (e.g., between permanently infertile couples) are morally sound.",
+    "Archaeological or textual evidence showing that ancient Mediterranean and Near Eastern cultures possessed and explicitly affirmed lifelong, egalitarian same-sex marriages, and that biblical authors consciously addressed and condemned that specific model.",
+    "Epistemological proof establishing Divine Command Theory and the infallible, perpetual moral authority of ancient Levitical and Pauline sexual ordinances."
+  ],
+  "sources": [
+    {
+      "citation": "Gagnon, Robert A. J., The Bible and Homosexual Practice: Texts and Hermeneutics, 2001",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Brownson, James V., Bible, Gender, Sexuality: Reframing the Church's Debate on Same-Sex Relationships, 2013",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Hays, Richard B., The Moral Vision of the New Testament: Community, Cross, New Creation, 1996",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "American Psychological Association, Resolution on Appropriate Affirmative Responses to Sexual Orientation Distress and Change Efforts, 2009",
+      "kind": "scientific"
+    },
+    {
+      "citation": "Aquinas, Thomas, Summa Theologiae, Secunda Secundae, Question 154, c. 1270",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Nussbaum, Martha C., From Disgust to Humanity: Sexual Orientation and Constitutional Law, 2010",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

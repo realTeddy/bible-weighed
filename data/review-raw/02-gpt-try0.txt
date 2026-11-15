@@ -1,0 +1,130 @@
+{
+  "kind": "mixed",
+  "verdict": "Probably did not happen, though the estimate depends heavily on disputed assumptions about miracles.",
+  "credence": 2,
+  "confidence": "low",
+  "bottom_line": "I am scoring the claim that Jesus really died and was subsequently made alive by God in a transformed body continuous with his earthly body, not merely that his spirit survived or that his followers had experiences. Jesus’ execution and the early conviction of some followers that he appeared to them are well supported; the empty tomb and the nature of the reported appearances are less certain. The surviving evidence is compatible with resurrection but also with nonmiraculous experiences and the development of traditions, neither of which can be reconstructed with confidence. My low estimate reflects a low prior probability for a unique miracle of this kind, not a scientific demonstration that it was impossible. Someone with a substantially higher theological prior can reasonably assign a much higher probability to the same evidence.",
+  "sub_claims": [
+    {
+      "claim": "Jesus died by crucifixion.",
+      "kind": "empirical",
+      "case_for": "Multiple early Christian sources and non-Christian references place his execution under Pontius Pilate; crucifixion normally caused death.",
+      "case_against": "The sources are not modern medical records, and details of the execution are mediated through later texts.",
+      "consensus": "A broad consensus of historians, including religious and nonreligious scholars, accepts the crucifixion and death.",
+      "evidence": ["Paul refers to Christ’s crucifixion in 1 Corinthians.", "All four canonical Gospels report the execution.", "Tacitus later reports that Christus was executed under Pilate."],
+      "verdict": "Very likely.",
+      "credence": 99
+    },
+    {
+      "claim": "Soon after Jesus’ death, some followers sincerely believed that he had appeared to them.",
+      "kind": "textual",
+      "case_for": "Paul reports an early tradition of appearances to named individuals and groups and includes his own experience; this is difficult to explain without genuine convictions among at least some early believers.",
+      "case_against": "Paul does not independently document each person’s experience, and a reported appearance does not establish exactly what anyone perceived. Sincerity cannot be directly verified for every named person.",
+      "consensus": "Many scholars across religious perspectives accept that at least some early followers had experiences or convictions they understood as appearances; they disagree about their nature and cause.",
+      "evidence": ["1 Corinthians 15:3–8 lists appearances to Cephas, the Twelve, James, others, and Paul.", "Paul wrote in the 50s CE and refers to a tradition he had received.", "Galatians 1 describes Paul’s experience in the language of revelation."],
+      "verdict": "Very likely, without establishing the cause.",
+      "credence": 98
+    },
+    {
+      "claim": "Jesus was buried in a known tomb that women subsequently found empty.",
+      "kind": "textual",
+      "case_for": "Mark gives a concrete burial and discovery narrative, later Gospels also report an empty tomb, and burial in a known place would make the claim open to challenge.",
+      "case_against": "Paul mentions burial and resurrection but does not explicitly describe a visit to an empty tomb. The surviving narratives are later, related literary sources, and the burial and discovery details cannot be independently checked.",
+      "consensus": "No consensus on the empty tomb or the full burial narrative. Many confessional scholars and some other historians accept them; other historians regard them as uncertain or later developments.",
+      "evidence": ["1 Corinthians 15:4 says Jesus was buried and raised.", "Mark 15–16 describes burial by Joseph of Arimathea and discovery of the empty tomb by women.", "The later Gospels also describe an empty tomb, with differences in detail."],
+      "verdict": "Plausible but uncertain.",
+      "credence": 40
+    },
+    {
+      "claim": "Paul understood resurrection as involving a transformed body, not merely the survival of a disembodied soul.",
+      "kind": "textual",
+      "case_for": "Paul describes a body that is sown and raised, contrasts present and transformed bodies, and treats Christ’s resurrection as the precedent for believers’ resurrection.",
+      "case_against": "His phrase ‘spiritual body’ and statement that ‘flesh and blood’ cannot inherit the kingdom leave room for disagreement about material continuity and how closely his view matches the later Gospel narratives.",
+      "consensus": "Many scholars, including confessional scholars, read Paul as affirming bodily transformation; they differ over its physical character and continuity with the corpse.",
+      "evidence": ["1 Corinthians 15:42–44 contrasts a perishable body with a raised ‘spiritual body.’", "1 Corinthians 15:50 says flesh and blood cannot inherit the kingdom of God.", "1 Corinthians 15:20–23 connects Christ’s resurrection with a future resurrection of believers."],
+      "verdict": "Probably true, though its precise physical implications are disputed.",
+      "credence": 85
+    },
+    {
+      "claim": "God raised Jesus from death in a transformed body continuous with his earthly body.",
+      "kind": "empirical",
+      "case_for": "An actual resurrection could explain the early conviction of appearances, Paul’s transformed bodily framework, and, if historical, the empty tomb together. On some theistic views, God had a distinctive reason to vindicate Jesus.",
+      "case_against": "The evidence comes through a small number of ancient sources, most of them not firsthand accounts of the events they describe. Nonmiraculous experiences, social transmission, and evolving narratives could generate the surviving evidence, even though their exact sequence is unknown.",
+      "consensus": "No consensus. Confessional scholars commonly affirm the resurrection; other historians reject it or regard the historical method as unable to establish a miracle. Those positions can reflect different theological and methodological assumptions as well as different readings of the evidence.",
+      "evidence": ["Paul’s own testimony and the appearance tradition in 1 Corinthians 15.", "The burial and empty-tomb accounts in the Gospels.", "Physical encounters described in Luke 24 and John 20."],
+      "verdict": "Unlikely on my assumptions; not conclusively disproved.",
+      "credence": 2
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "How probable is a divine resurrection before considering the specific reports?",
+      "type": "prior",
+      "if_yes": "If a purposeful God exists and such an act has a substantial prior probability, the reports can support a much higher, potentially majority, probability.",
+      "if_no": "If such an intervention has a very low prior probability, the ancient reports are unlikely to overcome it.",
+      "your_view": "I assign a low prior, but it is a philosophical judgment rather than a measured frequency; reasonable disagreement can move the result greatly."
+    },
+    {
+      "crux": "Was the empty tomb an independently grounded historical fact?",
+      "type": "evidence",
+      "if_yes": "A securely established empty tomb would strengthen the resurrection case, especially alongside early appearance reports, though it would not by itself establish divine action.",
+      "if_no": "The case relies more heavily on reported experiences and early belief, which have plausible nonmiraculous explanations.",
+      "your_view": "The surviving evidence does not establish the empty tomb confidently."
+    },
+    {
+      "crux": "Are the appearance reports substantially independent and better explained by a bodily encounter than by alternatives?",
+      "type": "evidence",
+      "if_yes": "Well-attested independent encounters, especially with physical interaction, would considerably raise my estimate.",
+      "if_no": "Reports transmitted through a small network and elaborated over time provide weaker discrimination between resurrection and alternatives.",
+      "your_view": "Paul’s own conviction is early evidence, but the independence, sensory details, and circumstances of most other reported appearances are uncertain."
+    },
+    {
+      "crux": "Does the claim require bodily continuity with Jesus’ earthly body?",
+      "type": "definition",
+      "if_yes": "The estimate is 2% for the specified bodily and divine claim.",
+      "if_no": "A claim that followers had experiences they interpreted as appearances scores much higher; a claim of disembodied survival is different and cannot be inferred directly from those experiences.",
+      "your_view": "Bodily continuity is central to the claim I am scoring; it does not require accepting every Gospel detail."
+    }
+  ],
+  "strongest_for": [
+    "Early conviction that Jesus appeared is evidenced by Paul and by a tradition he received, not solely by the later Gospels.",
+    "Paul presents resurrection as bodily transformation and connects his message to earlier witnesses.",
+    "If the burial and empty-tomb traditions are historical, they join the appearance reports in supporting an event involving Jesus’ body.",
+    "Within a theistic framework in which God might vindicate Jesus, resurrection can be a coherent explanation of the combined evidence."
+  ],
+  "strongest_against": [
+    "The extraordinary conclusion depends heavily on ancient testimony whose independence and access to the events are difficult to establish.",
+    "Experiences interpreted as encounters with a deceased person can occur without that person’s bodily return, and stories can develop through transmission.",
+    "The earliest surviving account does not explicitly describe the discovery of an empty tomb or provide detailed firsthand reports from most named witnesses.",
+    "A low prior for unique divine interventions makes the available evidence insufficient, on my assessment, to make resurrection likely."
+  ],
+  "weak_arguments": {
+    "for": [
+      "The disciples were willing to suffer, so their belief must have been true: sincerity does not guarantee accuracy, and the evidence for each claimed martyrdom varies.",
+      "Women found the tomb, so the account could not have been invented: narrative choices are not predictable enough to establish historicity on that basis alone.",
+      "Nobody produced Jesus’ body, so the tomb must have been empty: the surviving record does not tell us what searches or counterclaims occurred."
+    ],
+    "against": [
+      "Science has proved miracles impossible: science characterizes regularities but does not by itself rule out every possible divine intervention.",
+      "All witnesses hallucinated: the records do not establish the psychological mechanism, or even the exact experience, for each reported witness.",
+      "Differences between the Gospels prove no resurrection occurred: discrepancies affect confidence in particular details but do not logically disprove the central claim."
+    ]
+  },
+  "would_change": [
+    "Authentic, independently corroborated contemporary accounts describing multiple identifiable witnesses observing and physically interacting with Jesus after a securely documented death.",
+    "Strong independent evidence establishing the burial location, continuous custody of the tomb, and its subsequent emptiness.",
+    "Compelling evidence that the appearance and empty-tomb traditions arose substantially later, or that key reports were knowingly fabricated.",
+    "A persuasive philosophical or empirical case substantially changing the prior probability of a God who would raise Jesus."
+  ],
+  "sources": [
+    {"citation": "Paul, First Epistle to the Corinthians, especially chapter 15, approximately 50s CE", "kind": "scripture"},
+    {"citation": "The canonical Gospels: Mark, Matthew, Luke, and John, approximately 70–100 CE", "kind": "scripture"},
+    {"citation": "N. T. Wright, The Resurrection of the Son of God, 2003", "kind": "scholarship"},
+    {"citation": "Dale C. Allison Jr., The Resurrection of Jesus: Apologetics, Polemics, History, 2021", "kind": "scholarship"},
+    {"citation": "Bart D. Ehrman, How Jesus Became God, 2014", "kind": "scholarship"},
+    {"citation": "E. P. Sanders, The Historical Figure of Jesus, 1993", "kind": "scholarship"}
+  ]
+}
+
+
+--- stderr ---

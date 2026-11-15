@@ -1,0 +1,813 @@
+{
+ "topic": {
+  "id": 5,
+  "category": "Text",
+  "short": "Textual Preservation",
+  "resolution": "The Bible we have today faithfully preserves the original writings",
+  "question": "How faithfully does the Bible we have today preserve what the original authors wrote?",
+  "claim": "The Bible we have today faithfully preserves the original writings in all matters of substance."
+ },
+ "analyses": [
+  {
+   "kind": "mixed",
+   "verdict": "Substantially preserved, but probably not in every substantive detail",
+   "credence": 10,
+   "confidence": "medium",
+   "bottom_line": "I interpret the claim strictly: a representative modern Bible’s main text preserves every nontrivial part of the earliest authorial writings without substantial additions or changes, even when a footnote flags uncertainty. On that reading, the claim is probably false: some familiar passages are widely judged later additions, and some significant differences between ancient textual forms remain unresolved. Nevertheless, the evidence strongly supports substantial preservation of the biblical books and their principal narratives and teachings. Modern scholarly editions and translations often identify major uncertainties rather than conceal them. If “all matters of substance” means only that the Bible’s central religious message survives, the claim is considerably more plausible, but its probability depends on what counts as central.",
+   "sub_claims": [
+    {
+     "claim": "The biblical books have been substantially preserved through copying and transmission.",
+     "kind": "textual",
+     "case_for": "Numerous manuscripts and ancient translations allow comparison across places and periods, and they generally preserve recognizable books, narratives, arguments and teachings.",
+     "case_against": "Surviving witnesses are unevenly distributed and often much later than composition; substantial preservation does not establish accuracy at every important point.",
+     "consensus": "Broadly accepted by textual scholars, including confessional scholars, though they differ about how confidently particular original readings can be recovered.",
+     "evidence": [
+      "Dead Sea Scroll manuscripts preserve Hebrew biblical texts from centuries before the oldest substantial medieval Hebrew codices.",
+      "The New Testament survives in many Greek manuscripts, as well as ancient translations and quotations.",
+      "Most recorded differences among New Testament manuscripts are minor, although methods of counting variants differ."
+     ],
+     "verdict": "Strongly supported",
+     "credence": 98
+    },
+    {
+     "claim": "The longer ending of Mark and the story of the woman accused of adultery were part of their respective authors’ original texts.",
+     "kind": "textual",
+     "case_for": "Both passages have longstanding manuscript and church traditions; the story in John may preserve an early tradition even if it was inserted into this Gospel later.",
+     "case_against": "The earliest substantial Greek witnesses omit them, and other features of their transmission and language support later insertion.",
+     "consensus": "A strong majority of textual scholars, including many religious scholars, regard Mark 16:9–20 and John 7:53–8:11 as not original to these books. There is more disagreement about what happened to Mark’s original ending and about the origins of the John story.",
+     "evidence": [
+      "The fourth-century Codex Sinaiticus and Codex Vaticanus lack Mark 16:9–20 and John 7:53–8:11.",
+      "The woman’s story appears in different locations in some later manuscripts.",
+      "Many modern translations print these passages with prominent notes or brackets."
+     ],
+     "verdict": "Probably false for both passages as parts of the original books",
+     "credence": 2
+    },
+    {
+     "claim": "Ancient Old Testament witnesses agree on every substantively important passage.",
+     "kind": "textual",
+     "case_for": "Many Dead Sea Scroll biblical manuscripts are close to the later standard Hebrew text, showing substantial stability over a long period.",
+     "case_against": "Other witnesses preserve substantial differences in wording, length and arrangement; some appear to reflect different literary editions rather than mere copying slips.",
+     "consensus": "Scholars broadly acknowledge substantial textual diversity, including confessional scholars. They disagree about which form is earlier or authoritative in particular cases.",
+     "evidence": [
+      "The Greek Jeremiah is substantially shorter than the standard Hebrew Jeremiah and arranges some material differently.",
+      "Some Hebrew Jeremiah manuscripts from Qumran support readings associated with the shorter Greek form.",
+      "The Greek and Hebrew forms of parts of 1 Samuel also differ substantially."
+     ],
+     "verdict": "False",
+     "credence": 1
+    },
+    {
+     "claim": "Textual variants never matter for interpretation or theology.",
+     "kind": "textual",
+     "case_for": "Many important Christian teachings are supported by multiple passages, so rejecting one disputed reading need not remove a doctrine.",
+     "case_against": "Some variants affect meaningful narratives or the wording used in theological arguments, even when the broader doctrine has other support.",
+     "consensus": "Experts generally recognize that some variants matter interpretively. They are divided over how much particular variants affect theology, and religious traditions differ over what counts as a major doctrine.",
+     "evidence": [
+      "John 1:18 has significant early variants commonly rendered with wording such as “God” or “Son.”",
+      "Luke 22:43–44, describing Jesus’ anguish and sweat, has disputed textual status.",
+      "The longer ending of Mark adds resurrection appearances and other material to that Gospel."
+     ],
+     "verdict": "False, though the theological consequences are debated",
+     "credence": 2
+    },
+    {
+     "claim": "Scholars can establish the earliest authorial form of every substantively disputed passage.",
+     "kind": "textual",
+     "case_for": "Comparison of independent witnesses, scribal habits and historical context often makes one reading much more likely than its competitors.",
+     "case_against": "The originals do not survive, witnesses can share lost ancestors, and some books may have developed through multiple authorial or editorial stages.",
+     "consensus": "There is no consensus that every substantive original reading can be recovered; specialists differ considerably on particular passages and on what “original” means for books with complex composition histories.",
+     "evidence": [
+      "The surviving New Testament manuscript record begins with fragments, not complete authorial manuscripts.",
+      "The oldest surviving witnesses are not necessarily always right.",
+      "Textual critics disagree about some passages even after comparing the available evidence."
+     ],
+     "verdict": "Unlikely",
+     "credence": 10
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does “all matters of substance” include substantial narrative additions and differences, even when they do not overturn a central doctrine?",
+     "type": "definition",
+     "if_yes": "The claim is unlikely: several such differences are well supported.",
+     "if_no": "A claim about preservation of the Bible’s principal religious message becomes substantially more plausible.",
+     "your_view": "Ordinary language makes substantial narrative passages relevant; otherwise the claim should specify which doctrines or messages are protected."
+    },
+    {
+     "crux": "Should clearly marked, disputed passages printed in a modern Bible count as part of the text being assessed?",
+     "type": "definition",
+     "if_yes": "The prominent later additions weigh strongly against the strict claim.",
+     "if_no": "Modern critical editions look more faithful, although unresolved substantive variants and possible lost readings remain.",
+     "your_view": "They count for the stated main-text reading, but the warnings are important evidence of responsible presentation rather than concealment."
+    },
+    {
+     "crux": "Do the surviving witnesses preserve enough independent early evidence to resolve every consequential variant?",
+     "type": "evidence",
+     "if_yes": "Confidence in complete substantive recovery rises substantially.",
+     "if_no": "The universal claim is difficult to establish even where the best available reconstruction is plausible.",
+     "your_view": "The evidence is often strong but not sufficient to guarantee resolution in every case."
+    },
+    {
+     "crux": "Should a prior belief in divine preservation make complete substantive accuracy likely despite gaps in the manuscript record?",
+     "type": "prior",
+     "if_yes": "A believer may reasonably assign the claim a higher probability, especially with a doctrine allowing identifiable later additions.",
+     "if_no": "The estimate rests primarily on manuscript comparison and the limitations of historical reconstruction.",
+     "your_view": "I do not assume miraculous preservation or its impossibility; the historical evidence alone does not establish the universal claim."
+    }
+   ],
+   "strongest_for": [
+    "Multiple manuscript traditions allow errors and additions to be identified rather than merely inherited.",
+    "The Dead Sea Scrolls show that some Hebrew biblical texts remained remarkably stable across many centuries.",
+    "Most manuscript differences are minor, and major Christian teachings generally have support beyond any single disputed variant.",
+    "Modern translations often alert readers to the largest textual uncertainties."
+   ],
+   "strongest_against": [
+    "Some substantial passages printed in widely used Bibles are strongly supported as later additions.",
+    "Ancient witnesses sometimes preserve substantively different textual forms, especially in parts of the Hebrew Bible.",
+    "Some meaningful variants remain unresolved, and the original manuscripts are unavailable.",
+    "A universal claim about every substantive detail is much stronger than a claim of broad preservation."
+   ],
+   "weak_arguments": {
+    "for": [
+     "“There are thousands of manuscripts, so every original reading is certain”: manuscripts are not all early or independent.",
+     "“The Dead Sea Scrolls prove the whole Bible was copied perfectly”: they show both stability and significant textual diversity.",
+     "“No doctrine changes, therefore no substantive text changed”: narratives and interpretations can matter even without creating a new doctrine."
+    ],
+    "against": [
+     "“There are hundreds of thousands of variants, so the text is hopelessly corrupt”: many are minor and counts depend on counting methods.",
+     "“A later addition proves the entire Bible is unreliable”: individual passages and books require separate assessment.",
+     "“No original manuscripts survive, so nothing can be known about their contents”: comparative textual criticism can often recover earlier readings with substantial confidence."
+    ]
+   },
+   "would_change": [
+    "Discovery of securely dated, substantially earlier manuscripts spanning currently disputed passages.",
+    "New evidence establishing the relationships among surviving witnesses and their lost ancestors.",
+    "A persuasive account showing that the major disputed passages were original, or that currently accepted readings are later changes.",
+    "A more precise definition of “substance,” particularly whether marked additions and non-doctrinal narratives count."
+   ],
+   "sources": [
+    {
+     "citation": "Bruce M. Metzger and Bart D. Ehrman, The Text of the New Testament: Its Transmission, Corruption, and Restoration, fourth edition, 2005",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bruce M. Metzger, A Textual Commentary on the Greek New Testament, second edition, 1994",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Emanuel Tov, Textual Criticism of the Hebrew Bible, third edition, 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Eugene Ulrich, The Dead Sea Scrolls and the Origins of the Bible, 1999",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Elijah Hixson and Peter J. Gurry, editors, Myths and Mistakes in New Testament Textual Criticism, 2019",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "gpt",
+   "label": "GPT-6.1",
+   "model": "gpt-6.1-terra",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Substantially true for textual transmission of archetypes; false if applied to pre-redaction sources or taken to exclude all substantive variants.",
+   "credence": 74,
+   "confidence": "high",
+   "bottom_line": "Modern textual criticism demonstrates that contemporary critical editions of the Bible preserve the text of the early literary archetypes with remarkable fidelity, unmatched by any other ancient Mediterranean literature. For the New Testament, an immense wealth of early Greek manuscripts and papyri allows scholars to reconstruct the initial text with roughly 95% to 98% certainty, and no core doctrine rests exclusively on a disputed variant. For the Old Testament, the Dead Sea Scrolls show that proto-Masoretic texts were copied with astonishing precision over a millennium, though they also prove that distinct literary editions of several books (such as Jeremiah and Samuel) circulated concurrently in antiquity. The claim is well-supported if 'matters of substance' refers to overarching theological, moral, and historical themes, but fails if interpreted as guaranteeing that every substantive passage (such as the adulteress pericope or Mark's ending) was preserved or that books did not undergo substantial pre-canonical redaction.",
+   "sub_claims": [
+    {
+     "claim": "Modern critical editions of the New Testament accurately recover the initial text (archetype) in virtually all substantive passages.",
+     "kind": "textual",
+     "case_for": "Over 5,800 Greek manuscripts, 10,000 Latin manuscripts, and early versions (Syriac, Coptic) dating as early as c. 175-225 CE allow textual critics to cross-check textual families. Over 99% of textual variants are inconsequential spelling differences or minor word-order shifts, and major known interpolations are clearly identified and bracketed.",
+     "case_against": "The original autographs are lost, and the earliest substantial papyri date 100 to 150 years after composition, leaving a window in the early second century where variants or interpolations could have spread unchecked. Major narrative and theological passages (Mark 16:9-20, John 7:53-8:11, 1 John 5:7-8) are known scribal additions that entered the manuscript tradition.",
+     "consensus": "Strong consensus among both secular (e.g., Bart Ehrman) and confessional scholars (e.g., Bruce Metzger, Daniel Wallace) that modern eclectic Greek texts reliably reflect the 2nd-century initial text, though debates persist over specific readings.",
+     "evidence": [
+      "Chester Beatty Papyri (P45, P46) and Bodmer Papyri (P66, P75) providing continuous 2nd/3rd-century witnesses",
+      "Great 4th-century uncials Codex Sinaiticus and Codex Vaticanus",
+      "Over 400,000 variants cataloged across surviving Greek manuscripts, the vast majority being minor orthographic errors",
+      "Critical reconstruction via the Novum Testamentum Graece (NA28 / UBS5)"
+     ],
+     "verdict": "Highly supported for the text in general, with clear exceptions for specific known interpolations.",
+     "credence": 86
+    },
+    {
+     "claim": "The Hebrew Bible has been transmitted with high fidelity from the Second Temple period to the present.",
+     "kind": "textual",
+     "case_for": "The Dead Sea Scrolls (dating from c. 250 BCE to 68 CE) demonstrate that proto-Masoretic biblical scrolls match medieval manuscripts like the Leningrad Codex (1008 CE) with extraordinary precision across a 1,000-year copying gap, showing word-for-word agreement exceeding 95% in books like Isaiah.",
+     "case_against": "The Dead Sea Scrolls and the Septuagint also revealed textual pluriformity in ancient Judaism. Rather than a single uniform text, multiple textual traditions coexisted: Jeremiah in the Septuagint and Qumran (4QJer^b) represents a distinct edition roughly 15% shorter than the Masoretic Text, and 4QSam^a contains major narrative divergences from the Masoretic Text of Samuel.",
+     "consensus": "Broad consensus across critical and Jewish/evangelical scholars that the proto-Masoretic line was copied with unrivaled rigor, but that multiple divergent literary editions existed prior to canonical stabilization around 70-100 CE.",
+     "evidence": [
+      "The Great Isaiah Scroll (1QIsa^a) showing near-identity with the medieval Masoretic Text",
+      "The Leningrad Codex (1008 CE) and Aleppo Codex as the base of the modern Biblia Hebraica Stuttgartensia",
+      "4QJer^b and 4QJer^d confirming the shorter, alternative edition reflected in the Greek Septuagint",
+      "4QSam^a preserving readings divergent from the Masoretic Text, several of which modern translations adopt"
+     ],
+     "verdict": "True for the transmission of the Masoretic stream, but qualified by the historical reality of early textual pluriformity.",
+     "credence": 78
+    },
+    {
+     "claim": "Scribal transmission did not alter or corrupt core biblical doctrines.",
+     "kind": "textual",
+     "case_for": "Because manuscripts dispersed rapidly across multiple geographic centers (Egypt, Rome, Syria, Asia Minor), no individual or theological faction possessed the centralized authority required to alter all copies. Textual variations that exhibit theological bias (such as anti-adoptionist or harmonizing variants) are localized and readily uncovered by comparative textual criticism.",
+     "case_against": "Scribes did occasionally make intentional theological modifications, termed 'orthodox corruptions' by scholars. For example, Luke 2:33 was altered in several traditions from 'his father and mother' to 'Joseph and his mother' to protect the virgin birth, and the Comma Johanneum (1 John 5:7-8) was interpolated to provide a direct biblical proof-text for the Trinity.",
+     "consensus": "Strong consensus that while scribes occasionally modified texts to resolve theological difficulties, these changes are detectable and no primary doctrine of historical Judaism or Christianity relies solely on a corrupted or disputed variant.",
+     "evidence": [
+      "The Comma Johanneum (1 John 5:7-8) absent from every Greek manuscript before the 14th/15th century",
+      "Variants in 1 Timothy 3:16 between 'God was manifested in the flesh' (later Byzantine) and 'He who was manifested' (earliest uncials)",
+      "Variants in John 1:18 between 'only begotten God' (P66, P75, Sinaiticus) and 'only begotten Son' (later Western/Byzantine MSS)",
+      "The Rabbinic tradition of the Tiqqune Sopherim ('corrections of the scribes') acknowledging minor early pious adjustments"
+     ],
+     "verdict": "Largely true: intentional theological alterations occurred, but they are identifiable and did not systematically overhaul biblical theology.",
+     "credence": 82
+    },
+    {
+     "claim": "The concept of 'what the original authors wrote' corresponds to an identifiable historical autograph across all biblical books.",
+     "kind": "philosophical",
+     "case_for": "For epistles (such as the authentic letters of Paul) and certain prophetic or visionary texts (e.g., Revelation), a specific author composed or dictated a specific document to be dispatched to a concrete audience, providing a clear historical archetype.",
+     "case_against": "Many biblical books—notably the Pentateuch, historical books (Joshua through Kings, Chronicles), Proverbs, and Psalms—were not composed in a single sitting by a single author. They represent multi-generational oral traditions, source compilations (e.g., the Documentary Hypothesis / Supplementary models), and scribal editorial redactions. For composite texts, the 'original' was an evolving literary process rather than a static manuscript.",
+     "consensus": "Consensus among mainstream critical biblical scholars (and increasingly recognized by moderate confessional scholars) that many biblical texts are composite and underwent significant redaction before stabilizing into archetypes.",
+     "evidence": [
+      "Doublets, differing divine names, and distinct theological perspectives across the Pentateuch",
+      "Stylistic, linguistic, and historical shifts distinguishing First Isaiah (ch. 1-39) from Second Isaiah (ch. 40-55)",
+      "Synoptic problem and literary dependence of Matthew and Luke on Mark and early source material (Q)",
+      "Multiple stages of collection explicitly indicated within the text of Proverbs (e.g., Proverbs 25:1)"
+     ],
+     "verdict": "Largely false for composite ancient texts (Torah, historical books, wisdom literature); true for epistolary and unified literature.",
+     "credence": 42
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does 'the original writings' refer to the initial circulating literary archetype/canonical text, or to the pre-redaction source materials?",
+     "type": "definition",
+     "if_yes": "If defined as the initial published literary archetype, textual preservation is exceptionally high (~80-85%).",
+     "if_no": "If defined as the earliest raw words or historical events of Moses, David, or early oral traditions, the claim fails (~15-30%) due to extensive editorial redaction.",
+     "your_view": "In textual criticism, the claim is properly tested against the earliest circulating written archetype of each book, as textual transmission begins only once a text achieves written circulation."
+    },
+    {
+     "crux": "What threshold of variation constitutes a 'matter of substance'?",
+     "type": "definition",
+     "if_yes": "If 'substance' denotes overarching theological concepts, ethical systems, and historical storylines, the claim holds firmly (~85-90%).",
+     "if_no": "If 'substance' requires that every individual narrative unit or theological statement was preserved without addition, omission, or substitution, the claim is falsified (~30-40%) by passages like John 7:53-8:11 and Mark 16:9-20.",
+     "your_view": "A balanced scholarly reading concludes that macroscopic theological substance was preserved, while microscopic textual substance in individual passages was occasionally altered or expanded."
+    },
+    {
+     "crux": "Did significant undocumented corruption occur during the chronological gap between autograph composition and our earliest extant manuscripts?",
+     "type": "evidence",
+     "if_yes": "If early oral transmission and uncontrolled second-century copying introduced widespread undetectable shifts, our confidence must be substantially lower.",
+     "if_no": "If early multi-branch geographical distribution anchored the textual stream, later surviving branches allow reliable triangulation back to the archetype.",
+     "your_view": "The rapid geographical diffusion across Alexandria, Rome, Antioch, and North Africa created independent lines that converge so heavily that systemic, wholesale corruption of the text across all regions is historically improbable."
+    }
+   ],
+   "strongest_for": [
+    "Unrivaled manuscript abundance: The New Testament is attested by thousands of ancient Greek, Latin, Syriac, and Coptic manuscripts, far surpassing any other classical ancient text (such as works by Plato, Aristotle, or Tacitus) in both quantity and chronological proximity to the originals.",
+    "The Dead Sea Scrolls confirmation: The discovery of biblical manuscripts at Qumran proved that Jewish scribes preserved the proto-Masoretic text with astonishing accuracy across more than a millennium prior to medieval codices.",
+    "Modern critical editions and transparency: Modern Bible translations base their renderings on rigorous critical editions (Nestle-Aland/UBS and BHS) that openly identify and footnote all meaningful textual variants rather than concealing them.",
+    "Cross-critical consensus on theological preservation: Leading textual critics across the ideological spectrum (including skeptical scholars like Bart Ehrman and evangelical scholars like Bruce Metzger and Daniel Wallace) agree that no fundamental Christian doctrine depends solely on a disputed variant."
+   ],
+   "strongest_against": [
+    "Presence of major interpolations: Several prominent and influential passages—including the story of the woman caught in adultery (John 7:53–8:11), the longer ending of Mark (Mark 16:9–20), and the Johannine Comma (1 John 5:7–8)—are indisputably later additions absent from the earliest manuscripts.",
+    "Early Old Testament pluriformity: The Dead Sea Scrolls and the Septuagint establish that some Old Testament books existed in competing literary editions (such as the significantly shorter and differently structured edition of Jeremiah in 4QJer^b and the Septuagint).",
+    "The unavoidable temporal gap: A gap of several decades for the New Testament and several centuries for the Old Testament separates the original compositions from our earliest physical manuscript evidence, meaning the earliest transmission history must be inferred rather than directly observed.",
+    "Complex redaction history: Biblical scholarship has demonstrated that many Old Testament books and parts of the Gospels were edited and compiled over time, meaning the concept of a single 'original author' whose words were frozen at a single moment does not fit the historical composition process."
+   ],
+   "weak_arguments": {
+    "for": [
+     "The massive number of manuscripts proves the text is uncorrupted: Flawed because the vast majority of surviving manuscripts are late Byzantine copies from the 9th to 15th centuries; sheer quantity of late copies reflects scribal output, not early accuracy.",
+     "Jewish scribes followed strict letter-counting rules, so no errors ever entered the Old Testament: Flawed because those meticulous Masoretic scribal practices developed in the early Middle Ages, centuries after textual divergence had already occurred during the Second Temple period.",
+     "Theological guarantees of preservation: Flawed because appealing to divine promises of preservation is a theological assumption that cannot substitute for empirical historical and textual investigation."
+    ],
+    "against": [
+     "The Bible is a product of the children's game 'Telephone': Flawed because textual transmission was a written, multi-branched, cross-referencing process spreading simultaneously across continents, allowing scholars to reconstruct earlier stages by comparing divergent branches.",
+     "The Council of Nicaea or Emperor Constantine rewrote the Bible: A widespread popular myth without historical basis; Nicaea debated theological interpretation (Arianism), not the editing of manuscripts, and pre-Nicene papyri already contain the relevant texts.",
+     "The existence of hundreds of thousands of variants means the text is unreliable: Flawed because over 99% of variants are untranslatable spelling variations, minor grammatical slips, or scribal errors that have zero effect on meaning."
+    ],
+    "would_change": [
+     "Discovery of first-century New Testament manuscripts or pre-Qumran Old Testament scrolls that radically differ in structure or theology from the earliest reconstructed archetypes (would significantly lower credence).",
+     "Discovery of unambiguous archival evidence that a centralized early church body systematically recalled, altered, and reissued all canonical manuscripts in the early second century (would drastically lower credence).",
+     "Discovery of pre-Christian Hebrew manuscripts demonstrating that only one uniform, identical textual tradition ever existed across all Jewish communities prior to the destruction of the Second Temple (would raise credence).",
+     "Demonstration that the original ending of the Gospel of Mark was deliberately suppressed and replaced because it contradicted core apostolic claims (would lower credence)."
+    ],
+    "sources": [
+     {
+      "citation": "Bruce M. Metzger and Bart D. Ehrman, The Text of the New Testament: Its Transmission, Corruption, and Restoration (4th ed., Oxford University Press, 2005)",
+      "kind": "scholarship"
+     },
+     {
+      "citation": "Emanuel Tov, Textual Criticism of the Hebrew Bible (3rd ed., Fortress Press, 2011)",
+      "kind": "scholarship"
+     },
+     {
+      "citation": "Bart D. Ehrman, Misquoting Jesus: The Story Behind Who Changed the Bible and Why (HarperSanFrancisco, 2005)",
+      "kind": "scholarship"
+     },
+     {
+      "citation": "Eugene Ulrich, The Dead Sea Scrolls and the Origins of the Bible (Eerdmans, 1999)",
+      "kind": "scholarship"
+     },
+     {
+      "citation": "Kurt Aland and Barbara Aland, The Text of the New Testament: An Introduction to the Critical Editions and to the Theory and Practice of Modern Textual Criticism (Eerdmans, 1989)",
+      "kind": "scholarship"
+     },
+     {
+      "citation": "Daniel B. Wallace (ed.), Revisiting the Corruption of the New Testament: Manuscript, Patristic, and Apocryphal Evidence (Kregel Academic, 2011)",
+      "kind": "scholarship"
+     }
+    ]
+   },
+   "would_change": [],
+   "sources": [],
+   "id": "gemini",
+   "label": "Gemini 3.8",
+   "model": "gemini-3.8-flash",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Probably not strictly true as stated, though substantial fidelity is real",
+   "credence": 36,
+   "confidence": "medium",
+   "bottom_line": "I score the claim strictly: today's Bible matches what the authors wrote in every matter that affects meaning, not merely that the gist survived. On that reading it is probably false, because the word 'all' is brittle. The New Testament is exceptionally well attested, and both Testaments were copied carefully enough that the main laws, narratives, and teachings are stable across early witnesses. A few printed passages are later additions, some variants change real details, and some Old Testament books circulated in more than one substantive edition. A softer claim — faithful in nearly all matters of substance, with the exceptions detectable — is much more likely, around 80 percent.",
+   "sub_claims": [
+    {
+     "claim": "The New Testament's meaningful content is recoverable from manuscripts, versions, and citations, and matches the authorial text in the great majority of passages.",
+     "kind": "textual",
+     "case_for": "No autographs survive, but the New Testament is the best-attested work from Greco-Roman antiquity: thousands of Greek manuscripts, early papyri, ancient translations, and patristic quotations. Fourth-century Codices Vaticanus and Sinaiticus, and late-second- or early-third-century papyri such as P66 and P75, already preserve a text close to modern critical editions. Independent streams converge. Most differences are spelling, word order, or obvious slips, and the significant ones are catalogued.",
+     "case_against": "The first decades after composition are thinly attested, and that is when texts were most fluid. The Western text of Acts is substantially longer. A minority of variants were theologically motivated. Convergence shows we can usually recover an early text, not that every authorial wording is certain.",
+     "consensus": "Evangelical and critical textual critics agree the New Testament is broadly recoverable. They differ on how fluid the earliest period was: Parker and Ehrman stress fluidity and theological change; Wallace, Metzger, and the Alands stress that the manuscript tradition contains the authorial text and that remaining doubts are limited.",
+     "evidence": [
+      "About 5,000-plus Greek New Testament manuscripts, plus Latin, Syriac, and Coptic versions",
+      "P66 and P75 (around 200 CE) already close to Codex Vaticanus in Luke and John",
+      "Codex Sinaiticus and Codex Vaticanus, fourth century",
+      "Variant counts across all manuscripts run into the hundreds of thousands, but most are trivial or singular",
+      "Acts' Western text is meaningfully longer than the Alexandrian text"
+     ],
+     "verdict": "Very likely",
+     "credence": 86
+    },
+    {
+     "claim": "Some meaningful passages still printed in Bibles today were not written by the original authors of those books.",
+     "kind": "textual",
+     "case_for": "The long ending of Mark (16:9-20), the story of the woman caught in adultery (John 7:53-8:11), and the Trinitarian Comma (1 John 5:7-8 in the King James tradition) are absent from the earliest and best witnesses, differ in style, and are treated as secondary by virtually all textual critics. The first two are still printed in modern translations, usually bracketed or footnoted; they add narrative and commands. That is substance, not spelling.",
+     "case_against": "Critical editions flag them, so a careful modern Bible does not present them as certain. Their ideas mostly appear elsewhere (other resurrection appearances; mercy and judgment). The Comma is gone from reputable modern translations. One can argue they do not change the substance of the Bible as a whole even though they are not original to those spots.",
+     "consensus": "Nearly universal across confessional and secular textual critics that these three are not original. Disagreement is about how much the footnotes matter for ordinary readers, not about authorship.",
+     "evidence": [
+      "Mark 16:9-20 absent from Sinaiticus, Vaticanus, and early patristic evidence for the ending at 16:8",
+      "John 7:53-8:11 absent from the earliest Greek manuscripts and from its present place in the oldest tradition",
+      "1 John 5:7-8 Comma absent from all early Greek manuscripts; a Latin and Textus Receptus reading",
+      "Modern translations still print the Mark and John passages with brackets or notes"
+     ],
+     "verdict": "Almost certainly true for these major cases",
+     "credence": 93
+    },
+    {
+     "claim": "The medieval Masoretic Text substantially continues much older Hebrew forms for many books, so preservation over many centuries was often very careful.",
+     "kind": "textual",
+     "case_for": "The Great Isaiah Scroll from Qumran, copied about a millennium before the Leningrad Codex, agrees closely with the later Masoretic Isaiah in content, despite spelling differences and some real variants. Many other Dead Sea texts are proto-Masoretic. The Masoretes counted letters and guarded the text with extreme care. The Ketef Hinnom silver scrolls show the priestly blessing in a form close to Numbers 6 centuries earlier still.",
+     "case_against": "Qumran also shows that agreement was not uniform. Some books were pluriform. Careful medieval copying proves stability after standardization, not that the standardized text was the only or the earliest authorial form. A liturgical formula on an amulet is not a whole book.",
+     "consensus": "Jewish and Christian textual critics agree on both facts: striking continuity for books like Isaiah, and textual plurality before the text stabilized around the turn of the era. Tov, Ulrich, and Cross are representative; confessional scholars generally accept the same manuscript facts.",
+     "evidence": [
+      "Leningrad Codex, 1008 CE; Aleppo Codex, about 930 CE",
+      "Great Isaiah Scroll (1QIsaa), about the second century BCE, close to the Masoretic Isaiah but not identical",
+      "Dead Sea Scrolls, roughly third century BCE to first century CE, include proto-Masoretic copies",
+      "Ketef Hinnom inscriptions, about the late seventh or sixth century BCE, preserve a form of the priestly blessing"
+     ],
+     "verdict": "Very well supported",
+     "credence": 87
+    },
+    {
+     "claim": "For at least some Old Testament books, ancient editions differ in content and order, so one current Bible cannot be the sole original in every substantive detail.",
+     "kind": "textual",
+     "case_for": "Septuagint Jeremiah is substantially shorter, on the order of one-eighth, and differently arranged; most specialists treat this as a different Hebrew edition, not a loose translation. Samuel and a few other books show narrative-level differences. Deuteronomy 32:8 reads 'sons of God' or divine beings in Qumran and the Greek, but 'sons of Israel' in the Masoretic Text, which changes the theological picture of that verse. A Protestant Bible follows the longer, rearranged Jeremiah and the Masoretic reading.",
+     "case_against": "Both Jeremiah editions are ancient; the Masoretic book can be a real authorial or editorial edition that we possess faithfully, not a corruption of a single original. The shared oracles still carry Jeremiah's message. Verse-level differences need not change the substance of the book. 'Original' may mean the edition that became canonical in the Hebrew tradition.",
+     "consensus": "Old Testament textual critics broadly accept multiple literary editions for some books. This is mainstream, including among many confessional scholars. They disagree on which edition is earlier in particular cases and on whether 'earlier' means 'the original.'",
+     "evidence": [
+      "Jeremiah: shorter and reordered Greek text versus the Masoretic Text",
+      "Deuteronomy 32:8-9: Qumran and Septuagint 'sons of God' / divine beings versus Masoretic 'sons of Israel'",
+      "1 Samuel 17: a shorter Greek form of the David and Goliath narrative is widely discussed as a possible earlier edition",
+      "Esther and Daniel: Greek traditions contain substantial material absent from the Hebrew"
+     ],
+     "verdict": "Likely",
+     "credence": 82
+    },
+    {
+     "claim": "No central Jewish or Christian doctrine depends on one textually disputed passage alone.",
+     "kind": "philosophical",
+     "case_for": "Covenant, law, prophetic critique, the life and death of Jesus, and the resurrection claim are repeated across passages that are not textually doubtful. Removing Mark's long ending, the adulterae story, or the Comma does not remove those teachings. Evangelical critics such as Wallace and many Catholic and mainline scholars affirm this. Even scholars who stress variants generally grant that the overall message does not rest on one uncertain verse.",
+     "case_against": "'Central doctrine' is a value judgment. Specific claims do ride on disputed wording if the question is that verse: an explicit Trinitarian proof-text in 1 John 5:7, John 1:18 ('only God' versus 'only Son'), or 1 Timothy 3:16. Ehrman argues some early scribes altered christological passages. Historically, controversy sometimes used readings that were not original, even if the doctrine can be rebuilt from other texts.",
+     "consensus": "Wide agreement, including across confessional lines, that major doctrines are multiply attested. Disagreement remains over whether variants affected how doctrine developed, which is a different question from whether today's reader can find the doctrine in undisputed texts.",
+     "evidence": [
+      "1 John 5:7-8 Comma is a late Trinitarian formula, not the basis of Trinitarian doctrine in undisputed texts",
+      "John 1:18 and 1 Timothy 3:16 have christologically different readings in the manuscript tradition",
+      "Resurrection appearances occur in undisputed portions of the other Gospels even if Mark 16:9-20 is secondary",
+      "Ehrman, The Orthodox Corruption of Scripture (1993), argues for some theologically motivated variants"
+     ],
+     "verdict": "Likely true, depending on what counts as central",
+     "credence": 78
+    },
+    {
+     "claim": "For a significant share of biblical books, 'the original writing' is not a single simple autograph that manuscripts could preserve.",
+     "kind": "philosophical",
+     "case_for": "Critical scholarship treats the Pentateuch as composite, Isaiah as staged, Psalms and Proverbs as collections, and some letters attributed to Paul as disputed. Matthew and Luke used sources. Textual transmission preserves the books as they circulated, not every earlier layer. If 'original authors' means the first composers, today's Bible often preserves a later edited form, and manuscripts alone cannot recover the earliest layer.",
+     "case_against": "The fair target of the claim is the finished book that entered circulation, not hypothetical sources. Source criticism is not textual corruption. Many confessional scholars reject or sharply limit these reconstructions. Even critics can ask whether we have what the final editor published, and for that question the manuscript evidence is often good.",
+     "consensus": "No consensus once confessional scholars are included. Historical-critical scholarship widely accepts compositional histories; evangelical and some Jewish scholars are divided, and some affirm traditional unity of authorship. The split tracks prior assumptions about how these books were produced.",
+     "evidence": [
+      "Pentateuch: long-standing source and redaction models, details disputed but composite origins standard in critical work",
+      "Isaiah: widespread critical distinction of later sections, debated by confessional scholars",
+      "Synoptic Gospels: literary dependence is standard across most scholarly camps, including many confessional ones",
+      "Textual criticism reconstructs published forms; it does not by itself recover oral or source layers"
+     ],
+     "verdict": "A real limit if 'original' means earliest layer; less so if it means the circulated book",
+     "credence": 74
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does 'matters of substance' mean the main message, laws, and narrative, or every meaning-affecting detail?",
+     "type": "definition",
+     "if_yes": "If it means only the main message and central teachings, the claim is probably true, around 80 percent.",
+     "if_no": "If every meaning-affecting variant or added scene counts, known exceptions falsify 'all,' and credence falls to about 30.",
+     "your_view": "Ordinary language points to what makes the writings what they are, not spelling. Passage-level additions and alternate editions still count. That is why the strict claim probably fails even though the Bible is not substantively rewritten."
+    },
+    {
+     "crux": "Does 'original writings' mean the finished books as first circulated, or the earliest compositional layer?",
+     "type": "definition",
+     "if_yes": "If it means the circulated finished books, preservation is strong for most books, with dual-edition exceptions.",
+     "if_no": "If it means the first author's earliest draft or source, the claim is often unverifiable and sometimes ill-formed.",
+     "your_view": "The honest reading is the finished circulated book. Source criticism should not be smuggled in as evidence of scribal corruption. Dual editions still remain inside that fair reading."
+    },
+    {
+     "crux": "Which text is 'the Bible we have today'?",
+     "type": "definition",
+     "if_yes": "If it means modern translations of the Masoretic Text and a critical Greek New Testament, with uncertain passages marked, the claim is at its strongest.",
+     "if_no": "If it means the King James Version, the Textus Receptus, or a Septuagint-based church Bible, substantive divergences from the earliest recoverable text are larger.",
+     "your_view": "Test the claim on current Hebrew- and Greek-based translations, which is what its defenders usually mean. It still has exceptions. It cannot be true of every ecclesial Bible at once, because those Bibles differ from each other in substantive wording and, for the Old Testament, sometimes in edition."
+    },
+    {
+     "crux": "Could major changes have occurred before every surviving line of transmission branched, leaving no trace?",
+     "type": "evidence",
+     "if_yes": "If the unobserved earliest period rewrote the substance, present agreement would only recover a later recension, and the claim would be unverified.",
+     "if_no": "If early copyists were reasonably careful and independent witnesses converge, we have the substance even without autographs.",
+     "your_view": "Wholesale invisible rewriting is unlikely: Greek manuscripts, versions, and early quotations constrain the New Testament, and Qumran, the Masoretic Text, and the Septuagint constrain the Hebrew Bible. Undetected change in particular passages remains possible, which blocks certainty but does not erase the broad agreement."
+    }
+   ],
+   "strongest_for": [
+    "The New Testament manuscript base, early papyri, versions, and patristic citations are unmatched among ancient books, and they converge on one text for the vast bulk of the wording.",
+    "The Dead Sea Scrolls show that much of the Hebrew Bible, famously Isaiah, already stood close to the medieval Masoretic Text a thousand years earlier.",
+    "Almost all variants are trivial. The meaningful ones are identified by the same evidence, so textual criticism mostly corrects transmission rather than leaving the text opaque.",
+    "Central teachings and narratives do not depend on a single disputed verse. Confessional and secular scholars largely agree on that manuscript fact even when they disagree about inspiration.",
+    "By any standard used for other ancient literature, the biblical books are well preserved. A standard that rejected them would also reject most of what we think we know from antiquity."
+   ],
+   "strongest_against": [
+    "'All' is a universal. Mark 16:9-20 and John 7:53-8:11 are meaningful, still printed, and not original. That is enough to sink a strict reading.",
+    "Jeremiah's Hebrew and Greek forms differ in length and order. That is an edition difference, not a spelling variant, and a Masoretic Bible does not contain the other form.",
+    "Some variants change theology or narrative at the verse level, such as Deuteronomy 32:8 and a handful of christological wordings, even when the wider doctrine survives elsewhere.",
+    "There are no autographs. The claim is an inference from later witnesses, and the earliest New Testament decades are the least visible period.",
+    "There is no single Bible today. Masoretic and Septuagint traditions, and the Textus Receptus versus the critical text, already differ in ways a careful reader would call substantive."
+   ],
+   "weak_arguments": {
+    "for": [
+     "'God would not allow the text to be corrupted' assumes the conclusion. It is theology, not evidence about manuscripts.",
+     "'Thousands of manuscripts prove the text is exact' confuses quantity with quality. Most copies are medieval, and many repeat the same secondary readings.",
+     "'The Masoretes counted every letter, so nothing ever changed' shows medieval care. It does not show that the text had not already been edited or selected centuries earlier.",
+     "'No variant affects any doctrine' is too absolute. Core doctrines are safe; some local claims and proof-texts are not."
+    ],
+    "against": [
+     "'We lack the autographs, so we have no idea what the Bible said' does not follow. Converging copies can recover a text without the author's handwritten copy.",
+     "'There are hundreds of thousands of errors' misuses the variant total. That number counts differences across thousands of copies, mostly spelling and one-off slips, not hundreds of thousands of corruptions in the text you read.",
+     "'Constantine or Nicaea rewrote the Bible' has no manuscript support. Important witnesses and citations predate Nicaea, and the council did not produce a new text.",
+     "'The Bible is a telephone game of translations' is false of scholarly Bibles, which are translated from Hebrew and Greek texts compared across witnesses, not from a chain of translations.",
+     "'The Old Testament was altered to hide Jesus' fails for the passages usually cited: pre-Christian Dead Sea copies already contain texts such as Isaiah 53."
+    ]
+   },
+   "would_change": [
+    "Discovery of first-century New Testament manuscripts, or much earlier Hebrew copies, showing either much wider substantive disagreement or even tighter agreement than current witnesses.",
+    "Clear evidence of an early recension from which all surviving branches descend, plus quotations showing a substantially different text before that recension.",
+    "A settled, published inventory of meaning-changing variants showing they are either negligible across the corpus or far more extensive than the famous examples.",
+    "Strong new evidence that Jeremiah-type edition differences are the norm for most books, or the reverse, that the major Septuagint differences are translation artifacts rather than Hebrew editions.",
+    "An agreed definition of 'substance' and 'original' in the claim. Without that, reasonable people can still land near 30 or near 80 on the same facts."
+   ],
+   "sources": [
+    {
+     "citation": "Emanuel Tov, Textual Criticism of the Hebrew Bible, 1992; 3rd ed. 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bruce M. Metzger and Bart D. Ehrman, The Text of the New Testament: Its Transmission, Corruption, and Restoration, 4th ed. 2005",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, The Orthodox Corruption of Scripture, 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, Misquoting Jesus, 2005",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bruce M. Metzger, A Textual Commentary on the Greek New Testament, 2nd ed. 1994",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Kurt Aland and Barbara Aland, The Text of the New Testament, English ed. 1987",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "David C. Parker, The Living Text of the Gospels, 1997",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Frank Moore Cross and Shemaryahu Talmon, eds., Qumran and the History of the Biblical Text, 1975",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Eugene Ulrich, The Dead Sea Scrolls and the Origins of the Bible, 1999",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "B. F. Westcott and F. J. A. Hort, The New Testament in the Original Greek, 1881",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Novum Testamentum Graece, 28th ed., 2012",
+     "kind": "primary"
+    },
+    {
+     "citation": "Biblia Hebraica Stuttgartensia, and the Dead Sea Scrolls biblical manuscripts, including 1QIsaa",
+     "kind": "primary"
+    },
+    {
+     "citation": "Chicago Statement on Biblical Inerrancy, 1978",
+     "kind": "other"
+    }
+   ],
+   "id": "grok",
+   "label": "Grok 4.7",
+   "model": "grok-4.7",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Largely true for the New Testament's core content, but overstated as a blanket claim, especially for the Hebrew Bible and given the word 'all'",
+   "credence": 60,
+   "confidence": "medium",
+   "bottom_line": "For the New Testament, the manuscript evidence is unusually rich and early, so scholars across the spectrum, from evangelical to skeptical, agree that modern critical texts very likely reproduce the earliest recoverable text closely. Very few variants change doctrine, though a few well-known passages, such as the long ending of Mark and the story of the adulterous woman, were almost certainly not original. The Hebrew Bible is a different case. The Dead Sea Scrolls show remarkable stability for some books, but they also show different editions of others: Jeremiah exists in a version about one-seventh shorter, and parts of Samuel differ substantially. These cases show that what counts as 'the original' is sometimes not a single recoverable text. Whether the claim is true therefore depends heavily on what 'original' and 'matters of substance' mean. If substance means core narratives and doctrines, the claim is well supported (roughly 80%). If it means every passage-level content difference, the claim is false for parts of the Old Testament and uncertain at the margins of the New.",
+   "sub_claims": [
+    {
+     "claim": "Modern critical editions of the Greek New Testament (NA28/UBS5, ECM) closely reproduce the earliest recoverable ('initial') text, with no doctrinally significant uncertainty.",
+     "kind": "textual",
+     "case_for": "There are over 5,000 Greek manuscripts, plus early versions (Latin, Syriac, Coptic) and patristic citations. Papyri from the 2nd and 3rd centuries (P45, P46, P66, P75) substantially match the 4th-century codices Vaticanus and Sinaiticus; for example, P75 and Vaticanus agree closely in Luke and John, which shows careful copying lines. Because the text was copied widely and in many places early, any change spread unevenly and left traces (the 'tenacity' of the tradition). This makes it very likely that the initial reading survives somewhere among the variants. Most of the estimated several hundred thousand variants are spelling, word order, or obvious slips. Even Bart Ehrman has conceded that essential Christian beliefs are not jeopardized by the variants.",
+     "case_against": "Most of the text is not attested until 150 to 250 years after composition, and the earliest period (the 2nd century) is the least documented. Early sources suggest copying was then at its freest (Colwell, Aland, Parker). Some variants clearly were theologically motivated (Ehrman's 'orthodox corruption'), and we cannot audit the changes made before our earliest witnesses. A minority of scholars (Parker, Epp) argue that a single 'original text' is a problematic concept for living, oral-adjacent traditions like the Gospels. Even the ECM now prints a few conjectures and marks some places as genuinely uncertain.",
+     "consensus": "Broad consensus, including confessional scholars (Wallace, Holmes, Hurtado, Gurry) and critical ones (Metzger, Aland, Ehrman in his technical work), that the initial text is recovered with high confidence in the overwhelming majority of places. Disagreement centres on how far the 'initial text' can be equated with the authorial text, and how significant the residual uncertainties are.",
+     "evidence": [
+      "P52 (John 18) usually dated to the 2nd century, though its date range is debated",
+      "P75/Vaticanus close agreement in Luke-John",
+      "Mark 16:9-20 and John 7:53-8:11 absent from the earliest Greek witnesses",
+      "Comma Johanneum (1 John 5:7-8) absent from Greek manuscripts before the late medieval period",
+      "Variants such as Hebrews 2:9 ('by the grace of God' vs 'apart from God') and Luke 22:43-44 carry real interpretive weight"
+     ],
+     "verdict": "Very likely true for substance, with a handful of known passages flagged",
+     "credence": 85
+    },
+    {
+     "claim": "The Hebrew Bible text we have (essentially the Masoretic Text behind most translations) faithfully preserves the original writings in substance.",
+     "kind": "textual",
+     "case_for": "The Dead Sea Scrolls (c. 250 BCE–70 CE) include proto-Masoretic manuscripts nearly identical to medieval codices; the Great Isaiah Scroll, about 1,000 years older than the Aleppo and Leningrad codices, matches the Masoretic Isaiah closely in content. Masoretic scribal practice was extremely conservative. For many books, such as the Torah and Isaiah, the textual variants are minor in substance.",
+     "case_against": "The scrolls and the Septuagint show that some books circulated in substantially different editions. LXX Jeremiah is roughly one-seventh shorter than the MT and arranges the material differently, and 4QJer-b supports the shorter Hebrew form. LXX and 4QSam-a for 1 Samuel 17–18 lack large portions of the MT's David-and-Goliath account and give Goliath a different height. 4QSam-a contains a Nahash paragraph before 1 Samuel 11 that is missing from the MT. The MT of Samuel has evident corruptions, such as 1 Sam 13:1, where Saul's age is missing a number. Deut 32:8 reads 'sons of Israel' in the MT, but 'sons of God' in 4QDeut-j and is supported by the LXX, a theologically substantive difference. Daniel and Esther have major Greek additions. Some places in the Hebrew Bible need conjectural emendation, where no surviving witness gives the earlier reading.",
+     "consensus": "Specialists (Tov, Ulrich, and confessional scholars such as Waltke and Wegner) agree that the MT is a carefully preserved text-form of high quality, and that the period after about the 1st century CE shows extraordinary stability. They also agree that, before stabilization, there was textual pluriformity, including variant literary editions. They disagree about whether those editions are 'transmission' or 'composition'.",
+     "evidence": [
+      "1QIsa-a vs Masoretic Isaiah",
+      "LXX Jeremiah and 4QJer-b",
+      "4QSam-a and LXX Samuel",
+      "Deut 32:8 in 4QDeut-j and LXX",
+      "Greek additions to Esther and Daniel"
+     ],
+     "verdict": "True for many books in substance; false or ill-defined for several others",
+     "credence": 50
+    },
+    {
+     "claim": "There is a single determinate 'original writing' for each biblical book against which preservation can be measured.",
+     "kind": "philosophical",
+     "case_for": "Letters such as Paul's had a definite authored autograph, and the Gospels and most New Testament books plausibly had a definite initial published form. For these, the question is well posed.",
+     "case_against": "Most Hebrew Bible books, and possibly some New Testament texts (John 21, 2 Corinthians as a composite), grew through editorial stages. Variant editions may be successive 'originals' rather than corruptions. New Testament critics have consequently moved from 'original text' toward 'initial text' (the ECM/CBGM, and Holmes, Epp). Whether the claim is meaningful varies by book.",
+     "consensus": "Growing consensus that 'original' must be specified. Confessional scholars often identify the original with the final canonical form, while critical scholars stress the multiplicity of literary stages.",
+     "evidence": [
+      "Epp's 'multivalence of original text' argument",
+      "ECM's adoption of 'initial text'",
+      "Documentary and redactional evidence in the Pentateuch and Jeremiah"
+     ],
+     "verdict": "Partly true; well defined for most of the New Testament, often ill defined for the Hebrew Bible",
+     "credence": 55
+    },
+    {
+     "claim": "No core Christian or Jewish doctrine depends on a textually doubtful passage.",
+     "kind": "textual",
+     "case_for": "Doctrines such as the Trinity, the resurrection, and the deity of Christ are attested across many passages that are textually secure. The Comma Johanneum is spurious, but it is not needed for Trinitarian doctrine. Ehrman and Metzger appear to agree on this point at the level of 'essential beliefs'.",
+     "case_against": "Variants affect individual texts' support for doctrines, such as John 1:18 ('only God' vs 'only Son'), 1 Tim 3:16, and Mark 16's snake-handling and 'belief and baptism' verses. They also affect how individual authors portray Jesus, such as his emotion or anguish in Luke 22:43-44 and Mark 1:41's 'anger' versus 'compassion'. 'Substance' can reasonably include an author's portrait, not just system-level doctrine.",
+     "consensus": "Near consensus that system-level doctrines are unaffected. There is real debate about the significance of variants for individual authors' theology and narrative.",
+     "evidence": [
+      "John 1:18, 1 Tim 3:16, Mark 1:41, Luke 22:43-44",
+      "Ehrman's statements in the Q&A appended to the paperback edition of Misquoting Jesus"
+     ],
+     "verdict": "True at the level of system-wide doctrine; less clear at the level of individual passages",
+     "credence": 85
+    },
+    {
+     "claim": "The Bibles ordinary readers actually use reflect this textual knowledge.",
+     "kind": "empirical",
+     "case_for": "Major modern translations (NRSV(ue), ESV, NIV, NASB, CSB) are based on critical texts and footnote or bracket the major doubtful passages. They increasingly adopt Dead Sea Scroll readings, for example the Nahash paragraph in NRSV and Deut 32:8 in ESV and NRSV.",
+     "case_against": "Many readers still use the KJV/Textus Receptus tradition, which includes the Comma and other late readings. Translations mostly follow the MT edition of Jeremiah and Samuel without signalling that other editions exist. Lay readers often ignore footnotes.",
+     "consensus": "Not really contested; this is a matter of fact about translation practice.",
+     "evidence": [
+      "NRSV inclusion of 4QSam-a paragraph at 1 Sam 10:27/11:1",
+      "Brackets around Mark 16:9-20 and John 7:53-8:11 in modern translations"
+     ],
+     "verdict": "Mostly true for modern critical translations",
+     "credence": 75
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does 'matters of substance' mean core doctrines and main narratives, or every passage-level content difference?",
+     "type": "definition",
+     "if_yes": "If it means core doctrine and narrative, the claim is well supported: about 80–85%.",
+     "if_no": "If passage-level content counts, the claim fails for parts of the Hebrew Bible (Jeremiah, Samuel, Deut 32:8) and has residual New Testament uncertainty: about 25–35%.",
+     "your_view": "The plain-language meaning sits between these. 'All matters of substance' is a strong universal, so the documented edition-level differences in the Hebrew Bible count against it. I score the intermediate reading."
+    },
+    {
+     "crux": "Are variant literary editions (such as Jeremiah MT vs LXX) failures of preservation, or evidence of composition before any 'original' was fixed?",
+     "type": "definition",
+     "if_yes": "If they are failures of preservation, the Hebrew Bible clearly fails the 'faithful preservation' test for some books.",
+     "if_no": "If they reflect composition, the MT may faithfully preserve one legitimate final form, and the claim is rescued for the Hebrew Bible, at the cost of making 'original' plural.",
+     "your_view": "Both are partly right. Some differences are editorial growth, while others (such as Samuel's corruptions) are transmission errors. Either way, the plain claim is weakened."
+    },
+    {
+     "crux": "How much changed in the poorly attested 2nd-century period of the New Testament text?",
+     "type": "evidence",
+     "if_yes": "If substantial changes are hidden there, confidence in the New Testament falls considerably.",
+     "if_no": "If few changes occurred, the New Testament claim is near-certain in substance.",
+     "your_view": "The agreement of early papyri with later codices, the wide geographic spread of the text, and patristic citations make large undetected substantive changes unlikely, though they cannot be excluded."
+    },
+    {
+     "crux": "Does 'the Bible we have today' include the full manuscript record and apparatus, or only the printed text of popular translations?",
+     "type": "definition",
+     "if_yes": "If it includes the full record, the original reading is almost always present somewhere for the New Testament, and preservation is stronger.",
+     "if_no": "If only the printed text counts, the printed text sometimes follows readings that are probably secondary, and the score is lower.",
+     "your_view": "Reading it as modern critical editions and translations based on them seems fairest."
+    }
+   ],
+   "strongest_for": [
+    "The New Testament has an unparalleled number of manuscripts, many of them early, with 2nd- to 3rd-century papyri closely matching 4th-century codices.",
+    "The Great Isaiah Scroll and proto-Masoretic scrolls show a millennium of extremely stable Hebrew copying for much of the text.",
+    "Scholars across confessional lines, including skeptics such as Ehrman, accept that core doctrines and main narratives are not affected by textual variants.",
+    "Known interpolations (Mark 16:9-20, John 7:53-8:11, the Comma) were identified by textual criticism and are flagged in modern Bibles, which shows the corrective process works.",
+    "Because New Testament copying was multi-regional, deliberate changes could not be imposed uniformly and remain detectable."
+   ],
+   "strongest_against": [
+    "Different literary editions of Jeremiah and Samuel, and Greek additions to Esther and Daniel, show substantive textual fluidity in the Hebrew Bible before stabilization.",
+    "Some Hebrew Bible readings with real theological weight, such as Deut 32:8, differ between witnesses, and the MT has places that need conjectural emendation.",
+    "For most books, the earliest decades or centuries of transmission are unattested, so changes before our earliest witnesses cannot be ruled out.",
+    "Theologically motivated scribal changes demonstrably occurred (Ehrman, The Orthodox Corruption of Scripture).",
+    "The concept of 'the original' is itself unstable for compositionally layered texts, which makes the claim partly ill posed."
+   ],
+   "weak_arguments": {
+    "for": [
+     "'The New Testament has more manuscripts than any ancient work, so it is perfectly preserved.' The quantity of manuscripts matters less than their earliness and quality, and most manuscripts are medieval.",
+     "'The Dead Sea Scrolls prove the Old Testament is unchanged.' They prove this only for some books; for others they reveal variant editions.",
+     "'God would not allow his word to be corrupted.' This is a theological premise, not historical evidence.",
+     "'We could reconstruct the New Testament from the Church Fathers' quotations alone.' This claim is often attributed to Metzger, but it is overstated and has been criticized by textual critics, including evangelical ones (see Gurry & Hixson)."
+    ],
+    "against": [
+     "'There are 400,000 variants, more than words in the New Testament, so the text is hopelessly corrupt.' Variant counts scale with the number of manuscripts, and the overwhelming majority are trivial.",
+     "'The Bible is a translation of a translation of a translation.' Modern translations work directly from Hebrew, Aramaic, and Greek critical texts.",
+     "'Constantine or the Council of Nicaea rewrote the Bible.' There is no evidence for this, and pre-Nicene papyri match later texts.",
+     "'The telephone game' analogy. Copying was written, multi-line, and cross-checkable, not a single oral chain."
+    ]
+   },
+   "would_change": [
+    "Discovery of 1st- or early 2nd-century New Testament manuscripts showing substantially different content would lower my credence sharply; close agreement would raise it.",
+    "New pre-Masoretic Hebrew evidence showing whether variant editions are earlier or later stages would clarify the 'original' question.",
+    "A demonstration that the shorter Jeremiah or Samuel texts are the authorial form, with the MT expansions being late, would lower the Hebrew Bible score.",
+    "A rigorous CBGM-style quantification of how many New Testament places remain genuinely uncertain and are content-bearing would refine the New Testament score."
+   ],
+   "sources": [
+    {
+     "citation": "Bruce M. Metzger and Bart D. Ehrman, The Text of the New Testament: Its Transmission, Corruption, and Restoration, 4th ed., 2005",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Kurt Aland and Barbara Aland, The Text of the New Testament, 1987 (English ed.)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, The Orthodox Corruption of Scripture, 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, Misquoting Jesus, 2005",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Daniel B. Wallace (ed.), Revisiting the Corruption of the New Testament, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "D. C. Parker, The Living Text of the Gospels, 1997",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Eldon Jay Epp, 'The Multivalence of the Term \"Original Text\" in New Testament Textual Criticism', Harvard Theological Review, 1999",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman and Michael W. Holmes (eds.), The Text of the New Testament in Contemporary Research, 2nd ed., 2013",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Elijah Hixson and Peter J. Gurry (eds.), Myths and Mistakes in New Testament Textual Criticism, 2019",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Emanuel Tov, Textual Criticism of the Hebrew Bible, 3rd ed., 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Eugene Ulrich, The Dead Sea Scrolls and the Origins of the Bible, 1999",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Larry W. Hurtado, The Earliest Christian Artifacts, 2006",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Great Isaiah Scroll (1QIsa-a); 4QSam-a; 4QJer-b; 4QDeut-j",
+     "kind": "primary"
+    },
+    {
+     "citation": "Nestle-Aland, Novum Testamentum Graece, 28th ed., 2012",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Biblia Hebraica Stuttgartensia",
+     "kind": "scripture"
+    }
+   ],
+   "id": "opus",
+   "label": "Opus 5.5",
+   "model": "claude-opus-5-5",
+   "via": "claude"
+  }
+ ],
+ "stats": {
+  "mean": 45.0,
+  "median": 48.0,
+  "min": 10,
+  "max": 74,
+  "spread": 64
+ },
+ "synthesis": {
+  "summary": "All four reviews find substantial preservation of biblical texts, but none endorses an unqualified guarantee of every substantive detail. They agree that manuscript comparison supports broad continuity while also revealing meaningful differences and later additions. Their overall credences range from 10% to 74%, partly because they interpret the claim differently. GPT-6.1 and Grok assess a strict universal reading as probably false; Gemini favors preservation of overarching themes and early literary forms, while Opus scores an intermediate reading. All four consider the definition of “substance” decisive, and all recognize limits in identifying or recovering an original text.",
+  "agreement": "moderate",
+  "agreed": [
+   "The biblical books’ principal narratives and teachings have been substantially preserved, and comparison of manuscripts helps identify differences.",
+   "Most New Testament manuscript variants are minor, though some affect meaningful passages or interpretation.",
+   "Mark 16:9–20 and John 7:53–8:11 are widely judged later additions; modern translations often flag them.",
+   "The Dead Sea Scrolls show substantial continuity with later Hebrew texts, but also different ancient textual forms, including forms of Jeremiah.",
+   "Major religious teachings have support beyond individual disputed passages, although variants can matter to particular arguments or narratives.",
+   "Original manuscripts are unavailable, and gaps in the earliest evidence limit certainty about every reading."
+  ],
+  "disagreed": [
+   {
+    "point": "Overall verdict and confidence",
+    "positions": "GPT-6.1 gives 10% to a strict reading that counts substantive additions even when marked; Grok gives 36% to a similarly strict reading. Opus gives 60% to an intermediate reading while warning that “all” overstates preservation. Gemini gives 74%, emphasizing early literary forms and overarching themes, while rejecting a guarantee covering every substantive passage. These scores are not assessments of precisely the same proposition."
+   },
+   {
+    "point": "How precisely New Testament recovery can be quantified",
+    "positions": "Gemini estimates roughly 95–98% certainty in reconstructing the initial text and says over 99% of variants are inconsequential. The other reviews emphasize broad recovery and mostly minor variants without adopting those precise figures; they stress uncertainty about some consequential readings and the earliest copying period."
+   },
+   {
+    "point": "What counts as the original writing",
+    "positions": "Gemini emphasizes the earliest circulating literary archetype and says the claim fails if extended to pre-redaction sources. Grok prefers the finished circulated book and cautions against treating source criticism as scribal corruption. Opus stresses that multiple editorial stages can make a single original ill-defined, especially in the Hebrew Bible; GPT-6.1 likewise notes complex composition and unresolved original forms."
+   },
+   {
+    "point": "How much weight to give printed but flagged additions",
+    "positions": "GPT-6.1 counts them against its strict main-text reading despite the warnings. Grok also counts the passages as substantive exceptions, while acknowledging the force of the notes. Gemini and Opus place more emphasis on critical editions identifying or flagging such material, though both acknowledge the additions as qualifications."
+   }
+  ],
+  "deciding_cruxes": [
+   "Whether “all matters of substance” means central doctrines and overarching narratives or also individual meaningful passages and wording.",
+   "Whether the target is a finished circulating book, an earlier authorial draft or source, or one of several ancient literary editions.",
+   "Which present-day Bible or textual edition is being assessed, and whether marked passages and textual notes count.",
+   "How much confidence to place in surviving witnesses despite missing originals and poorly documented early transmission.",
+   "Whether theological commitments about divine preservation influence the assessment beyond historical manuscript evidence."
+  ],
+  "what_is_settled": "The reviews treat broad textual continuity, numerous manuscript variants, substantial ancient textual diversity in some books, and the generally accepted secondary status of the longer ending of Mark and the woman’s story in John as well established. They also agree that these facts do not make the entire text hopelessly unrecoverable.",
+  "what_is_open": "The earliest authorial reading of some passages, the relationship between competing literary editions and an “original,” and the extent of changes before surviving witnesses remain uncertain. The claim’s truth also depends on the definitions of substance, original and today’s Bible, as well as on any theological prior commitments.",
+  "model": "gpt-6.1-terra"
+ }
+}

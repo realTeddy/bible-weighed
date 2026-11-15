@@ -1,0 +1,814 @@
+{
+ "topic": {
+  "id": 17,
+  "category": "Morality",
+  "short": "Moral Argument",
+  "resolution": "Objective morality requires God",
+  "question": "Does objective morality require God?",
+  "claim": "Objective moral values and duties exist and require God; they are better explained by God than by any alternative."
+ },
+ "analyses": [
+  {
+   "kind": "philosophical",
+   "verdict": "Probably not: objective morality need not require God",
+   "credence": 15,
+   "confidence": "low",
+   "bottom_line": "I interpret the claim as saying that stance-independent moral truths and duties exist, depend metaphysically on a personal God, and are better explained by God than by the strongest alternatives. Moral realism is plausible, but secular realist accounts offer serious alternatives, so its truth would not by itself establish God. Theistic accounts can connect moral obligation, value, and the nature of reality, but they face questions about whether divine goodness explains morality or presupposes it. My 15% estimate concerns the whole conjunction, not merely whether God exists or whether morality is objective; reasonable prior assumptions can move it substantially. If the claim means only that God and objective morality are compatible, it is much more plausible.",
+   "sub_claims": [
+    {
+     "claim": "There are objective moral values and duties, true independently of anyone's opinions or approvals.",
+     "kind": "philosophical",
+     "case_for": "Some moral judgments, such as the wrongness of torturing a child for amusement, seem to report truths rather than preferences; moral disagreement and criticism can appear to presuppose standards independent of prevailing attitudes.",
+     "case_against": "Moral judgments might instead express attitudes, reflect social practices, or systematically make false claims. Evolution and cultural learning could explain strong moral intuitions without guaranteeing that they track independent moral truths.",
+     "consensus": "No consensus. Moral realism received more support than anti-realism in a prominent survey of professional philosophers, but that is not proof; religious and nonreligious philosophers defend both realist and competing views.",
+     "evidence": [
+      "Bourget and Chalmers' 2009 PhilPapers survey asked philosophers about moral realism and anti-realism.",
+      "Mackie defended moral error theory; Parfit defended nonreligious moral realism.",
+      "Cross-cultural moral disagreement and agreement both require interpretation: neither alone settles moral realism."
+     ],
+     "verdict": "More likely than not, but disputed",
+     "credence": 65
+    },
+    {
+     "claim": "Serious secular accounts can ground objective moral values and duties.",
+     "kind": "philosophical",
+     "case_for": "Naturalists identify moral facts with facts about flourishing, suffering, or social relations; non-naturalists treat normative truths as irreducible. Neither approach obviously contains a contradiction or requires a divine lawgiver.",
+     "case_against": "Naturalists must explain why their chosen natural properties genuinely entail what ought to be done; non-naturalists face questions about what irreducible normative facts are and how we know them.",
+     "consensus": "No consensus. Many secular philosophers defend these approaches, while religious philosophers and some secular critics question their explanatory adequacy.",
+     "evidence": [
+      "Parfit and Scanlon defend versions of irreducible normative realism.",
+      "Evolutionary debunking arguments challenge some accounts of how moral beliefs track independent truths.",
+      "An account's philosophical defensibility does not establish that it is ultimately correct."
+     ],
+     "verdict": "Likely, though no account is uncontroversial",
+     "credence": 75
+    },
+    {
+     "claim": "A personal God exists.",
+     "kind": "philosophical",
+     "case_for": "Arguments from contingency, the apparent intelligibility of the universe, religious experience, and moral reality may jointly favor an ultimate personal source, especially under theistic prior assumptions.",
+     "case_against": "Divine hiddenness, apparently gratuitous suffering, and the availability of non-theistic explanations weigh against theism; its probability also depends on contested priors.",
+     "consensus": "No consensus. Many professional philosophers are atheists, while substantial religious philosophical traditions defend theism; survey results reflect the population and intellectual setting surveyed, not a neutral measurement of metaphysical truth.",
+     "evidence": [
+      "The 2009 PhilPapers survey found substantially more atheist than theist responses among its target philosophers.",
+      "Religious experience and the distribution of suffering are shared evidence whose interpretation is disputed.",
+      "No empirical observation straightforwardly isolates the existence of a transcendent God from all competing hypotheses."
+     ],
+     "verdict": "Possible, but less likely than not on my assessment",
+     "credence": 30
+    },
+    {
+     "claim": "If objective moral values and duties exist, they metaphysically require God.",
+     "kind": "philosophical",
+     "case_for": "A necessary, perfectly good God could ground value in divine nature and obligations in the commands of a loving, authoritative creator, unifying moral facts with the ultimate structure of reality.",
+     "case_against": "Moral facts might instead be natural or irreducible normative facts. If God's nature is called good because it meets an independent standard, that standard seems prior; if good just means God's nature, the account must explain why that nature deserves the name and authority.",
+     "consensus": "No consensus. Divine-nature and divine-command theorists, including religious scholars such as Adams and Quinn, offer sophisticated defenses; many secular philosophers and some religious philosophers reject or qualify such dependence.",
+     "evidence": [
+      "Plato's Euthyphro presents the classic question about the relation between piety and divine approval.",
+      "Adams grounds goodness in a loving God and develops a divine-command account of obligation.",
+      "The conditional claim is stronger than the claim that God could ground morality."
+     ],
+     "verdict": "Probably not",
+     "credence": 30
+    },
+    {
+     "claim": "Given objective morality, God explains it better overall than every available alternative.",
+     "kind": "philosophical",
+     "case_for": "Theism can explain why reality contains both moral value and authoritative obligations, connect moral knowledge with human nature, and offer a unified account rather than treating normativity as brute.",
+     "case_against": "Theistic explanation introduces a substantial further metaphysical commitment and must explain God's own goodness and moral authority. Secular accounts may be less unified but more parsimonious; declaring moral facts brute is not automatically worse than stopping with a divine nature.",
+     "consensus": "No consensus. Theistic moral philosophers often favor divine grounding; many secular realists prefer naturalist or non-naturalist alternatives. Judgments depend on disputed standards of explanation and prior commitments.",
+     "evidence": [
+      "Adams and Baggett and Walls develop theistic moral explanations.",
+      "Parfit and Scanlon develop non-theistic accounts of normative reality.",
+      "Explanatory unification, simplicity, and independent support for theism can point in different directions."
+     ],
+     "verdict": "Possible, but probably not",
+     "credence": 35
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Are irreducible normative truths or natural moral facts acceptable ultimate explanations?",
+     "type": "prior",
+     "if_yes": "Secular realism remains a live alternative, weakening the claim that morality requires God.",
+     "if_no": "A divine ground becomes more attractive, provided it avoids the same explanatory difficulty.",
+     "your_view": "I consider such facts philosophically admissible, though each account has unresolved problems."
+    },
+    {
+     "crux": "Does grounding goodness in God's nature explain moral value and authority without presupposing an independent standard?",
+     "type": "definition",
+     "if_yes": "A central objection to sophisticated theistic ethics weakens.",
+     "if_no": "Divine nature does not establish that objective morality requires God.",
+     "your_view": "The divine-nature response is serious, but I am not convinced it fully resolves the explanatory question."
+    },
+    {
+     "crux": "How likely is a personal God on grounds independent of the moral argument?",
+     "type": "prior",
+     "if_yes": "A high independent prior makes divine moral grounding more plausible overall.",
+     "if_no": "A low independent prior makes introducing God less attractive as a moral explanation.",
+     "your_view": "I assign theism a substantial but minority probability; reasonable people differ sharply."
+    },
+    {
+     "crux": "Do moral experience and the wider pattern of suffering and religious experience favor theism over secular alternatives?",
+     "type": "evidence",
+     "if_yes": "The explanatory case for divine grounding strengthens.",
+     "if_no": "The case for adding God to an account of morality weakens.",
+     "your_view": "These observations are real but underdetermine their explanation; the extent and distribution of suffering weigh against theism in my assessment."
+    }
+   ],
+   "strongest_for": [
+    "A necessary, perfectly good personal source could unify moral value, obligation, and the foundations of reality.",
+    "Divine commands from a loving creator may explain the authority and interpersonal character of moral duties.",
+    "Secular realism faces difficult questions about the nature, authority, and knowability of moral facts.",
+    "Moral experience may fit naturally within a broader theistic worldview, especially when supported by independent arguments for God."
+   ],
+   "strongest_against": [
+    "Plausible secular moral realisms provide alternatives, so moral objectivity does not obviously entail God.",
+    "Divine-nature theories must explain why God's nature is genuinely good rather than merely labeling it good.",
+    "Adding a deity does not automatically improve an explanation if divine goodness or authority is itself a stopping point.",
+    "The claim requires both objective morality and God, plus a dependence and explanatory ranking that remain independently contested."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Atheists cannot be moral: moral behavior and belief do not establish the metaphysical ground of morality.",
+     "Every law needs a lawgiver: moral laws may not be commands, and the analogy with legislation assumes what is at issue.",
+     "Moral disagreement proves God is needed: disagreement can occur even where objective truths exist, and God would not by itself explain how to resolve it."
+    ],
+    "against": [
+     "Religious people sometimes act badly, so God cannot ground morality: behavior does not determine the metaphysical ground of moral truth.",
+     "Science has explained morality away: explaining how moral beliefs arise does not by itself establish whether they are true.",
+     "The Euthyphro dilemma instantly refutes all divine ethics: sophisticated accounts identify goodness with God's nature rather than treating commands as arbitrary."
+    ]
+   },
+   "would_change": [
+    "A convincing demonstration that no secular account can ground normative authority, coupled with a divine account that does so without circularity, would raise my credence.",
+    "A compelling secular account explaining moral truth, obligation, and reliable moral knowledge with fewer unresolved assumptions would lower it.",
+    "Strong independent evidence for or against a personal God would substantially move my assessment of the whole conjunction.",
+    "A persuasive argument that objective moral truths or duties do not exist would sharply lower the probability of the claim as stated."
+   ],
+   "sources": [
+    {
+     "citation": "Plato, Euthyphro, fourth century BCE",
+     "kind": "primary"
+    },
+    {
+     "citation": "Robert Merrihew Adams, Finite and Infinite Goods, 1999",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Philip L. Quinn, Divine Commands and Moral Requirements, 1978",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "David Baggett and Jerry L. Walls, Good God: The Theistic Foundations of Morality, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Derek Parfit, On What Matters, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "T. M. Scanlon, Being Realistic about Reasons, 2014",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "J. L. Mackie, Ethics: Inventing Right and Wrong, 1977",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Sharon Street, A Darwinian Dilemma for Realist Theories of Value, 2006",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "David Bourget and David J. Chalmers, What Do Philosophers Believe?, 2014",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "gpt",
+   "label": "GPT-6.1",
+   "model": "gpt-6.1-terra",
+   "via": "copilot"
+  },
+  {
+   "kind": "philosophical",
+   "verdict": "Very unlikely; objective morality does not require God, and theistic groundings face intractable dilemmas.",
+   "credence": 18,
+   "confidence": "medium",
+   "bottom_line": "While a majority of contemporary professional philosophers accept that objective moral truths exist, only a small minority hold that they require God. Grounding morality in God faces severe internal dilemmas, notably the Euthyphro dilemma and the problem of prior obligation: any command from God presupposes an antecedent, uncommanded duty to obey legitimate authority. Furthermore, foundational moral truths appear to be metaphysically necessary truths (like those of logic and mathematics), existing across all possible worlds without requiring an ontological author. Secular metaethical frameworks—such as non-naturalist normative realism and ethical naturalism—provide robust, parsimonious accounts of objective morality without invoking divine ontology.",
+   "sub_claims": [
+    {
+     "claim": "Objective moral values and duties exist (Moral Realism).",
+     "kind": "philosophical",
+     "case_for": "The universal phenomenological experience of moral deliberation, the companions-in-guilt analogy with epistemic norms, and the intolerable counter-intuitiveness of moral error theory (e.g., claiming torturing infants for fun is not objectively wrong).",
+     "case_against": "Pervasive, intractable cross-cultural moral disagreement, evolutionary debunking arguments showing moral beliefs were selected for fitness rather than truth, and the metaphysical 'queerness' of intrinsically prescriptive facts.",
+     "consensus": "Broad consensus support: approximately 62% of professional philosophers accept or lean toward moral realism (2020 PhilPapers Survey).",
+     "evidence": [
+      "PhilPapers Survey (2020) showing 62.1% realism vs 26.1% anti-realism",
+      "Metaethical literature on companions-in-guilt arguments (Cuneo 2007)"
+     ],
+     "verdict": "Likely true",
+     "credence": 65
+    },
+    {
+     "claim": "Secular metaethics cannot adequately account for categorical moral obligation or the 'ought'.",
+     "kind": "philosophical",
+     "case_for": "The is-ought gap (Hume's Guillotine) and Moore's Open Question Argument demonstrate that natural descriptive facts cannot generate normative force; non-naturalist Platonic values lack personal authority and causal power to bind a human will.",
+     "case_against": "Categorical reasons for action do not require an external commander; stance-independent normative truths hold necessarily, just as epistemic duties (the obligation to proportion belief to evidence) bind agents without an epistemic lawmaker.",
+     "consensus": "Strongly rejected by secular metaethicists; maintained primarily by theistic philosophers of religion and moral error theorists.",
+     "evidence": [
+      "Derek Parfit's defense of non-realist cognitivism and non-naturalism in On What Matters (2011)",
+      "David Enoch's Taking Morality Seriously (2011)"
+     ],
+     "verdict": "Unlikely",
+     "credence": 25
+    },
+    {
+     "claim": "Theistic metaethics (e.g., Divine Command Theory or Divine Nature Realism) successfully grounds morality without arbitrariness or circularity.",
+     "kind": "philosophical",
+     "case_for": "Anchoring the Good in the essential, loving character of God avoids voluntarism, while God's legitimate personal authority provides a coherent ground for interpersonal duties and cosmic accountability.",
+     "case_against": "The Euthyphro dilemma persists: if God's nature defines goodness, asserting 'God is good' is an empty tautology ('God possesses God-like properties'); moreover, any duty to obey God's commands relies on an antecedent moral obligation to obey God that God cannot command into existence.",
+     "consensus": "No consensus across philosophy as a whole; favored within confessional philosophy of religion, but widely regarded as circular or uninformative in general metaethics.",
+     "evidence": [
+      "Plato's Euthyphro",
+      "Robert Adams' Modified Divine Command Theory in Finite and Infinite Goods (1999)",
+      "Wes Morriston's critiques of theistic ethics (2001, 2009)"
+     ],
+     "verdict": "Unlikely",
+     "credence": 25
+    },
+    {
+     "claim": "Fundamental moral truths are metaphysically necessary, precluding the need for a causal or intentional creator.",
+     "kind": "philosophical",
+     "case_for": "Core moral truths (e.g., 'gratuitous agony is intrinsically bad') hold in all possible worlds, exactly like 2+2=4; necessary truths neither require nor can have a contingent or personal creator.",
+     "case_against": "Even if abstract moral relations are necessary, the instantiation of moral obligations among contingent physical creatures requires an intentional teleological architecture or divine lawmaker.",
+     "consensus": "Accepted by a wide spectrum of metaethicists, including secular non-naturalists, rationalist intuitionists, and several prominent theistic philosophers (e.g., Richard Swinburne, Ralph Cudworth).",
+     "evidence": [
+      "Richard Swinburne's The Coherence of Theism (arguing fundamental moral principles are necessary and independent of God's will)",
+      "G.E. Moore's Principia Ethica (1903)"
+     ],
+     "verdict": "Very likely true",
+     "credence": 80
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does categorical moral obligation require an authoritative personal commander?",
+     "type": "definition",
+     "if_yes": "Theistic metaethics becomes almost mandatory, as only a supreme personal will can generate interpersonal moral duties.",
+     "if_no": "Secular realism stands on equal or superior footing, viewing obligations as intrinsic normative reasons for action that supervene on facts about sentient beings.",
+     "your_view": "No. Epistemic obligations (e.g., you ought not believe contradictions) bind rational creatures without requiring an epistemic commander; moral obligations function analogously."
+    },
+    {
+     "crux": "Can theistic ethics solve the prior-obligation problem without vicious circularity?",
+     "type": "prior",
+     "if_yes": "God can be the complete, ultimate source of both moral goodness and moral duty.",
+     "if_no": "Theism presupposes an external, prior moral principle ('one ought to obey a benevolent God'), proving that God cannot be the foundational ground of all moral obligation.",
+     "your_view": "No. A command only generates a moral obligation if the commander already possesses legitimate authority and the subject already has a moral reason to obey; this foundational norm cannot be commanded into existence."
+    },
+    {
+     "crux": "Are fundamental moral truths necessary truths or contingent creations?",
+     "type": "prior",
+     "if_yes": "If necessary, moral truths exist in all possible worlds independently of divine agency, negating the claim that objective morality requires God.",
+     "if_no": "If contingent, morality is subject to divine voluntarism or creative decree, but becomes vulnerable to radical arbitrariness.",
+     "your_view": "Fundamental moral truths are metaphysically necessary. Gratuitous torture cannot be morally good in any logically coherent world."
+    }
+   ],
+   "strongest_for": [
+    "Accounting for the unique phenomenological and prescriptivist authority of duty: Personal obligations are most intuitively understood as debts owed to persons, making a supreme personal lawgiver an intuitive model for universal duty.",
+    "Unifying cosmic purpose and ethics: Theism naturally explains why rational creatures find themselves in an environment where moral flourishing aligns with reality's metaphysical bedrock, rather than leaving this as a cosmic accident.",
+    "Solving the evolutionary tracking problem: If human cognitive faculties were selected purely for adaptive fitness rather than normative truth, theism provides a mechanism (providential design) explaining why our moral faculties track stance-independent moral truth.",
+    "Moral motivation and the Kantian ideal: Theism provides an ultimate reconciliation of virtue and happiness (cosmic justice), resolving the rational tension between self-sacrifice and self-interest."
+   ],
+   "strongest_against": [
+    "The Euthyphro Dilemma: Grounding goodness in God's nature or commands renders 'God is good' either an empty tautology or an admission that God conforms to an external standard of goodness.",
+    "The Prior Obligation Problem: Any obligation to obey God's commands logically requires an uncommanded, antecedent moral duty to obey legitimate authorities, making a complete divine foundation circular.",
+    "Metaphysical Necessity of Moral Axioms: Basic moral propositions (e.g., 'suffering is bad') are necessary truths that hold across all possible worlds, requiring an author no more than mathematical truths do.",
+    "Explanatory Viability of Secular Realism: Non-naturalist normative realism (Parfit, Enoch) and Cornell naturalism successfully articulate objective, mind-independent moral facts without ontological bloat.",
+    "Epistemic Independence: Moral knowledge is discovered, refined, and justified through moral reflection, coherence, and empathy across cultures without any operational need for theistic concepts."
+   ],
+   "weak_arguments": {
+    "for": [
+     "The Dostoevsky Fallacy ('Without God, everything is permitted'): Conflates psychological/sociological motivation with metaphysical grounding; atheists demonstrably have empathy, form social contracts, and uphold moral convictions.",
+     "Conflating Moral Epistemology with Moral Ontology: Accusing atheists of being unable to know the good without belief in God, when the philosophical moral argument concerns the ontological ground of moral facts, not how we know them.",
+     "Dismissing secular morality as merely 'herd instinct': Strawmans sophisticated metaethical frameworks (e.g., Kantian constructivism, non-naturalism) by equating them with reductive sociobiology."
+    ],
+    "against": [
+     "Appeals to Religious Hypocrisy or Atrocities: Citing atrocities committed in the name of religion attacks the moral track record of believers rather than the metaethical claim that God is the metaphysical ground of objective value.",
+     "Naive Euthyphro dismissals: Treating the dilemma as an instant refutation without engaging contemporary sophisticated versions, such as Robert Adams' essentialist nature-command distinction.",
+     "Scientistic Reductionism ('Morality is just chemicals/evolution'): Self-defeating attempt to refute theistic morality by arguing that objective morality does not exist at all, thereby conceding moral nihilism."
+    ]
+   },
+   "would_change": [
+    "A formal proof showing that necessary normative truths are ontologically impossible without a concrete mind instantiating them.",
+    "A coherent formulation of Divine Command Theory that successfully generates categorical obligation without assuming an antecedent, uncommanded duty to obey.",
+    "An airtight evolutionary debunking argument proving that secular moral realism is irremediably self-undermining, while theistic design uniquely preserves moral reliability."
+   ],
+   "sources": [
+    {
+     "citation": "Plato, Euthyphro (c. 380 BCE)",
+     "kind": "primary"
+    },
+    {
+     "citation": "Robert Merrihew Adams, Finite and Infinite Goods: A Framework for Ethics (1999)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Derek Parfit, On What Matters (2011)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "David Enoch, Taking Morality Seriously: A Defense of Robust Realism (2011)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "William Lane Craig, Reasonable Faith: Christian Truth and Apologetics (3rd ed., 2008)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Swinburne, The Coherence of Theism (2nd ed., 2016)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "J.L. Mackie, Ethics: Inventing Right and Wrong (1977)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Wes Morriston, 'Must There Be a Ground for the Moral Order?', Religious Studies (2009)",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "gemini",
+   "label": "Gemini 3.8",
+   "model": "gemini-3.8-flash",
+   "via": "copilot"
+  },
+  {
+   "kind": "philosophical",
+   "verdict": "Probably false: objective morality is plausible, but it does not require God and is not clearly best explained by God.",
+   "credence": 18,
+   "confidence": "low",
+   "bottom_line": "Some acts really do seem wrong no matter what anyone prefers, so moral objectivity is a live and reasonable view. That does not show those facts depend on God. Secular philosophers have developed coherent realist alternatives—necessary normative truths, natural properties tied to well-being, or reasons grounded in what we can justify to one another—and specialists treat them as serious, not as obvious failures. A God whose nature is the Good is also a serious option and beats cartoon divine-command theory, but it has not been shown to be necessary or better than every alternative. The full claim is therefore unlikely. The score is not robust: it moves a lot if you already think a personal God is probable, or if you think normativity cannot be basic.",
+   "sub_claims": [
+    {
+     "claim": "Objective moral values exist: at least some things are good or bad independently of human attitudes, conventions, or divine commands.",
+     "kind": "philosophical",
+     "case_for": "Ordinary judgment treats gratuitous cruelty as wrong even if everyone approved it. Deliberation seems to aim at moral truth, not merely at expression or coordination (Enoch). Moral discourse behaves like truth-apt discourse, and deep disagreement no more entails anti-realism than scientific disagreement does. Companions-in-guilt arguments say that if moral facts are too queer to be real, epistemic norms are in the same boat.",
+     "case_against": "Mackie’s queerness and relativity arguments, Street’s Darwinian dilemma, and Harman’s challenge that moral facts do no explanatory work all pressure realism. Sophisticated expressivism (Blackburn, Gibbard) tries to save moral practice without stance-independent facts. Widespread, persistent disagreement is deeper here than in mature science.",
+     "consensus": "No consensus, but a plurality to majority of analytic philosophers accept moral realism. Bourget and Chalmers (2014) reported about 56% of target faculty accepting moral realism and about 28% anti-realism. Confessional moral theologians and religious philosophers overwhelmingly affirm objective value, usually with a theistic ground. The secular majority for realism does not include a consensus on what moral facts are.",
+     "evidence": [
+      "PhilPapers 2009/2014: moral realism a majority position among target faculty, theism a small minority",
+      "G.E. Moore’s open-question argument against simple naturalistic definitions",
+      "Cross-cultural convergence on some core harms alongside intractable disagreement about status, sexuality, and punishment"
+     ],
+     "verdict": "More likely than not, but far from certain.",
+     "credence": 68
+    },
+    {
+     "claim": "Objective moral duties exist in a strong sense: categorical, overriding obligations, not merely evaluative facts or ordinary practical reasons.",
+     "kind": "philosophical",
+     "case_for": "Promise, justice, and non-harm present themselves as demands, not as optional reasons. Kant argued that moral necessity binds independently of desire. William Lane Craig and C. Stephen Evans treat this bindingness as the phenomenon that most needs a personal authority.",
+     "case_against": "Anscombe argued that ‘moral obligation’ and the special ‘ought’ are leftovers from divine-law ethics and should be abandoned if there is no God, not retained as evidence for God. Foot, Williams, and many reasons-first realists (Scanlon, Parfit) keep objective reasons or virtues without a legalistic duty layer. The phenomenology of ‘must’ can be explained by internalization of social norms.",
+     "consensus": "More divided than on values. Many moral realists are reasons-fundamentalists rather than duty-fundamentalists. Divine-command and natural-law theorists, including many Christian philosophers, keep strong duties. No consensus that categorical duty is indispensable.",
+     "evidence": [
+      "Anscombe, ‘Modern Moral Philosophy’ (1958), on the legalistic origin of modern moral concepts",
+      "Kant’s categorical imperative as the classic secular account of duty",
+      "The shift in contemporary metaethics toward reasons (Scanlon, Parfit) rather than obligation"
+     ],
+     "verdict": "Plausible, but less secure than value-realism; the duty layer is exactly where the theistic argument is most ambitious.",
+     "credence": 55
+    },
+    {
+     "claim": "Objective moral values and duties metaphysically require God: they cannot exist unless God exists.",
+     "kind": "philosophical",
+     "case_for": "Natural facts do not entail norms (is-ought). Brute non-natural facts do not explain why they bind. Categorical obligation looks like the demand of a legitimate authority, and only a necessary, perfectly good person could underwrite universal, inescapable duties (Craig, Evans, Adams). If moral facts are real and not reducible, a theistic ground is the least arbitrary stopper.",
+     "case_against": "Parfit, Enoch, Shafer-Landau, and Wielenberg defend stance-independent moral truths with no divine ground, modeled on logical or mathematical necessity. Kant grounds the moral law in rational autonomy. Scanlon grounds wrongness in unjustifiability to others. Naturalist realists identify moral properties with complex natural properties. These views may be costly; they have not been shown impossible. ‘Require’ is a necessity claim, and no sound proof rules the alternatives out.",
+     "consensus": "The necessity claim is a minority view in philosophy at large. It is widely rejected by metaethicists, including moral realists. A substantial share of Christian philosophers of religion accept a theistic ground; Aquinas and the natural-law tradition affirm ontological dependence on God’s eternal law while insisting reason can know the content without special revelation. Even among theists, some treat moral truths as necessary truths God knows rather than as products of God’s will. No general consensus that God is required.",
+     "evidence": [
+      "Craig’s moral argument: if God does not exist, objective moral values and duties do not exist",
+      "Wielenberg, Robust Ethics (2014), an explicit defense of godless normative realism",
+      "Aquinas, Summa Theologiae I-II, natural law as participation in eternal law, knowable by reason"
+     ],
+     "verdict": "Probably false. The arguments show a grounding problem, not that every non-theistic solution is impossible.",
+     "credence": 22
+    },
+    {
+     "claim": "God explains objective morality better than any alternative.",
+     "kind": "philosophical",
+     "case_for": "One necessary personal being can unify value (the Good identical with God’s nature) and obligation (commands or will of that being). That is more unified than a scatter of brute oughts, and it links morality to why there is a world of rational agents at all. Evolutionary debunking is easier to answer if moral truth is tied to a non-deceptive creator than if it is a side effect of fitness. Adams’s identity theory is the strongest version of this explanation.",
+     "case_against": "Explanation here is prior-laden. If a necessary person is already improbable, morality does not uniquely select one: it can be a basic necessary truth (Parfit), a natural fact, or an error. God does not obviously simplify, because divine goodness still needs content. Street’s dilemma also threatens views on which our faculties were aimed at survival rather than at an independent moral reality, and theists need their own story of why those faculties are reliable. ‘Better than any alternative’ is a very high bar that specialist literature does not treat as cleared.",
+     "consensus": "Split along prior commitments. Many philosophers of religion who are theists say yes. Most metaethicists say a theistic explanation is unnecessary. Bourget and Chalmers (2014) found about 73% atheism among target faculty, so the explanatory claim is not the field’s working conclusion. That distribution partly reflects secular starting points, not a proof.",
+     "evidence": [
+      "Adams, Finite and Infinite Goods (1999): the Good identified with God",
+      "Street, ‘A Darwinian Dilemma for Realist Theories of Value’ (2006)",
+      "Parfit, On What Matters (2011): irreducibly normative non-theistic truths"
+     ],
+     "verdict": "Not shown. A good explanation for some priors, not better than every alternative on neutral ones.",
+     "credence": 28
+    },
+    {
+     "claim": "A theistic moral theory can survive the Euthyphro dilemma without arbitrariness or an external standard.",
+     "kind": "philosophical",
+     "case_for": "The crude dilemma assumes God either invents goodness by will or sees a standard outside God. Divine-nature theory rejects both: God wills in accord with a necessarily good nature, or God is identical with the Good, as water is identical with H2O (Adams, Alston, Evans, Craig). Commands are then neither whims nor reports on a rival deity-independent platonic realm.",
+     "case_against": "Identity can make ‘God is good’ thin or tautological. If what makes the nature good is that it is loving and just, those features seem to do the normative work, and the dilemma returns one level up. Scripture and tradition include commands that look morally wrong, which pressures the claim that revealed will matches the standard. Secular critics grant coherence more often than they grant explanatory victory.",
+     "consensus": "No consensus. Modified divine-command and divine-nature theories are the standard sophisticated theistic reply and are defended by major Christian philosophers. Many secular metaethicists, and some theists, hold that the reply relocates rather than dissolves Euthyphro. Plato’s dilemma remains the organizing objection.",
+     "evidence": [
+      "Plato, Euthyphro 10a: is the pious loved by the gods because it is pious, or pious because it is loved?",
+      "Adams’s identity of the Good with God, developed in Finite and Infinite Goods",
+      "Ongoing Craig debates with Sinnott-Armstrong and others, where the nature-not-will reply is the theistic centerpiece"
+     ],
+     "verdict": "The best theistic view is coherent and not killed by the crude dilemma; it is not clearly successful.",
+     "credence": 48
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does ‘require’ mean objective morality is metaphysically impossible without God, not merely that God would explain it well?",
+     "type": "definition",
+     "if_yes": "Score the written claim low, around the high teens: impossibility has not been shown, and live secular realist theories remain.",
+     "if_no": "A purely abductive reading is more competitive, perhaps around 30-40, but that is a weaker claim than the one stated.",
+     "your_view": "The claim says ‘require’ and ‘better than any alternative.’ Both are being scored. The necessity reading is the load-bearing one, and it fails."
+    },
+    {
+     "crux": "Are stance-independent moral facts real?",
+     "type": "prior",
+     "if_yes": "The argument can get started, but theism still has to beat secular realism.",
+     "if_no": "The whole conjunction is false, whether the alternative is error theory, expressivism, or constructivism.",
+     "your_view": "Realism is more likely than not. That helps only the first conjunct."
+    },
+    {
+     "crux": "Are brute necessary normative truths an acceptable stopping point, as logical truths often are?",
+     "type": "prior",
+     "if_yes": "God is not required; non-natural realism remains a peer explanation and the claim fails.",
+     "if_no": "Pressure rises either toward theism or toward giving up objective morality. Kept realism would then favor God more strongly.",
+     "your_view": "They are strange but not clearly worse than a necessary moral person. Companions-in-guilt with logic and epistemic normativity makes bruteness tolerable. This is the main prior behind the low score."
+    },
+    {
+     "crux": "Do categorical duties conceptually require a lawgiver, as Anscombe suggested?",
+     "type": "definition",
+     "if_yes": "The duty half of the claim gets much stronger, and secular ‘obligation’ talk looks borrowed.",
+     "if_no": "Reasons, virtues, or contractualist justifiability can carry objectivity without God, and Anscombe’s point becomes a reason to thin our moral vocabulary rather than to infer God.",
+     "your_view": "The legalistic concept may be historically theological. That does not show that objective reasons require a commander, nor that we must keep the legalistic concept."
+    }
+   ],
+   "strongest_for": [
+    "The is-ought gap is real: describing natural facts, including evolutionary and social facts, does not by itself yield categorical normativity.",
+    "Street-style debunking is a serious threat to atheistic realism if our moral beliefs were selected for fitness rather than truth and no third-factor reply works.",
+    "Divine-nature theory is much stronger than ‘whatever God commands is good’: a necessarily loving nature blocks the crudest arbitrariness objection (Adams).",
+    "Mackie’s queerness worry cuts against free-floating non-natural properties; a personal ground is at least a candidate for why norms bind persons.",
+    "Anscombe was right that modern talk of moral law and obligation inherited a divine-law framework, so secular duty theories owe a reconstruction, not a shrug.",
+    "If a necessary good person is already plausible on other grounds, morality fits that being more naturally than it fits a pile of brute oughts."
+   ],
+   "strongest_against": [
+    "Non-theistic moral realism is a developed research program (Parfit, Enoch, Shafer-Landau, Scanlon, Wielenberg), not a failure specialists have abandoned.",
+    "Euthyphro reappears inside divine-nature theory: lovingness and justice seem to be what matter, and it is unclear why those features need a divine bearer to be normative.",
+    "‘Better than any alternative’ is not established; at most God is one explanatory option whose appeal tracks prior belief in God.",
+    "Positing God replaces a hard question with a harder one: why this being exists, why that nature is good rather than a tautology, and how humans know the commands.",
+    "Logical, mathematical, and epistemic norms are widely treated as objective without a divine ground; morality has not been shown to be different in a way that forces theism.",
+    "Most professional philosophers accept or lean toward moral objectivity while rejecting theism, which is evidence that the phenomena do not force the conjunction—even after discounting for a secular academic prior."
+   ],
+   "weak_arguments": {
+    "for": [
+     "‘Without God everything is permitted,’ read as a prediction about atheists’ behavior: it is empirically poor and confuses motivation and knowledge with metaphysical grounding.",
+     "Nazi atrocities or moral disagreement refute relativism, therefore God: anti-relativism does not entail theism; secular realism affirms the same atrocities are objectively wrong.",
+     "‘Science cannot measure values, so God is their source’: a false dilemma that ignores non-natural realism, constructivism, and the difference between detection and grounding.",
+     "Most religious people say morality comes from God: widespread belief is not an argument that non-theistic theories fail."
+    ],
+    "against": [
+     "Crude Euthyphro—‘arbitrary or independent, case closed’—ignores divine-nature and modified divine-command theories, which are the views actually on offer.",
+     "‘Atheists are moral, so God is unnecessary’: that shows moral knowledge and motivation do not require theistic belief, which sophisticated theists already grant.",
+     "‘Religions have sanctioned evils, so God cannot ground morality’: a point about institutions and texts, not about whether a perfect nature could be the Good.",
+     "‘Evolution fully explains morality’: it explains moral psychology’s origins, not whether moral judgments are true, and it does not close the is-ought gap."
+    ]
+   },
+   "would_change": [
+    "A demonstration that every non-theistic realist theory is incoherent, not merely queer, incomplete, or unfamiliar.",
+    "A divine-nature theory that states the content of goodness without circularity, tautology, or a covert independent standard, and that handles apparently immoral commands without special pleading.",
+    "A successful naturalistic reduction of categorical normativity that still counts ordinary moral claims as true would push this credence near zero.",
+    "A decisive argument that ‘obligation’ is unintelligible without a supreme lawgiver, one that survives Kantian, contractualist, and reasons-first replies.",
+    "Broad convergence among metaethicists, including secular realists, that Street-style debunking sinks non-theistic realism and does not similarly sink theism.",
+    "A collapse of moral realism itself would also drop the conjunction to near zero, since the claim asserts that objective values and duties exist."
+   ],
+   "sources": [
+    {
+     "citation": "Plato, Euthyphro, 4th century BCE",
+     "kind": "primary"
+    },
+    {
+     "citation": "Thomas Aquinas, Summa Theologiae, I-II (treatise on law), 13th century",
+     "kind": "primary"
+    },
+    {
+     "citation": "Immanuel Kant, Groundwork of the Metaphysics of Morals, 1785",
+     "kind": "primary"
+    },
+    {
+     "citation": "G.E.M. Anscombe, 'Modern Moral Philosophy,' Philosophy, 1958",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "J.L. Mackie, Ethics: Inventing Right and Wrong, 1977",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Robert Merrihew Adams, Finite and Infinite Goods: A Framework for Ethics, 1999",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Russ Shafer-Landau, Moral Realism: A Defence, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Sharon Street, 'A Darwinian Dilemma for Realist Theories of Value,' Philosophical Studies, 2006",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "William Lane Craig, Reasonable Faith, 3rd ed., 2008",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "David Enoch, Taking Morality Seriously: A Defense of Robust Realism, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Derek Parfit, On What Matters, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "C. Stephen Evans, God and Moral Obligation, 2013",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Erik J. Wielenberg, Robust Ethics: The Metaphysics and Epistemology of Godless Normative Realism, 2014",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "David Bourget and David J. Chalmers, 'What Do Philosophers Believe?,' Philosophical Studies, 2014",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "grok",
+   "label": "Grok 4.7",
+   "model": "grok-4.7",
+   "via": "copilot"
+  },
+  {
+   "kind": "philosophical",
+   "verdict": "Probably false as stated: objective morality plausibly exists, but the case that it requires God, or is best explained by God, is contested and minority among philosophers",
+   "credence": 17,
+   "confidence": "low",
+   "bottom_line": "The claim combines three theses: objective moral values and duties exist, they require God, and God explains them better than any rival. The first thesis is fairly well supported; most professional philosophers lean toward moral realism. The second and third are much weaker. Many careful realists, both secular (Parfit, Enoch, Shafer-Landau, Wielenberg) and religious (many natural-law theorists), hold that basic moral truths are necessary truths that need no external grounding, or are grounded in facts about human flourishing. Theists have real arguments, including the special authority of obligation, the evolutionary-debunking problem, and the fit between a personal God and person-directed duties. These make God a respectable candidate explanation but not a required one. The answer depends heavily on priors about theism and on whether 'brute' necessary moral truths are acceptable, so reasonable people land in different places.",
+   "sub_claims": [
+    {
+     "claim": "Objective moral values exist (some things are good or bad independent of what anyone believes or feels).",
+     "kind": "philosophical",
+     "case_for": "Moral intuitions such as 'torturing children for fun is wrong' are among our most secure beliefs. Rejecting them seems to cost more than any theoretical argument against them could justify (a Moorean shift). Moral disagreement looks like genuine disagreement about facts. Moral progress, such as the abolition of slavery, seems to require a standard that exists apart from opinion. The partners-in-guilt argument says that rejecting normative facts in ethics threatens epistemic normativity too, including reasons to believe.",
+     "case_against": "Mackie's queerness argument holds that intrinsically action-guiding facts would be metaphysically and epistemically strange. Persistent cross-cultural disagreement is evidence against objective facts. Evolutionary and psychological explanations can account for moral belief without positing moral facts. Sophisticated expressivism (Blackburn, Gibbard) can reproduce most of the realist's talk without the metaphysics.",
+     "consensus": "Majority leaning realist. In the PhilPapers Surveys (2009 and 2020), roughly 56-62% of philosophers accept or lean toward moral realism. Theistic philosophers are nearly unanimous realists. Anti-realism remains a serious minority view.",
+     "evidence": [
+      "PhilPapers Surveys 2009/2020: moral realism is the plurality/majority view",
+      "Mackie (1977) error theory",
+      "Street (2006) Darwinian Dilemma",
+      "Robust realist defenses: Shafer-Landau 2003, Enoch 2011, Parfit 2011"
+     ],
+     "verdict": "More likely true than not",
+     "credence": 68
+    },
+    {
+     "claim": "Objective moral duties (categorical, authoritative obligations) exist, over and above objective goods and bads.",
+     "kind": "philosophical",
+     "case_for": "Obligation seems to carry a 'must' that facts about value alone do not deliver. We seem accountable, not merely in error, when we violate duties. Kant and many contemporary theorists treat categorical obligation as central to morality.",
+     "case_against": "Obligation may reduce to decisive moral reasons, which a value realist already has. Anscombe argued that the 'moral ought' is a leftover of a law conception of ethics and could be dropped in favor of virtue concepts. If it can be dropped, the duty premise carries less weight.",
+     "consensus": "No consensus. Most realists accept duties but disagree on whether obligation needs a special grounding beyond reasons.",
+     "evidence": [
+      "Anscombe, 'Modern Moral Philosophy' (1958)",
+      "Adams 1999 on obligation as social/command-based",
+      "Evans 2013 on obligation and accountability"
+     ],
+     "verdict": "Plausible, somewhat less secure than value realism",
+     "credence": 58
+    },
+    {
+     "claim": "Objective morality requires God: there is no viable non-theistic account of objective moral facts.",
+     "kind": "philosophical",
+     "case_for": "Without God, moral facts would be brute, unexplained necessary truths floating free, which looks ad hoc. Naturalistic reductions face Moore's open-question argument and the normativity objection. Non-natural facts without a mind look queer, as Mackie himself conceded when he argued that objective values would support theism. A personal, perfectly good God gives an obvious home for person-directed obligations.",
+     "case_against": "Theism also has brute necessities, such as God's essential goodness, so a theist cannot fault secular realism for having a stopping point. Non-naturalist realists argue that basic moral truths, like logical truths, are necessary and need no maker. Naturalist realists (Cornell realism, neo-Aristotelianism) ground value in flourishing. Many theists, including Swinburne and Finnis-style natural lawyers, hold that core moral truths would hold even without God's commands. 'Requires' is a very strong modal claim, and no argument establishes it.",
+     "consensus": "Minority view. Most moral realists are non-theists and reject it. Theistic philosophers are themselves divided: divine command and divine nature theorists (Adams, Evans, Craig) support some version, while many natural-law and Thomist thinkers ground morality in human nature, which God creates but which is not constituted by divine command.",
+     "evidence": [
+      "Wielenberg 2005 and 2014: godless robust realism",
+      "Parfit 2011: non-metaphysical cognitivism",
+      "Mackie 1982 conceding the inference from objective values to God",
+      "Murphy 2011 as a theist's nuanced treatment",
+      "Craig and Wielenberg debate volume"
+     ],
+     "verdict": "Probably false",
+     "credence": 15
+    },
+    {
+     "claim": "Given moral realism, God explains objective moral values and duties better than any alternative (abductive claim).",
+     "kind": "philosophical",
+     "case_for": "Theism unifies several things: the existence of value, the authority of obligation, the reliability of our moral faculties (God designed us to track moral truth), and the overlap between what we must do and what serves our good. Secular non-naturalism must posit a coincidence between evolved moral beliefs and causally inert moral facts, or a 'third-factor' story.",
+     "case_against": "Explanatory gain counts only if theism is not independently improbable and adds no comparable puzzles. Euthyphro-style worries, the problem of evil, and the cost of positing God reduce theism's net advantage. Third-factor replies (Enoch, Wielenberg) partially answer the debunking argument. Theism's 'explanation' may relocate the brute fact rather than remove it.",
+     "consensus": "No consensus. The argument is taken seriously in philosophy of religion. Mainstream metaethicists rarely treat God as a leading candidate.",
+     "evidence": [
+      "Adams 1999 'Finite and Infinite Goods'",
+      "Street 2006 debunking challenge",
+      "Enoch 2011 third-factor reply",
+      "PhilPapers 2020: roughly 19% theism versus roughly 62% realism, so most realists are non-theists"
+     ],
+     "verdict": "Respectable but unproven; modestly favored only if your prior for theism is already substantial",
+     "credence": 28
+    },
+    {
+     "claim": "The Euthyphro dilemma can be answered by theistic metaethics.",
+     "kind": "philosophical",
+     "case_for": "Divine-nature theories place the good in God's essential character, so the good is neither arbitrary nor independent of God (Adams, Alston). Modified divine command theory limits commands to what a loving God would issue.",
+     "case_against": "The dilemma resurfaces: is God's nature good because it meets a standard, or is it good by definition? If the latter, calling God 'good' looks trivial. The reply also seems to imply that the moral truths would hold with or without God's commands, which supports the independence the secular realist claims.",
+     "consensus": "Many philosophers of religion think the classic dilemma is answerable. Critics such as Wielenberg and Morriston argue that a residual version persists.",
+     "evidence": [
+      "Plato, Euthyphro",
+      "Adams 1999",
+      "Morriston's papers critiquing divine command theory"
+     ],
+     "verdict": "Partially answerable; it does not refute theistic ethics, but it limits the claimed advantage",
+     "credence": 55
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Are brute, necessary, ungrounded moral truths acceptable?",
+     "type": "prior",
+     "if_yes": "Secular non-naturalism is viable and 'requires God' fails; credence falls to about 10.",
+     "if_no": "You need a grounding. God becomes a strong candidate alongside naturalist reductions; credence rises to about 35-45.",
+     "your_view": "Every view ends in some necessary brute facts, including God's nature, so brute moral necessities are not a decisive cost."
+    },
+    {
+     "crux": "What is the prior probability of theism, independent of morality?",
+     "type": "prior",
+     "if_yes": "If theism is already fairly probable (over 40%), God as the ground of morality is the natural package and the abductive claim gains force.",
+     "if_no": "If theism is improbable for other reasons (evil, hiddenness, naturalism's success), positing God to ground ethics costs more than it explains.",
+     "your_view": "Moderate-to-low. This drags down the 'better explained' claim but does not settle it."
+    },
+    {
+     "crux": "Does the evolutionary debunking argument succeed against secular realism specifically?",
+     "type": "evidence",
+     "if_yes": "Secular realists must give up realism or reliability, and theism gains a real comparative edge.",
+     "if_no": "Third-factor replies work, and theism loses one of its best comparative arguments.",
+     "your_view": "The argument has real force, but third-factor replies blunt it. Roughly a draw that slightly favors theism."
+    },
+    {
+     "crux": "Does 'objective duty' require a lawgiver or person to whom one is accountable?",
+     "type": "definition",
+     "if_yes": "A personal God is close to forced as the ground of obligation (Adams, Evans), though not necessarily of value.",
+     "if_no": "Duties are decisive reasons and need no commander.",
+     "your_view": "Obligation can plausibly be analyzed as decisive moral reasons, though accountability-based accounts are coherent and nontrivial."
+    }
+   ],
+   "strongest_for": [
+    "The authority and accountability built into obligation fit naturally with a personal, perfectly good being whose commands or nature constitute duty.",
+    "Evolutionary debunking: theism explains why our moral faculties reliably track moral truth; secular non-naturalism must rely on luck or a third-factor story.",
+    "Mackie, the most famous atheist error theorist, conceded that objective values would be strong evidence for God, which suggests that secular realism faces real metaphysical strain.",
+    "Theism unifies value, obligation, moral knowledge and the convergence of virtue with flourishing in a single explanatory package."
+   ],
+   "strongest_against": [
+    "Most moral realists in professional philosophy are non-theists with worked-out views (Parfit, Enoch, Shafer-Landau, Wielenberg, Railton, Boyd). This undercuts any claim that realism 'requires' God.",
+    "Parity: theism grounds morality in God's essential goodness, which is itself a brute necessity, so the theist cannot fault the secular realist for stopping at necessary moral truths.",
+    "Many theists, including Thomist and natural-law traditions and Swinburne, hold that central moral truths do not depend on divine commands, so even confessional scholarship does not support the strong claim.",
+    "The Euthyphro problem recurs at the level of God's nature, which limits the explanatory gain.",
+    "Theism carries large independent costs, such as evil and hiddenness, that weigh against using it as the best explanation of morality."
+   ],
+   "weak_arguments": {
+    "for": [
+     "'Atheists can't be moral.' This confuses moral psychology and behavior with metaethics, and theistic proponents like Craig explicitly disavow it.",
+     "'Without God everything is permitted.' This is a slogan, not an argument, and it begs the question against secular realism.",
+     "'Morality is universal across cultures, so God put it there.' Cross-cultural overlap is also explained by shared evolution and social needs, and real disagreement persists.",
+     "'Evolution can only produce subjective morality.' Explaining how beliefs arose does not on its own show they are false (the genetic fallacy) unless paired with a debunking argument."
+    ],
+    "against": [
+     "'Religious people commit atrocities, so religion can't ground morality.' This is irrelevant to whether God would ground moral facts.",
+     "'Divine command theory means God could command rape.' Modern divine nature and modified command theories explicitly block this.",
+     "'Science shows morality is just evolved feelings.' Science describes the origins of moral belief; it does not settle metaethics.",
+     "'Moral disagreement proves there are no moral facts.' There is disagreement about scientific facts too, and disagreement is compatible with realism."
+    ]
+   },
+   "would_change": [
+    "A convincing demonstration that non-natural moral facts are incoherent or epistemically inaccessible without a designer, for example an evolutionary debunking argument that defeats third-factor replies.",
+    "A successful naturalistic reduction of normativity that answers the open-question and authority objections, which would lower the credence further.",
+    "Strong independent evidence for or against theism, which shifts the 'better explained' component substantially.",
+    "A theistic account that explains God's goodness without its own brute necessity or a residual Euthyphro problem, which would raise the credence.",
+    "Survey evidence that secular realists widely regard their view as explanatorily deficient in the way theists claim."
+   ],
+   "sources": [
+    {
+     "citation": "J. L. Mackie, Ethics: Inventing Right and Wrong, 1977",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "J. L. Mackie, The Miracle of Theism, 1982",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Robert Merrihew Adams, Finite and Infinite Goods: A Framework for Ethics, 1999",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "C. Stephen Evans, God and Moral Obligation, 2013",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Mark C. Murphy, God and Moral Law, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Erik J. Wielenberg, Value and Virtue in a Godless Universe, 2005",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Erik J. Wielenberg, Robust Ethics: The Metaphysics and Epistemology of Godless Normative Realism, 2014",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Derek Parfit, On What Matters, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "David Enoch, Taking Morality Seriously: A Defense of Robust Realism, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Russ Shafer-Landau, Moral Realism: A Defence, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Sharon Street, 'A Darwinian Dilemma for Realist Theories of Value', Philosophical Studies, 2006",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "G. E. M. Anscombe, 'Modern Moral Philosophy', Philosophy, 1958",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "David Bourget and David Chalmers, 'Philosophers on Philosophy: The 2020 PhilPapers Survey', 2023",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Plato, Euthyphro",
+     "kind": "primary"
+    }
+   ],
+   "id": "opus",
+   "label": "Opus 5.5",
+   "model": "claude-opus-5-5",
+   "via": "claude"
+  }
+ ],
+ "stats": {
+  "mean": 17.0,
+  "median": 17.5,
+  "min": 15,
+  "max": 18,
+  "spread": 3
+ },
+ "synthesis": {
+  "summary": "All four reviews judge the full claim unlikely: GPT-6.1 assigns it 15%, Gemini 3.8 18%, Grok 4.7 18%, and Opus 5.5 17%. They consider objective morality plausible but deny that its existence establishes that God is required or is the best explanation. All treat secular moral realism as a serious alternative and recognize substantive arguments for theistic grounding. They differ in how strongly they think objections undermine theistic accounts and how confidently they endorse necessary moral truths without God. GPT-6.1, Grok, and Opus report low confidence; Gemini reports medium confidence. They also emphasize that the answer depends on contested assumptions about explanation, obligation, and theism.",
+  "agreement": "high",
+  "agreed": [
+   "Objective morality is more likely than not, though contested; its existence alone would not establish God.",
+   "Secular realist accounts offer serious alternatives to divine grounding, even if they face unresolved challenges.",
+   "Theistic accounts can connect moral value and duty to a good personal God, but face questions about divine goodness and authority.",
+   "The crude Euthyphro dilemma does not by itself dispose of sophisticated divine-nature or modified divine-command theories.",
+   "Whether atheists behave morally or religious people behave badly does not settle the metaphysical grounding question."
+  ],
+  "disagreed": [
+   {
+    "point": "Strength of objections to theistic grounding",
+    "positions": "Gemini regards the remaining Euthyphro and prior-obligation problems as severe and unlikely to be solved. GPT-6.1, Grok, and Opus treat the divine-nature response as more substantial, while remaining unconvinced that it establishes the claim; Grok calls it coherent, and Opus says the dilemma is partially answerable."
+   },
+   {
+    "point": "Necessary moral truths",
+    "positions": "Gemini is strongly confident that fundamental moral truths are necessary and do not require a divine author. Grok and Opus regard necessary, ungrounded moral truths as a viable stopping point; GPT-6.1 regards irreducible normative facts as admissible but unresolved."
+   },
+   {
+    "point": "Values versus duties",
+    "positions": "Grok and Opus separately assess strong categorical duties as plausible but less secure than objective values, emphasizing whether duties need a distinct ground. GPT-6.1 and Gemini assess moral realism more collectively, though both discuss the authority of obligation."
+   },
+   {
+    "point": "Evolutionary debunking",
+    "positions": "Opus sees the challenge as slightly favoring theism, while noting secular replies. Grok stresses its force but says theists also need an account of moral reliability; GPT-6.1 regards the evidence as underdetermining its explanation. Gemini identifies providential design as a possible theistic advantage but favors secular accounts overall."
+   },
+   {
+    "point": "Degree of philosophical consensus",
+    "positions": "Gemini describes broad consensus support for moral realism, citing the 2020 survey. GPT-6.1 and Grok emphasize that there is no consensus despite substantial survey support; Opus describes a majority leaning toward realism while recognizing a serious anti-realist minority."
+   }
+  ],
+  "deciding_cruxes": [
+   "Whether objective values and categorical duties exist, and whether duties require a distinct account beyond moral reasons or value.",
+   "Whether natural moral facts or irreducible necessary normative truths can adequately ground morality without God.",
+   "Whether divine nature and commands explain goodness and obligation without arbitrariness, circularity, or an independent standard.",
+   "Whether evolutionary challenges to moral knowledge favor theism over secular realism.",
+   "How probable God is independently of morality, and how explanatory unification, simplicity, and ultimate stopping points should be weighed."
+  ],
+  "what_is_settled": "The reviews agree that moral realism, secular alternatives, and sophisticated theistic theories are serious philosophical positions. They also distinguish moral behavior and knowledge from the question of what grounds moral truth.",
+  "what_is_open": "Whether objective morality exists, whether it metaphysically depends on God, and which account explains it best remain disputed. The comparative answer depends on assessments of moral authority, necessary truths, divine goodness, evolutionary debunking, and prior commitments about theism.",
+  "model": "gpt-6.1-terra"
+ }
+}

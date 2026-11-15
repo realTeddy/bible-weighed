@@ -1,0 +1,44 @@
+{
+  "summary": "All four reviews judge the public case for a supernatural miracle unpersuasive on their stated or implied readings, assigning the claim credences of 20–22%. They distinguish unexplained events and sincere testimony from proof of supernatural causation. All allow that belief can be rational for someone with independently grounded confidence in an interventionist God. They differ in confidence, in how strongly they discount testimony and historical methods, and in how they interpret reports across religions. Their estimates should not be treated as identical measurements: the reviewers frame the claim and its evidential threshold somewhat differently.",
+  "agreement": "high",
+  "agreed": [
+    "Some striking recoveries and early resurrection reports deserve consideration, but neither an unexplained recovery nor sincere belief by itself establishes supernatural causation.",
+    "Prior beliefs about an interventionist God substantially affect how miracle reports are assessed.",
+    "A blanket claim that miracles are impossible by definition is not a satisfactory refutation.",
+    "Natural explanations, reporting limitations and selection effects are important alternatives to consider.",
+    "Better-documented evidence or a stronger independent case for or against interventionist theism could change their assessments."
+  ],
+  "disagreed": [
+    {
+      "point": "Confidence and strength of skepticism",
+      "positions": "Gemini assigns 22% with high confidence and says natural alternatives decisively outweigh the evidence for observers without strong theistic priors. GPT-6.1, Grok and Opus each assign 20% with low confidence, while emphasizing uncertainty or the dependence on the reading of the claim."
+    },
+    {
+      "point": "Historical methods and testimony",
+      "positions": "Gemini says historical tools cannot establish a physical miracle and characterizes testimony alone as structurally inadequate. GPT-6.1 cautions against ruling out supernatural explanations merely by definition; Grok and Opus reject an absolute in-principle bar on sufficiently strong testimony, while finding the available evidence inadequate."
+    },
+    {
+      "point": "Very low priors",
+      "positions": "Gemini says that with a very low or near-zero prior no finite testimony can overcome the odds, but also cites sufficiently strong independent testimony as capable of overcoming very low priors. Grok and Opus explicitly allow that sufficiently strong testimony can in principle overcome a low prior; GPT-6.1 emphasizes that relevant priors are neither objectively measurable nor agreed upon."
+    },
+    {
+      "point": "Reports across religious traditions",
+      "positions": "Gemini, Grok and Opus emphasize competing traditions as a reason to distrust miracle testimony, though Grok notes that this is a stronger objection to exclusive doctrinal claims than to the claim that any miracle occurred. GPT-6.1 instead notes that reports across traditions could contribute to a cumulative case, while cautioning that they need not be independent."
+    },
+    {
+      "point": "Meaning of good reason",
+      "positions": "GPT-6.1 explicitly scores a more-likely-than-not public-evidence reading and says lesser evidential support is easier to accept. Grok and Opus distinguish adequate shared reason from rational permissibility for a person with theistic commitments; Gemini emphasizes objective evidence versus coherence within a theistic framework."
+    }
+  ],
+  "deciding_cruxes": [
+    "How probable is an interventionist supernatural agent independently of the miracle reports?",
+    "Do the best reports discriminate sufficiently between supernatural action and natural outcomes, error, selection or developing traditions?",
+    "What can historical testimony establish, and how much weight should controlled prayer studies and cross-religious reports carry?",
+    "Does a miracle require supernatural causation, and does good reason mean compelling public evidence, more-likely-than-not support, or rational permissibility?"
+  ],
+  "what_is_settled": "The reviews agree that unusual recoveries and sincere religious reports occur, and that neither fact alone establishes a supernatural cause. They also agree that the answer depends importantly on the evidential standard and prior assumptions.",
+  "what_is_open": "The cause of particular reported events, the appropriate prior probability of divine intervention, the evidential force of the strongest cases and whether any meet a specified standard for belief remain disputed."
+}
+
+
+--- stderr ---

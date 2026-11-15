@@ -1,0 +1,52 @@
+{
+  "summary": "All four reviewers judge a bodily resurrection unlikely, while accepting Jesus’ death by crucifixion and early belief among followers that he appeared to them. GPT-6.1 and Gemini assign the resurrection 2% probability, Grok 6%, and Opus 10%; GPT-6.1, Grok, and Opus report low confidence, while Gemini reports medium confidence. All regard the empty tomb as contested and consider early appearance reports important but insufficient to establish a bodily resurrection. They differ over how strongly the evidence supports visionary origins, bodily continuity in early belief, and the historical use of miracle claims. All say assumptions about miracles or theism affect the conclusion, although they differ in how those assumptions should be set.",
+  "agreement": "high",
+  "agreed": [
+    "Jesus died by crucifixion under Pontius Pilate.",
+    "Some early followers sincerely believed Jesus had appeared to them; the nature and cause of the reported appearances are disputed.",
+    "Paul’s early testimony and the appearance tradition in 1 Corinthians 15 are important evidence, but do not by themselves establish bodily resurrection.",
+    "The empty-tomb account is contested, and Paul does not explicitly describe its discovery.",
+    "The later Gospels contain more detailed physical appearances; nonmiraculous experiences and developing traditions are relevant alternatives.",
+    "Willingness to suffer for a belief does not establish that the belief is true.",
+    "A higher prior probability for divine intervention can produce a substantially higher estimate."
+  ],
+  "disagreed": [
+    {
+      "point": "Probability and confidence",
+      "positions": "GPT-6.1 gives 2% with low confidence; Gemini 2% with medium confidence; Grok 6% and Opus 10%, both with low confidence. All judge the event unlikely, but differ in their assessment of the prior and the strength of the evidence."
+    },
+    {
+      "point": "The empty tomb",
+      "positions": "Gemini assigns 35% to burial in an identifiable private tomb later found empty and favors a secondary development; GPT-6.1 assigns 40% to burial in a known tomb found empty by women and calls it plausible but uncertain. Grok gives 42% to burial and discovery of an empty tomb, while Opus gives 55% to the tomb being found empty. They weigh burial practices, Paul’s silence, and the Gospel narratives differently."
+    },
+    {
+      "point": "The earliest beliefs and experiences",
+      "positions": "GPT-6.1 considers Paul’s belief in bodily transformation probable but leaves its physical implications and the experiences’ cause uncertain. Opus considers early bodily belief likely while favoring visionary origins for the experiences. Grok and Gemini also favor visionary origins over the later tactile accounts; Grok emphasizes uncertainty about what Paul’s spiritual body implies, while Gemini argues that physical details emerged later."
+    },
+    {
+      "point": "Natural explanations",
+      "positions": "Gemini presents visionary, psychological, and social explanations as adequate; Grok considers natural explanations incomplete but more plausible than resurrection. Opus considers them probably adequate while acknowledging residual puzzles. GPT-6.1 regards nonmiraculous experiences and developing traditions as compatible with the evidence but says their exact sequence cannot be reconstructed confidently."
+    },
+    {
+      "point": "Science and historical method",
+      "positions": "Gemini places greatest weight on biological regularities and argues public history should adhere to methodological naturalism. Opus sees methodological naturalism as a reasonable historical rule that does not settle the metaphysical question. GPT-6.1 and Grok emphasize that science does not logically disprove a unique miracle, while assigning it a low prior."
+    },
+    {
+      "point": "Women as tomb witnesses",
+      "positions": "Gemini, Grok, and Opus include the women’s role among considerations favoring the tomb account. GPT-6.1 regards the claim that this detail could not have been invented as a weak argument."
+    }
+  ],
+  "deciding_cruxes": [
+    "How probable a divine resurrection is before evaluating these particular reports.",
+    "Whether Jesus was buried in a known tomb and it was subsequently found empty.",
+    "Whether the earliest appearances were physical encounters or visionary experiences, and how independently the reports are attested.",
+    "What Paul and the earliest believers meant by a transformed or spiritual body, and whether bodily resurrection requires continuity with Jesus’ earthly body.",
+    "How well natural explanations account for the early belief, possible empty tomb, and subsequent traditions.",
+    "Whether historical inquiry can assess a supernatural cause or must leave that question to philosophy and theology."
+  ],
+  "what_is_settled": "The reviewers agree that Jesus was crucified and died, and that some early followers sincerely believed he had appeared to them. They also agree that Paul provides early evidence of appearance claims, without establishing their cause.",
+  "what_is_open": "The reviewers regard the empty tomb, the character and independence of the appearances, and the precise bodily implications of early resurrection belief as disputed. Whether God raised Jesus bodily, and how much the evidence favors that explanation over alternatives, depends substantially on disputed evidence and prior commitments."
+}
+
+
+--- stderr ---

@@ -1,0 +1,827 @@
+{
+ "topic": {
+  "id": 27,
+  "category": "History",
+  "short": "Disciples' Testimony",
+  "resolution": "The disciples' willingness to suffer and die for their testimony is strong evidence that Jesus really rose from the dead.",
+  "question": "Is the disciples' willingness to suffer and die good evidence that the resurrection happened?",
+  "claim": "The disciples' willingness to suffer and die for their testimony is strong evidence that Jesus really rose from the dead."
+ },
+ "analyses": [
+  {
+   "kind": "mixed",
+   "verdict": "Probably not strong evidence of the resurrection itself",
+   "credence": 15,
+   "confidence": "medium",
+   "bottom_line": "I interpret “strong evidence” as evidence that, by itself, substantially favors a bodily resurrection over plausible alternatives, not merely as evidence that some followers were sincere. Early sources support the view that some followers believed Jesus had appeared to them and accepted serious risks, but reliable details about most disciples’ deaths are scarce. Suffering can strongly count against deliberate fabrication without distinguishing a resurrection nearly as well from sincere but mistaken experiences. Scholars, including religious scholars, disagree both about the historical details and about how readily historical evidence can establish a miracle. My 15% estimate concerns the claim about evidential strength, not the probability that Jesus rose.",
+   "sub_claims": [
+    {
+     "claim": "Some early followers sincerely believed that Jesus appeared to them after his death.",
+     "kind": "textual",
+     "case_for": "Paul reports an early tradition listing appearances to individuals and groups, and presents himself as a recipient of an appearance. His letters and the movement’s persistence make wholesale conscious fabrication unlikely.",
+     "case_against": "Paul’s list is not a set of independent firsthand accounts from each named witness, and sincerity cannot be established directly for every person listed.",
+     "consensus": "Many critical and confessional scholars accept that at least some early followers sincerely believed they had experiences of the risen Jesus; they differ about the nature and implications of those experiences.",
+     "evidence": [
+      "1 Corinthians 15:3–8 lists appearances to Cephas, the Twelve, others and Paul.",
+      "Galatians 1–2 describes Paul’s conversion and contacts with Cephas and James.",
+      "The surviving sources do not give independent personal testimony from each person in Paul’s list."
+     ],
+     "verdict": "Very likely true for some followers.",
+     "credence": 93
+    },
+    {
+     "claim": "Early leaders suffered serious persecution, and some were killed.",
+     "kind": "empirical",
+     "case_for": "Paul describes beatings, imprisonment and other dangers in his own letters. Acts reports the execution of James son of Zebedee, Josephus reports the execution of James the brother of Jesus, and 1 Clement links the deaths of Peter and Paul to their witness.",
+     "case_against": "The sources differ in date, proximity and purpose. They do not establish the precise motive, circumstances or opportunity to recant in every case; James the brother of Jesus was not one of the Twelve.",
+     "consensus": "Scholars broadly accept that some early Christian leaders suffered and that several died violently, though accounts and details are disputed. Confessional scholars generally accept more of the traditional accounts than some critical scholars do.",
+     "evidence": [
+      "2 Corinthians 11:23–27 describes Paul’s hardships.",
+      "Acts 12:1–2 reports the execution of James son of Zebedee.",
+      "Josephus, Antiquities 20.200, reports the execution of James, brother of Jesus called Christ.",
+      "1 Clement 5 refers to the deaths of Peter and Paul."
+     ],
+     "verdict": "Very likely true in this limited form.",
+     "credence": 96
+    },
+    {
+     "claim": "Most or all of the Twelve knowingly chose death rather than deny their firsthand resurrection testimony.",
+     "kind": "empirical",
+     "case_for": "Later Christian traditions report martyrdoms for many apostles; some may preserve genuine memories even where early corroboration is absent.",
+     "case_against": "For most of the Twelve, detailed martyrdom stories appear in later sources. Even a reliable report of execution would not by itself establish that the person was offered freedom in exchange for denying a firsthand resurrection claim.",
+     "consensus": "There is no consensus validating the detailed traditional account for every apostle. Confessional scholars differ in how much they accept; critical scholars generally regard much of the later detail as uncertain.",
+     "evidence": [
+      "Early evidence is substantially better for a few figures than for the Twelve as a group.",
+      "Acts’ account of James’s execution does not describe an offer to spare him if he recanted.",
+      "Later martyrdom narratives vary in detail and historical reliability."
+     ],
+     "verdict": "Poorly established and probably overstated.",
+     "credence": 12
+    },
+    {
+     "claim": "The willingness to suffer or die substantially favors an actual resurrection over sincere mistaken belief.",
+     "kind": "philosophical",
+     "case_for": "A real appearance could explain sincere, persistent testimony despite severe costs. The costs make a calculated hoax less plausible and can reinforce the force of the early testimony.",
+     "case_against": "People can sincerely accept great risks for mistaken beliefs. Once sincere early belief is already granted, suffering supplies limited additional discrimination between resurrection and natural explanations of that belief.",
+     "consensus": "No consensus. Confessional historians and philosophers such as N. T. Wright and Michael Licona argue that the wider historical evidence favors resurrection; skeptical scholars such as Bart Ehrman dispute that conclusion. Their disagreement also reflects differing views about historical method and miracles.",
+     "evidence": [
+      "Paul reports both an appearance experience and serious hardships.",
+      "The historical evidence does not independently establish that each martyr personally inspected a physically risen Jesus.",
+      "Neither sincerity nor persecution alone identifies the cause of an experience."
+     ],
+     "verdict": "Probably not, especially when sincerity is already accepted.",
+     "credence": 15
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does “strong evidence” mean strong evidence of sincerity rather than of resurrection itself?",
+     "type": "definition",
+     "if_yes": "The suffering evidence is considerably stronger, particularly against deliberate fraud.",
+     "if_no": "It must discriminate resurrection from sincere error; its force is much weaker.",
+     "your_view": "The claim explicitly concerns whether Jesus really rose, so I score that stronger reading."
+    },
+    {
+     "crux": "Were numerous named eyewitnesses demonstrably killed after refusing a clear chance to deny their own firsthand testimony?",
+     "type": "evidence",
+     "if_yes": "The case for sincere, specific firsthand testimony would become stronger, though it still would not rule out mistake.",
+     "if_no": "The argument cannot safely rely on the familiar picture of all twelve choosing death over recantation.",
+     "your_view": "The available evidence does not establish that picture."
+    },
+    {
+     "crux": "Are sincere but mistaken experiences a reasonably plausible alternative?",
+     "type": "evidence",
+     "if_yes": "Willingness to suffer does relatively little to distinguish that alternative from resurrection.",
+     "if_no": "Sincere testimony under threat carries more weight toward resurrection.",
+     "your_view": "Such alternatives are plausible in principle, although the exact experiences of particular followers cannot be reconstructed confidently."
+    },
+    {
+     "crux": "How plausible is a divine resurrection before considering the historical evidence?",
+     "type": "prior",
+     "if_yes": "If a resurrection has a substantial prior probability, the combined historical case can reasonably be judged persuasive.",
+     "if_no": "If its prior probability is extremely low, even meaningful testimony may not make resurrection the most likely explanation.",
+     "your_view": "Reasonable people differ sharply on this prior; historical evidence alone does not settle it. My score concerns the narrower force of suffering, not a numerical prior for miracles."
+    }
+   ],
+   "strongest_for": [
+    "Serious costs make deliberate fabrication less attractive as an explanation of the early movement.",
+    "Paul’s own letters attest both his conviction and substantial hardship, close in time to the events.",
+    "Suffering can reinforce a cumulative case based on early appearance testimony, even if it is not decisive alone.",
+    "A real resurrection would naturally explain why witnesses remained convinced despite danger."
+   ],
+   "strongest_against": [
+    "Sincere mistaken belief also predicts that some people will persist despite danger.",
+    "The best early sources do not establish the detailed death-and-recantation story for most apostles.",
+    "Paul’s appearance list is not independent firsthand testimony from every person it names.",
+    "The argument adds less once early sincerity is already accepted; treating sincerity and willingness to suffer as fully independent evidence can double-count."
+   ],
+   "weak_arguments": {
+    "for": [
+     "“All twelve were offered freedom if they recanted and chose death”: the detailed claim is not established by the early evidence.",
+     "“Nobody dies for a lie”: people can die for beliefs they sincerely hold but that are false, and motives can be complex.",
+     "“Their suffering proves they saw a physically risen body”: suffering does not establish exactly what each person experienced."
+    ],
+    "against": [
+     "“People of other religions die for beliefs, so martyrdom is no evidence at all”: it can still count against deliberate insincerity.",
+     "“The later martyr stories are unreliable, so no early leader suffered”: Paul’s own letters directly describe serious hardship.",
+     "“A natural explanation is conceivable, so resurrection is disproved”: possibility alone does not establish what actually happened."
+    ]
+   },
+   "would_change": [
+    "Early, independently corroborated accounts showing several named eyewitnesses explicitly refusing opportunities to recant their own detailed testimony.",
+    "Early firsthand reports clarifying what multiple witnesses experienced and whether their experiences were independent.",
+    "Strong evidence that the relevant leaders knowingly fabricated their reports or that the reported martyrdoms were substantially invented.",
+    "A compelling argument about miracle priors or historical inference that substantially changes how the competing explanations should be weighted."
+   ],
+   "sources": [
+    {
+     "citation": "Paul, 1 Corinthians 15; 2 Corinthians 11; Galatians 1–2, first century CE",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts of the Apostles 12, first century CE",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Flavius Josephus, Jewish Antiquities, Book 20, c. 93–94 CE",
+     "kind": "primary"
+    },
+    {
+     "citation": "1 Clement, chapter 5, c. 95–100 CE",
+     "kind": "primary"
+    },
+    {
+     "citation": "N. T. Wright, The Resurrection of the Son of God, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Michael R. Licona, The Resurrection of Jesus: A New Historiographical Approach, 2010",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, How Jesus Became God, 2014",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Candida Moss, The Myth of Persecution, 2013",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "gpt",
+   "label": "GPT-6.1",
+   "model": "gpt-6.1-terra",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Demonstrates subjective sincerity, but provides weak evidence for an actual physical resurrection",
+   "credence": 20,
+   "confidence": "medium",
+   "bottom_line": "The disciples' willingness to suffer and die provides strong evidence that they sincerely believed Jesus was alive and had appeared to them, effectively refuting the hypothesis that Christianity originated as a deliberate hoax. However, profound sincerity does not establish the objective reality of an unprecedented biological miracle, as human history demonstrates that people across various faiths frequently endure suffering for deeply felt subjective, visionary, or mistaken convictions. Furthermore, critical historical analysis confirms martyrdom for only a few early leaders—most reliably Peter, Paul, and James—while the violent deaths of the other apostles rest on late, unreliable legends. Crucially, no historical evidence indicates that any disciple was ever offered the opportunity to save their life by recanting a specific claim of bodily resurrection. Consequently, while apostolic suffering proves unshakeable personal conviction, it constitutes weak evidence that a physical resurrection actually occurred.",
+   "sub_claims": [
+    {
+     "claim": "Several key leaders of the earliest Christian movement were martyred for their faith.",
+     "kind": "empirical",
+     "case_for": "Multiple independent 1st-century and early 2nd-century sources (Paul's letters, 1 Clement, Josephus' Antiquities, Tacitus' Annals) confirm that early Christians faced persecution and that prominent figures—most reliably Peter, Paul, James the brother of Jesus, and James the son of Zebedee—were executed by Roman or Jewish authorities.",
+     "case_against": "Outside of Peter, Paul, and the two Jameses, the martyrdom accounts of the remaining original apostles stem from late, 2nd- to 5th-century apocryphal acts that historians widely recognize as pious fiction and legend.",
+     "consensus": "Strong consensus among both secular and confessional historians (e.g., Sean McDowell) that Peter, Paul, and both Jameses were martyred, but the martyrdoms of most other disciples lack reliable historical evidence.",
+     "evidence": [
+      "Josephus, Antiquities 20.9.1",
+      "Tacitus, Annals 15.44",
+      "1 Clement 5:2-7",
+      "Acts 12:1-2",
+      "Sean McDowell, The Fate of the Apostles (2015)"
+     ],
+     "verdict": "Historically well-attested for key leaders, but legendary for the majority of the Twelve.",
+     "credence": 85
+    },
+    {
+     "claim": "The disciples were given opportunities to save their lives by specifically recanting their belief in Jesus' physical resurrection.",
+     "kind": "textual",
+     "case_for": "Later Roman legal practice (such as Pliny the Younger's correspondence with Trajan in 112 CE) demonstrates that accused Christians could obtain release by cursing Christ, offering incense to pagan gods, and recanting their profession.",
+     "case_against": "First-century Roman and Judean executions were punitive actions against perceived civil disruption, sedition, or temple law violations, rather than doctrinal inquisitions testing specific beliefs about Jesus' physical body; no 1st-century record shows an apostle being offered release in exchange for denying the resurrection.",
+     "consensus": "Broad historical consensus that 1st-century persecutions were sociopolitical and punitive, not doctrinal hearings offering recantation for specific sensory claims.",
+     "evidence": [
+      "Tacitus, Annals 15.44 (Christians executed as scapegoats for the Great Fire of Rome)",
+      "Josephus, Antiquities 20.9.1 (execution of James as a legal violation)",
+      "Pliny the Younger, Letters 10.96 (112 CE, testing civic loyalty rather than 1st-century apostolic claims)"
+     ],
+     "verdict": "Historically unsupported; anachronistically projects later Roman inquisitorial procedures onto 1st-century events.",
+     "credence": 15
+    },
+    {
+     "claim": "Willingness to endure persecution and death rules out deliberate fraud and establishes the disciples' sincere belief.",
+     "kind": "philosophical",
+     "case_for": "Human beings do not endure persistent social ostracism, physical hardship, imprisonment, and potential execution for a narrative they consciously fabricated; their willingness to suffer establishes that they genuinely believed their message.",
+     "case_against": "While willingness to suffer strongly counters the deliberate hoax hypothesis, cognitive dissonance, group commitment, and extreme sunk-cost dynamics can occasionally lead people to defend exaggerations or inherited commitments under external pressure.",
+     "consensus": "Near-universal consensus among both critical and confessional scholars that the original disciples genuinely and sincerely believed they had encountered the risen Jesus.",
+     "evidence": [
+      "1 Corinthians 15:3-8",
+      "2 Corinthians 11:23-28",
+      "E.P. Sanders, The Historical Figure of Jesus (affirming apostolic sincerity as historical bedrock)",
+      "Bart D. Ehrman, How Jesus Became God"
+     ],
+     "verdict": "Highly robust; effectively refutes the hypothesis of a conscious conspiracy or deliberate hoax.",
+     "credence": 90
+    },
+    {
+     "claim": "The disciples' sincere belief provides strong evidence that a biological, bodily resurrection occurred.",
+     "kind": "philosophical",
+     "case_for": "The disciples claimed prolonged, multi-sensory physical interaction with Jesus (eating, speaking, touching), which cannot easily be accounted for by momentary bereavement hallucinations or subjective visionary trances.",
+     "case_against": "Subjective visionary experiences, grief-induced bereavement apparitions, altered states of consciousness, and group emotional contagion frequently generate unshakeable convictions about supernatural events; sincerity cannot overcome the immense prior improbability of biological resurrection compared to documented psychological phenomena.",
+     "consensus": "Deeply divided along worldview lines: confessional scholars argue it forms strong cumulative evidence, while secular historians and philosophers hold that sincerity cannot establish a supernatural biological miracle over natural psychological alternatives.",
+     "evidence": [
+      "1 Corinthians 15:5-8 (where Paul equates the appearances to the apostles with his own visionary experience)",
+      "Psychological studies on bereavement hallucinations (experienced by 30-50% of grieving individuals)",
+      "David Hume, An Enquiry Concerning Human Understanding (Of Miracles)"
+     ],
+     "verdict": "Epistemologically invalid; sincerity of belief does not establish objective factual reality.",
+     "credence": 20
+    },
+    {
+     "claim": "The disciples' willingness to suffer is evidentially unique compared to martyrs of other religious movements.",
+     "kind": "empirical",
+     "case_for": "Christian apologists emphasize that while martyrs of other faiths die for beliefs received secondhand through tradition, the apostles were in a unique position to know firsthand whether their sensory encounters were genuine or fabricated.",
+     "case_against": "History records multiple instances of religious founders and direct witnesses who personally claimed firsthand supernatural encounters and willingly suffered persecution or death, including early Bábí leaders in 1850s Persia and early Mormon witnesses associated with Joseph Smith.",
+     "consensus": "Consensus among comparative religion scholars and historians that firsthand witnesses in diverse movements have demonstrated willingness to suffer and die for their visionary and supernatural claims.",
+     "evidence": [
+      "Martyrdom of the Báb and early Bábí disciples (Persia, 1848-1852)",
+      "Deaths of Joseph and Hyrum Smith and persecution of the Book of Mormon witnesses (1830s-1840s)",
+      "Sociological studies of high-commitment apocalyptic groups"
+     ],
+     "verdict": "Historically inaccurate; firsthand willingness to suffer for supernatural claims is not unique to Christianity.",
+     "credence": 25
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Whether willingness to suffer and die epistemically indicates the factual truth of an event or merely the subjective sincerity of the witness.",
+     "type": "definition",
+     "if_yes": "If witness sincerity reliably establishes the physical occurrence of extraordinary claims, then apostolic suffering is strong evidence for the resurrection.",
+     "if_no": "If sincerity only establishes that the witnesses were not lying, leaving psychological and visionary explanations open, then suffering provides weak evidence for a miraculous event.",
+     "your_view": "Willingness to die demonstrates sincerity, not accuracy; history and psychology show that sincere witnesses frequently misinterpret subjective internal experiences as external physical realities."
+    },
+    {
+     "crux": "What prior probability should be assigned to an unprecedented bodily resurrection compared to naturalistic psychological and sociological phenomena?",
+     "type": "prior",
+     "if_yes": "If one already holds a theistic worldview where divine intervention is plausible or expected, the disciples' sincere testimony can push the resurrection over the threshold of credibility.",
+     "if_no": "Under methodological naturalism or standard historical criteria, documented human phenomena like bereavement visions and cognitive dissonance are overwhelmingly more probable than a physical resurrection.",
+     "your_view": "Historical analysis must prioritize universally observed natural phenomena (grief hallucinations, religious visionary experiences, group dynamics) over singular suspensions of biological natural laws."
+    },
+    {
+     "crux": "Does the historical record demonstrate that the original apostles were executed specifically for refusing to recant their testimony of physical post-mortem encounters with Jesus?",
+     "type": "evidence",
+     "if_yes": "If reliable 1st-century judicial records proved that apostles were systematically offered life in exchange for retracting claims of physical contact with the risen Jesus, the evidential case would be significantly strengthened.",
+     "if_no": "Since early records document only a few executions driven by general sociopolitical hostility, and late apocryphal legends account for the rest, the claim lacks the evidential foundation claimed by popular apologetics.",
+     "your_view": "The historical evidence shows that only four early Christian leaders have well-documented martyrdoms, none of which are recorded as involving theological recantation offers regarding the resurrection."
+    }
+   ],
+   "strongest_for": [
+    "Rules out conscious fraud: The severe hardships, social stigmatization, imprisonment, and mortal peril endured by early Christian leaders decisively refute the hypothesis that the resurrection was an intentional hoax or conspiracy.",
+    "Firsthand witness position: Unlike modern martyrs who die for doctrines learned secondhand, the original disciples claimed direct, firsthand perceptual encounters with Jesus, anchoring their conviction in their own lived experiences.",
+    "Dramatic psychological transformation: The abrupt shift of the disciples from demoralized, fearful followers after the crucifixion into fearless public heralds facing hostility requires a powerful, experiential catalyst.",
+    "Early and independent attestation: Independent 1st-century sources (genuine Pauline epistles, Acts, Josephus, Clement of Rome) confirm that the earliest leadership endured genuine persecution and, in several prominent cases, violent execution."
+   ],
+   "strongest_against": [
+    "Sincerity does not equal factual truth: Willingness to die proves what individuals honestly believed, not what actually occurred; grief hallucinations, bereavement visions, and altered states of consciousness routinely produce unshakeable certainty without physical reality.",
+    "Lack of historical evidence for most martyrdoms: Rigorous historical investigation demonstrates that reliable evidence of martyrdom exists only for Peter, Paul, James the brother of Jesus, and James son of Zebedee; the violent deaths of the other apostles derive entirely from late, unreliable apocrypha.",
+    "Absence of recantation opportunities: First-century executions were punitive measures against alleged treason, public disorder, or religious subversion, not formal inquisitions offering release if the accused retracted claims of bodily resurrection.",
+    "Non-uniqueness of firsthand sacrifice: Leaders and initial followers in other religious and apocalyptic movements (e.g., early Bábís, early Mormons) have endured severe persecution, torture, and death based on direct claims of personal supernatural encounters.",
+    "Paul's visionary equivalence: The earliest written New Testament witness, Paul, lists his own heavenly, visionary encounter with the risen Jesus alongside the appearances to Peter, the Twelve, and the 500 without distinction (1 Corinthians 15:5-8), pointing toward visionary experiences rather than physical resuscitations."
+   ],
+   "weak_arguments": {
+    "for": [
+     "'No one dies for a lie': Fails because it presents a false dilemma between conscious deception and physical reality, completely ignoring sincere delusion, visionary experiences, and mistaken interpretations.",
+     "'All twelve apostles died agonizing deaths refusing to recant': Relies uncritically on 2nd- to 5th-century Christian romantic legends and apocryphal literature that modern historians reject as unhistorical.",
+     "'The disciples were offered their lives if they simply denied the resurrection': Anachronistically projects later Roman inquisitorial procedures (such as Pliny the Younger's 2nd-century trials) back onto 1st-century ad-hoc political executions.",
+     "'Collective hallucinations are clinically impossible': While simultaneous identical optical illusions are rare, shared religious ecstasy, charismatic emotional contagion, and post-event narrative alignment in tight-knit groups are well-documented psychological phenomena."
+    ],
+    "against": [
+     "'The disciples were cynical con men seeking wealth and power': Overwhelmingly contradicted by historical evidence; early Christian leaders lived in poverty, suffered severe social marginalization, and gained neither worldly authority nor material wealth.",
+     "'Martyrdom proves nothing because suicide bombers die for Islam too': Misses the critical apologetic distinction between dying for an inherited belief accepted on authority versus dying for claims of direct firsthand sensory perception.",
+     "'Jesus never existed and the apostles were entirely fictional': Universally rejected by mainstream academic historians; the historical existence of Jesus, his crucifixion under Pontius Pilate, and his primary disciples are secure historical facts.",
+     "'The Council of Nicaea and Constantine invented the martyrdoms and the resurrection': Demonstrably false; authentic mid-1st-century letters of Paul, early apostolic fathers, and 1st-century Roman historians document these traditions centuries before Nicaea."
+    ]
+   },
+   "would_change": [
+    "Discovery of authentic 1st-century Roman or Jewish judicial records showing that early apostles were formally tried and offered clemency specifically on the condition that they recant physical interactions with the risen Jesus.",
+    "Contemporary historical evidence confirming that all or most of the Twelve original disciples were executed specifically for their proclamation of the resurrection rather than for general civil disturbances.",
+    "Robust psychological or neuroscientific proof demonstrating that shared, multi-sensory visionary experiences within intimate, grief-stricken religious groups cannot occur under any circumstances.",
+    "Discovery of indisputable early 1st-century textual evidence demonstrating that the earliest apostolic proclamation was fundamentally based on physical, tangible contact (e.g., eating and touching) rather than visionary, heavenly exaltation."
+   ],
+   "sources": [
+    {
+     "citation": "Sean McDowell, The Fate of the Apostles: Examining the Martyrdom Accounts of the Closest Followers of Jesus, 2015",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee, 2014",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "E.P. Sanders, The Historical Figure of Jesus, 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N.T. Wright, The Resurrection of the Son of God, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Flavius Josephus, Antiquities of the Jews, c. 93-94 CE",
+     "kind": "primary"
+    },
+    {
+     "citation": "Tacitus, Annals, c. 116 CE",
+     "kind": "primary"
+    },
+    {
+     "citation": "Clement of Rome, First Epistle of Clement to the Corinthians (1 Clement), c. 96 CE",
+     "kind": "primary"
+    },
+    {
+     "citation": "Paul the Apostle, First Epistle to the Corinthians, c. 53-55 CE",
+     "kind": "scripture"
+    }
+   ],
+   "id": "gemini",
+   "label": "Gemini 3.8",
+   "model": "gemini-3.8-flash",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "No: it is evidence of sincerity for a few leaders, not strong evidence the resurrection happened",
+   "credence": 18,
+   "confidence": "medium",
+   "bottom_line": "Read as the claim that the disciples' willingness to suffer and die is strong evidence that Jesus really rose, the claim is probably false. Their commitment is decent evidence that some early leaders sincerely believed he had been raised, and it weighs against a deliberate hoax by those particular people. It does not strongly favor a bodily resurrection over visions, religious experience, or later storytelling, which are the live alternatives. Reliable evidence that most of the Twelve were killed for refusing to recant an eyewitness resurrection claim is thin; Peter and Paul are the clearest cases, and Paul was a later visionary convert. If the claim is weakened to 'useful evidence against fraud by those who died,' that narrower claim is much more plausible, around 60 percent.",
+   "sub_claims": [
+    {
+     "claim": "Peter and Paul were killed in connection with leading the Christian movement.",
+     "kind": "empirical",
+     "case_for": "First Clement, about 96 CE, says both suffered repeatedly, bore witness, and died; later Roman tradition (Origen via Eusebius) specifies Peter's death in Rome and Paul's execution. Tacitus independently attests lethal Nero-era persecution of Christians in Rome. No early source has them recanting.",
+     "case_against": "Clement is vague and does not say they were executed for refusing to deny the resurrection. Acts never narrates Paul's death. Details such as upside-down crucifixion come from later apocryphal acts. Dying as a Christian leader is not the same as dying in a documented recantation test.",
+     "consensus": "Broad agreement among confessional and critical scholars that Peter and Paul died as martyrs or in persecution; disagreement on how much the later details can be trusted.",
+     "evidence": [
+      "1 Clement 5 describes Peter and Paul suffering and dying after their ministry",
+      "Tacitus, Annals 15.44, reports Nero's lethal punishment of Roman Christians",
+      "Eusebius, Ecclesiastical History 2.25 and 3.1, preserves the Rome execution tradition",
+      "Acts ends with Paul alive and does not record a resurrection recantation scene"
+     ],
+     "verdict": "Probably true that both died as Christian leaders; the precise legal cause is not documented",
+     "credence": 78
+    },
+    {
+     "claim": "Most of the Twelve have reliable martyrdom accounts tied to resurrection testimony.",
+     "kind": "empirical",
+     "case_for": "Church tradition assigns a martyr's death to nearly every apostle, and conservative studies such as Sean McDowell's grade several as more likely than not. James son of Zebedee is killed in Acts 12:2. A movement that produced some real martyrs could have produced more whose records were lost.",
+     "case_against": "The spectacular catalogue (flaying, crucifixion in distant lands, and so on) comes mainly from second- to fourth-century apocryphal acts, which are hagiography. Critical historians treat most of those deaths as legend. Even Acts 12 does not say James was killed for refusing to deny a resurrection appearance.",
+     "consensus": "Critical scholars generally hold that martyrdom is well supported only for a few figures, especially Peter and Paul, not for most of the Twelve. Confessional scholars are more optimistic but the careful ones still grade the evidence as uneven.",
+     "evidence": [
+      "Acts 12:2 notes James son of Zebedee's execution with no resurrection trial",
+      "Josephus, Antiquities 20.200, says James the brother of Jesus was stoned as a lawbreaker, not that he refused to recant an appearance",
+      "Later apocryphal Acts supply most of the graphic apostle-martyr stories",
+      "Sean McDowell, The Fate of the Apostles (2015), rates the evidence as strong for only a small subset"
+     ],
+     "verdict": "The popular 'all twelve were martyred for the resurrection' claim is probably false",
+     "credence": 18
+    },
+    {
+     "claim": "Where death is historical, it is good evidence those people sincerely believed Jesus had been raised.",
+     "kind": "mixed",
+     "case_for": "Ordinary self-interest makes it unlikely that the inventors of a known hoax would keep preaching it through prison, beating, and execution when quitting was available. Early Christian texts present resurrection proclamation as the offense that drew hostility. Sincerity is the best explanation of costly persistence.",
+     "case_against": "People die for identity, honor, community, and eschatological hope, not only for one empirical proposition. Pliny tests Christians by sacrifice to the emperor, not by a resurrection quiz. Motives can be mixed, and some may have died for the movement rather than for a specific appearance claim. Paul already believed on the basis of a vision, so his death shows conviction about an experience, not that a corpse revived.",
+     "consensus": "Both confessional apologists (Craig, Habermas, Licona) and many critics (Ehrman) agree martyrdom shows belief more than it shows truth. They split on what follows from that belief.",
+     "evidence": [
+      "Pliny, Epistles 10.96, releases those who sacrifice to the gods; the test is cultic loyalty",
+      "1 Corinthians 15 shows resurrection belief was central very early",
+      "No early transcript records 'deny that you saw him alive and you may go'",
+      "Paul's own letters describe beatings and danger borne for a gospel he traces to a revelation"
+     ],
+     "verdict": "Mostly true as evidence of sincere conviction, with a real gap between 'died as a Christian' and 'died rather than admit a hoax'",
+     "credence": 70
+    },
+    {
+     "claim": "Sincere conviction by alleged eyewitnesses is strong evidence they were not mistaken and that a bodily resurrection occurred.",
+     "kind": "philosophical",
+     "case_for": "If several companions really saw, touched, and ate with a previously dead Jesus over many days, they were in a position to know a fabricated body was absent. Sincerity plus that kind of access would leave conscious fraud as the main alternative, and their deaths make fraud a poor fit. Group testimony is harder to reduce to one person's grief hallucination.",
+     "case_against": "Sincerity never entails truth. People die for false religious beliefs they find subjectively certain, including visions. The texts do not securely show that every martyr had a prolonged, checkable, physical encounter rather than an appearance, a vision, or a trusted report. Paul equates his visionary experience with the earlier appearances in 1 Corinthians 15, which undercuts a sharp 'they could not have been mistaken' line. Legend can also attach martyrdoms to a belief that began with a smaller set of experiences.",
+     "consensus": "No consensus. Wright, Craig, Licona, and Swinburne treat eyewitness conviction as powerful inside a cumulative case. Ehrman, Lüdemann, Fredriksen, and most historical-Jesus scholars treat it as evidence of experiences or beliefs, not of a revived corpse. Allison takes the appearances seriously while refusing to treat martyrdom as proof.",
+     "evidence": [
+      "1 Corinthians 15:3-8 is early but is a belief list, not a set of examined depositions",
+      "Dale Allison, The Resurrection of Jesus (2021), finds simple hallucination theories incomplete without inferring proof from martyrdom",
+      "Comparative cases of high-cost false religious conviction are abundant",
+      "Even leading apologists often say martyrdom proves sincerity and then need a separate argument that the experiences could not be visions"
+     ],
+     "verdict": "This inference is not strong; it mainly damages the hoax theory",
+     "credence": 22
+    },
+    {
+     "claim": "This datum substantially raises the probability of the resurrection over the best competing explanations.",
+     "kind": "philosophical",
+     "case_for": "On a Bayesian reading, willingness to die has a higher likelihood if the preachers believed a real appearance claim than if they knew it was false. If fraud was otherwise a leading alternative, removing it matters. In Swinburne's and Craig's cumulative cases, costly conviction is one tile among early creed, appearances, and empty-tomb traditions.",
+     "case_against": "The likelihood is also high if they sincerely believed a vision or a developing tradition. Evidence that is expected under both the resurrection hypothesis and the best naturalistic alternatives has a likelihood ratio near 1 and is not strong evidence for the resurrection. Fraud is not the strongest rival once the early creed and the diversity of appearance reports are granted.",
+     "consensus": "Christian philosophers of religion often give the cumulative case, including this point, substantial weight. Critical historians, working with methodological naturalism or with a high bar for miracles, generally do not. The split tracks priors as well as the martyrdom evidence itself.",
+     "evidence": [
+      "Gary Habermas includes disciples' willingness to die among his 'minimal facts'",
+      "N.T. Wright, The Resurrection of the Son of God (2003), builds the case on belief and appearances more than on a martyr catalogue",
+      "Critics note Muslims, political militants, and other religious devotees also accept death for false or unverifiable claims",
+      "The argument is widely judged non-diagnostic between resurrection and sincere religious experience"
+     ],
+     "verdict": "It modestly hurts fraud and does little against sincere-error explanations, so it is not strong evidence that the resurrection happened",
+     "credence": 20
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Must 'strong evidence that the resurrection happened' favor resurrection over sincere error and vision, or is it enough that the evidence hurts a deliberate hoax?",
+     "type": "definition",
+     "if_yes": "The claim fails: martyrdom is largely a sincerity test and is weak against visions and tradition.",
+     "if_no": "The point can be called strong against fraud, but that is a different, narrower claim than the one being tested.",
+     "your_view": "Strong evidence for the event must discriminate the event from the live alternatives. Beating only the hoax theory is not enough."
+    },
+    {
+     "crux": "Were those who died given a clear chance to save themselves by admitting they had not seen Jesus alive, and did they refuse?",
+     "type": "evidence",
+     "if_yes": "The anti-fraud argument becomes much better, though it still would not by itself prove the experiences matched a bodily resurrection.",
+     "if_no": "Costly Christian commitment shows loyalty to a movement more than verification of an empirical claim.",
+     "your_view": "That recantation bargain is not in the early sources. Persecution tests that we do have, such as Pliny's, target cultic loyalty."
+    },
+    {
+     "crux": "Can people be subjectively certain, even in groups, of false religious experiences and still die for them?",
+     "type": "philosophical",
+     "if_yes": "Willingness to die is poor evidence that the believed content was true.",
+     "if_no": "Eyewitness certainty under threat would be much stronger evidence that something overwhelming happened.",
+     "your_view": "Yes. High subjective certainty and willingness to suffer are common in false religious and visionary beliefs. Group reports make individual grief-hallucination less tidy; they do not establish a revived body."
+    },
+    {
+     "crux": "Before this evidence, how plausible is a bodily resurrection?",
+     "type": "prior",
+     "if_yes": "If miracles of this kind are already reasonably plausible, costly eyewitness conviction can sit inside a cumulative case that some philosophers will call strong.",
+     "if_no": "If such events are extraordinarily unlikely, or if history cannot certify miracles, martyrdom cannot carry the conclusion.",
+     "your_view": "Even granting that miracles are possible, this particular fact barely separates a miracle from sincere religious experience, so the prior does not rescue the claim."
+    }
+   ],
+   "strongest_for": [
+    "The anti-fraud point is real: people who know they invented a physical resurrection are poor candidates for voluntary execution when silence or recantation would do.",
+    "1 Corinthians 15 shows that resurrection belief, tied to named witnesses, formed very early, so the conviction being died for was not a late legend in its core.",
+    "Peter and Paul almost certainly suffered death as Christian leaders, and James the brother of Jesus was executed; costly commitment is not pure later fiction.",
+    "If the appearances were extended, multi-person, physical interactions rather than visions, sincerity would be hard to square with mistake; that is the steelmanned form of the argument.",
+    "Sophisticated defenders do not rest on martyrdom alone; they embed it in an early creed, appearance claims, and the rise of the movement."
+   ],
+   "strongest_against": [
+    "Dying for a belief is common and does not show the belief is true; the slogan 'nobody dies for a lie' confuses a known lie with a sincere error.",
+    "The evidence does not establish that most disciples died, or that any of them died in a documented 'recant the resurrection or live' test.",
+    "Paul, one of the two best martyrdom cases, was not a companion of the earthly Jesus and bases his claim on a revelation, which is exactly the kind of experience one can be certain about and wrong about.",
+    "The same costly conviction is expected if the disciples had vivid visions or inherited a community conviction, so the likelihood ratio against those rivals is weak.",
+    "Later martyr stories grew more detailed and spectacular as they became less historical, which is the opposite of what a careful evidential argument needs."
+   ],
+   "weak_arguments": {
+    "for": [
+     "'All twelve died terrible deaths and none ever recanted' overclaims the sources; most names enter through late apocryphal acts, and recantation scenes are missing.",
+     "'Nobody dies for a lie, therefore the resurrection happened' erases the difference between fraud and honest mistake and ignores deaths for other false beliefs.",
+     "Treating Acts' portrait of cowardly disciples turned fearless as independent proof is weak, because that contrast is itself a theological story in the same tradition that proclaims the resurrection."
+    ],
+    "against": [
+     "'No disciple was ever martyred; it is all myth' is too strong. Peter and Paul are well enough attested, and Nero's persecution is not Christian propaganda.",
+     "'Muslim or political martyrs make the evidence worth zero' ignores a real difference between dying for inherited doctrine and dying for a claim one allegedly witnessed. The difference hurts fraud; it just does not prove the resurrection.",
+     "'They were simply crazy' is an unsupported diagnosis and a worse explanation than sincere religious experience or visionary conviction."
+    ]
+   },
+   "would_change": [
+    "An early, independent report that named primary witnesses were offered life if they admitted they had not seen Jesus alive and publicly refused would substantially strengthen the anti-fraud case.",
+    "Hostile contemporary testimony that a publicly identifiable risen Jesus was seen over time by people later executed for that testimony would raise the credence that this willingness is strong evidence.",
+    "Clear early evidence that the martyrs themselves described only private visions, or that a primary witness retracted the physical-appearance claim, would drop even the sincerity-to-truth inference further.",
+    "A first-century dossier establishing martyrdom-for-resurrection-testimony for most of the Twelve, rather than later legend, would make the empirical premise much stronger, though the philosophical gap would remain."
+   ],
+   "sources": [
+    {
+     "citation": "Paul, 1 Corinthians 15:3-8 (c. 53-55 CE, citing earlier tradition)",
+     "kind": "scripture"
+    },
+    {
+     "citation": "1 Clement 5 (c. 96)",
+     "kind": "primary"
+    },
+    {
+     "citation": "Josephus, Antiquities of the Jews 20.200 (c. 93)",
+     "kind": "primary"
+    },
+    {
+     "citation": "Tacitus, Annals 15.44",
+     "kind": "primary"
+    },
+    {
+     "citation": "Pliny the Younger, Epistles 10.96 (c. 112)",
+     "kind": "primary"
+    },
+    {
+     "citation": "Eusebius, Ecclesiastical History 2.25 and 3.1",
+     "kind": "primary"
+    },
+    {
+     "citation": "N. T. Wright, The Resurrection of the Son of God (2003)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gary R. Habermas and Michael R. Licona, The Case for the Resurrection of Jesus (2004)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Michael R. Licona, The Resurrection of Jesus: A New Historiographical Approach (2010)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Swinburne, The Resurrection of God Incarnate (2003)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison Jr., The Resurrection of Jesus: Apologetics, Polemics, History (2021)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, How Jesus Became God (2014)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gerd Lüdemann, The Resurrection of Jesus: History, Experience, Theology (1994)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "E. P. Sanders, The Historical Figure of Jesus (1993)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Sean McDowell, The Fate of the Apostles (2015)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Candida Moss, The Myth of Persecution (2013)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "William Lane Craig, Assessing the New Testament Evidence for the Historicity of the Resurrection of Jesus (1989)",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "grok",
+   "label": "Grok 4.7",
+   "model": "grok-4.7",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Weak-to-modest evidence: it shows the earliest witnesses sincerely believed, not that the belief was true",
+   "credence": 13,
+   "confidence": "medium",
+   "bottom_line": "The disciples' willingness to suffer is good evidence for one thing: that the earliest Christian leaders sincerely believed they had experiences of the risen Jesus, which largely rules out deliberate fraud. Most historians already grant this sincerity, including skeptics like Ehrman and Lüdemann. But sincerity does not tell sincere-and-correct apart from sincere-and-mistaken. Visionary or grief-related experiences, reinforced by group dynamics and interpretation through Jewish resurrection hope, predict the same suffering and steadfastness. The martyrdom record is also thinner than popular apologetics suggest: a few deaths are reasonably attested (James son of Zebedee, probably Peter, Paul, and James the brother of Jesus), but most of the Twelve's fates rest on late legend. Even there, we rarely know that a recantation was offered and refused. So the argument is a useful piece in a larger cumulative case, but by itself it is not strong evidence for a resurrection. How much it moves you depends heavily on your prior about miracles and on how plausible you find naturalistic accounts of the appearance experiences.",
+   "sub_claims": [
+    {
+     "claim": "The earliest disciples (Peter, the Twelve, James, Paul) sincerely believed they had seen Jesus alive after his death.",
+     "kind": "empirical",
+     "case_for": "1 Cor 15:3-8 preserves a very early creed, commonly dated to within a few years of the crucifixion, that lists named witnesses. Paul personally knew Peter and James (Gal 1:18-19). The movement arose quickly around the claim that Jesus had been raised. Nothing in the record suggests a cynical motive, since the belief brought hardship rather than wealth or power.",
+     "case_against": "Our evidence comes almost entirely from believers' texts written decades later, apart from Paul. Paul is the only first-hand witness whose writings we have, and he describes his own experience in visionary terms (Gal 1:16; 2 Cor 12). The details of the appearances are inconsistent across the Gospels.",
+     "consensus": "Broad consensus across confessional and secular scholars that the disciples sincerely believed they had post-mortem experiences of Jesus. E.P. Sanders calls this 'a fact'; Ehrman, Lüdemann, Fredriksen, Allison, Wright and Licona all accept it, though they disagree on what caused the experiences.",
+     "evidence": [
+      "1 Cor 15:3-8 (early creed of appearances)",
+      "Gal 1:18-19 (Paul meets Peter and James)",
+      "Rapid emergence of resurrection proclamation",
+      "Paul's own account of seeing the Lord (1 Cor 9:1; 15:8)"
+     ],
+     "verdict": "Very likely true",
+     "credence": 90
+    },
+    {
+     "claim": "Key witnesses actually suffered and died for their testimony, with the option to recant.",
+     "kind": "textual",
+     "case_for": "Each of the following has early or reasonable attestation. James son of Zebedee was executed by Herod Agrippa I (Acts 12:2). Peter's death is alluded to in John 21:18-19 and 1 Clement 5. Paul's death is implied in 1 Clement 5. Josephus (Ant. 20.200) records the stoning of James the brother of Jesus around 62 CE. Paul catalogues beatings and imprisonments (2 Cor 11:23-27). Persecution of early believers is widely attested (Acts; Paul's own former role as persecutor; Tacitus on Nero).",
+     "case_against": "Martyrdom stories for most of the Twelve (Thomas, Andrew, Bartholomew, Matthew, etc.) are late and legendary. None of the attested deaths comes with a reliable record of a recantation offer specifically about the resurrection. Josephus says James was charged as a lawbreaker, not for resurrection testimony. Candida Moss argues that early Christian martyrdom traditions were heavily shaped and expanded later.",
+     "consensus": "No consensus on details. Even Sean McDowell, a sympathetic apologist, rates Peter, Paul and the two Jameses as probable or very probable martyrs but finds most others uncertain or improbable. Critical scholars accept persecution in general but are skeptical of most individual martyr accounts.",
+     "evidence": [
+      "Acts 12:2",
+      "John 21:18-19",
+      "1 Clement 5",
+      "Josephus, Antiquities 20.200",
+      "2 Cor 11:23-27",
+      "Tacitus, Annals 15.44 (Neronian persecution)"
+     ],
+     "verdict": "Partly true: suffering is well attested and a few deaths are probable, but 'died refusing to recant the resurrection' is mostly unattested",
+     "credence": 40
+    },
+    {
+     "claim": "Their suffering rules out deliberate fabrication by the leaders.",
+     "kind": "philosophical",
+     "case_for": "People rarely endure prolonged hardship and death for what they know to be a lie, especially with no material gain. Conspiracies of many people under pressure tend to break.",
+     "case_against": "Not all conspirators need to be under pressure, and we lack evidence for most individuals. Still, the fraud hypothesis is weak on independent grounds as well.",
+     "consensus": "Near-universal among scholars, both skeptical and confessional, that conscious fraud by the core witnesses is implausible. Few modern critical scholars defend a conspiracy theory.",
+     "evidence": [
+      "Absence of any recantation tradition",
+      "Paul's and James's conversions from outsider positions",
+      "Ongoing hardship (2 Cor 11)"
+     ],
+     "verdict": "Likely true; this is the argument's genuine contribution",
+     "credence": 85
+    },
+    {
+     "claim": "Sincere belief by alleged eyewitnesses, held to the point of suffering, strongly favours an actual resurrection over natural explanations.",
+     "kind": "philosophical",
+     "case_for": "The witnesses were in a position to know: unlike later martyrs who die for inherited beliefs, they claimed direct experience. The reports include group appearances (the Twelve, 'more than 500'), a skeptic (James) and an enemy (Paul) converting. Proponents say hallucination hypotheses struggle with these features and with the claim of bodily resurrection rather than mere visions or exaltation.",
+     "case_against": "Sincere, life-shaping conviction based on visions or perceived encounters is well documented: bereavement experiences, religious visions, Marian apparitions. Group movements have maintained claims despite cost, for example the Book of Mormon witnesses who never recanted, Joseph Smith's death, and Sabbatai Zevi's followers. The 'position to know' depends on the nature of the experience. Visionary experiences can feel compellingly real. Group reports may compress or embellish individual experiences. The evidence is equally expected under 'sincere and correct' and 'sincere and mistaken', so it does little to discriminate between them.",
+     "consensus": "Divided along predictable lines. Wright, Licona and Habermas see the sincere appearance beliefs as best explained by resurrection, though they rest the case more on the empty tomb and the appearances than on martyrdom. Ehrman, Lüdemann and most secular historians attribute the beliefs to visions or other natural causes. Dale Allison, a Christian scholar, argues the historical evidence cannot settle the question and criticises apologists for overstating arguments like this one. Methodological naturalism in the academy shapes the secular side; prior faith commitments shape the confessional side.",
+     "evidence": [
+      "Ehrman's bereavement-vision analysis in How Jesus Became God",
+      "Allison's survey of apparition and bereavement literature",
+      "Book of Mormon Three and Eight Witnesses",
+      "Paul's visionary language (2 Cor 12:1-4; Acts 26:19)"
+     ],
+     "verdict": "Unlikely as stated; the inference from sincerity to truth is weak",
+     "credence": 18
+    },
+    {
+     "claim": "The disciples' martyrdom is evidentially distinctive compared with martyrs of other religions.",
+     "kind": "philosophical",
+     "case_for": "Later martyrs (Christian, Muslim, or others) die for beliefs received from others. The apostles claimed to be the original sources, so their willingness tests sincerity about a first-hand experience rather than loyalty to a tradition.",
+     "case_against": "This distinctiveness only establishes sincerity about the experience, which is already granted. It doesn't establish that the experience was veridical. Founders and first-hand visionaries in other movements also endured hardship.",
+     "consensus": "Apologists (McDowell, Licona) emphasise this distinction and correctly note that it answers the 'many people die for false beliefs' objection. Critics reply that it answers only the fraud question.",
+     "evidence": [
+      "McDowell, The Fate of the Apostles",
+      "Comparison with the Book of Mormon witnesses"
+     ],
+     "verdict": "True but limited in consequence",
+     "credence": 60
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "How low is the prior probability of a miraculous resurrection, before looking at the evidence?",
+     "type": "prior",
+     "if_yes": "If miracles are extremely improbable (a Humean prior), sincere testimony, however costly, is easily outweighed by natural explanations, and this argument barely moves the needle.",
+     "if_no": "If one already thinks God exists and might raise Jesus, sincere eyewitness belief becomes meaningful corroboration within a larger case.",
+     "your_view": "Even on a theistic prior, this specific argument mainly tests sincerity. Its marginal contribution is modest either way."
+    },
+    {
+     "crux": "Can natural mechanisms (visions, bereavement experiences, group dynamics, legendary growth) plausibly account for the reported appearances, including the group appearances and Paul's and James's conversions?",
+     "type": "evidence",
+     "if_yes": "Sincerity plus suffering is fully expected without a resurrection, so it is weak evidence.",
+     "if_no": "If the experiences resist natural explanation, sincerity becomes more significant, though the work is then being done by the appearance reports, not the martyrdom.",
+     "your_view": "Natural explanations are reasonably plausible given documented visionary and bereavement phenomena. The 'more than 500' and group reports are thinly attested and could reflect compression or embellishment."
+    },
+    {
+     "crux": "Did the witnesses actually die specifically for refusing to recant first-hand resurrection testimony?",
+     "type": "evidence",
+     "if_yes": "The argument gains force against fraud and against casual or lukewarm belief, but still doesn't separate truth from sincere error.",
+     "if_no": "The argument shrinks to 'they suffered for a movement they believed in', which is common across religions.",
+     "your_view": "Mostly no for the Twelve. A few deaths are probable, but recantation scenarios are unattested."
+    },
+    {
+     "crux": "Does 'strong evidence' mean evidence that substantially favours resurrection over its best rivals, or merely evidence that rules out lying?",
+     "type": "definition",
+     "if_yes": "Under the first reading (scored here), the claim is weak.",
+     "if_no": "Under the narrower 'rules out deliberate fraud' reading, the claim would score around 80.",
+     "your_view": "The claim says 'really rose', so the first reading is correct."
+    }
+   ],
+   "strongest_for": [
+    "The witnesses claimed first-hand experience, so their endurance tests sincerity about a direct event, not loyalty to inherited tradition.",
+    "Deliberate fabrication is very hard to sustain given persecution and the absence of any recantation tradition.",
+    "A former skeptic (James) and a persecutor (Paul) joined the movement and faced death, which is harder to explain as wishful thinking within a loyal circle.",
+    "The movement's early leaders accepted hardship with no apparent material benefit, consistent with deep conviction."
+   ],
+   "strongest_against": [
+    "Sincere belief does not discriminate between a real resurrection and sincere but mistaken experiences such as visions, bereavement apparitions or ecstatic group experiences.",
+    "Most apostolic martyrdom traditions are late and legendary. The attested deaths rarely involve a documented choice to recant the resurrection specifically.",
+    "Analogues exist: the Book of Mormon witnesses maintained their testimony despite cost, and first-hand founders of other movements suffered for their claims.",
+    "The argument's real work is ruling out fraud, a hypothesis few scholars hold anyway, so it adds little toward resurrection over its serious rivals.",
+    "Even sympathetic scholars (McDowell, Allison) concede martyrdom shows sincerity rather than truth."
+   ],
+   "weak_arguments": {
+    "for": [
+     "'All twelve apostles died as martyrs': most of these traditions are late and unreliable.",
+     "'Nobody dies for a lie, so it must be true': this confuses not lying with being correct.",
+     "'Each apostle was offered the chance to recant and refused': there is no reliable record of such offers for most of them.",
+     "'The 500 witnesses could have been checked': this is a single unelaborated line in Paul. We don't know who they were, and there is no record of anyone checking."
+    ],
+    "against": [
+     "'People of every religion die for their faith, so this proves nothing': this ignores the first-hand witness distinction, which does answer the fraud question.",
+     "'The disciples never existed or never claimed to see Jesus': this contradicts strong early evidence such as 1 Cor 15 and Galatians.",
+     "'They were all lying for power or money': the record shows hardship, not gain, and few scholars defend fraud.",
+     "'Martyrdom is entirely invented by later Christians' (overreading Moss): the deaths of James son of Zebedee, James the brother of Jesus, and probably Peter and Paul have reasonable early attestation."
+    ]
+   },
+   "would_change": [
+    "Early, independent records showing named witnesses explicitly refusing to recant a claim about a physical, touchable risen Jesus, rather than visions, under threat of death.",
+    "Strong evidence that the group appearances were well-documented, independent and inexplicable by visionary or social mechanisms.",
+    "Independent evidence for the empty tomb strong enough to make visionary explanations clearly insufficient. This would shift weight to the overall case rather than to martyrdom as such.",
+    "Conversely, evidence that key witnesses recanted, or that early resurrection belief was explicitly purely visionary, would lower the credence further."
+   ],
+   "sources": [
+    {
+     "citation": "Sean McDowell, The Fate of the Apostles, 2015",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Candida Moss, The Myth of Persecution, 2013",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N.T. Wright, The Resurrection of the Son of God, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Michael R. Licona, The Resurrection of Jesus: A New Historiographical Approach, 2010",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gary R. Habermas and Michael R. Licona, The Case for the Resurrection of Jesus, 2004",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison Jr., The Resurrection of Jesus: Apologetics, Polemics, History, 2021",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, How Jesus Became God, 2014",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gerd Lüdemann, The Resurrection of Jesus: History, Experience, Theology, 1994",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "E.P. Sanders, The Historical Figure of Jesus, 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "1 Corinthians 15:3-8; Galatians 1:18-19; 2 Corinthians 11:23-27; Acts 12:2; John 21:18-19",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Josephus, Jewish Antiquities 20.200",
+     "kind": "primary"
+    },
+    {
+     "citation": "1 Clement 5",
+     "kind": "primary"
+    },
+    {
+     "citation": "David Hume, 'Of Miracles', in An Enquiry Concerning Human Understanding, 1748",
+     "kind": "other"
+    }
+   ],
+   "id": "opus",
+   "label": "Opus 5.5",
+   "model": "claude-opus-5-5",
+   "via": "claude"
+  }
+ ],
+ "stats": {
+  "mean": 16.5,
+  "median": 16.5,
+  "min": 13,
+  "max": 20,
+  "spread": 7
+ },
+ "synthesis": {
+  "summary": "All four reviews conclude that the disciples’ willingness to suffer is not, by itself, strong evidence that Jesus rose bodily from the dead. They distinguish evidence of sincere belief, which can count against deliberate fraud, from evidence that the belief was correct. They agree that some early leaders suffered and that a few deaths have meaningful historical support, but that accounts for most of the Twelve are much less secure. They also find no reliable early account establishing a choice between recanting a specific resurrection claim and being spared. Their differences concern chiefly how strongly the evidence establishes sincerity, how securely particular deaths are attested, and how historical method and prior beliefs about miracles should affect the inference. All describe their verdict as mixed, with medium confidence and credences of 13–20% for the strong-evidence claim.",
+  "agreement": "high",
+  "agreed": [
+   "Costly persistence supports sincere conviction and counts against conscious fabrication, at least for some early leaders.",
+   "Sincerity does not establish truth: mistaken experiences or interpretations could also produce steadfast belief.",
+   "Paul’s letters provide early evidence of both resurrection belief and serious hardship; a few early leaders’ deaths have historical support.",
+   "The familiar claim that most or all of the Twelve died rather than recant their own resurrection testimony is not established by the early evidence.",
+   "Suffering may contribute to a broader cumulative case, but it does little by itself to distinguish resurrection from sincere error.",
+   "Better early evidence of named witnesses’ experiences and explicit refusals to recant would strengthen the case, especially against fraud."
+  ],
+  "disagreed": [
+   {
+    "point": "Strength of the inference to sincerity and against fraud",
+    "positions": "Gemini says the evidence effectively refutes a deliberate hoax and demonstrates unshakeable conviction, while acknowledging possible complications. Opus says it largely rules out fraud. GPT-6.1 and Grok are more qualified, emphasizing evidence for sincerity among some leaders and uncertainty about individuals’ motives and opportunities to recant; Grok gives the narrower anti-fraud claim about 60% credence, compared with Opus’s roughly 80% for a similar reading."
+   },
+   {
+    "point": "Certainty and scope of the death accounts",
+    "positions": "Gemini treats the martyrdoms of Peter, Paul and both Jameses as well attested, and the remaining apostles’ violent deaths as legendary. Opus regards James son of Zebedee’s execution as reasonably attested and the deaths of Peter, Paul and James the brother of Jesus as probable. GPT-6.1 emphasizes varying source quality and uncertain motives, while Grok identifies Peter and Paul as the clearest cases and stresses that their precise legal circumstances are undocumented."
+   },
+   {
+    "point": "Historical method and prior probability",
+    "positions": "Gemini argues that historical analysis should prioritize documented natural phenomena over a biological miracle. GPT-6.1 emphasizes reasonable disagreement about miracle priors and whether history can establish a miracle. Grok and Opus also recognize the importance of priors, but stress that this particular evidence remains weakly discriminating even on a more favorable theistic prior."
+   },
+   {
+    "point": "The disciples’ transformation",
+    "positions": "Gemini lists a shift from fearful followers to fearless heralds as a strong point for the argument. Grok cautions that Acts’ portrait of this transformation is itself part of the tradition and is weak as independent proof."
+   },
+   {
+    "point": "Distinctiveness of firsthand witnesses",
+    "positions": "Opus regards firsthand status as a real but limited distinction from dying for an inherited belief; Grok and Gemini also acknowledge its relevance against fraud. Gemini emphasizes that firsthand claimants in other movements have likewise suffered, so the sacrifice is not unique to Christianity. These emphases are compatible rather than a clear contradiction."
+   }
+  ],
+  "deciding_cruxes": [
+   "Whether strong evidence must distinguish a real resurrection from sincere error, or whether substantially weakening a fraud hypothesis is enough.",
+   "How reliably named witnesses’ suffering, deaths, specific testimony and opportunities to recant can be established.",
+   "Whether the reported experiences can plausibly be explained by visions, grief, group dynamics or developing traditions, including reported group appearances.",
+   "How prior beliefs about divine action and views of historical inference affect the weight of the wider evidence.",
+   "How much suffering adds once sincere early belief is already accepted, rather than counting the same evidence twice."
+  ],
+  "what_is_settled": "The reviews agree that early sources report resurrection appearances and that Paul described substantial hardship. They accept that at least some early followers sincerely believed Jesus had appeared to them and that some leaders suffered; they also agree that the detailed claim that most apostles chose death over recanting their firsthand resurrection testimony is not established.",
+  "what_is_open": "The precise experiences and motives of individual followers, the circumstances of several deaths, and the historical reliability of later martyrdom accounts remain disputed or uncertain. Whether the wider appearance evidence favors resurrection over natural explanations, and how much weight to give a miracle, depends on contested evidence, historical method and prior commitments.",
+  "model": "gpt-6.1-terra"
+ }
+}

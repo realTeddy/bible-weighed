@@ -1,0 +1,140 @@
+{
+  "kind": "philosophical",
+  "verdict": "Probably false: suffering is real, though not decisive, evidence against the biblical God",
+  "credence": 25,
+  "confidence": "medium",
+  "bottom_line": "Most philosophers, including many theists, agree that the 'logical' problem of evil fails: no one has shown that God and evil are strictly contradictory. The 'evidential' problem is a different question. It asks whether the amount, kinds and distribution of suffering we observe are less expected if an all-powerful, perfectly loving God exists than if no such God exists. On that question the case against the claim is fairly strong. The world's suffering, such as hundreds of millions of years of animal predation and disease, and childhood cancers, does not fit closely with what theodicies predict, so even a modest likelihood gap counts as some evidence. The main theist reply, skeptical theism, says we cannot judge what reasons God might have. It blocks this inference only at significant cost, because it also undercuts our ability to infer God's purposes elsewhere. Evil is therefore probably meaningful evidence against the biblical God, though it can be outweighed by other evidence, and how much it weighs depends on priors and on how much one trusts our moral judgment about divine reasons.",
+  "sub_claims": [
+    {
+      "claim": "Evil and the biblical God are not logically incompatible (the logical problem of evil fails).",
+      "kind": "philosophical",
+      "case_for": "A free-will defense only needs a possible morally sufficient reason, not an actual or known one. Plantinga argued it is possible that every world containing free creatures who do significant good also contains moral evil, so no contradiction follows.",
+      "case_against": "Some argue that heaven, or a world of creatures who are free yet always choose rightly, shows God could have had freedom without evil. Others argue that horrendous natural evils are not covered by free-will defenses unless one adds speculative demonic agency.",
+      "consensus": "Broad consensus among philosophers of religion, theist and atheist alike, that the strict logical argument (Mackie 1955 version) is not successful. A minority (e.g., some recent defenders like Sterba) dissent.",
+      "evidence": ["Plantinga's free-will defense (1974)", "Mackie's 1982 concession in The Miracle of Theism that the problem 'does not... show that the central doctrines of theism are logically inconsistent with one another'", "Shift of the literature after Rowe (1979) to evidential versions"],
+      "verdict": "Very likely true, but it does not settle the claim being tested",
+      "credence": 85
+    },
+    {
+      "claim": "The observed amount and distribution of suffering is less probable on theism than on naturalism (likelihood ratio favors naturalism).",
+      "kind": "philosophical",
+      "case_for": "On naturalism, suffering is expected wherever sentient organisms evolved under competition, and it should be distributed with indifference to moral desert. That is what we see: animal suffering long before humans, suffering unrelated to free choices, and no visible proportionality to soul-making. On theism, a perfectly good being would plausibly prevent at least some of this unless there were a reason, and we have no specific reason for much of it.",
+      "case_against": "Theism plus plausible auxiliary hypotheses (a law-governed world, significant freedom, soul-making, an afterlife that compensates and redeems) may predict a world with serious suffering, which makes the gap small. Naturalism, for its part, has trouble predicting sentience, moral facts, or the very concept of 'evil' that the argument uses.",
+      "consensus": "No consensus, though many theist philosophers (e.g., Swinburne, van Inwagen in places) grant that evil has some evidential weight that must be outweighed. Draper's version is widely regarded as among the strongest arguments for atheism.",
+      "evidence": ["Draper, 'Pain and Pleasure' (1989)", "Fossil record of predation, parasitism and disease over hundreds of millions of years", "Rowe's fawn-in-the-forest case (1979)", "Distribution of suffering uncorrelated with moral agency (infants, animals)"],
+      "verdict": "Probably true; the size of the effect is disputed",
+      "credence": 72
+    },
+    {
+      "claim": "Skeptical theism defeats the evidential argument: our inability to see God's reasons is not evidence that there are none.",
+      "kind": "philosophical",
+      "case_for": "Given the cognitive gap between humans and an omniscient being, and the complexity of goods across eternity, we would not expect to discern God's reasons even if they exist. A 'noseeum' inference (I see no reason, so there is none) is therefore unreliable here (Wykstra's CORNEA, Bergmann).",
+      "case_against": "If our judgment about divine reasons is that unreliable, we also cannot infer that God has good reasons for anything, that God's promises are trustworthy, or that we should prevent evils. This is the moral-paralysis and global-skepticism objection. The approach also seems to prove too much: it could defuse any evidence against any hypothesis about an inscrutable being.",
+      "consensus": "Philosophers of religion are sharply divided. Skeptical theism is a leading theist response, but it is widely seen as carrying heavy costs, and some theists (e.g., Swinburne) reject strong forms.",
+      "evidence": ["Wykstra (1984) CORNEA principle", "Bergmann's skeptical theses (2001, Noûs)", "Objections by Almeida & Oppy, Maitzen and others on moral skepticism"],
+      "verdict": "Weakens but probably does not eliminate the evidential force",
+      "credence": 30
+    },
+    {
+      "claim": "The biblical framework specifically (Fall, Job, the cross, eschatological redemption) makes suffering expected rather than surprising.",
+      "kind": "textual",
+      "case_for": "The Bible does not depict a world without suffering. Genesis 3 links suffering to a fallen order, Job refuses neat explanations, Romans 8 speaks of creation 'groaning,' and the cross makes God a co-sufferer. On this view, suffering confirms the biblical picture rather than refuting it.",
+      "case_against": "The Fall cannot causally explain animal suffering that predates humans by hundreds of millions of years without reinterpretation. Biblical texts also sometimes promise protection and prosperity to the righteous (Deuteronomy, many Psalms) that observation disconfirms. And the biblical God is more specifically loving and interventionist than a bare deist God, which arguably sharpens the problem. The Bible itself contains competing theodicies (retribution vs. Job vs. apocalyptic), as Ehrman emphasizes.",
+      "consensus": "Biblical scholars widely agree the Bible contains multiple, partly tensioned responses to suffering. Confessional scholars (e.g., Stump) read Job and the narratives as rich resources; critical scholars see unresolved tension.",
+      "evidence": ["Job 38-42", "Genesis 3", "Romans 8:18-23", "Deuteronomy 28 retribution theology", "Ecclesiastes", "Revelation 21:4"],
+      "verdict": "Partly true; it reduces surprise at moral evil more than at natural and animal evil",
+      "credence": 40
+    },
+    {
+      "claim": "Evidence of evil can be outweighed by other evidence for theism, so it is not 'significant' on balance.",
+      "kind": "philosophical",
+      "case_for": "Evidence that lowers a probability can be swamped by cosmological, fine-tuning, moral, consciousness or religious-experience evidence, and by the historical case for the resurrection.",
+      "case_against": "This conflates 'evidence against' with 'decisive on balance.' Being outweighable does not make evil insignificant as evidence; it remains a real downward pressure that other arguments must overcome.",
+      "consensus": "Theist and atheist philosophers broadly accept the logical point. They disagree about whether the other evidence actually outweighs evil.",
+      "evidence": ["Swinburne's cumulative-case Bayesian approach (The Existence of God)", "Standard Bayesian confirmation theory"],
+      "verdict": "True as a point about the overall verdict, but does not rescue the claim as worded",
+      "credence": 50
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Are our moral and cognitive faculties reliable for judging whether a perfectly good God would permit specific horrendous evils?",
+      "type": "prior",
+      "if_yes": "Gratuitous-seeming evils are significant evidence against God; the claim is likely false (~10-20%).",
+      "if_no": "Skeptical theism largely neutralizes the argument; the claim becomes plausible (~55-70%), but at the cost of reasoning about God's goodness elsewhere.",
+      "your_view": "Our faculties are limited but not worthless, so noseeum inferences carry some, reduced weight."
+    },
+    {
+      "crux": "Does theism with reasonable auxiliary hypotheses predict roughly the suffering we see, including pre-human animal suffering?",
+      "type": "evidence",
+      "if_yes": "The likelihood ratio is near 1, so evil is weak evidence and the claim is defensible.",
+      "if_no": "The ratio favors naturalism, so evil is significant evidence.",
+      "your_view": "Theodicies fit moral evil tolerably and animal and natural evil poorly; the overall ratio favors naturalism moderately."
+    },
+    {
+      "crux": "What does 'significant evidence' mean: any meaningful likelihood shift, or decisive on balance?",
+      "type": "definition",
+      "if_yes": "If it means a meaningful shift, the claim is probably false.",
+      "if_no": "If it means decisive, the claim is more likely true, since evil can be outweighed (~50-60%).",
+      "your_view": "I score the evidential reading (meaningful shift), which is the natural reading of 'evidence against.'"
+    },
+    {
+      "crux": "Does eschatological compensation (an infinite good afterlife, Adams's 'defeat' of horrors) make finite suffering evidentially negligible?",
+      "type": "value",
+      "if_yes": "Suffering is outweighed for each sufferer, which reduces the problem considerably.",
+      "if_no": "Compensation does not justify permitting the evil in the first place, so the problem remains.",
+      "your_view": "Compensation helps with God's goodness toward individuals, but the hypothesis is ad hoc relative to the evidence, so it only partly reduces the force."
+    }
+  ],
+  "strongest_for": [
+    "Skeptical theism: given the gap between finite and infinite minds, failing to see a reason is weak evidence that none exists (Wykstra, Bergmann).",
+    "Theism plus soul-making, natural law regularity and free will plausibly predicts a world with substantial suffering (Hick, Swinburne).",
+    "The biblical narrative explicitly anticipates suffering and presents a God who suffers, so the observation is not a surprise relative to Christian theism.",
+    "Naturalism may struggle to ground the objective moral standard by which 'evil' is judged, which complicates the comparison.",
+    "Adams's 'defeat' of horrendous evils by an incommensurable good of intimacy with God suggests that the relevant goods may dwarf any suffering."
+  ],
+  "strongest_against": [
+    "Draper's comparative argument: the biological role and distribution of pain and pleasure fit naturalistic indifference much better than divine benevolence.",
+    "Hundreds of millions of years of animal suffering before any humans existed cannot be explained by human free will or a human Fall.",
+    "Skeptical theism proves too much: it threatens moral knowledge, trust in divine promises, and design inferences that theists themselves rely on.",
+    "Horrendous suffering of infants and others who cannot benefit from soul-making seems poorly explained by known goods.",
+    "Even many leading theist philosophers concede evil lowers the probability of theism and must be outweighed by other evidence."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'Evil is just the absence of good (privation), so it isn't a real problem': the metaphysics of evil doesn't change why God would allow the absence.",
+      "'Without evil there could be no good': many goods (love, joy) don't conceptually require actual suffering, let alone this much.",
+      "'All suffering is punishment for sin': the Bible itself rejects this (Job; John 9:1-3), and it is morally implausible for infants and animals.",
+      "'Atheists can't call anything evil, so the argument self-destructs': the argument can be run internally, using theism's own claim that God is good."
+    ],
+    "against": [
+      "'Evil logically disproves God': the logical version is widely regarded as failing.",
+      "'A good God would prevent all suffering': ignores the possibility that some suffering is necessary for greater goods such as significant freedom.",
+      "'Religion causes most evil, so God doesn't exist': confuses the behavior of believers with the existence of God.",
+      "Appeals to specific biblical atrocities: these bear on biblical inerrancy or interpretation more than on the problem of evil as such."
+    ]
+  },
+  "would_change": [
+    "A specific, independently plausible theodicy explaining pre-human animal suffering without ad hoc additions would move me toward the claim.",
+    "A convincing answer to the moral-skepticism objection against skeptical theism would raise my credence substantially.",
+    "Strong independent evidence for an afterlife or the resurrection would make eschatological theodicies less ad hoc.",
+    "A demonstration that naturalism cannot accommodate the existence of sentient suffering at all (e.g., a robust hard-problem argument) would weaken the comparison.",
+    "Evidence that suffering is far less widespread or intense among animals than currently believed would weaken the argument."
+  ],
+  "sources": [
+    {"citation": "J. L. Mackie, 'Evil and Omnipotence', Mind, 1955", "kind": "scholarship"},
+    {"citation": "Alvin Plantinga, God, Freedom, and Evil, 1974", "kind": "scholarship"},
+    {"citation": "William L. Rowe, 'The Problem of Evil and Some Varieties of Atheism', American Philosophical Quarterly, 1979", "kind": "scholarship"},
+    {"citation": "Stephen J. Wykstra, 'The Humean Obstacle to Evidential Arguments from Suffering', International Journal for Philosophy of Religion, 1984", "kind": "scholarship"},
+    {"citation": "Paul Draper, 'Pain and Pleasure: An Evidential Problem for Theists', Noûs, 1989", "kind": "scholarship"},
+    {"citation": "Daniel Howard-Snyder (ed.), The Evidential Argument from Evil, 1996", "kind": "scholarship"},
+    {"citation": "Richard Swinburne, Providence and the Problem of Evil, 1998", "kind": "scholarship"},
+    {"citation": "Marilyn McCord Adams, Horrendous Evils and the Goodness of God, 1999", "kind": "scholarship"},
+    {"citation": "John Hick, Evil and the God of Love, 1966", "kind": "scholarship"},
+    {"citation": "Peter van Inwagen, The Problem of Evil, 2006", "kind": "scholarship"},
+    {"citation": "Eleonore Stump, Wandering in Darkness: Narrative and the Problem of Suffering, 2010", "kind": "scholarship"},
+    {"citation": "Bart D. Ehrman, God's Problem, 2008", "kind": "scholarship"},
+    {"citation": "The Book of Job; Genesis 3; Romans 8:18-23; John 9:1-3", "kind": "scripture"}
+  ]
+}
+--- stderr ---

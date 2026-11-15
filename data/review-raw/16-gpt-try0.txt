@@ -1,0 +1,155 @@
+{
+  "kind": "philosophical",
+  "verdict": "Probably inconsistent with perfect justice and love, though not demonstrably contradictory.",
+  "credence": 15,
+  "confidence": "low",
+  "bottom_line": "I am scoring the traditional claim that at least some humans will consciously suffer forever as punishment, without any possibility of eventual repentance or healing, and that this is compatible with a perfectly just and loving God. Endless punishment for people whose wrongdoing arises under finite and often impaired conditions seems disproportionate and incompatible with a love that seeks their good. The strongest reply is that God respects a permanent, informed rejection of the good that cannot be reversed without overriding freedom. Reasonable people disagree about whether such a rejection is possible and whether respecting it would justify eternal suffering. A weaker claim—that some conceivable form of eternal suffering is logically compatible with love—would receive a substantially higher credence.",
+  "sub_claims": [
+    {
+      "claim": "Endless conscious punishment can be proportionate to human wrongdoing.",
+      "kind": "philosophical",
+      "case_for": "The gravity of wrongdoing need not be measured by its duration; a permanent, freely maintained opposition to the highest good could warrant a permanent consequence.",
+      "case_against": "Ordinary human wrongdoing reflects finite capacities, ignorance and vulnerability; unending suffering with no prospect of restoration appears radically disproportionate. Even continuing wrongdoing does not automatically justify unlimited suffering.",
+      "consensus": "No consensus among philosophers of religion or theologians. Traditionalist Christian thinkers defend eternal punishment, while universalists and conditional immortality advocates reject its proportionality.",
+      "evidence": [
+        "Human acts can have enduring consequences despite taking finite time.",
+        "The moral relevance of continuing culpability depends on whether the condemned can change.",
+        "Edward Fudge defends final destruction rather than eternal conscious torment."
+      ],
+      "verdict": "Possible under disputed theories of desert, but probably disproportionate.",
+      "credence": 20
+    },
+    {
+      "claim": "A perfectly loving God could permit people to suffer forever without hope of restoration.",
+      "kind": "philosophical",
+      "case_for": "Love may respect a person's definitive refusal of union with God; forcing reconciliation could defeat the value of genuinely free love.",
+      "case_against": "Perfect love would continue seeking the person's good, and an omnipotent, perfectly wise God might heal ignorance and disorder without coercion. An irreversible, hopeless outcome looks difficult to reconcile with that love.",
+      "consensus": "No consensus. Confessional scholars defend both eternal separation and eventual reconciliation; others argue for annihilation.",
+      "evidence": [
+        "Jerry Walls defends a freedom-based account of hell.",
+        "David Bentley Hart argues that divine love requires ultimate reconciliation.",
+        "The Catholic Church teaches eternal hell while describing it as self-exclusion from communion with God."
+      ],
+      "verdict": "Probably not, especially if noncoercive healing remains possible.",
+      "credence": 15
+    },
+    {
+      "claim": "A person could freely and irrevocably reject God despite adequate understanding and opportunities for healing.",
+      "kind": "philosophical",
+      "case_for": "Freedom may allow an agent to become settled in a choice against God; even unlimited opportunities need not guarantee a freely chosen change.",
+      "case_against": "A fully informed rejection of the source of all goodness may be unintelligible or evidence of a disorder that a loving God could heal. It is also unclear why a finite life should fix anyone's character forever.",
+      "consensus": "No consensus among philosophers of free will or Christian theologians; positions depend heavily on theories of freedom, rationality and divine action.",
+      "evidence": [
+        "Libertarian accounts of freedom need not guarantee that anyone accepts reconciliation.",
+        "Universalist accounts often treat evil choices as arising from ignorance or damaged desire.",
+        "Whether divine healing would override freedom is disputed."
+      ],
+      "verdict": "Not ruled out, but inadequately established.",
+      "credence": 30
+    },
+    {
+      "claim": "The New Testament clearly teaches eternal conscious punishment for some humans.",
+      "kind": "textual",
+      "case_for": "Matthew contrasts eternal punishment with eternal life, and Revelation describes some humans as tormented with no rest. These passages provide substantial support for the traditional reading.",
+      "case_against": "Apocalyptic imagery can be symbolic, eternal punishment might mean an irreversible result rather than an endless process, and other passages can be read as teaching destruction or universal reconciliation.",
+      "consensus": "No consensus on the overall interpretation. Traditional readings have been highly influential, including among confessional scholars, but conditionalist and universalist readings also have scholarly defenders.",
+      "evidence": [
+        "Matthew 25:46 contrasts eternal punishment with eternal life.",
+        "Revelation 14:9–11 describes torment and no rest for worshippers of the beast.",
+        "Revelation 20:10 explicitly describes eternal torment for the devil, beast and false prophet; verses 14–15 describe humans cast into the lake of fire.",
+        "First Corinthians 15:22–28 is cited for universal reconciliation, though its scope is disputed."
+      ],
+      "verdict": "There is significant textual support, but the interpretation is contested rather than clear.",
+      "credence": 45
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Can God ultimately heal every person's resistance without overriding freedom?",
+      "type": "prior",
+      "if_yes": "Eternal hopeless suffering becomes much harder to reconcile with perfect love.",
+      "if_no": "Eternal separation becomes more plausible if some people persistently refuse reconciliation.",
+      "your_view": "I consider noncoercive healing plausible, but its guaranteed success is not established."
+    },
+    {
+      "crux": "Can endless suffering ever be a proportionate response to culpable wrongdoing?",
+      "type": "value",
+      "if_yes": "Retributive justice could support eternal punishment, particularly for continuing wrongdoing.",
+      "if_no": "The traditional claim fails even if the condemned remain culpable.",
+      "your_view": "Endless, hopeless suffering is generally disproportionate to human culpability."
+    },
+    {
+      "crux": "Must perfect love continue seeking a person's eventual good?",
+      "type": "definition",
+      "if_yes": "An irreversible sentence with no possibility of healing is difficult to reconcile with love.",
+      "if_no": "Love could be understood as respecting a definitive rejection even when the result is permanent suffering.",
+      "your_view": "Continued concern for the person's good is a strong constraint on what perfect love permits."
+    },
+    {
+      "crux": "Do the relevant scriptures require the traditional interpretation?",
+      "type": "evidence",
+      "if_yes": "Christians who regard scripture as authoritative face stronger theological pressure to accept it.",
+      "if_no": "Annihilation and universal reconciliation remain available readings.",
+      "your_view": "Some passages strongly favor the traditional reading, but the textual case is disputed and does not by itself settle the moral question."
+    }
+  ],
+  "strongest_for": [
+    "Freedom may include the possibility of a permanent rejection that God cannot reverse without coercion.",
+    "The seriousness of a wrong is not necessarily limited by the time it took to commit it.",
+    "A continuing state of culpable resistance might make continuing consequences appropriate.",
+    "Several biblical passages naturally support eternal punishment, and historic Christian theology has influential defenses of it."
+  ],
+  "strongest_against": [
+    "Endless suffering without hope seems disproportionate to wrongdoing by finite, often impaired creatures.",
+    "A perfectly loving God would have strong reason to keep seeking the healing of every person.",
+    "It is unclear that a fully informed and unimpaired creature could knowingly reject the ultimate good forever.",
+    "An omnipotent God could plausibly provide further opportunities for understanding and reconciliation without coercion."
+  ],
+  "weak_arguments": {
+    "for": [
+      "People sin for a finite time, but the victim is infinite, so punishment must be infinite: the proportionality principle is asserted rather than established.",
+      "Everyone in hell freely chose it: actual choices may be made under ignorance, fear or impaired capacities.",
+      "Scripture settles the moral question without interpretation: both the relevant texts and their ethical implications are disputed."
+    ],
+    "against": [
+      "A finite-duration act can never merit a permanent consequence: consequences need not be proportional to an act's duration.",
+      "Freedom means everyone must eventually choose well: freedom alone does not establish that result.",
+      "Hell is unpleasant, so it cannot be just: deserved punishment can be unpleasant; the issue is whether endless suffering is proportionate and compatible with love."
+    ]
+  },
+  "would_change": [
+    "A persuasive account showing that irreversible rejection can be fully informed and genuinely free, without a noncoercive route to healing.",
+    "A compelling theory explaining why endless conscious suffering is proportionate to continuing culpable wrongdoing.",
+    "A persuasive demonstration that perfect love requires continued, potentially successful opportunities for reconciliation.",
+    "Stronger historical or textual evidence that the relevant biblical authors unambiguously intended eternal conscious punishment, though that would affect the moral question indirectly."
+  ],
+  "sources": [
+    {
+      "citation": "The Bible, Matthew 25:46; Mark 9:43–48; Revelation 14:9–11 and 20:10–15; 1 Corinthians 15:22–28, first century CE",
+      "kind": "scripture"
+    },
+    {
+      "citation": "Augustine, The City of God, completed circa 426",
+      "kind": "primary"
+    },
+    {
+      "citation": "Catechism of the Catholic Church, 1992, paragraphs 1033–1037",
+      "kind": "primary"
+    },
+    {
+      "citation": "Jerry L. Walls, Hell: The Logic of Damnation, 1992",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "David Bentley Hart, That All Shall Be Saved: Heaven, Hell, and Universal Salvation, 2019",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Edward Fudge, The Fire That Consumes, 1982",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

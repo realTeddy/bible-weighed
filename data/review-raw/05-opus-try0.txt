@@ -1,0 +1,144 @@
+{
+  "kind": "mixed",
+  "verdict": "Largely true for the New Testament, false as a blanket claim for 'each book' because of the Hebrew Bible",
+  "credence": 17,
+  "confidence": "medium",
+  "bottom_line": "The New Testament is the best-attested text from antiquity. Modern critical editions (NA28/UBS5) almost certainly match the earliest recoverable text except in a small number of places, and the famous late additions (the long ending of Mark, the woman caught in adultery, the Johannine Comma) are already bracketed or removed. A few unresolved NT variants do touch story or emphasis, but no major doctrine rests on them alone. The Hebrew Bible is different. Standard critical Hebrew Bibles (BHS, BHQ) are diplomatic editions that print a single medieval Masoretic manuscript. The Dead Sea Scrolls and the Septuagint show that for several books (Jeremiah, Samuel, Ezekiel, parts of Exodus, Esther, Daniel) an earlier or different literary edition is recoverable and differs in content and narrative, not just spelling. Read strictly, as covering every book, the claim fails. Read as covering only the NT, or as aiming at the canonical Masoretic form rather than the earliest form, it scores much better: roughly 60-70 for the NT alone.",
+  "sub_claims": [
+    {
+      "claim": "The modern critical Greek New Testament (NA28/UBS5, ECM) closely reproduces the earliest recoverable (Initial) text, with remaining uncertainties affecting no teaching or story.",
+      "kind": "textual",
+      "case_for": "There are over 5,000 Greek manuscripts, early papyri (P45, P46, P66, P75) from the 2nd-3rd centuries, early versions, and patristic citations. The great majority of the roughly 500,000 non-spelling variants are trivial. CBGM-based ECM editions report few changes from NA27 and quantify coherence. The best-known substantive interpolations are already marked as secondary. Even skeptical scholars such as Ehrman concede that no essential doctrine depends on a disputed variant.",
+      "case_against": "A handful of viable variants do affect narrative or theology. Examples: Luke 22:43-44 (Jesus sweating blood), Luke 23:34a (the forgiveness prayer), Mark 1:41 (anger vs compassion), Hebrews 2:9 ('apart from God' vs 'by the grace of God'), John 1:18 ('only God' vs 'only Son'), Matthew 24:36 ('nor the Son'), Mark 1:1 ('Son of God'), and possibly 1 Cor 14:34-35. The Western text of Acts is about 8 percent longer. The gap between the autographs and the earliest copies (often a century or more) is real, though it sits outside this claim.",
+      "consensus": "Broad agreement across evangelical (Wallace, Gurry, Hixson), mainstream (Metzger, Holmes), and skeptical (Ehrman) scholars that the critical text is very close to the Initial Text. The scholars disagree on how much the residual variants matter. Some (Parker, Epp) question whether 'original text' is even the right goal.",
+      "evidence": ["P66 and P75 (c. 200) closely agree with Codex Vaticanus in John and Luke", "NA28 brackets Mark 16:9-20 and John 7:53-8:11", "ECM Acts and Catholic Letters introduced only a few dozen changes", "Luke 22:43-44 is absent from P75, Vaticanus, and others"],
+      "verdict": "Mostly true; a small number of open variants carry modest narrative or theological weight",
+      "credence": 65
+    },
+    {
+      "claim": "The proto-Masoretic consonantal text has been transmitted with very high fidelity from the late Second Temple period to modern printed Hebrew Bibles.",
+      "kind": "textual",
+      "case_for": "Proto-MT scrolls from Qumran, Masada, and Wadi Murabba'at (e.g., 1QIsa-b, the Masada scrolls) agree closely with medieval codices such as Aleppo and Leningrad across more than 1,000 years. Even the fuller 1QIsa-a differs mostly in spelling and minor readings.",
+      "case_against": "Fidelity within one tradition does not show that the tradition is the earliest text. The MT also contains recognized corruptions that were faithfully copied, such as the defective Saul regnal formula in 1 Sam 13:1.",
+      "consensus": "Strong consensus, including Tov, Ulrich, and confessional scholars, that MT transmission was highly conservative from about the 1st century CE.",
+      "evidence": ["1QIsa-a vs Leningrad Codex", "Masada and Murabba'at scrolls aligned with MT", "Leningrad Codex dated 1008 CE"],
+      "verdict": "True",
+      "credence": 90
+    },
+    {
+      "claim": "Modern critical Hebrew Bibles reproduce the earliest recoverable form of each Hebrew Bible book.",
+      "kind": "textual",
+      "case_for": "For many books (e.g., Genesis apart from the chronologies, Isaiah, Psalms, most of the Torah) the MT is probably close to the earliest recoverable text. Modern translations such as the NRSV(ue) adopt some Qumran and LXX readings. The eclectic HBCE project explicitly aims at an earliest-text reconstruction.",
+      "case_against": "BHS and BHQ print the Leningrad Codex and put alternatives in the apparatus. Several books survive in variant literary editions. LXX Jeremiah is about one-seventh shorter with a different order, supported by 4QJer-b,d. LXX 1 Samuel 17-18 lacks much of the David-Goliath doublet. In Papyrus 967, Ezekiel lacks 36:23c-38 and orders chapters differently. Exodus 35-40, Joshua, 1 Kings, Esther, and Daniel also differ. The Genesis 5 and 11 chronologies differ by centuries across MT, SP, and LXX. Samuel's MT is widely judged corrupt in places, for example the Nahash passage preserved in 4QSam-a. Deut 32:8 reads 'sons of Israel' in MT where 4QDeut-j and the LXX have 'sons of God'.",
+      "consensus": "Leading textual critics (Tov, Ulrich, Hendel, Lange) agree that the MT is not uniformly the earliest text and that several books show multiple editions. Some confessional scholars favor MT priority more often, but few deny the Jeremiah and Samuel data.",
+      "evidence": ["4QJer-b and LXX Jeremiah", "4QSam-a", "4QDeut-j at Deut 32:8", "Papyrus 967 (Ezekiel)", "LXX 1 Sam 17-18 short form"],
+      "verdict": "False as a general claim",
+      "credence": 8
+    },
+    {
+      "claim": "Where critical texts may diverge from the earliest form, the differences never affect teaching or story.",
+      "kind": "textual",
+      "case_for": "No creedal doctrine rests solely on a disputed reading. Most HB edition differences concern arrangement, expansion, or harmonization rather than theology.",
+      "case_against": "Several differences change narrative content or theological picture. Examples: the shape of the David-Goliath story, the content and order of Jeremiah, Deut 32:8's divine council, Ezekiel 36-39's order, the Greek additions to Esther, and in the NT Luke 22:43-44 and Mark 1:41. The 'no teaching or story' clause is the strongest part of the claim and the most vulnerable.",
+      "consensus": "No consensus; this depends on how 'teaching' and 'story' are defined. Apologetic writers stress doctrinal stability. Textual critics generally say some variants are meaningful.",
+      "evidence": ["Deut 32:8", "1 Sam 17-18", "Jeremiah editions", "Luke 22:43-44", "Mark 1:41"],
+      "verdict": "False on a natural reading; true only if 'teaching' means core creedal doctrine",
+      "credence": 20
+    },
+    {
+      "claim": "'Earliest recoverable form' is a single, well-defined target for every biblical book.",
+      "kind": "philosophical",
+      "case_for": "For most NT books the CBGM 'Initial Text' is a workable, operational target, and for many HB books a single archetype is plausible.",
+      "case_against": "Where books grew through successive editions (Jeremiah, Samuel, Ezekiel, Esther, Daniel, possibly Acts), the 'earliest recoverable' edition and the 'canonical' edition diverge. Ulrich's pluriformity model treats several forms as authoritative simultaneously.",
+      "consensus": "Contested: Tov has shifted toward accepting multiple editions; Ulrich emphasizes pluriformity; Epp and Parker critique a single 'original text' for the NT.",
+      "evidence": ["Epp 1999 on 'original text'", "Ulrich's developmental composition model", "CBGM Ausgangstext concept"],
+      "verdict": "Workable for most books, problematic for several",
+      "credence": 45
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does the claim cover the Hebrew Bible/Old Testament (and deuterocanon), not just the New Testament?",
+      "type": "definition",
+      "if_yes": "The claim fails because of the Jeremiah, Samuel, Ezekiel, and Esther editions and the diplomatic nature of BHS/BHQ; credence around 10-20.",
+      "if_no": "For the NT alone, the claim is largely true; credence around 60-70.",
+      "your_view": "'Each book' and 'Bible' imply the whole canon, so I score the inclusive reading."
+    },
+    {
+      "crux": "Is the target the earliest recoverable literary edition, or the final canonical edition?",
+      "type": "definition",
+      "if_yes": "If earliest edition, the MT-based critical texts miss it for several HB books.",
+      "if_no": "If canonical (MT) edition, the HB scores much better, though residual MT corruptions in Samuel and elsewhere remain.",
+      "your_view": "The claim explicitly says 'earliest recoverable form', which points to the stricter reading."
+    },
+    {
+      "crux": "Do variants such as Deut 32:8, 1 Sam 17-18, Luke 22:43-44, and Mark 1:41 count as changing 'teaching or story'?",
+      "type": "value",
+      "if_yes": "The no-impact clause fails even for the NT, though narrowly.",
+      "if_no": "Only creedal-level differences count; the NT easily passes, and the HB edition differences still strain the clause.",
+      "your_view": "Under ordinary usage, at least some of these change story details or theological emphasis."
+    },
+    {
+      "crux": "Does marking a reading as doubtful in brackets or apparatus count as accurately reproducing the earliest form?",
+      "type": "definition",
+      "if_yes": "The NT critical text scores higher, since most major problems are flagged.",
+      "if_no": "Every bracketed or uncertain reading counts as a potential miss.",
+      "your_view": "Flagging is reasonable credit for the NT, but BHS's main text plainly prints the MT edition of Jeremiah and Samuel."
+    },
+    {
+      "crux": "Was the NT text stable in the largely undocumented 1st-2nd centuries?",
+      "type": "evidence",
+      "if_yes": "The 'earliest recoverable' text is likely close to the autographs, though that lies outside this claim.",
+      "if_no": "Fidelity to the earliest recoverable text still holds, but that text could differ from what the authors wrote.",
+      "your_view": "Evidence for 2nd-century stability is moderate, not conclusive; this affects the 'original text' question more than this claim."
+    }
+  ],
+  "strongest_for": [
+    "The NT has unparalleled manuscript attestation, including very early papyri that closely match critical-text readings.",
+    "The best-known substantive NT interpolations are already excluded or bracketed in critical editions.",
+    "The proto-MT tradition shows remarkable copying fidelity over a millennium, as confirmed by Qumran and Masada.",
+    "Even skeptical scholars concede that no central doctrine depends on a disputed variant.",
+    "CBGM provides a rigorous, transparent method for reconstructing the NT Initial Text."
+  ],
+  "strongest_against": [
+    "Critical Hebrew Bibles (BHS, BHQ) print one medieval manuscript; they do not reconstruct the earliest text.",
+    "Jeremiah, Samuel, Ezekiel, Exodus 35-40, Esther, and Daniel survive in distinct literary editions with substantive narrative differences.",
+    "Specific readings with theological weight, such as Deut 32:8, likely have an earlier form than the MT preserves.",
+    "Several unresolved NT variants (Luke 22:43-44, Mark 1:41, Heb 2:9, John 1:18) carry narrative or theological significance.",
+    "The deuterocanonical books (e.g., Tobit's two Greek recensions) add further textual pluriformity."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'The NT is 99.5% pure' figures: they are popular approximations rather than rigorous measures, and they say nothing about the Hebrew Bible.",
+      "'The Dead Sea Scrolls proved the OT unchanged': they confirmed the proto-MT's stability but also revealed different editions and non-MT readings.",
+      "'More manuscripts than any other ancient text, therefore accurate': quantity alone does not settle early variation or which edition is earliest."
+    ],
+    "against": [
+      "'There are more variants than words in the NT': most variants are spelling or trivial, and the count rises because there are so many manuscripts.",
+      "'The Bible is a translation of a translation': modern translations work directly from Hebrew and Greek critical texts.",
+      "'Constantine or the Council of Nicaea rewrote the Bible': no manuscript evidence supports this, and pre-Nicene papyri match later texts."
+    ]
+  },
+  "would_change": [
+    "Clear evidence that MT readings are primary in Jeremiah and Samuel, contrary to 4QJer-b and 4QSam-a.",
+    "A completed, widely accepted eclectic Hebrew critical edition (e.g., HBCE) adopted as the standard critical Bible.",
+    "New early papyri resolving key NT variants such as Luke 22:43-44 or Mark 1:41.",
+    "A consensus that 'earliest recoverable form' should mean the canonical edition for multi-edition books.",
+    "Discovery of 1st-century NT manuscripts showing significant divergence from the critical text."
+  ],
+  "sources": [
+    {"citation": "Emanuel Tov, Textual Criticism of the Hebrew Bible, 3rd ed., 2012", "kind": "scholarship"},
+    {"citation": "Eugene Ulrich, The Dead Sea Scrolls and the Developmental Composition of the Bible, 2015", "kind": "scholarship"},
+    {"citation": "Bruce M. Metzger and Bart D. Ehrman, The Text of the New Testament, 4th ed., 2005", "kind": "scholarship"},
+    {"citation": "Bruce M. Metzger, A Textual Commentary on the Greek New Testament, 2nd ed., 1994", "kind": "scholarship"},
+    {"citation": "Bart D. Ehrman, The Orthodox Corruption of Scripture, 1993", "kind": "scholarship"},
+    {"citation": "Elijah Hixson and Peter J. Gurry, eds., Myths and Mistakes in New Testament Textual Criticism, 2019", "kind": "scholarship"},
+    {"citation": "Tommy Wasserman and Peter J. Gurry, A New Approach to Textual Criticism: An Introduction to the Coherence-Based Genealogical Method, 2017", "kind": "scholarship"},
+    {"citation": "Eldon Jay Epp, 'The Multivalence of the Term Original Text in New Testament Textual Criticism', Harvard Theological Review, 1999", "kind": "scholarship"},
+    {"citation": "D. C. Parker, The Living Text of the Gospels, 1997", "kind": "scholarship"},
+    {"citation": "Ronald Hendel, Steps to a New Edition of the Hebrew Bible, 2016", "kind": "scholarship"},
+    {"citation": "Novum Testamentum Graece, Nestle-Aland 28th ed., 2012", "kind": "primary"},
+    {"citation": "Biblia Hebraica Stuttgartensia, 1977", "kind": "primary"}
+  ]
+}
+--- stderr ---

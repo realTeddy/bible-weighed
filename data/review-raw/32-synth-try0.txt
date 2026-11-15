@@ -1,0 +1,42 @@
+{
+  "summary": "All four reviewers consider sixth-century authorship of the substantially complete book highly unlikely and favor a final form around 167–164 BC. Their central argument is that Daniel 11 closely follows events through Antiochus IV’s persecution but apparently misdescribes his end. They also cite difficulties with the book’s Babylonian and Persian setting, while recognizing that it preserves some accurate historical detail. All acknowledge that traditionalist interpreters defend an earlier date and may read the disputed ending as referring to a future ruler. The reviewers differ chiefly in how decisively they assess the linguistic, historical and external evidence, and in how confidently they date older material.",
+  "agreement": "high",
+  "agreed": [
+    "The complete sixth-century authorship claim is highly unlikely; a second-century final form is the dominant critical scholarly view.",
+    "Daniel 11’s correspondence with Antiochus-era events and its apparent mismatch with his death are central to dating the visions.",
+    "Darius the Mede lacks a securely accepted historical identification, although alternative identifications have been proposed.",
+    "Belshazzar was a historical figure who exercised authority in Babylon, but that fact alone does not establish the book’s authorship or date.",
+    "The book may contain older traditions, but older material would not establish sixth-century authorship of the complete book.",
+    "Assuming prophecy is impossible is not, by itself, a sound argument for a late date."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of the conclusion",
+      "positions": "GPT-6.1 assigns the claim 1% credence with medium confidence; Gemini assigns 4%, Grok 8%, and Opus 3%, each with high confidence. Gemini describes the Daniel 11 pattern as definitive, while GPT-6.1 more explicitly emphasizes interpretive uncertainty."
+    },
+    {
+      "point": "Linguistic evidence",
+      "positions": "Gemini treats the Hebrew, Aramaic and Greek loanwords as strong evidence for a Hellenistic date. Grok and Opus regard language as secondary and not decisive alone; GPT-6.1 also says it cannot precisely date individual components and rejects the claim that Greek words independently prove a second-century date."
+    },
+    {
+      "point": "Age of the court tales",
+      "positions": "Gemini states that the tales incorporate older traditions; Opus considers an earlier Persian or early Hellenistic origin probable. Grok allows earlier tales without fixing their date, while GPT-6.1 says even origins in or near the sixth century are possible but unestablished."
+    },
+    {
+      "point": "External evidence and canon",
+      "positions": "Gemini and Opus treat Ben Sira’s omission and Daniel’s placement among the Writings as supporting a late date. Grok considers both suggestive but warns that silence and a fluid canon cannot prove the date. GPT-6.1 emphasizes that later references and manuscripts do not establish sixth-century authorship, without relying on those two arguments."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether Daniel 11:40–45 continues the account of Antiochus IV and incorrectly predicts his end, or shifts to a different future ruler.",
+    "How much prior weight to give the possibility of detailed supernatural prediction.",
+    "Whether Darius the Mede and other disputed historical details can be reconciled with contemporary records.",
+    "Whether the claim concerns the substantially complete book and its visions or merely the existence of older underlying traditions.",
+    "Whether securely dated early manuscripts, quotations or other contemporary evidence establish that the visions existed before the second century BC."
+  ],
+  "what_is_settled": "The reviewers agree that Belshazzar existed, that Antiochus IV died in the east, and that no securely accepted identification of Darius the Mede has been established. They also agree that the surviving evidence they discuss does not establish sixth-century authorship of the complete book.",
+  "what_is_open": "The intended referent of Daniel 11’s final ruler, the possibility and prior plausibility of supernatural prediction, and the date and extent of older traditions remain disputed. The strength of linguistic and external-reception evidence is also contested."
+}
+
+
+--- stderr ---

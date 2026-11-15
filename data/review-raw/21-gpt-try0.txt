@@ -1,0 +1,119 @@
+{
+  "kind": "empirical",
+  "verdict": "Probably not all four",
+  "credence": 3,
+  "confidence": "medium",
+  "bottom_line": "The traditional attributions are early and deserve serious weight, but none of the four Gospel narratives names its author. The strongest external evidence comes from second-century church writers, whose distance from the originals and sources of information are uncertain. Many historians judge the traditional authorship of Matthew and John especially doubtful; Mark and Luke remain more plausible but unproved. I am scoring the claim that all four traditional figures were the principal authors of the texts substantially as we have them, not merely sources behind them. My estimate is uncertain, particularly because errors or successes in the traditions may be correlated.",
+  "sub_claims": [
+    {
+      "claim": "Matthew the apostle was the principal author of the Gospel of Matthew.",
+      "kind": "textual",
+      "case_for": "Papias reports an early tradition connecting Matthew with a collection of Jesus' sayings, and the Gospel was subsequently attributed to Matthew. An eyewitness could have used written sources, including Mark, while adding other material.",
+      "case_against": "Papias describes Matthew as arranging sayings in a Hebrew dialect, which does not clearly describe the surviving Greek Gospel. Its extensive use of Mark makes composition by an eyewitness possible but less expected, and the narrative does not identify its author.",
+      "consensus": "Most critical scholars do not identify the author with the apostle. Many conservative confessional scholars defend the attribution, though religious scholars are not unanimous.",
+      "evidence": ["Papias as quoted in Eusebius, Church History 3.39", "Matthew's substantial literary relationship to Mark", "The Gospel does not name its author in its narrative"],
+      "verdict": "Unlikely",
+      "credence": 15
+    },
+    {
+      "claim": "Mark, associated with Peter, was the principal author of the Gospel of Mark.",
+      "kind": "textual",
+      "case_for": "Papias attributes a written account to Mark, Peter's interpreter, and says Mark recorded Peter's teaching accurately though not in order. A comparatively early tradition naming someone other than an apostle is worth taking seriously.",
+      "case_against": "Papias wrote decades after the usual dating of Mark, and we cannot independently verify his source or be certain his description refers to our Gospel. The text itself does not identify Mark or Peter as its author or source.",
+      "consensus": "There is no consensus that the identification can be established. Many critical scholars regard the author as unknown; some scholars, including confessional scholars, consider the tradition credible.",
+      "evidence": ["Papias as quoted in Eusebius, Church History 3.39", "1 Peter 5:13 associates a Mark with its writer, though identification and authorship are debated", "The Gospel does not name its author in its narrative"],
+      "verdict": "Plausible but unproved",
+      "credence": 40
+    },
+    {
+      "claim": "Luke, a companion of Paul, was the principal author of the Gospel of Luke.",
+      "kind": "textual",
+      "case_for": "Luke and Acts are closely connected in style and dedication, and Acts contains first-person plural travel passages. The second-century attribution to Luke could preserve knowledge that their author was a Pauline associate.",
+      "case_against": "Neither work names its author. The 'we' passages could reflect incorporated sources or another narrative choice, and tensions between Acts and Paul's letters make a close Pauline companion less certain, although the alleged discrepancies are debated.",
+      "consensus": "Most scholars see Luke and Acts as closely related works, commonly by the same author, but there is no consensus that the author was Paul's companion. Many confessional scholars defend that identification; others do not.",
+      "evidence": ["Luke 1:1–4 and Acts 1:1–2", "The 'we' passages in Acts", "Colossians 4:14 names a Luke; authorship of Colossians is disputed"],
+      "verdict": "Plausible but unproved",
+      "credence": 35
+    },
+    {
+      "claim": "John the apostle, son of Zebedee, was the principal author of the Gospel of John.",
+      "kind": "textual",
+      "case_for": "The Gospel appeals to the testimony of the beloved disciple, and Irenaeus attributes it to John. Detailed knowledge of places and Jewish practices is compatible with access to eyewitness testimony.",
+      "case_against": "The Gospel never explicitly identifies the beloved disciple as John son of Zebedee. Its closing statement distinguishes that disciple's testimony from a group affirming it, and many scholars see a complicated process of composition or editing rather than straightforward apostolic authorship.",
+      "consensus": "Most critical scholars do not accept direct authorship by John son of Zebedee. Many confessional scholars defend it, while other scholars, including some sympathetic to eyewitness origins, propose a different John or a community drawing on an eyewitness.",
+      "evidence": ["John 21:20–24", "Irenaeus, Against Heresies 3.1.1", "The Gospel's distinctive chronology and presentation compared with the Synoptic Gospels"],
+      "verdict": "Unlikely",
+      "credence": 15
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Do the second-century attributions preserve reliable independent knowledge of the authors?",
+      "type": "evidence",
+      "if_yes": "The traditional identifications become considerably more likely, especially for Mark.",
+      "if_no": "The attribution of all four remains poorly established.",
+      "your_view": "They are significant evidence, but their sources and independence are too uncertain to settle the question."
+    },
+    {
+      "crux": "How surprising are the Gospels' literary relationships and textual features if apostles or their companions wrote them?",
+      "type": "evidence",
+      "if_yes": "The traditional authorship of Matthew and John becomes less likely.",
+      "if_no": "The external traditions carry more relative weight.",
+      "your_view": "The features are evidence against some traditional identifications, not decisive proof that an eyewitness could not have written the texts."
+    },
+    {
+      "crux": "Does authorship mean principal composition, or can it mean an eyewitness source behind later writing?",
+      "type": "definition",
+      "if_yes": "If a source relationship suffices, the traditions become substantially more plausible.",
+      "if_no": "On the principal-author reading scored here, the full claim is unlikely.",
+      "your_view": "Both questions are legitimate, but source, author and later editor should not be conflated."
+    },
+    {
+      "crux": "Should church tradition receive a strong presumption of reliability before its sources can be checked?",
+      "type": "prior",
+      "if_yes": "A substantially higher probability for all four is reasonable.",
+      "if_no": "The gaps between the texts and the surviving external testimony weigh more heavily.",
+      "your_view": "I give early tradition positive weight, but not a presumption strong enough to overcome the combined uncertainties. Belief or disbelief in miracles does not by itself decide authorship."
+    }
+  ],
+  "strongest_for": [
+    "Named attributions are attested relatively early, and Papias gives a specific account of Mark's relationship to Peter.",
+    "The surviving attribution tradition is strikingly consistent rather than offering several competing named authors for each Gospel.",
+    "Eyewitnesses can use written sources, and theological interpretation does not preclude historical testimony.",
+    "Some textual details are compatible with firsthand knowledge or access to eyewitnesses."
+  ],
+  "strongest_against": [
+    "The narratives do not explicitly name their authors, and the evidence tying each text to a named person is indirect.",
+    "Papias's description of Matthew does not clearly match the surviving Gospel, while Matthew's dependence on Mark complicates apostolic authorship.",
+    "John's identification of a testimonial source does not establish that John son of Zebedee composed the Gospel.",
+    "The claim requires all four identifications to be correct, not merely that one or more are credible."
+  ],
+  "weak_arguments": {
+    "for": [
+      "The traditional names appear in Gospel titles, so the authors must have signed the originals: surviving titles establish attribution, not an original signature.",
+      "The Gospels contain accurate details, so their traditional authors are proven: later writers and other sources can also preserve accurate details.",
+      "The inclusion of miracles proves apostolic authorship: the truth of miracle reports and the identity of their writers are distinct questions."
+    ],
+    "against": [
+      "Ancient authors never used sources if they had witnessed events: eyewitnesses could and did rely on others' accounts.",
+      "A theological agenda proves invention or non-apostolic authorship: ancient historical writing commonly had interpretive aims.",
+      "Because the Gospels are anonymous within their narratives, the traditional names must all be false: lack of self-identification leaves authorship uncertain, not disproved."
+    ]
+  },
+  "would_change": [
+    "A securely dated first-century manuscript with an independently credible author identification.",
+    "A clearly earlier, independent and detailed testimony linking a specific surviving Gospel to its traditional author.",
+    "Evidence establishing the sources and reliability of Papias's reports or showing that they referred to different works.",
+    "Stronger evidence about the composition of Luke–Acts or the identity and role of John's beloved disciple."
+  ],
+  "sources": [
+    {"citation": "Eusebius, Church History, especially 3.39, early fourth century", "kind": "primary"},
+    {"citation": "Irenaeus, Against Heresies, especially 3.1.1, approximately 180", "kind": "primary"},
+    {"citation": "Raymond E. Brown, An Introduction to the New Testament, 1997", "kind": "scholarship"},
+    {"citation": "Richard Bauckham, Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony, 2006", "kind": "scholarship"},
+    {"citation": "Craig L. Blomberg, The Historical Reliability of the Gospels, 1987", "kind": "scholarship"}
+  ]
+}
+
+
+--- stderr ---

@@ -1,0 +1,760 @@
+{
+ "topic": {
+  "id": 12,
+  "category": "Science",
+  "short": "Miracles",
+  "resolution": "It is rational to believe in miracles",
+  "question": "Is it rational to believe that miracles have actually occurred?",
+  "claim": "There is good reason to believe that at least some reported miracles actually occurred."
+ },
+ "analyses": [
+  {
+   "kind": "mixed",
+   "verdict": "The public evidence probably does not establish a miracle, but belief can be rational under different prior assumptions.",
+   "credence": 20,
+   "confidence": "low",
+   "bottom_line": "I interpret a miracle as an event caused by a supernatural agent, not merely an unexpected or unexplained event. I score the claim as saying that publicly available evidence makes it more likely than not that at least one reported miracle actually occurred, without assuming at the outset that supernatural intervention is likely. Some recoveries and historical reports are genuinely striking, but their documentation and the difficulty of excluding natural explanations make the evidence less decisive than believers sometimes claim. A person with independently grounded reasons to believe in a God who intervenes could rationally reach a different conclusion. If 'good reason' means evidence that lends some support rather than makes a miracle more likely than not, the claim is substantially easier to accept.",
+   "sub_claims": [
+    {
+     "claim": "Some reported miracle healings involve genuine, well-documented, unexpectedly favorable medical outcomes.",
+     "kind": "empirical",
+     "case_for": "Medical records sometimes document serious illness followed by recovery that examining physicians regard as unexpected or unexplained.",
+     "case_against": "Records can be incomplete, diagnoses uncertain, and prognoses probabilistic; the most striking cases are selectively reported.",
+     "consensus": "Medical historians and clinicians generally accept that unexpected recoveries occur. Religious investigators and secular physicians differ over whether particular cases warrant a supernatural interpretation.",
+     "evidence": [
+      "Lourdes has a longstanding process for medical examination of reported cures.",
+      "Jacalyn Duffin studied medical testimony in Catholic canonization cases.",
+      "An unexplained recovery is not, by itself, evidence that natural causation was absent."
+     ],
+     "verdict": "Almost certainly true, but not equivalent to supernatural causation.",
+     "credence": 97
+    },
+    {
+     "claim": "Jesus was crucified and some early followers sincerely believed they had experienced him alive afterward.",
+     "kind": "textual",
+     "case_for": "Early Christian texts attest to both the crucifixion and resurrection appearances, and Paul describes his own experience and those attributed to others.",
+     "case_against": "Surviving accounts are interested texts rather than neutral transcripts, and sincere belief does not establish exactly what happened.",
+     "consensus": "Most historians, including religious and nonreligious scholars, accept the crucifixion and early resurrection belief. They disagree about the nature and historical interpretation of the reported experiences.",
+     "evidence": [
+      "Paul's First Letter to the Corinthians lists appearances attributed to the risen Jesus.",
+      "Paul presents himself as having experienced an appearance.",
+      "The Gospel accounts provide later narratives whose details and historical value are debated."
+     ],
+     "verdict": "Very likely true at this broad level.",
+     "credence": 95
+    },
+    {
+     "claim": "The public historical evidence makes Jesus's bodily resurrection more likely than not without assuming a high prior probability of divine intervention.",
+     "kind": "empirical",
+     "case_for": "Christian scholars argue that the combination of early testimony, the origins of resurrection belief and other contested historical details is better explained by resurrection than by competing accounts.",
+     "case_against": "The evidence is not a set of independently verifiable observations of the resurrection itself; experiences, developing traditions and uncertainty in the sources provide alternative explanations. Their relative probabilities are difficult to establish.",
+     "consensus": "There is no consensus that historical methods establish a bodily resurrection. Many confessional scholars affirm it, while many nonconfessional historians do not; disagreement also concerns whether historical inquiry should consider supernatural explanations.",
+     "evidence": [
+      "First Corinthians preserves an early list of claimed appearances.",
+      "The historical status of the empty tomb and details of the appearance narratives are disputed.",
+      "The surviving sources do not provide an independently verified contemporary record of the resurrection event itself."
+     ],
+     "verdict": "Probably not established by public historical evidence alone.",
+     "credence": 12
+    },
+    {
+     "claim": "At least one reported event has enough public evidence to make supernatural agency more likely than not under the stated reading.",
+     "kind": "philosophical",
+     "case_for": "The cumulative range of reports, including medically scrutinized cases and testimony from diverse traditions, could favor intervention over natural alternatives, especially alongside independent arguments for God.",
+     "case_against": "Reports are selected from vast numbers of opportunities for surprising events; errors and unusual natural outcomes can accumulate too. No agreed method supplies reliable probabilities for supernatural action or all relevant alternatives.",
+     "consensus": "No consensus. Philosophers, religious scholars and scientists differ both on individual cases and on the priors and methods appropriate to evaluating them.",
+     "evidence": [
+      "Reports span many times and religious traditions.",
+      "Some cases have substantial medical or historical documentation.",
+      "Documentation quality, selection effects and the probability of intervention remain contested."
+     ],
+     "verdict": "Possible, but probably not established under the stated reading.",
+     "credence": 20
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Is there strong independent reason to believe in a supernatural agent likely to intervene in human affairs?",
+     "type": "prior",
+     "if_yes": "The same reports can reasonably make at least one miracle more likely than not.",
+     "if_no": "The reports must overcome a lower prior probability, and I think they probably do not.",
+     "your_view": "I do not think the relevant prior is objectively measurable or agreed upon; my estimate does not assume intervention is impossible."
+    },
+    {
+     "crux": "Do the best-documented cases strongly discriminate supernatural agency from diagnostic error, unusual natural outcomes and reporting selection?",
+     "type": "evidence",
+     "if_yes": "Belief in at least one miracle becomes substantially more compelling even from a skeptical starting point.",
+     "if_no": "The cases can remain surprising without justifying a supernatural conclusion.",
+     "your_view": "Existing public evidence usually leaves too much uncertainty about alternatives and selection."
+    },
+    {
+     "crux": "Does 'miracle' require actual supernatural agency rather than an unexplained or meaningful event?",
+     "type": "definition",
+     "if_yes": "The causal claim is demanding and my credence is low.",
+     "if_no": "The claim becomes much more plausible: remarkable and unexplained events certainly occur.",
+     "your_view": "Supernatural agency is the relevant reading for evaluating whether miracles actually occurred."
+    },
+    {
+     "crux": "Must 'good reason to believe' mean the evidence makes the claim more likely than not?",
+     "type": "definition",
+     "if_yes": "I lean against the claim on the public-evidence reading.",
+     "if_no": "Reports and broader theistic arguments may provide some rational support even when they fall short of that threshold.",
+     "your_view": "The threshold makes the requested probability meaningful, but it should not be mistaken for the only legitimate standard of rational belief."
+    }
+   ],
+   "strongest_for": [
+    "Some medical recoveries are documented closely enough to pose serious explanatory questions.",
+    "Early resurrection testimony is historically significant, and a supernatural explanation cannot be ruled out merely by defining history to exclude it.",
+    "A well-supported theistic worldview would raise the prior probability of intervention and could make particular reports persuasive.",
+    "Many independent opportunities for intervention would increase the chance that at least one miracle occurred, although reports and explanations are not necessarily independent."
+   ],
+   "strongest_against": [
+    "Unexpected recovery or sincere testimony does not establish supernatural causation.",
+    "Selective reporting from many events can produce impressive cases even without intervention.",
+    "The best-known historical cases leave substantial uncertainty about observations, transmission and alternative explanations.",
+    "There is no agreed way to estimate the frequency of divine intervention, making confident numerical comparisons fragile."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Science cannot explain this, therefore God did it: lack of a current explanation does not identify a cause.",
+     "Many people believe it, therefore it happened: widespread belief can spread without the event being true.",
+     "The report is ancient, therefore it is reliable: age alone establishes neither accuracy nor independence."
+    ],
+    "against": [
+     "Miracles are impossible because natural laws cannot be violated: that assumes the disputed conclusion.",
+     "Witnesses sometimes err, therefore every miracle report is false: fallibility does not establish error in every case.",
+     "Science has not confirmed a miracle, therefore no miracle has ever occurred: absence of confirmation is not proof of universal absence."
+    ]
+   },
+   "would_change": [
+    "Multiple independently verified, precisely predicted recoveries with strong records, blinded assessment and clearly specified natural alternatives.",
+    "Compelling contemporaneous evidence for a specific historical miracle that substantially reduces uncertainty about what witnesses observed.",
+    "A persuasive independent argument substantially raising or lowering the probability of a supernatural agent who intervenes.",
+    "Better evidence about reporting rates, case selection and medical error that changes how surprising the strongest cases are under natural explanations."
+   ],
+   "sources": [
+    {
+     "citation": "David Hume, An Enquiry Concerning Human Understanding, 1748",
+     "kind": "philosophical"
+    },
+    {
+     "citation": "John Earman, Hume's Abject Failure: The Argument against Miracles, 2000",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Jacalyn Duffin, Medical Miracles: Doctors, Saints, and Healing in the Modern World, 2009",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N. T. Wright, The Resurrection of the Son of God, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison Jr., The Resurrection of Jesus: Apologetics, Polemics, History, 2021",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Paul, First Letter to the Corinthians, chapter 15",
+     "kind": "scripture"
+    }
+   ],
+   "id": "gpt",
+   "label": "GPT-6.1",
+   "model": "gpt-6.1-terra",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Unjustified by objective evidence, though internally coherent under strong theistic priors",
+   "credence": 22,
+   "confidence": "high",
+   "bottom_line": "Belief in miracles is rarely an evidence-first conclusion; it hinges almost entirely on one's prior probability regarding an active, interventionist deity. For an observer without strong theistic priors, the public evidence for any reported miracle is decisively outweighed by known alternatives such as medical misdiagnosis, statistical spontaneous remission, psychological bias, and legendary accretion. For individuals who already hold justified theistic beliefs, accepting select historical or medical anomalies as divine acts can be internally coherent, though never empirically demonstrable. Crucially, because reported miracles consistently fail to occur under controlled, repeatable scientific observation and because mutually exclusive religions produce equally sincere miracle claims, the public record does not provide good reason to conclude that natural laws have actually been suspended.",
+   "sub_claims": [
+    {
+     "claim": "Historical evidence for foundational ancient miracles (such as the resurrection of Jesus) is sufficient by standard historical methods to conclude they physically occurred.",
+     "kind": "textual",
+     "case_for": "The core New Testament testimony includes early creeds (such as 1 Corinthians 15:3-7) dating to within a few years of the crucifixion, multiple independent attestations of post-mortem appearances, the conversion of hostile or skeptical figures (Paul, James), and the willingness of early disciples to endure persecution and martyrdom for their proclamation of a physical resurrection.",
+     "case_against": "The source texts are non-eyewitness, sectarian documents composed decades after the events within a pre-scientific culture steeped in supernatural wonder-working tales. Historical methodology relies on the principle of analogy (Ernst Troeltsch), meaning unique violations of physical laws cannot be established using historical tools; mundane explanations such as bereavement visions, cognitive dissonance resolution, and rapid mythic expansion possess far higher prior probability.",
+     "consensus": "Mainstream secular historians maintain that historical methodology can neither investigate nor establish supernatural causation; consensus holds that while early followers genuinely believed they experienced Jesus alive after death, history cannot confirm a physical miracle. Confessional Christian scholars argue historical data uniquely points to bodily resurrection.",
+     "evidence": [
+      "1 Corinthians 15 creed (dated c. 32-35 CE by critical scholars)",
+      "Canonical Gospel accounts composed c. 70-100 CE with divergent details",
+      "Total absence of contemporary non-Christian records of post-crucifixion appearances",
+      "Widespread documented instances of bereavement hallucinations in modern grief psychology"
+     ],
+     "verdict": "Unproven; historical method cannot establish a physical violation of biological death.",
+     "credence": 18
+    },
+    {
+     "claim": "Documented contemporary medical anomalies (such as certified Lourdes healings) provide compelling evidence of supernatural intervention.",
+     "kind": "empirical",
+     "case_for": "The International Medical Committee of Lourdes (CMIL) applies rigorous diagnostic protocols, requiring pre-existing organic disease, objective medical documentation, sudden recovery without effective treatment, and long-term durability. Out of over 7,000 recorded claims, 70 cures have been certified as medically inexplicable after extensive review by multidisciplinary specialists.",
+     "case_against": "Over 160 years, more than 200 million pilgrims have visited Lourdes, yielding only 70 recognized cures—an incidence rate (~1 in 3 million) significantly lower than the baseline incidence of spontaneous remission for rare organic diseases and cancers in the general population. Inexplicability under current medical knowledge demonstrates our ignorance of human biology and neuro-immunology, not positive evidence of supernatural agency.",
+     "consensus": "Medical science views these cases as rare, unexplained biological anomalies or spontaneous remissions; no secular scientific body recognizes supernatural causation. The Catholic Church and its medical boards consider the rigorous filtering process evidence of genuine miraculous intervention.",
+     "evidence": [
+      "70 officially recognized miraculous cures at Lourdes since 1858",
+      "Baseline medical literature documenting unexplained spontaneous regression across oncology and rheumatology (e.g., Everson-Cole data)",
+      "Absence of any documented regeneration of lost structural organs or amputated limbs"
+     ],
+     "verdict": "Demonstrates rare, unexplained biological remissions, but fails to demonstrate divine causation.",
+     "credence": 16
+    },
+    {
+     "claim": "Belief in miracles can be epistemically rational for an individual who already possesses reasonable prior confidence in an interventionist God.",
+     "kind": "philosophical",
+     "case_for": "Epistemic rationality is Bayesian: if an agent has substantial independent grounds for believing in a benevolent, omnipotent creator who cares for humanity, the prior probability of a miracle is not infinitesimally low. Given a moderate prior, strong testimonial, personal, or circumstantial evidence can rationally push posterior probability past the threshold of justified belief.",
+     "case_against": "Even grant theism, an omnipotent deity would have vast, inscrutable reasons not to break natural regularities in ways that appear capricious, medically trivial, or epistemically ambiguous. Furthermore, an agent must consider that human self-deception and neurological fallibility remain vastly more frequent than divine interruptions, meaning the likelihood ratio still favors naturalistic or psychological explanations.",
+     "consensus": "Divided strictly along meta-philosophical lines: theistic philosophers of religion (e.g., Richard Swinburne, Alvin Plantinga) argue that miracles can be rationally believed given theism; naturalist and secular philosophers (e.g., Graham Oppy, J.L. Mackie) argue that naturalism possesses vastly superior prior parsimony and that theism does not solve the evidential deficit.",
+     "evidence": [
+      "Bayesian formulations of testimony vs. prior probability (Earman, 2000; Swinburne, 2003)",
+      "PhilPapers Survey data showing ~73% of academic philosophers lean toward naturalism/atheism vs. ~14% toward theism"
+     ],
+     "verdict": "Conditionally defensible within a theistic framework, but dependent entirely on unproven theistic premises.",
+     "credence": 72
+    },
+    {
+     "claim": "The coexistence of mutually exclusive miracle reports across rival religious traditions severely undermines the evidential reliability of miracle claims generally.",
+     "kind": "empirical",
+     "case_for": "Nearly all major religions (Christianity, Islam, Hinduism, Buddhism, Mormonism) present deeply attested, emotionally compelling miracle accounts affirming contradictory theological dogmas. As David Hume noted, because these miracles authenticate conflicting systems of ultimate truth, their evidential forces mutually destroy each other, pointing toward a common human cognitive origin rather than diverse divine interventions.",
+     "case_against": "Miracles do not necessarily endorse an entire theological creed; God could respond to sincere prayer across cultural and religious boundaries, or intermediate spiritual entities (spirits, angels) could operate across traditions. Alternatively, one specific tradition might possess qualitatively superior historical documentation compared to others.",
+     "consensus": "Broad consensus among secular historians, anthropologists, and comparative religion scholars that miracle claims are a universal cultural phenomenon driven by human psychology, narrative mythmaking, and social reinforcement rather than tradition-specific divine acts.",
+     "evidence": [
+      "Documented mass miracles in Hinduism (e.g., the 1995 Ganesha milk miracle observed worldwide)",
+      "Mormon foundational miracle testimonies (Eight Witnesses and Three Witnesses signing formal legal statements)",
+      "Marian apparitions (e.g., Fatima 1917) certifying exclusive Catholic dogmas rejected by Protestantism and Islam"
+     ],
+     "verdict": "Strongly supported; cross-cultural proliferation of conflicting miracles undermines the evidential validity of any single tradition's claims.",
+     "credence": 82
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "What is the prior probability of an interventionist supernatural entity?",
+     "type": "prior",
+     "if_yes": "If the prior is moderate to high, Bayesian updating on strong testimony or anomalous healings can make belief in miracles rational.",
+     "if_no": "If the prior is very low or near zero, no amount of finite human testimony or non-reproducible anomaly can ever overcome the overwhelming odds against a violation of natural law.",
+     "your_view": "Parsimony and the unbroken success of methodological naturalism require assigning a low prior probability to supernatural violations of conservation laws and physics."
+    },
+    {
+     "crux": "Can an absence of scientific explanation ever serve as positive evidence for supernatural agency?",
+     "type": "definition",
+     "if_yes": "Any medically or historically baffling anomaly can be legitimately classified as a miraculous intervention.",
+     "if_no": "Unexplained events represent boundaries of current scientific knowledge ('unexplained'), while a miracle requires demonstrating divine causation ('inexplicable in principle by any natural mechanism').",
+     "your_view": "An explanatory gap is not positive evidence of the supernatural; inferring divine action from current scientific ignorance commits the classic God-of-the-gaps fallacy."
+    },
+    {
+     "crux": "Is human testimony in religious contexts reliable enough to establish an event that contradicts verified natural laws?",
+     "type": "evidence",
+     "if_yes": "Eyewitness accounts, early textual creeds, and sincere death-defying conviction can establish historical miracles.",
+     "if_no": "Human vulnerability to cognitive bias, hallucination, social contagion, confabulation, and mythmaking is sufficiently well-documented that human error is always more probable than a physical impossibility.",
+     "your_view": "Given extensive psychological and anthropological evidence of how readily false religious narratives and shared sensory experiences arise, testimony alone is structurally inadequate to verify a physical miracle."
+    }
+   ],
+   "strongest_for": [
+    "Specific ancient historical claims (such as early Christian resurrection belief) are rooted in rapidly emerging, multiple independent sources involving witnesses who willingly suffered for their convictions.",
+    "A small number of modern medical recoveries (e.g., examined by the Lourdes Medical Bureau) involve sudden, documented organic reversals of terminal pathology that defy known physiological healing timelines.",
+    "Philosophical demonstrations (notably by John Earman and Richard Swinburne) show that Hume's formal Bayesian argument against miracles is flawed: in principle, sufficiently numerous, independent, and high-quality testimonies could overcome very low priors.",
+    "The universal prevalence of miracle reports across human history suggests that totally dismissing all reports as delusion, fraud, or misperception requires an unprovable assertion of uniform human incompetence."
+   ],
+   "strongest_against": [
+    "The historical track record of science is an unbroken one-way street: phenomena once attributed to miracles (lightning, epilepsy, plagues, planetary orbits) have systematically yielded to natural explanations, whereas no natural phenomenon has ever been overturned by a supernatural mechanism.",
+    "Miracles systematically vanish when subjected to rigorous, prospective scientific testing; they occur only in medically ambiguous, historical, or uncontrolled settings, and never involve unambiguous physical events like the instantaneous regrowth of a severed human limb.",
+    "The rate of medically unexplained healings at religious shrines like Lourdes is statistically indistinguishable from or lower than the base rate of spontaneous remission for rare illnesses in the general population.",
+    "Mutually contradictory miracle claims across rival religious traditions cancel out their evidential value, demonstrating that sincere, detailed testimony frequently coalesces around non-factual religious phenomena.",
+    "Human cognitive flaws—including bereavement hallucinations, confirmation bias, post hoc ergo propter hoc reasoning, and social contagion—are thoroughly verified realities that fully account for the generation of miracle reports without postulating supernatural intervention."
+   ],
+   "weak_arguments": {
+    "for": [
+     "'Science cannot explain this recovery, so it must be a miracle' (God-of-the-gaps fallacy; conflates current ignorance with proof of divine agency).",
+     "'The apostles would not have died for a lie, proving the resurrection happened' (Martyrdom proves subjective sincerity, not factual accuracy; furthermore, historical accounts of the apostles' specific martyrdoms are mostly late, second-century legends).",
+     "'Billions of people throughout history have witnessed miracles, so they cannot all be wrong' (Argumentum ad populum; pre-modern humans universally reported witnessing demons, witches, and mythical beasts)."
+    ],
+    "against": [
+     "'Hume proved that believing in miracles is mathematically and logically impossible' (Hume's argument borders on circularity by assuming uniform experience against miracles to establish laws of nature, as modern probability theorists like Earman have demonstrated).",
+     "'Miracles are impossible by definition because natural laws cannot be broken' (Definitional dogmatism; natural laws are descriptive models of how a closed universe behaves, not prescriptive barriers that logically forbid an external creator from acting).",
+     "'Anyone who reports a miracle is either lying or insane' (Empirically false and uncharitable; mentally healthy, highly intelligent individuals frequently misinterpret ambiguous sensory data or experience natural cognitive illusions)."
+    ]
+   },
+   "would_change": [
+    "A repeatable, unambiguous, and medically documented event under controlled observation, such as the instantaneous anatomical regeneration of an amputated limb immediately following prayer.",
+    "Direct, verifiable physical evidence showing a localized violation of fundamental conservation laws (e.g., energy or mass conservation) correlated specifically with religious intervention.",
+    "The discovery of contemporary, hostile first-century Roman or Jewish administrative records documenting the public, tangible post-crucifixion appearances of Jesus in 30-33 CE.",
+    "A rigorous, multi-center, double-blind clinical study demonstrating statistically significant, non-random biological cures uniquely associated with a specific religious intercession."
+   ],
+   "sources": [
+    {
+     "citation": "David Hume, 'An Enquiry Concerning Human Understanding', Section X: Of Miracles (1748)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John Earman, 'Hume's Abject Failure: The Argument Against Miracles', Oxford University Press (2000)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "J. L. Mackie, 'The Miracle of Theism: Arguments for and against the Existence of God', Oxford University Press (1982)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Swinburne, 'The Resurrection of God Incarnate', Oxford University Press (2003)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Craig S. Keener, 'Miracles: The Credibility of the New Testament Accounts', Baker Academic (2011)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Graham Oppy, 'Arguing about Gods', Cambridge University Press (2006)",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "gemini",
+   "label": "Gemini 3.8",
+   "model": "gemini-3.8-flash",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Probably not: anomalies are real, but they are not good reason to affirm supernatural miracles",
+   "credence": 20,
+   "confidence": "low",
+   "bottom_line": "The claim is scored on a strong reading: adequate shared reason to believe that at least one reported miracle was a divine intervention beyond the ordinary course of nature, not merely an odd event or a permissible private faith. Hume did not prove that testimony can never establish a miracle, but the practical obstacles he named are severe: false miracle reports are common, similar reports appear in incompatible religions, and controlled tests of prayer show no effect. The best cases, especially early Christian resurrection reports and a few medically unexplained healings, deserve serious attention and are not dissolved by mockery. They still do not amount to good reason once base rates, visionary and legendary explanations, and a modest prior for theism are included. Belief can be rationally permissible for someone whose independent case for theism is much stronger; that weaker claim is not the one scored here.",
+   "sub_claims": [
+    {
+     "claim": "Hume's maxim does not show that testimony is in principle unable to establish a miracle.",
+     "kind": "philosophical",
+     "case_for": "John Earman's Bayesian reconstruction argues that Hume's rule is not a theorem of probability. If a report would be very unlikely unless the event occurred, and the prior is low but not infinitesimal, the posterior can cross any reasonable threshold. Richard Swinburne adds that a miracle need not be defined as a violation of an exceptionless law; a non-repeatable divine exception can sit inside an otherwise stable order.",
+     "case_against": "Even if the maxim is formally too strong, the relevant prior for a one-off suspension of a well-confirmed regularity is so low, and the error rate of excited religious testimony so high, that ordinary reports never get near the bar. Treating 'laws' as mere frequencies understates how strongly science has confirmed a closed causal order in the domains where miracles are claimed.",
+     "consensus": "No consensus. Many philosophers of probability think Hume's strict maxim fails. Many naturalist philosophers think the practical skeptical conclusion still holds. Confessional philosophers such as Swinburne reject both the maxim and the practical skepticism.",
+     "evidence": [
+      "Hume's Enquiry Concerning Human Understanding, Section X, states that the falsehood of the testimony must be more miraculous than the event",
+      "Earman's Hume's Abject Failure (2000) argues the maxim is probabilistically invalid",
+      "Competing religious testimony and passion for wonder are independent Humean points that survive the formal critique"
+     ],
+     "verdict": "The in-principle bar is probably unsound; the practical warning is not.",
+     "credence": 78
+    },
+    {
+     "claim": "Most reported miracles did not occur as supernatural events.",
+     "kind": "empirical",
+     "case_for": "Miracle reports are ubiquitous, culturally patterned, and historically retractable: epilepsy, plague, and weather once explained as divine acts were later naturalized. Fraud, misdiagnosis, folklore, and motivated memory are documented at high rates. If even a modest fraction were genuine divine interventions of the spectacular kinds often reported, better-checked modern cases should be common.",
+     "case_against": "A high false-positive rate does not entail a zero true-positive rate. A god might act rarely, so the mass of bad reports is expected even if a few are real. Dismissing the whole class from the failure of most members repeats the fallacy Hume is often accused of.",
+     "consensus": "Secular historians, scientists, and scholars of religion overwhelmingly treat the great majority of miracle reports as non-veridical. Confessional scholars usually agree that most reports, including many inside their own tradition, are unreliable, while holding out a subset.",
+     "evidence": [
+      "Cross-cultural distribution of similar healing, apparition, and nature miracles",
+      "Repeated naturalization of phenomena formerly cited as miraculous",
+      "Lourdes-style filters accept only a tiny fraction of claims even as medically unexplained"
+     ],
+     "verdict": "Almost certainly true, and it frames the 'at least some' question rather than answering it.",
+     "credence": 96
+    },
+    {
+     "claim": "Without a ban on miracles, the historical evidence significantly favors a supernatural bodily resurrection of Jesus over naturalistic alternatives.",
+     "kind": "textual",
+     "case_for": "Paul's formulation in 1 Corinthians 15:3-8 is widely treated as an early creed, received within a few years of the crucifixion, listing appearances to individuals and groups and to Paul himself. The disciples' turnaround, the empty-tomb tradition in Mark, women as the first witnesses, and the rise of resurrection belief inside Judaism are historically striking. N.T. Wright, William Lane Craig, and Gary Habermas argue that hallucination, legend, and fraud fit this cluster worse than a real resurrection, once theism is live.",
+     "case_against": "The appearance stories are in partisan documents compiled decades later and conflict on who went to the tomb, what they saw, and where Jesus appeared. Paul does not narrate an empty tomb. Grief and religious visions are well attested, including group religious experiences, and new movements often crystallize around sincere false beliefs. Bart Ehrman and many critical scholars accept that followers had experiences they took to be of Jesus alive without accepting a bodily resurrection. Dale Allison finds the evidence impressive and still historically underdetermining.",
+     "consensus": "Divided along method and confession. Evangelical and many traditional Christian scholars affirm the resurrection as historical. Mainstream critical scholarship generally establishes the disciples' belief and some experiences, disputes the empty tomb, and does not affirm a supernatural resurrection. Catholic historian John Meier's broader stance is that history can reach Jesus' deeds as interpreted, not the divine cause.",
+     "evidence": [
+      "1 Corinthians 15:3-8, an early creedal list of appearances",
+      "Gospel passion and empty-tomb narratives from roughly 40-70 years later, with well-known discrepancies",
+      "Widespread scholarly agreement that some followers sincerely believed Jesus had appeared; no agreement that the body was supernaturally raised"
+     ],
+     "verdict": "A real historical puzzle, but not good enough to favor the supernatural reading.",
+     "credence": 22
+    },
+    {
+     "claim": "A small number of religious healings remain medically unexplained after serious investigation.",
+     "kind": "empirical",
+     "case_for": "The Lourdes Medical Bureau and its international committee have, over more than a century, marked a small set of cures — commonly cited as about 70 official recognitions — as medically inexplicable, sometimes with records, follow-up, and non-believing physicians involved. Craig Keener assembles modern cases with charts and witnesses that are harder to dismiss as ancient legend.",
+     "case_against": "Unexplained is not the same as inexplicable in principle, still less supernatural. Serious diseases occasionally remit. Diagnosis can be wrong. The denominator is enormous: vast numbers of prayers and failed claims are filtered until a residue remains. That residue is what a rare natural tail plus selection would produce.",
+     "consensus": "Physicians can agree that particular cases lack a current medical explanation. There is no medical consensus that the cause is divine. Confessional reviewers are much more willing to make that further inference.",
+     "evidence": [
+      "Lourdes' multi-stage medical and ecclesiastical filter, with only a few dozen official recognitions",
+      "Known spontaneous remissions of severe disease at low base rates",
+      "No prospective controlled protocol in these dossiers that rules out chance and selection"
+     ],
+     "verdict": "True as a medical claim; it does not identify the cause.",
+     "credence": 85
+    },
+    {
+     "claim": "Those unexplained healings, together with petitionary prayer, provide good evidence of divine action.",
+     "kind": "empirical",
+     "case_for": "If a personal God heals in response to prayer, one would expect a residue of striking recoveries precisely in pilgrimage and prayer settings. Some cases involve organic lesions rather than obviously functional symptoms. Experimental tests may fail because God is not a mechanism that performs on demand for a study.",
+     "case_against": "The largest rigorous intercessory-prayer trial, the STEP study (Benson and colleagues, American Heart Journal, 2006), found no benefit and a hint of worse outcomes when patients knew they were being prayed for. Smaller positive trials have not held up as a reliable effect. A selected handful of unexplained recoveries, set against millions of unanswered prayers, is predicted by chance. The amputee problem remains: the healings cluster in conditions that sometimes remit and not in instantaneous regeneration of lost limbs under observation.",
+     "consensus": "Mainstream medicine finds no reliable prayer effect. Confessional apologists treat the negative trials as theologically inappropriate tests and the unexplained cures as positive evidence. Those two judgments are not the scientific consensus.",
+     "evidence": [
+      "STEP trial: no complication-reducing effect of intercessory prayer in cardiac bypass patients",
+      "Cochrane-style summaries generally find no dependable effect",
+      "Official unexplained cures are a tiny selected remainder, not a measured excess over spontaneous remission"
+     ],
+     "verdict": "The medical evidence does not support a divine-action inference.",
+     "credence": 15
+    },
+    {
+     "claim": "Miracle reports of broadly similar testimonial quality occur in mutually incompatible religious traditions, so accepting this kind of testimony overgenerates.",
+     "kind": "empirical",
+     "case_for": "Healing, apparitions, exorcisms, and nature signs are reported in Catholic, Pentecostal, Islamic, Hindu, Buddhist, and indigenous settings. Keener, a Christian scholar, documents non-Christian cases rather than denying them. If the evidence for non-Christian miracles is about as good as the evidence usually offered, one cannot treat testimony as good reason for one's own miracles without also accepting a flood of rivals, or abandoning the idea that miracles confirm a single revelation.",
+     "case_against": "Quality is not equal: the resurrection claim has earlier and more specific attestation than most rival miracle stories. A theist can also say God acts outside one institution, or that some rivals are misread natural events, without treating every tradition as equally confirmed. Incompatibilty bites harder against exclusive proof-of-doctrine than against the bare claim that some miracles occur.",
+     "consensus": "Scholars of religion agree the phenomenon is cross-cultural. Theological assessment splits: exclusivists rank their own canon highest; inclusivists allow divine action elsewhere; naturalists take the spread as evidence of a shared human tendency.",
+     "evidence": [
+      "Modern and premodern healing and apparition reports across major traditions",
+      "Marian apparitions and Pentecostal healings as contemporary group phenomena outside the biblical canon",
+      "Hume's contrary-religions argument, which does not depend on his faulty probability maxim"
+     ],
+     "verdict": "Largely true, and it weakens testimony as a general method even if it does not by itself refute every case.",
+     "credence": 86
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "How high should the prior for a personal God be before looking at miracle reports?",
+     "type": "prior",
+     "if_yes": "If theism is already more probable than not, then resurrection reports and a few stubborn healings can be good reason to believe some miracles occurred, and the claim is likely true.",
+     "if_no": "If theism is very unlikely, no ordinary testimony overcomes the prior, and the claim is almost certainly false.",
+     "your_view": "Theism is a live option but an underdog. Cosmological and related arguments keep its prior from being negligible; suffering, hiddenness, and the success of naturalistic explanation keep it well below one half. That middling-low prior is the main reason the claim fails on my estimate."
+    },
+    {
+     "crux": "Does 'miracle' mean a divine act beyond or against the ordinary course of nature, or only a religiously meaningful extraordinary event?",
+     "type": "definition",
+     "if_yes": "On the strong definition used here, unexplained events and sincere visions are not yet miracles, and the claim is probably false.",
+     "if_no": "On the weak definition, some reported 'miracles' certainly occurred as unusual recoveries or transformative experiences, and the claim would be trivially true.",
+     "your_view": "The strong definition is the one that makes the claim interesting and controversial. The weak reading should be scored near certainty and is not what disputants usually mean."
+    },
+    {
+     "crux": "Does 'good reason to believe' mean adequate support on shared public evidence, or only that belief can be rational for someone with a permitted prior or properly basic faith?",
+     "type": "value",
+     "if_yes": "If public adequacy is required, negative prayer trials, base rates, and historical underdetermination make the claim unlikely.",
+     "if_no": "If rational permissibility or Reformed-epistemology-style warrant counts, a reflective theist can have good reason by their own lights, and a weaker version of the claim is near the middle or better.",
+     "your_view": "The impersonal wording asks for adequate shared reason, not mere permissibility. On permissibility alone I would put the chance that some well-informed person may rationally believe much higher, around even odds, without granting the claim as scored."
+    },
+    {
+     "crux": "Do naturalistic accounts cover the hardest resurrection data: early creed, group appearances, empty-tomb tradition, and the shifts in Paul and James?",
+     "type": "evidence",
+     "if_yes": "The single best historical candidate drops out, and contemporary healings are too ambiguous to carry the claim.",
+     "if_no": "A supernatural resurrection becomes the leading historical explanation if theism is independently plausible, and the overall claim becomes substantially more likely.",
+     "your_view": "Naturalistic accounts are incomplete in detail but adequate in kind. Sincere religious experiences plus early theological development can generate the creed and the movement; the empty tomb and some group reports stay disputed rather than established as law-breaking facts."
+    }
+   ],
+   "strongest_for": [
+    "Hume's absolute bar fails: in principle, sufficiently good testimony can raise the probability of a miracle above a decision threshold.",
+    "The 1 Corinthians 15 tradition is unusually early for an ancient religious claim and is hard to reduce to late folklore.",
+    "A few investigated healings remain medically unexplained and were not obvious functional illnesses.",
+    "If independent arguments make a personal God reasonably probable, rare miracles are not absurd and the resurrection reports gain force.",
+    "Multi-witness modern reports, collected by scholars such as Keener, cannot all be waved off as pre-scientific legend.",
+    "Details such as Paul's turnaround and alleged group appearances are the hardest points for a simple grief-hallucination story."
+   ],
+   "strongest_against": [
+    "False miracle reports are the normal case, generated by known biases, and similar testimony supports incompatible religions.",
+    "When prayer is tested prospectively, as in the STEP trial, no healing effect appears.",
+    "Unexplained cures match the expected tail of rare remission plus massive selection; they are not a measured excess of divine acts.",
+    "The resurrection narratives are late, theologically shaped, and inconsistent, and critical historians can explain the origin of belief without a raised body.",
+    "Claimed miracles retreat toward whatever has not yet been tightly checked, which is the pattern of error, not of a detectable divine signal.",
+    "No reported miracle of an unambiguous type, such as regeneration of a limb under observation, has been established in a way that would convince a neutral, well-equipped observer."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Science cannot explain everything, so a miracle happened: ignorance of a cause is not evidence of a divine cause.",
+     "Millions of witnesses cannot be wrong: they can, and large religious populations contradict one another.",
+     "The Bible says miracles happened, offered as proof of the biblical miracles: that assumes the authority of the very reports under test.",
+     "A private feeling of certainty is itself public evidence: it may justify the subject to some degree, but it does not show that the reported event occurred."
+    ],
+    "against": [
+     "Miracles are impossible by definition because laws cannot be broken: that stipulates naturalism instead of arguing for it; descriptive laws do not logically forbid rare divine exceptions.",
+     "Science has disproved miracles: methodological naturalism is a research rule, not a demonstration that no divine act has ever occurred.",
+     "Ancient people were gullible, so none of their extraordinary reports can be true: too crude; the same sources preserve ordinary facts, and the problem is the extraordinary claim, not antiquity as such.",
+     "Anyone who thinks a miracle occurred is stupid or dishonest: false of defenders such as Swinburne, Wright, and Allison, and it ignores real expert division."
+    ]
+   },
+   "would_change": [
+    "A pre-registered, multiply recorded case of an unambiguous impossibility, such as limb regeneration, immediately after specific prayer, with fraud controls.",
+    "A replicated prospective result in which petitionary prayer produces a pre-specified, medically impossible outcome at rates far above chance.",
+    "Early hostile or neutral sources, close to the events, confirming both an empty tomb and appearances with details that block visionary and legendary accounts.",
+    "A decisive case that classical theism is very probable, or very improbable, which would move this credence sharply up or down because the prior is the crux.",
+    "A full naturalistic reconstruction of Paul's experience and the earliest creed that also explains the best empty-tomb evidence without residue, which would push the credence near the floor."
+   ],
+   "sources": [
+    {
+     "citation": "David Hume, An Enquiry Concerning Human Understanding, Section X, 1748",
+     "kind": "primary"
+    },
+    {
+     "citation": "John Earman, Hume's Abject Failure: The Argument Against Miracles, 2000",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Swinburne, The Concept of Miracle, 1970; The Resurrection of God Incarnate, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N. T. Wright, The Resurrection of the Son of God, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison Jr., Resurrecting Jesus, 2005; Bart D. Ehrman, How Jesus Became God, 2014",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Herbert Benson et al., Study of the Therapeutic Effects of Intercessory Prayer (STEP), American Heart Journal, 2006; 1 Corinthians 15:3-8",
+     "kind": "scientific"
+    }
+   ],
+   "id": "grok",
+   "label": "Grok 4.7",
+   "model": "grok-4.7",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Probably not: no reported miracle is well enough supported to compel an impartial inquirer, though belief can be reasonable given strong theistic priors",
+   "credence": 20,
+   "confidence": "low",
+   "bottom_line": "I score the claim as asking whether the total public evidence gives an impartial inquirer good reason to believe at least one supernaturally caused event has occurred. The answer depends heavily on prior assumptions. If you already think a God who acts in history is fairly likely, the best-attested cases, especially the early Christian resurrection reports and some modern medically documented healings, can look like real evidence. If you start more skeptical, the pattern points strongly to natural explanations. Miracle claims cluster where documentation is weakest, shrink under controlled scrutiny, never replicate, and come from every religious tradition in mutually competing forms. My best estimate is that the evidence does not reach 'good reason' for a neutral observer. A weaker reading, that belief in miracles can be rationally permissible for someone with prior theistic commitments, scores considerably higher (roughly 50-60).",
+   "sub_claims": [
+    {
+     "claim": "Hume-style 'in principle' arguments show belief in miracles can never be rational",
+     "kind": "philosophical",
+     "case_for": "Laws of nature are supported by uniform experience. Testimony is fallible and often distorted by religious motivation, credulity and the love of wonder. So the probability that the testimony is false will virtually always exceed the probability that a law was violated. Competing miracle claims across religions also undercut each other.",
+     "case_against": "Treated as an a priori bar, the argument is question-begging or proves too much: it would block belief in genuinely novel natural events. Bayesian analysis (Earman, Swinburne, the McGrews) shows that enough sufficiently independent testimony can in principle overcome a very low prior. Hume's real force is probabilistic, not a proof.",
+     "consensus": "Most contemporary philosophers, including many naturalists such as Earman, reject the strong 'in principle' reading. The probabilistic version, that miracle claims need very strong evidence, remains widely accepted. Theistic philosophers (Swinburne, Plantinga, the McGrews) reject Hume's conclusion outright.",
+     "evidence": [
+      "Hume, Enquiry section X (1748)",
+      "Earman's Bayesian critique, 'Hume's Abject Failure' (2000)",
+      "Condorcet/Laplace-style results on the cumulative power of independent witnesses"
+     ],
+     "verdict": "False as a knockdown, but true as a demand for very strong evidence",
+     "credence": 15
+    },
+    {
+     "claim": "The historical evidence makes the resurrection of Jesus the best explanation of the early data",
+     "kind": "textual",
+     "case_for": "Several facts are widely accepted even by skeptical historians: Jesus's execution, early belief by followers (including Paul and James) that they had seen him alive, and a pre-Pauline creed in 1 Corinthians 15 dating within a few years of the crucifixion. Wright, Licona and Habermas argue that naturalistic alternatives (hallucination, theft, legend) each fail to explain the whole set, especially group appearances and the conversion of skeptics.",
+     "case_against": "The sources are few, partisan and written decades later, with the empty tomb first attested in Mark around 70 CE. Grief visions, bereavement hallucinations, cognitive dissonance after failed expectations, and later legendary growth are well-documented human phenomena. Comparable founding-figure apparition or ascension claims exist elsewhere. Historical method, which ranks explanations by probability, struggles to ever favor a supernatural one over any live natural option.",
+     "consensus": "Broad consensus, including Ehrman, Sanders and Lüdemann, that the disciples sincerely had experiences they interpreted as appearances. No consensus on what caused them. Confessional scholars (Wright, Licona, Habermas, Allison partially) find the resurrection historically credible. Most critical historians say the question is beyond historical method or favor natural explanations. Note that this division tracks prior worldview closely, and the field's methodological naturalism partly shapes its stance.",
+     "evidence": [
+      "1 Corinthians 15:3-8 creed",
+      "Mark 16 and the later Gospel expansions",
+      "Paul's letters as the earliest sources (c. 50s CE)",
+      "Wright, 'The Resurrection of the Son of God' (2003)",
+      "Ehrman, 'How Jesus Became God' (2014)"
+     ],
+     "verdict": "The experiences are well established; that they were caused by an actual resurrection is not established for a neutral inquirer",
+     "credence": 20
+    },
+    {
+     "claim": "Modern documented healings (e.g., Lourdes, canonization cases, Keener's catalog) provide good evidence of miracles",
+     "kind": "empirical",
+     "case_for": "Lourdes has a medical bureau with stringent criteria and roughly 70 officially recognized cures out of thousands of claims. Duffin, a non-believing hematologist and historian, found Vatican canonization files contain serious medical documentation. Keener collects hundreds of eyewitness reports, some with medical records, from across the world. Some cases involve sudden, complete recovery from organic disease.",
+     "case_against": "Spontaneous remission, misdiagnosis, psychosomatic conditions and reporting bias explain most cases. The rate of recognized Lourdes cures has fallen as diagnostic medicine has improved, which is the opposite of what we would expect if real cures were occurring. 'Medically unexplained' does not mean 'supernaturally caused.' No case involves unambiguous restoration such as a regrown limb. Faith-healing movements have a documented record of fraud (e.g., James Randi's exposure of Peter Popoff).",
+     "consensus": "Medical consensus: remarkable unexplained recoveries happen, with no accepted evidence of supernatural causation. Catholic and Pentecostal scholars (Keener, Church medical boards) consider some cases genuine miracles. Duffin documents that the cases are puzzling but does not endorse supernatural causation.",
+     "evidence": [
+      "Lourdes International Medical Committee criteria",
+      "Duffin, 'Medical Miracles' (2009)",
+      "Keener, 'Miracles' (2011)",
+      "Spontaneous regression rates in cancer literature"
+     ],
+     "verdict": "Suggestive anecdotes, not good evidence of supernatural causation",
+     "credence": 12
+    },
+    {
+     "claim": "Controlled studies show effects of prayer or healing consistent with miracles",
+     "kind": "empirical",
+     "case_for": "Brown et al. (2010) reported improvements in hearing and vision after proximal prayer in Mozambique. Some earlier intercessory-prayer studies (e.g., Byrd 1988) reported positive effects.",
+     "case_against": "The largest, best-designed trial, STEP (Benson et al. 2006, about 1,800 cardiac bypass patients), found no benefit, and patients who knew they were prayed for did slightly worse. Cochrane-style reviews find no reliable effect. Brown et al. was small, uncontrolled and open to suggestion effects. Theists reasonably object that God need not perform on demand, which makes the claim untestable this way.",
+     "consensus": "Scientific consensus: no reliable effect of intercessory prayer. Many theologians agree such studies are theologically misconceived rather than disconfirming.",
+     "evidence": [
+      "Benson et al., STEP trial, American Heart Journal 2006",
+      "Brown et al., Southern Medical Journal 2010",
+      "Byrd 1988 study and later methodological criticisms"
+     ],
+     "verdict": "Controlled evidence is null; at most this weakly counts against claims of frequent on-demand miracles",
+     "credence": 5
+    },
+    {
+     "claim": "Background theism makes miracles probable enough that ordinary testimony can justify belief",
+     "kind": "philosophical",
+     "case_for": "If arguments from cosmology, fine-tuning, consciousness or religious experience make a personal God reasonably likely, then a God revealing or acting in history is not wildly improbable. Testimony then needs to clear a much lower bar. Swinburne argues the prior for an incarnation-resurrection event is moderate given theism.",
+     "case_against": "Theism itself is contested. Even on theism, any particular claimed miracle is improbable relative to error or legend, and theism does not predict which tradition's miracles are real. Divine hiddenness and the absence of unambiguous public miracles in the well-documented modern era are evidence against an interventionist God.",
+     "consensus": "No consensus. PhilPapers surveys show most philosophers lean atheist, while most philosophers of religion are theists. That gap partly reflects self-selection into the field.",
+     "evidence": [
+      "PhilPapers 2009/2020 surveys",
+      "Swinburne, 'The Resurrection of God Incarnate' (2003)",
+      "Mackie, 'The Miracle of Theism' (1982)"
+     ],
+     "verdict": "Conditional claim plausible; whether its antecedent holds is the main crux",
+     "credence": 35
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Is theism (an interventionist God) antecedently fairly probable, say above 30-40%?",
+     "type": "prior",
+     "if_yes": "The best miracle cases, especially the resurrection, plausibly clear the bar; credence 45-65",
+     "if_no": "No reported case comes close to overcoming the prior; credence 5-15",
+     "your_view": "I find the independent case for an interventionist God substantially below even odds, which pulls my estimate down"
+    },
+    {
+     "crux": "Does the absence of miracles from well-documented, controlled modern settings count as strong evidence against them?",
+     "type": "evidence",
+     "if_yes": "The 'clustering where evidence is weakest' pattern is damning; credence drops below 10",
+     "if_no": "If miracles are inherently rare, non-repeatable and purposive, the null results matter little and testimony carries more weight",
+     "your_view": "It counts moderately. A real phenomenon usually becomes clearer as documentation improves, and this pattern shows the reverse."
+    },
+    {
+     "crux": "Can naturalistic hypotheses adequately explain the early resurrection-appearance reports?",
+     "type": "evidence",
+     "if_yes": "The strongest single case collapses into the general pattern of religious visionary experience",
+     "if_no": "The resurrection becomes a serious live hypothesis even for moderate skeptics",
+     "your_view": "Grief visions plus social amplification and legendary development are adequate, though not certain, explanations"
+    },
+    {
+     "crux": "What counts as a 'miracle' and as 'good reason'?",
+     "type": "definition",
+     "if_yes": "If 'miracle' includes any extraordinary, meaningful, unexplained event, or 'good reason' means merely rational permissibility, the claim is near-certainly or likely true (70-95)",
+     "if_no": "If it means a supernaturally caused event, established to the standard an impartial inquirer should accept, it is likely false",
+     "your_view": "I score the stricter, standard reading: a supernatural cause, with evidence that should persuade a neutral party"
+    }
+   ],
+   "strongest_for": [
+    "Some testimony is early, multiple and sincere, and the witnesses bore costs for it (the resurrection appearances), which is unusual among ancient claims",
+    "Hume's argument fails as an a priori proof, as even naturalist philosophers like Earman argue, so the question is genuinely evidential",
+    "Modern medically documented cases exist that remain unexplained after serious scrutiny, including in Vatican files examined by a non-believer (Duffin)",
+    "If independent arguments make theism reasonably likely, the prior for divine action is not negligible",
+    "Hundreds of millions of people report firsthand miraculous experiences; dismissing all of them requires a systematic error theory"
+   ],
+   "strongest_against": [
+    "Miracle claims are abundant where documentation is weak and scarce where it is strong; recognized Lourdes cures declined as medicine advanced",
+    "The best controlled trial (STEP) found no effect of intercessory prayer",
+    "Mutually incompatible religious traditions all report comparable miracles, which suggests a common human cause rather than divine action",
+    "Well-documented psychological mechanisms (grief hallucinations, suggestion, memory distortion, legend formation) plus spontaneous remission and fraud cover the known cases",
+    "No unambiguous miracle (e.g., limb regeneration or a predicted public event) has ever been verified"
+   ],
+   "weak_arguments": {
+    "for": [
+     "'Science can't explain it, so it's a miracle': this is an argument from ignorance; unexplained does not mean supernatural",
+     "'The disciples wouldn't die for a lie': it shows sincerity, not accuracy, and their martyrdoms are poorly documented",
+     "'Millions of believers can't be wrong': the same argument supports competing traditions' contradictory miracles",
+     "The Fatima 'sun miracle' crowd: mass reports of atmospheric or retinal effects among expectant crowds are not good evidence of supernatural causation"
+    ],
+    "against": [
+     "'Miracles are impossible because they violate laws of nature': this assumes naturalism, which is the very point in question",
+     "'Ancient people were credulous, so all their reports are worthless': ancient people knew dead people stay dead, and blanket dismissal is too crude",
+     "'Jesus never existed': rejected by nearly all historians, believing or not, and irrelevant to the core issue",
+     "'Extraordinary claims require extraordinary evidence' as a slogan, not an argument: it needs a Bayesian specification of priors to do real work"
+    ]
+   },
+   "would_change": [
+    "A well-documented, independently verified case of an unambiguous organic restoration (e.g., an amputated limb regrown) with pre- and post-event medical records",
+    "A replicated, preregistered trial showing a large effect of prayer that resists methodological objections",
+    "Discovery of new early, independent sources on the resurrection that close off naturalistic explanations",
+    "A strong independent argument raising the probability of an interventionist theism, which would raise my credence substantially",
+    "Conversely, firm evidence of fabrication behind flagship cases (e.g., key Lourdes or canonization cures) would lower it further"
+   ],
+   "sources": [
+    {
+     "citation": "David Hume, An Enquiry Concerning Human Understanding, Section X 'Of Miracles', 1748",
+     "kind": "primary"
+    },
+    {
+     "citation": "John Earman, Hume's Abject Failure: The Argument Against Miracles, 2000",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Craig S. Keener, Miracles: The Credibility of the New Testament Accounts, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "J. L. Mackie, The Miracle of Theism, 1982",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Swinburne, The Resurrection of God Incarnate, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N. T. Wright, The Resurrection of the Son of God, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Michael Licona, The Resurrection of Jesus: A New Historiographical Approach, 2010",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, How Jesus Became God, 2014",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Jacalyn Duffin, Medical Miracles: Doctors, Saints, and Healing in the Modern World, 2009",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Timothy McGrew and Lydia McGrew, 'The Argument from Miracles: A Cumulative Case for the Resurrection of Jesus of Nazareth', in The Blackwell Companion to Natural Theology, 2009",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Herbert Benson et al., 'Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients', American Heart Journal, 2006",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Candy Gunther Brown et al., 'Study of the Therapeutic Effects of Proximal Intercessory Prayer (STEPP) on Auditory and Visual Impairments in Rural Mozambique', Southern Medical Journal, 2010",
+     "kind": "scientific"
+    },
+    {
+     "citation": "1 Corinthians 15:3-8; Gospel of Mark 16",
+     "kind": "scripture"
+    }
+   ],
+   "id": "opus",
+   "label": "Opus 5.5",
+   "model": "claude-opus-5-5",
+   "via": "claude"
+  }
+ ],
+ "stats": {
+  "mean": 20.5,
+  "median": 20.0,
+  "min": 20,
+  "max": 22,
+  "spread": 2
+ },
+ "synthesis": {
+  "summary": "All four reviews judge the public case for a supernatural miracle unpersuasive on their stated or implied readings, assigning the claim credences of 20–22%. They distinguish unexplained events and sincere testimony from proof of supernatural causation. All allow that belief can be rational for someone with independently grounded confidence in an interventionist God. They differ in confidence, in how strongly they discount testimony and historical methods, and in how they interpret reports across religions. Their estimates should not be treated as identical measurements: the reviewers frame the claim and its evidential threshold somewhat differently.",
+  "agreement": "high",
+  "agreed": [
+   "Some striking recoveries and early resurrection reports deserve consideration, but neither an unexplained recovery nor sincere belief by itself establishes supernatural causation.",
+   "Prior beliefs about an interventionist God substantially affect how miracle reports are assessed.",
+   "A blanket claim that miracles are impossible by definition is not a satisfactory refutation.",
+   "Natural explanations, reporting limitations and selection effects are important alternatives to consider.",
+   "Better-documented evidence or a stronger independent case for or against interventionist theism could change their assessments."
+  ],
+  "disagreed": [
+   {
+    "point": "Confidence and strength of skepticism",
+    "positions": "Gemini assigns 22% with high confidence and says natural alternatives decisively outweigh the evidence for observers without strong theistic priors. GPT-6.1, Grok and Opus each assign 20% with low confidence, while emphasizing uncertainty or the dependence on the reading of the claim."
+   },
+   {
+    "point": "Historical methods and testimony",
+    "positions": "Gemini says historical tools cannot establish a physical miracle and characterizes testimony alone as structurally inadequate. GPT-6.1 cautions against ruling out supernatural explanations merely by definition; Grok and Opus reject an absolute in-principle bar on sufficiently strong testimony, while finding the available evidence inadequate."
+   },
+   {
+    "point": "Very low priors",
+    "positions": "Gemini says that with a very low or near-zero prior no finite testimony can overcome the odds, but also cites sufficiently strong independent testimony as capable of overcoming very low priors. Grok and Opus explicitly allow that sufficiently strong testimony can in principle overcome a low prior; GPT-6.1 emphasizes that relevant priors are neither objectively measurable nor agreed upon."
+   },
+   {
+    "point": "Reports across religious traditions",
+    "positions": "Gemini, Grok and Opus emphasize competing traditions as a reason to distrust miracle testimony, though Grok notes that this is a stronger objection to exclusive doctrinal claims than to the claim that any miracle occurred. GPT-6.1 instead notes that reports across traditions could contribute to a cumulative case, while cautioning that they need not be independent."
+   },
+   {
+    "point": "Meaning of good reason",
+    "positions": "GPT-6.1 explicitly scores a more-likely-than-not public-evidence reading and says lesser evidential support is easier to accept. Grok and Opus distinguish adequate shared reason from rational permissibility for a person with theistic commitments; Gemini emphasizes objective evidence versus coherence within a theistic framework."
+   }
+  ],
+  "deciding_cruxes": [
+   "How probable is an interventionist supernatural agent independently of the miracle reports?",
+   "Do the best reports discriminate sufficiently between supernatural action and natural outcomes, error, selection or developing traditions?",
+   "What can historical testimony establish, and how much weight should controlled prayer studies and cross-religious reports carry?",
+   "Does a miracle require supernatural causation, and does good reason mean compelling public evidence, more-likely-than-not support, or rational permissibility?"
+  ],
+  "what_is_settled": "The reviews agree that unusual recoveries and sincere religious reports occur, and that neither fact alone establishes a supernatural cause. They also agree that the answer depends importantly on the evidential standard and prior assumptions.",
+  "what_is_open": "The cause of particular reported events, the appropriate prior probability of divine intervention, the evidential force of the strongest cases and whether any meet a specified standard for belief remain disputed.",
+  "model": "gpt-6.1-terra"
+ }
+}

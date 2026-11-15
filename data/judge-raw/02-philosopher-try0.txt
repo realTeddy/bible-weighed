@@ -1,0 +1,125 @@
+{
+  "scores": {
+    "theist": {
+      "evidence": 8,
+      "logic": 7,
+      "engagement": 9,
+      "honesty": 9,
+      "clarity": 8,
+      "overall": 7
+    },
+    "atheist": {
+      "evidence": 8,
+      "logic": 9,
+      "engagement": 9,
+      "honesty": 9,
+      "clarity": 8,
+      "overall": 8
+    }
+  },
+  "winner": "atheist",
+  "margin": "clear",
+  "verdict": "This debate was an exceptional model of philosophical rigor, intellectual honesty, and mutual charity. Both debaters displayed top-tier scholarship, correctly handling primary texts and modern critical consensus. The theist built an inference to the best explanation upon early creedal traditions (1 Cor 15), the origin of bodily resurrection belief, and anomalous conversions. The atheist responded with a devastatingly effective Bayesian and epistemic critique, holding the affirmative strictly to the burden of proof.\n\nThe atheist prevails on two decisive logical grounds. First, the resolution specifies that Jesus rose bodily. Under probing, the theist conceded that no pre-Gospel source describes physical encounters (touching, eating), that no pre-Markan source attests to a visited tomb, and that the earliest firsthand witness, Paul, experienced a post-ascension vision that cannot distinguish bodily resurrection from visionary exaltation. The bodily element of the resolution was thus reduced to an inferential deduction rather than direct testimony.\n\nSecond, the theist conceded from opening to close that historical evidence cannot prove a miracle and that the resurrection's probability depends upon theism—a premise left undefended. As the atheist argued in Round 8, a categorical proposition cannot be established when its necessary supporting premise is merely assumed. While the atheist could not identify a psychological trigger for Paul's conversion, an explanatory gap in natural history does not license an inference to a supernatural bodily resurrection. Because the affirmative failed to establish the categorical bodily claim required by the resolution, the negative wins.",
+  "highlights": [
+    {
+      "round": 1,
+      "side": "atheist",
+      "quote": "Paul is our only eyewitness source. He puts his own experience in the same list, using the same verb, ōphthē, 'he appeared.'",
+      "why": "Establishes the atheist's primary textual anchor: that the earliest direct source treats all appearances as phenomenologically visionary."
+    },
+    {
+      "round": 4,
+      "side": "theist",
+      "quote": "Visions of a vindicated martyr fit 'exalted,' 'his angel,' or 'his spirit' naturally. 'Raised' fits only if they believed something had happened to the body.",
+      "why": "The theist's strongest argument, compellingly demonstrating that Jewish resurrection categories specifically entailed bodily transformation rather than mere postmortem survival."
+    },
+    {
+      "round": 6,
+      "side": "atheist",
+      "quote": "Second, the right comparison isn't my one story against yours. It's the disjunction of all naturalistic routes against the resurrection.",
+      "why": "A vital probabilistic correction countering the theist's attempt to treat the naturalistic case as an improbable conjunction of independent failures."
+    },
+    {
+      "round": 8,
+      "side": "atheist",
+      "quote": "If the decisive premise is admitted but not defended, the resolution isn't established.",
+      "why": "Directly clinches the debate on burden of proof, exploiting the theist's admission that their conclusion is strictly conditional on an unargued theism."
+    }
+  ],
+  "fallacies": [
+    {
+      "round": 6,
+      "side": "theist",
+      "name": "False Independence / Conjunction Error",
+      "quote": "When you multiply the probabilities, the result is much lower than the case for any single part.",
+      "why": "Treats conditionally dependent events as statistically independent; in group social dynamics, an initial report of a bereavement vision significantly increases the probability of subsequent contagion."
+    },
+    {
+      "round": 8,
+      "side": "theist",
+      "name": "Argument from Ignorance / God of the Gaps",
+      "quote": "Since your account leaves Paul as an unexplained event, isn't the real disagreement your prior against God acting, not the historical data?",
+      "why": "Treats an admitted explanatory lacuna in natural history (the unknown psychological trigger for an ancient figure's conversion) as positive evidential support for a supernatural miracle."
+    }
+  ],
+  "factual_errors": [],
+  "key_concessions": [
+    {
+      "round": 1,
+      "side": "theist",
+      "point": "Historical method alone cannot prove a miracle, and the probability of the resurrection depends partly on background beliefs about God's existence.",
+      "impact": "major"
+    },
+    {
+      "round": 2,
+      "side": "theist",
+      "point": "There is no pre-Gospel source that explicitly describes the appearances as physical; the case for bodily appearances before the Gospels is inferential.",
+      "impact": "major"
+    },
+    {
+      "round": 4,
+      "side": "theist",
+      "point": "No pre-Markan text explicitly reports anyone visiting the tomb, making the case for a checked grave inferential and partly an argument from silence.",
+      "impact": "moderate"
+    },
+    {
+      "round": 5,
+      "side": "atheist",
+      "point": "In Jewish usage 'raised' implied the body left the grave, meaning the disciples' proclamation was in principle publicly falsifiable.",
+      "impact": "moderate"
+    },
+    {
+      "round": 7,
+      "side": "atheist",
+      "point": "The contagion model does not directly explain Paul, a hostile outsider whose conversion trigger remains unexplained.",
+      "impact": "moderate"
+    },
+    {
+      "round": 8,
+      "side": "theist",
+      "point": "Paul's own appearance, taken alone, cannot distinguish a bodily resurrection from visionary exaltation.",
+      "impact": "major"
+    }
+  ],
+  "turning_point": {
+    "round": 8,
+    "description": "In Round 8, the theist conceded that Paul's Damascus experience cannot distinguish a bodily resurrection from visionary exaltation, and that the theist's conclusion was conditional on a theistic prior that had not been defended. This conceded the core of the resolution (the bodily claim) and surrendered the burden of proof."
+  },
+  "best_argument": {
+    "theist": "The unique historical origin of the belief: Second Temple Jews had accessible categories for postmortem vindication ('spirit', 'angel', heavenly exaltation), yet proclaimed a single Messiah bodily raised in mid-history in Jerusalem where the grave was known, a claim inexplicable by simple grief hallucination given the conversion of Paul.",
+    "atheist": "The failure to meet the burden of proof for a bodily event: all pre-Gospel sources describe visionary phenomena rather than physical contact, no pre-Markan source records a visited tomb, and the affirmative's conclusion was admitted to be conditional on an undefended theistic prior."
+  },
+  "unanswered": {
+    "theist": [
+      "The specific psychological trigger for Paul's visionary conversion as an antagonistic persecutor outside the reach of group bereavement contagion.",
+      "The rhetorical force of Paul citing more than 500 witnesses, 'most of whom are still alive' (1 Cor 15:6), which served as an explicit invitation to contemporaneous verification."
+    ],
+    "atheist": [
+      "Why an objective, bodily vindication by God appeared exclusively to insiders and eventual converts (Acts 10:40-41) rather than to public authorities like Pilate or Caiaphas.",
+      "How the affirmative can sustain a categorical resolution when its decisive premise (the prior probability of theism) was conceded to be assumed rather than established."
+    ]
+  }
+}
+
+
+--- stderr ---

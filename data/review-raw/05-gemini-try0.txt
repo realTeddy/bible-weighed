@@ -1,0 +1,164 @@
+{
+  "kind": "mixed",
+  "verdict": "False as stated: variants alter prominent stories and theological prooftexts, and modern Old Testaments translate medieval manuscripts rather than the earliest recoverable texts.",
+  "credence": 25,
+  "confidence": "high",
+  "bottom_line": "While modern textual criticism demonstrates that the broad historical substance and literary framework of the Bible have been transmitted with remarkable fidelity—with over 90% of the New Testament text firmly established—the claim fails on its specific assertions. Several famous and influential stories, including the Woman Caught in Adultery (John 7:53-8:11) and the Longer Ending of Mark (Mark 16:9-20), are demonstrably secondary additions absent from the earliest recoverable text. Furthermore, while systematic Christian dogmas rarely depend on a single verse, individual variants directly alter significant theological statements regarding the Trinity, Christology, and atonement. Finally, modern Bibles do not actually reconstruct the 'earliest recoverable form' of the Old Testament; instead, they translate the medieval Masoretic Text (c. 1008 CE) with occasional footnotes, despite Dead Sea Scrolls and Septuagint evidence showing earlier, distinct literary editions for books like Jeremiah and Samuel.",
+  "sub_claims": [
+    {
+      "claim": "Modern critical editions of the New Testament (NA28/UBS5) accurately reconstruct the 2nd/3rd-century initial text for the overwhelming majority of the text.",
+      "kind": "textual",
+      "case_for": "Thousands of Greek manuscripts, early papyri (P45, P46, P66, P75), ancient versions, and patristic citations allow scholars using rigorous genealogical and eclectic methods (like the Coherence-Based Genealogical Method) to establish approximately 90-95% of the New Testament text beyond reasonable doubt.",
+      "case_against": "Extant papyri only date to the late 2nd century at the earliest, leaving an undocumented period of decades where early scribes copied texts with considerable freedom; the 'initial text' (Ausgangstext) reconstructed by critics may represent a 2nd-century archetype rather than the original authorial autographs.",
+      "consensus": "Broad consensus across both secular and confessional scholars that critical editions accurately reconstruct the earliest recoverable text to a very high degree of precision.",
+      "evidence": [
+        "P52, P46, P66, and P75 dating from c. 175-250 CE",
+        "Codex Sinaiticus and Codex Vaticanus from the 4th century CE",
+        "Over 5,800 cataloged Greek New Testament manuscripts showing broad genealogical convergence"
+      ],
+      "verdict": "Well-established textual consensus.",
+      "credence": 92
+    },
+    {
+      "claim": "Textual variants in biblical manuscripts change no major stories or narrative episodes.",
+      "kind": "empirical",
+      "case_for": "The vast majority of textual variants (>95%) consist of spelling errors, accidental omissions, word-order variations, and synonyms that leave narrative storylines completely intact.",
+      "case_against": "Major narrative episodes are incontrovertibly affected: the Pericope Adulterae (John 7:53-8:11) is absent from all early manuscripts; the Longer Ending of Mark (Mark 16:9-20) contains resurrection appearances, snake handling, and poison drinking not found in Sinaiticus or Vaticanus; the angel troubling the water (John 5:3b-4) is an interpolation; and the David and Goliath narrative in 1 Samuel 17 is nearly 45% longer in the Masoretic Text than in the early Septuagint.",
+      "consensus": "Unanimous consensus among textual scholars that major narrative pericopes are textual additions or alterations.",
+      "evidence": [
+        "Omission of John 7:53-8:11 in P66, P75, Codex Sinaiticus, and Codex Vaticanus",
+        "Abrupt conclusion of Mark at 16:8 in Codex Sinaiticus and Codex Vaticanus",
+        "Omission of John 5:3b-4 in early Alexandrian witnesses",
+        "4QSam^a preserving an entire introductory narrative paragraph about Nahash the Ammonite gouging out eyes missing in the Masoretic Text of 1 Samuel 11"
+      ],
+      "verdict": "Definitively false.",
+      "credence": 4
+    },
+    {
+      "claim": "Textual variants do not alter any theological teachings or doctrinal propositions.",
+      "kind": "textual",
+      "case_for": "No cardinal dogma of Christianity or Judaism (e.g., the creation, the Exodus, monotheism, the crucifixion, or the resurrection) stands or falls on a single disputed variant; core theological doctrines are repeatedly affirmed across multiple undisputed passages.",
+      "case_against": "While global systematic theology survives, localized teachings and key prooftexts are directly affected: the explicit Trinitarian formula in 1 John 5:7-8 (Comma Johanneum) is a late Latin insertion; Christological statements vary significantly between 'unique God' and 'only begotten Son' in John 1:18, and 'God' vs 'He who was revealed' in 1 Tim 3:16; Jesus' agony and bloody sweat (Luke 22:43-44) is textually disputed; and Mark 1:41 alternates between Jesus feeling 'compassion' or 'anger'.",
+      "consensus": "Scholars agree that while sweeping systematic dogmas are preserved across the broader canon, specific theological assertions within individual books are substantially altered by variants.",
+      "evidence": [
+        "Absence of the Comma Johanneum (1 John 5:7-8) from all Greek manuscripts prior to the 10th century CE",
+        "Textual variation between 'monogenes theos' and 'monogenes huios' in John 1:18",
+        "Textual instability of Luke 22:43-44 and Luke 23:34a ('Father, forgive them')",
+        "Bart Ehrman's documentation of anti-adoptionist and anti-docetic scribal alterations in early manuscripts"
+      ],
+      "verdict": "False for localized teachings, though largely true for overarching canonical dogmas.",
+      "credence": 22
+    },
+    {
+      "claim": "Modern critical Bibles accurately reproduce the earliest recoverable form of each Old Testament book.",
+      "kind": "textual",
+      "case_for": "The discovery of the Dead Sea Scrolls demonstrated that the proto-Masoretic textual tradition was preserved with extraordinary precision for over a millennium, showing that the medieval Leningrad Codex is an exceptionally reliable witness to an ancient text-type.",
+      "case_against": "Modern Bibles are diplomatic translations of the medieval Masoretic Text (specifically Codex Leningradensis, 1008 CE), not eclectic reconstructions of the earliest recoverable texts. The Dead Sea Scrolls and the Septuagint prove that several Old Testament books existed in distinct, earlier literary editions: the Septuagint and 4QJer^b preserve an edition of Jeremiah that is ~13% shorter and arranged differently than the Masoretic Text, yet modern Bibles print the longer, secondary Masoretic edition.",
+      "consensus": "Strong consensus among Hebrew Bible scholars (e.g., Tov, Ulrich) that the Old Testament was textually pluriform and that modern Bibles print a single medieval Jewish standardization rather than an eclectic reconstruction of the earliest recoverable stage.",
+      "evidence": [
+        "4QJer^b and 4QJer^d aligning with the shorter, earlier Septuagint text of Jeremiah against the Masoretic Text",
+        "Divergent literary editions of Samuel, Kings, Exodus, and Proverbs attested at Qumran and in the Old Greek",
+        "Standard modern translations (NRSV, ESV, NIV) translating the Leningrad Codex as their base text rather than an eclectic critical reconstruction"
+      ],
+      "verdict": "Largely false due to modern reliance on the diplomatic Masoretic Text over earlier pluriform witnesses.",
+      "credence": 28
+    },
+    {
+      "claim": "The earliest recoverable textual form of each book is practically identical to the original authorial composition.",
+      "kind": "empirical",
+      "case_for": "For New Testament epistles and Gospels, the chronological gap between composition (c. 50-95 CE) and our earliest substantial manuscript witnesses (c. 175-225 CE) is relatively narrow compared to other Greco-Roman historical literature, minimizing room for wholesale corruption.",
+      "case_against": "For the Hebrew Bible, centuries of oral transmission, scribal redaction, linguistic updating, and composite literary development separate the historical events/authors from the earliest surviving manuscripts at Qumran (3rd century BCE). Even in the New Testament, early scribes copied texts before canonization when manuscripts were treated with less rigid word-for-word veneration.",
+      "consensus": "Broad consensus that 'earliest recoverable text' is an archetype that often postdates authorial composition, especially for Old Testament composite books.",
+      "evidence": [
+        "A multi-century gap between Old Testament compositional periods (Iron Age / Persian Period) and Qumran manuscripts (Hellenistic/Roman)",
+        "Documented editorial expansions across biblical books (e.g., post-Mosaic additions in Deuteronomy 34, multiple redactions in Isaiah)",
+        "Absence of 1st-century New Testament manuscript witnesses"
+      ],
+      "verdict": "Plausible for some New Testament epistles, but false for most of the Old Testament.",
+      "credence": 30
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does 'changing no teaching' refer to high-level systematic Christian/Jewish dogmas or to the specific theological claims of individual passages?",
+      "type": "definition",
+      "if_yes": "If it refers only to overarching dogmas (e.g., monotheism, the resurrection), the claim is mostly true because canonical redundancy protects general doctrines from single textual variants.",
+      "if_no": "If it refers to specific teachings, prooftexts, or ethics in individual passages (e.g., explicit Trinity proof, fasting, Christ's emotional state, submission), the claim is unequivocally false.",
+      "your_view": "Evaluating textual accuracy requires examining the specific claims of individual texts; retreating to canon-wide systematic dogmas moves the goalposts away from textual fidelity to doctrinal redundancy."
+    },
+    {
+      "crux": "Do major narrative interpolations like John 7:53-8:11 and Mark 16:9-20 count as 'stories' that are changed by transmission?",
+      "type": "definition",
+      "if_yes": "The claim is flatly disproven, as two of the most widely recognized stories in the Gospels are textual additions not found in the earliest recoverable text.",
+      "if_no": "One would have to artificially define 'minor variants' to include 12-verse narrative blocks, rendering the claim circular.",
+      "your_view": "These pericopes are substantial narrative episodes; their presence or absence fundamentally alters the endings and characterizations within the Gospels."
+    },
+    {
+      "crux": "Can modern critical Bibles be said to reproduce the 'earliest recoverable form' of the Old Testament when they primarily translate the medieval Masoretic Text?",
+      "type": "evidence",
+      "if_yes": "One must maintain that the proto-Masoretic tradition alone represents the true original, dismissing the Dead Sea Scrolls and Septuagint as defective corruptions.",
+      "if_no": "One acknowledges that Hebrew manuscript evidence demonstrates ancient pluriformity and that modern Bibles print a late rabbinic standardization rather than an eclectic critical text of earlier editions.",
+      "your_view": "Qumran research (Tov, Ulrich) has settled this empirically: Hebrew Scripture existed in multiple authorized literary editions, and modern translations print the Masoretic tradition for liturgical and practical reasons, not because it is always the earliest recoverable form."
+    }
+  ],
+  "strongest_for": [
+    "The New Testament possesses an unparalleled wealth of manuscript evidence (over 5,800 Greek manuscripts, thousands of ancient translations) allowing cross-textual genealogical reconstruction with precision unmatched by any other ancient literature.",
+    "The Dead Sea Scrolls prove that the proto-Masoretic consonantal text was transmitted with astonishing precision for over a millennium between the 2nd century BCE and the 10th-century Leningrad Codex (e.g., the Great Isaiah Scroll, 1QIsa^a).",
+    "Over 90% of all recorded textual variants are completely inconsequential orthographic differences, spelling slips, or untranslatable word-order shifts.",
+    "No primary theological dogma of orthodox Christianity (such as the deity of Christ, the resurrection, or justification by faith) depends exclusively on a disputed textual variant."
+  ],
+  "strongest_against": [
+    "Famous, substantive stories—most notably the Woman Caught in Adultery (John 7:53-8:11) and the post-resurrection signs and appearances in Mark 16:9-20—are demonstrably late scribal interpolations.",
+    "Modern translations of the Hebrew Bible rely overwhelmingly on a diplomatic edition of a single medieval manuscript (the Leningrad Codex, 1008 CE) rather than an eclectic critical reconstruction of the earliest recoverable text.",
+    "The Dead Sea Scrolls and Septuagint reveal that several Old Testament books (e.g., Jeremiah, Samuel, Exodus) existed in distinct developmental editions; modern Bibles translate the longer, secondary edition of Jeremiah rather than the earlier, shorter edition.",
+    "Specific doctrinal and ethical passages are altered by variants, including explicit statements on the Trinity (1 John 5:7-8), Christological titles (John 1:18, 1 Tim 3:16), and Jesus' emotional disposition (Mark 1:41).",
+    "A chronological gap of decades (NT) to centuries (OT) separates the authorial compositions from our earliest surviving physical manuscripts, during which earliest copying and redaction took place without surviving manuscript witnesses."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Citing the sheer number of New Testament manuscripts (5,800+ Greek copies) as proof of original accuracy, ignoring that 80-90% are late medieval Byzantine minuscules that merely duplicate an already standardized ecclesiastical text.",
+      "Claiming that the Dead Sea Scrolls prove 'word-for-word identical transmission' across the entire Old Testament, which ignores that Qumran also revealed dramatic textual pluriformity and divergent literary editions.",
+      "Asserting that textual variants 'do not affect any doctrine at all', which conflates systemic dogmas across the whole canon with the doctrinal content of individual verses."
+    ],
+    "against": [
+      "The 'telephone game' analogy, which falsely compares careful, multi-branched written textual transmission with parallel manuscript lines to a single, linear chain of oral whispers.",
+      "Sensationalist claims that the Council of Nicaea or Emperor Constantine radically forged or rewritten the New Testament, refuted by papyri (P45, P46, P66, P75) that predate Nicaea by over a century.",
+      "Citing the count of 'over 400,000 textual variants' as evidence of total chaos, when the vast majority are spelling slips, movable nus, and trivial scribal idiosyncrasies."
+    ]
+  },
+  "would_change": [
+    "Discovery of 1st-century New Testament manuscripts containing the Pericope Adulterae (John 7:53-8:11) or the Longer Ending of Mark (Mark 16:9-20) in their canonical contexts.",
+    "The publication and widespread adoption by modern Bible translation committees of a truly eclectic critical Hebrew Bible (such as the Oxford Hebrew Bible project) that routinely replaces secondary Masoretic readings with earlier Qumran/Septuagint editions.",
+    "Discovery of pre-2nd-century papyri demonstrating that New Testament texts underwent radical, systematic theological rewriting during the apostolic and sub-apostolic eras.",
+    "Evidence showing that the proto-Masoretic text was an unbroken, uniquely original stream and that divergent Qumran and Septuagint readings were merely sectarian corruptions."
+  ],
+  "sources": [
+    {
+      "citation": "Bruce M. Metzger and Bart D. Ehrman, The Text of the New Testament: Its Transmission, Corruption, and Restoration (4th ed., Oxford University Press, 2005)",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Emanuel Tov, Textual Criticism of the Hebrew Bible (3rd ed., Fortress Press, 2012)",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Eugene Ulrich, The Dead Sea Scrolls and the Developmental Composition of the Bible (Brill, 2015)",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Bart D. Ehrman, The Orthodox Corruption of Scripture: The Effect of Early Christological Controversies on the Text of the New Testament (Oxford University Press, 1993/2011)",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Daniel B. Wallace (ed.), Revisiting the Corruption of the New Testament: Manuscript, Patristic, and Apocryphal Evidence (Kregel Academic, 2011)",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Ronald Hendel, The Oxford Hebrew Bible: Prologue to a New Critical Edition, Vetus Testamentum 58.3 (2008)",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

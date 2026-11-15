@@ -1,0 +1,150 @@
+{
+  "kind": "philosophical",
+  "verdict": "Probably false: divine hiddenness is significant evidence against a loving personal God.",
+  "credence": 20,
+  "confidence": "low",
+  "bottom_line": "I interpret the claim as saying that persistent nonbelief among people open to a relationship with God provides no substantial reason to doubt a perfectly loving personal God, compared with a relevant alternative such as naturalism. On that reading, hiddenness is probably significant evidence: a loving God might be expected to make relationship possible for such people, yet many report sincerely seeking without finding convincing grounds for belief. The evidence is not decisive: God might have morally sufficient reasons for remaining less apparent, and other alleged evidence for God could outweigh hiddenness. The conclusion depends heavily on what divine love entails and on competing expectations about what God would do. If 'significant' means conclusive or enough to make God's existence unlikely all things considered, I would be much more sympathetic to the claim.",
+  "sub_claims": [
+    {
+      "claim": "Some people lack belief in God without resisting a relationship with God.",
+      "kind": "empirical",
+      "case_for": "There are credible reports from sincere seekers, former believers, and people raised without religious belief who appear open to God but remain unconvinced.",
+      "case_against": "Outward sincerity does not settle a person's deepest dispositions, and apparent openness may coexist with unnoticed resistance; some also question whether openness can be reliably assessed at all.",
+      "consensus": "No consensus on how confidently individual cases establish the nonresistance required by the argument. Philosophers on both sides generally recognize sincere doubt, while some religious philosophers dispute whether it establishes nonresistant nonbelief in the relevant sense.",
+      "evidence": [
+        "First-person accounts of prolonged, unsuccessful religious seeking",
+        "Accounts of former believers who say they wanted to retain their faith",
+        "The substantial variation in religious belief across cultures and upbringing"
+      ],
+      "verdict": "Very likely, though individual cases are difficult to verify conclusively.",
+      "credence": 90
+    },
+    {
+      "claim": "Perfect love would normally favor making a conscious relationship with God available to every capable, nonresistant person.",
+      "kind": "philosophical",
+      "case_for": "A perfectly loving person would not withhold access to a uniquely valuable relationship from someone ready for it without a sufficiently important reason. Belief that God exists appears necessary for a conscious personal relationship with God.",
+      "case_against": "Divine love might seek goods not captured by human relationship models, and relationship with God might be possible without explicit belief. A perfectly loving God could also have weighty reasons to delay conscious access.",
+      "consensus": "No consensus. Schellenberg defends a strong connection between perfect love and relationship availability; religious and other philosophers dispute whether the connection rules out divine delay or implicit relationship.",
+      "evidence": [
+        "J. L. Schellenberg's argument from nonresistant nonbelief",
+        "Debate over whether analogies with loving human parents apply to God",
+        "Religious accounts of God's presence among people who do not recognize it"
+      ],
+      "verdict": "Plausible as an expectation, but not established as an exceptionless rule.",
+      "credence": 70
+    },
+    {
+      "claim": "God could have morally sufficient reasons to permit prolonged nonresistant nonbelief.",
+      "kind": "philosophical",
+      "case_for": "A less explicit divine presence might support independent moral development, freedom from overpowering religious incentives, or goods arising through inquiry and community. Human beings might also be poorly positioned to identify all relevant divine reasons.",
+      "case_against": "Those possibilities are difficult to evaluate without independently grounded reasons to expect them, and a less coercive revelation could seemingly establish God's existence while preserving freedom. Prolonged absence can itself damage trust and development.",
+      "consensus": "No consensus. Religious philosophers including John Hick and Michael Rea explore reasons or frameworks for divine hiddenness; critics dispute whether such accounts justify its observed extent.",
+      "evidence": [
+        "Hick's account of epistemic distance and human development",
+        "The distinction between knowledge that someone exists and being coerced into loving them",
+        "The diversity, duration, and sometimes distressing character of reported unanswered seeking"
+      ],
+      "verdict": "Possible, but its plausibility and explanatory strength are uncertain.",
+      "credence": 65
+    },
+    {
+      "claim": "The observed pattern of hiddenness is substantially more expected under naturalism than under a perfectly loving personal God.",
+      "kind": "philosophical",
+      "case_for": "Without a God seeking conscious relationship, widespread variation in belief and unsuccessful seeking are unsurprising. A loving God has an apparent reason to prevent at least some persistent nonresistant nonbelief.",
+      "case_against": "Naturalism must also account for religious experiences and testimony, while theism includes possible reasons for hiddenness and varied forms of purported revelation. The comparison depends on how each worldview is specified.",
+      "consensus": "No consensus. The hiddenness argument is a serious topic in philosophy of religion, but philosophers, including religious scholars, disagree both about the relevant expectations and the force of the evidence.",
+      "evidence": [
+        "Reported nonresistant nonbelief",
+        "The geographical and cultural distribution of religious belief",
+        "Reports of religious experience and perceived divine response, which complicate the overall comparison"
+      ],
+      "verdict": "Probably true, though the size of the evidential advantage cannot be measured confidently.",
+      "credence": 75
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does perfect divine love create a strong expectation of conscious relationship whenever a person is capable and open to it?",
+      "type": "value",
+      "if_yes": "Persistent nonresistant nonbelief is substantial evidence against such a God.",
+      "if_no": "Hiddenness may provide only weak evidence, especially if divine love is understood primarily in terms of other goods.",
+      "your_view": "It creates a real expectation, but love alone does not establish an exceptionless obligation to reveal oneself immediately."
+    },
+    {
+      "crux": "Are there credible cases of prolonged nonresistant nonbelief?",
+      "type": "evidence",
+      "if_yes": "The central observation behind the argument is supported.",
+      "if_no": "The argument loses much of its force, though ordinary disagreement about religion might still matter.",
+      "your_view": "Yes, probably; dismissing all such reports as covert resistance is not well justified."
+    },
+    {
+      "crux": "How likely are sufficiently weighty divine reasons for allowing hiddenness?",
+      "type": "prior",
+      "if_yes": "Hiddenness is less surprising on theism and therefore weaker evidence against it.",
+      "if_no": "The contrast with naturalism is stronger.",
+      "your_view": "Such reasons are possible, but their existence and frequency are too speculative to neutralize the evidence altogether."
+    },
+    {
+      "crux": "Does 'significant evidence' mean a meaningful evidential disadvantage, or a decisive objection?",
+      "type": "definition",
+      "if_yes": "On the meaningful-disadvantage reading, the claim is probably false.",
+      "if_no": "If it means a decisive objection, the claim is probably true.",
+      "your_view": "I score the meaningful-disadvantage reading; evidence against a hypothesis need not outweigh every consideration in its favor."
+    }
+  ],
+  "strongest_for": [
+    "A loving God might have morally sufficient reasons to allow periods of uncertainty, including goods associated with independence and development.",
+    "Human ignorance about God's purposes limits confidence that no adequate reason for hiddenness exists.",
+    "Divine love might operate through implicit relationship or forms of presence that do not produce explicit theistic belief.",
+    "Religious experiences, testimony, and other arguments for God may counterbalance hiddenness, even if they do not erase its evidential force."
+  ],
+  "strongest_against": [
+    "A perfectly loving God seemingly has a strong reason to make conscious relationship available to those who are open to it.",
+    "Some apparently sincere seekers report years of unanswered searching, including people who would welcome God's existence.",
+    "Clearer evidence of God's existence need not compel worship or eliminate meaningful freedom.",
+    "Appealing to unknown reasons preserves possibility but does not by itself show that the observed pattern is expected under theism."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Everyone who disbelieves is secretly resisting God: this treats a disputed psychological claim as established and discounts contrary testimony.",
+      "God's ways are mysterious, so hiddenness is not evidence: unknown reasons can limit confidence without eliminating an evidential disadvantage.",
+      "Many people experience God, so hiddenness is no problem: experiences may count in the other direction but do not explain why others apparently receive no comparable access."
+    ],
+    "against": [
+      "If God existed, everyone would believe: that assumes without argument that divine revelation would have to be universal and unmistakable.",
+      "God has not convinced me, so no loving God exists: an individual experience can be evidence without logically settling the matter.",
+      "Religions disagree, so every religious claim is false: disagreement does not establish that all parties are wrong."
+    ]
+  },
+  "would_change": [
+    "Well-supported evidence that apparently open, prolonged seekers typically harbor the relevant resistance would weaken the argument.",
+    "A persuasive, independently motivated account showing why substantial hiddenness is necessary for goods a loving God could not otherwise secure would raise my credence in the claim.",
+    "Reliable, reproducible evidence of divine response that is systematically available to open seekers would weaken the hiddenness evidence.",
+    "Stronger evidence that prolonged nonresistant nonbelief is widespread even under conditions favorable to recognizing God would strengthen the argument."
+  ],
+  "sources": [
+    {
+      "citation": "J. L. Schellenberg, Divine Hiddenness and Human Reason, 1993",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Daniel Howard-Snyder and Paul K. Moser, eds., Divine Hiddenness: New Essays, 2002",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Stephen Maitzen, Divine Hiddenness and the Demographics of Theism, 2006",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "John Hick, Evil and the God of Love, 1966",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Michael C. Rea, The Hiddenness of God, 2018",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

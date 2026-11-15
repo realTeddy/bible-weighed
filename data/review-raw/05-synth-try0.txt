@@ -1,0 +1,42 @@
+{
+  "summary": "All four reviewers judge the claim too strong, while agreeing that much biblical text is well preserved and most variants are small. They agree that some variants affect narrative details or the wording of passages with theological significance, even if no central doctrine depends solely on a disputed reading. They distinguish the generally well-supported New Testament critical text from standard Hebrew critical editions that print a Masoretic manuscript while recording alternatives. All note that some biblical books circulated in substantially different ancient forms, complicating the search for a single earliest form. They differ in confidence, in how strongly they describe particular reconstructions, and in how much credit to give editions that mark disputed material.",
+  "agreement": "high",
+  "agreed": [
+    "The claim fails as a blanket statement about every book and every meaningful variant.",
+    "Most identifiable variants are minor, and manuscript comparison supports substantial confidence in much of the text.",
+    "Some variants affect stories or theological wording; this is distinct from overturning a core doctrine.",
+    "Major New Testament additions such as Mark 16:9–20 and John 7:53–8:11 are bracketed or otherwise flagged in critical editions.",
+    "Standard Hebrew critical editions print a Masoretic manuscript, while ancient witnesses preserve other substantive readings and literary forms.",
+    "The earliest recoverable text is not necessarily identical to the lost authorial original."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of judgment and confidence",
+      "positions": "GPT-6.1 assigns the overall claim 8, Opus 5.5 assigns 17, and Gemini 3.8 and Grok 4.7 each assign 25. Gemini reports high confidence; the other three report medium confidence."
+    },
+    {
+      "point": "How to assess disputed New Testament passages in modern editions",
+      "positions": "GPT-6.1 scores the printed main text and treats even qualified inclusion as potentially relevant, while emphasizing that brackets matter. Grok and Opus give substantial credit for bracketed or removed additions; Gemini emphasizes their substantive impact as textual additions."
+    },
+    {
+      "point": "How firmly earlier forms can be identified",
+      "positions": "Gemini treats the shorter Jeremiah edition as earlier and the longer Masoretic edition as secondary. Grok and Opus emphasize earlier or distinct editions, while GPT-6.1 stresses that some rankings remain genuinely contested and that a variant alone does not establish which reading is earliest."
+    },
+    {
+      "point": "Precision of New Testament reconstruction",
+      "positions": "Gemini estimates more than 90% of the New Testament text is firmly established. Grok and Opus emphasize high confidence in most wording but caution against poorly defined purity percentages; GPT-6.1 gives no comparable percentage."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether 'teaching or story' includes changes to individual statements and episodes or only to core doctrines and overall plots.",
+    "Whether the object assessed is the printed main text alone or the edition together with brackets and notes.",
+    "Whether the target is the earliest recoverable literary form, a received canonical edition, or the lost authorial original.",
+    "Whether the evidence establishes which competing reading or edition is earlier in each disputed case.",
+    "Whether the claim covers the whole Bible or only the New Testament."
+  ],
+  "what_is_settled": "Across the reviews, the shared conclusion is that much wording is well preserved, most variants are minor, and some are substantive. Modern critical editions flag prominent New Testament additions, while standard Hebrew editions print a Masoretic manuscript and document alternatives.",
+  "what_is_open": "The earliest attainable reading remains uncertain in some passages, as does the priority of some ancient editions. The overall assessment also depends on how one defines a changed teaching or story, which canon and textual target are intended, and whether annotations count as part of the text being assessed."
+}
+
+
+--- stderr ---

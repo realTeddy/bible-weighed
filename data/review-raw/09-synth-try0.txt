@@ -1,0 +1,36 @@
+{
+  "summary": "All four reviewers consider the claim likely true when it means direct borrowing of Jesus’s death and resurrection from pagan dying-and-rising myths. They assign it 86% (GPT-6.1), 92% (Gemini 3.8), 88% (Grok 4.7), and 87% (Opus 5.5). All emphasize the Jewish scriptural and apocalyptic context of the earliest Christian proclamation and find direct dependence on a particular pagan myth unestablished. They acknowledge pre-Christian death-and-return motifs, while stressing differences and disputed classifications. Gemini expresses the strongest confidence in a Jewish rather than pagan origin; the others place more emphasis on uncertainty about indirect influence.",
+  "agreement": "high",
+  "agreed": [
+    "The earliest Christian death-and-resurrection proclamation is closely connected to Jewish scripture and resurrection expectations.",
+    "Resemblance alone does not establish borrowing from a particular pagan myth.",
+    "Some pre-Christian traditions contain divine death-and-return motifs, but their similarity to the Christian claim is qualified.",
+    "Several popular parallels are distorted, dissimilar, or dependent on later evidence.",
+    "Later cultural contact is distinct from the origin of the core proclamation."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of the conclusion",
+      "positions": "Gemini calls the claim almost certainly true and says Jewish apocalypticism fully accounts for the belief; GPT-6.1, Grok, and Opus also favor the claim but express medium confidence and more caution about indirect influence."
+    },
+    {
+      "point": "The dying-and-rising-god category",
+      "positions": "Gemini emphasizes a broad consensus against a unified archetype, with a small minority supporting some genuine cases. Grok and Opus describe the category itself as more divided or unsettled; GPT-6.1 likewise stresses disputes over its usefulness and membership."
+    },
+    {
+      "point": "Scope of possible indirect influence",
+      "positions": "Opus specifically highlights possible ancient Near Eastern influence through Israelite scripture and possible Greco-Roman shaping of Gospel narratives. GPT-6.1 and Grok emphasize incomplete evidence and diffuse cultural influence more generally. Gemini acknowledges possible ambient influence but draws a firmer distinction between that and the origin of the core claims."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether borrowing means direct or substantial derivation of the core proclamation, or includes diffuse and indirect cultural influence.",
+    "Whether securely pre-Christian parallels were sufficiently similar and accessible to the earliest Christians.",
+    "Whether evidence shows a transmission route or distinctive textual dependence, rather than resemblance alone.",
+    "How far Jewish resurrection expectations and scriptural interpretation explain the earliest claim without a pagan source."
+  ],
+  "what_is_settled": "The reviewers agree that the earliest surviving Christian proclamation is framed in Jewish scriptural terms, that some older traditions contain death-and-return motifs, and that direct borrowing from a specific pagan myth has not been demonstrated.",
+  "what_is_open": "The extent of indirect cultural or literary influence, the classification and relevance of particular pagan myths, and how broadly to define borrowing remain disputed. Whether Jesus literally rose is a separate question, not settled by the borrowing evidence."
+}
+
+
+--- stderr ---

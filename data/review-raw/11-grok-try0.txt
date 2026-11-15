@@ -1,0 +1,150 @@
+{
+  "kind": "mixed",
+  "verdict": "Almost certainly did not happen",
+  "credence": 1,
+  "confidence": "high",
+  "bottom_line": "The claim scored here is the narrative's own: a historical flood that covered all the high mountains, killed every human outside the ark, and destroyed terrestrial air-breathing animals except the ark's stock, within the human past Genesis describes. Ice cores, tree rings, sediments, fossils, genetics, and continuous civilizations on several continents contradict that event at every usually proposed date. Genesis 6–9 is also closely related to older Mesopotamian flood stories about a regional disaster, and most academic biblical scholars, including many Jewish and Christian ones, do not read it as a geological report. A vocal young-earth minority still affirms a literal global flood, but that stance rests on a prior that the text overrides physical evidence, not on positive traces of such a flood. A large local Mesopotamian flood behind the tradition is a different, much more plausible claim.",
+  "sub_claims": [
+    {
+      "claim": "A flood covered every high mountain on Earth and killed all humans and terrestrial air-breathing animals outside an ark.",
+      "kind": "empirical",
+      "case_for": "Genesis 7:19–23 states this in universal terms. If that text is inerrant history, the event occurred by divine power even if the water and its removal were miraculous. The strongest flood-geology case reinterprets much of the sedimentary record as that catastrophe: widespread marine deposits, rapid burial, and fossil order explained by ecology, mobility, and hydrodynamic sorting rather than deep time.",
+      "case_against": "A mountain-covering global flood would leave a synchronous debris and melt signature in ice, lake sediments, speleothems, coral, and archaeology. Those archives are continuous through the Holocene and far beyond. Marine fossils on mountains sit in tectonically stacked, age-ordered sequences, not one mixed worldwide deposit. There is no single global flood layer.",
+      "consensus": "Effectively unanimous among geologists, paleoclimatologists, and archaeologists, including most Christian academic geologists. Affirmed mainly by young-earth creationist organizations outside mainstream geoscience.",
+      "evidence": ["Genesis 7:19–23", "Continuous Holocene Greenland ice with annually resolved recent layers", "Antarctic ice continuous for hundreds of thousands of years (EPICA Dome C)", "No globally synchronous recent flood deposit", "Marine fossils on mountains occur in ordered tectonic sequences"],
+      "verdict": "Did not occur",
+      "credence": 1
+    },
+    {
+      "claim": "Every living human descends from eight flood survivors a few thousand years ago, and other human populations were wiped out.",
+      "kind": "empirical",
+      "case_for": "Genesis 9–11 presents Noah's sons as ancestors of all later nations. Traditional chronologies place this only a few thousand years ago. Creationist models argue that mutation rates, genealogical gaps, or a different chronology could hide or compress the expected genetic signal.",
+      "case_against": "Autosomal, mitochondrial, and Y-chromosome variation show no Holocene collapse of humanity to a handful of people. Coalescence times and effective population sizes are far older and larger. Egypt's Old Kingdom, including the Giza pyramids, predates the traditional Ussher flood date and continues through it; Mesopotamian, Indus, and Chinese sequences likewise show no universal extinction of humanity.",
+      "consensus": "Population geneticists and archaeologists overwhelmingly reject a Holocene bottleneck to eight people. Young-earth writers dissent; most other Jewish and Christian scholars who affirm a historical flood do not insist on this genetic picture, and many reject a global flood entirely.",
+      "evidence": ["No genome-wide Holocene bottleneck to single digits", "Archaeological continuity in Egypt, Mesopotamia, South Asia, and East Asia", "Giza pyramids still standing and older than the traditional flood date of 2348 BCE", "Regional Mesopotamian flood silts are real but not the same age at every city"],
+      "verdict": "False",
+      "credence": 1
+    },
+    {
+      "claim": "Today's land animals are the descendants of ark pairs that landed in the Near East and repopulated the planet within a few thousand years.",
+      "kind": "empirical",
+      "case_for": "The text says animals boarded and later left the ark. Baraminology proposes rapid post-flood diversification within created kinds, plus land bridges, to explain distribution. Local catastrophic burial is a real geological process and shows that fossils need not form slowly in every case.",
+      "case_against": "Biogeography and fossils show long in-place histories: Australian marsupials, Madagascar's fauna, New World monkeys, and island radiations are not a few-thousand-year dispersal from Ararat. Fossil order worldwide matches a deep chronological sequence, not one year's sorting. Genetic distances among species exceed what measured mutation rates allow in that time.",
+      "consensus": "Biologists and paleontologists reject this. Only young-earth creationist writers defend it. Other confessional scholars generally drop the global-ark biology rather than the genetic and fossil evidence.",
+      "evidence": ["Pre-Holocene fossil records of endemic faunas", "Ordered fossil succession inconsistent with one-year global sorting", "Island endemism and host-parasite patterns", "Measured genetic divergences too deep for a few millennia"],
+      "verdict": "False",
+      "credence": 1
+    },
+    {
+      "claim": "Genesis 6–9 is independent eyewitness-based history rather than a theological narrative shaped by older Mesopotamian flood traditions.",
+      "kind": "textual",
+      "case_for": "Shared themes could be memory of one real flood rather than borrowing. Genesis differs sharply in theology: one God, a moral reason, no quarreling pantheon, and a covenant afterward. Those differences can be read as an Israelite correction of pagan versions, preserving a historical core.",
+      "case_against": "Parallels with Atrahasis and Gilgamesh tablet XI are plot-specific: a warned boat-builder, animals preserved, a mountain landing, birds sent out, sacrifice, and a divine promise not to repeat the destruction. That is closer than generic flood experience predicts. The text, in any standard dating, was written many centuries after the supposed event and is not a contemporary report.",
+      "consensus": "Academic biblical and ancient Near Eastern scholars, including many Jewish and Christian ones, overwhelmingly see a literary relationship and do not treat the chapters as independent eyewitness historiography. Confessional inerrantists often call the parallels shared memory or revelation instead.",
+      "evidence": ["Atrahasis flood narrative", "Gilgamesh XI, Utnapishtim", "Shared bird-release and post-flood sacrifice motifs", "Composition far later than any traditional flood date"],
+      "verdict": "Independent eyewitness history is very unlikely; a literary relationship is well supported",
+      "credence": 8
+    },
+    {
+      "claim": "Similar flood legends worldwide are best explained as memory of one shared global flood.",
+      "kind": "empirical",
+      "case_for": "Boat-and-survivor flood stories occur in many regions. A real global disaster should leave oral memory, and cultural diffusion from Mesopotamia may not explain every distant parallel. This is the strongest non-textual point usually offered for a historical kernel larger than one river valley.",
+      "case_against": "Devastating local floods are common, so similar stories are expected without one global event. Motifs diverge, many cultures lack a world-destroying flood, and some recorded tales were shaped after contact with biblical tradition. Comparative folklore does not converge on one date, one landing site, or one plot, and the physical archives do not contain the event those memories would have to track.",
+      "consensus": "Folklorists and historians of religion generally reject a single global memory. Young-earth popular literature often asserts it. There is no expert consensus that a flood myth is even universal.",
+      "evidence": ["Wide variation in causes, boats, and survivors", "Cultures without a global-flood myth", "Known local megafloods, including glacial Lake Missoula", "Cluster of the closest literary parallels in Mesopotamia"],
+      "verdict": "Poor evidence for one global flood",
+      "credence": 5
+    },
+    {
+      "claim": "The Genesis author intended a flood of every mountain on the modern globe, not a total flood of the world as ancient Israel conceived it.",
+      "kind": "textual",
+      "case_for": "The wording is as universal as Hebrew narrative gets: all mountains under the whole heaven, all flesh, and an ark that exists to save animal kinds from total destruction. Many later Jewish and Christian readers took the scope to be truly worldwide.",
+      "case_against": "Biblical Hebrew often uses 'all the earth' for the whole land or the author's world, and ancient cosmology was a disc under a firmament, not a modern globe. Hyperbole is normal in ancient disaster texts. Even on that reading, the plot still says every human outside the ark died, which archaeology falsifies.",
+      "consensus": "No consensus. Critical scholars tend to stress ancient cosmology and literary hyperbole; many traditional readers take the scope as worldwide. Evangelical scholars are split among global, local, and theological readings.",
+      "evidence": ["Genesis 7:19", "Range of Hebrew erets", "Ancient Near Eastern cosmic geography", "Long history of both global and non-global interpretations"],
+      "verdict": "Modern-globe intent is uncertain; total destruction of humanity outside the ark is what the plot asserts, and that is enough to make the historical claim fail",
+      "credence": 40
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does 'as described in Genesis 6–9' require a planet-wide flood that covered all high mountains and killed every human outside the ark?",
+      "type": "definition",
+      "if_yes": "The claim is almost certainly false on geological, archaeological, and genetic evidence.",
+      "if_no": "A destructive Mesopotamian river flood, later told in universal language, is plausible, but that is a different claim from the one being tested.",
+      "your_view": "Score the narrative claim, including universal death outside the ark and covering of all the high mountains. A merely local flood is not the claim."
+    },
+    {
+      "crux": "Should miracle hypotheses that erase, hide, or falsify every expected physical trace be given real weight?",
+      "type": "prior",
+      "if_yes": "Credence can stay high, because any contrary archive can be called apparent, post-flood, or miraculously rearranged.",
+      "if_no": "Credence falls to about zero, because the expected traces are absent and contrary traces are present.",
+      "your_view": "Those hypotheses are unfalsifiable and fit any sacred story equally well. They do not selectively support this flood. I give them negligible weight."
+    },
+    {
+      "crux": "Would a recent mountain-covering global flood have left obvious, synchronous traces?",
+      "type": "evidence",
+      "if_yes": "Absence of those traces, plus intact ice and civilizations, is decisive evidence against the event.",
+      "if_no": "The scientific case would be much weaker and would depend more on biology and texts.",
+      "your_view": "Yes. This is not a subtle event. Even the last several thousand years of ice, which are annually layered and tied to known volcanic markers, are enough to rule out the traditional date; deeper continuous records rule out shifting the date earlier while keeping the story."
+    },
+    {
+      "crux": "Is Genesis independent testimony, or a theological narrative in an existing Mesopotamian tradition?",
+      "type": "evidence",
+      "if_yes": "The text would be a serious historical witness, still outweighed by the physical record unless an inerrancy prior is added.",
+      "if_no": "The text is weak evidence that a global flood occurred.",
+      "your_view": "It is a theological narrative with specific ties to older regional flood literature, so its weight as a report of a planet-wide event is low."
+    }
+  ],
+  "strongest_for": [
+    "Genesis 7 states the flood's scope in explicitly universal language, and for many centuries Jewish and Christian readers understood it as a real worldwide judgment.",
+    "If a prior of biblical inerrancy is granted, contrary physical evidence is reinterpreted rather than allowed to defeat the text, so the claim follows from that prior.",
+    "Mesopotamia really did suffer large destructive river floods; silt layers at cities such as Ur show that the tradition has a plausible local setting.",
+    "The tightest non-biblical parallels can be read as shared memory of a real catastrophe rather than as literary invention, and Genesis's moral and monotheistic reshaping is a genuine theological achievement either way.",
+    "Flood geology at least tries to offer a positive mechanism—catastrophic deposition, ecological sorting, and, in later versions, catastrophic plate tectonics—rather than relying only on the text."
+  ],
+  "strongest_against": [
+    "Ice cores, tree rings, speleothems, and other continuous archives pass straight through every standard flood date with no global inundation signal. Holocene ice layers alone refute a flood a few thousand years ago.",
+    "Civilizations and populations on multiple continents continue through the relevant centuries. A story in which all humans outside one family die is historically false even if 'all the earth' is read as the ancient author's world.",
+    "Human and animal genetics show no ark-scale bottleneck in the Holocene, and biogeography does not fit a single Near Eastern restart.",
+    "The geologic column is ordered, dated by multiple independent methods, and regionally structured. It is not the deposit of one year of water.",
+    "The closest ancient accounts, Atrahasis and Gilgamesh XI, are regional Mesopotamian flood traditions, and Genesis belongs to that literary world rather than standing as an independent global report."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Marine fossils on mountains do not show a recent global flood. They are explained by uplift of ancient seafloors, and they occur in a consistent age order.",
+      "The claim that every culture tells the same flood story is false. Motifs differ, some cultures lack the myth, and similar stories are expected from ordinary floods.",
+      "Repeated claims that Noah's ark has been found on Ararat have not produced a verified hull, datable timber from the right period, or a site accepted by archaeologists.",
+      "A vapor canopy as the flood's water source is physically implausible and has been abandoned by many young-earth writers themselves.",
+      "It is not true that mainstream geology has no explanation of sedimentary rocks without a global flood. Stratigraphy, plate tectonics, and radiometric dating are the explanation."
+    ],
+    "against": [
+      "It is not true that the ancient world shows no large floods. Glacial outburst floods and Mesopotamian river floods were real; they just were not one global mountain-covering flood.",
+      "Saying the story is 'just a myth' and therefore false is circular. Mythic form lowers the prior for a literal reading; the physical and archaeological record is what settles the historical question.",
+      "Ark logistics do not decide the issue once arbitrary miracles are allowed. The decisive problems are the missing global traces and the intact human and natural records.",
+      "A Black Sea flood, even if the disputed sudden-inundation hypothesis were confirmed, would be regional and would neither prove nor be required to disprove a global flood."
+    ]
+  },
+  "would_change": [
+    "A single sedimentary horizon on every continent, dated by multiple methods to one year, mixing terrestrial life from every region and cutting ice cores, varves, reefs, and occupation layers worldwide.",
+    "Genome-wide evidence that all humans passed through a bottleneck of about eight people, and major land-animal groups through pairs, a few thousand years ago.",
+    "A concordant failure of ice-core counting, dendrochronology, radiometric dating, and archaeological chronology, not a critique of only one method.",
+    "Contemporary written reports of the same year-long global inundation from independent civilizations, combined with a physical mechanism that explains where the water came from and why the expected traces are absent."
+  ],
+  "sources": [
+    {"citation": "Genesis 6–9", "kind": "scripture"},
+    {"citation": "Atrahasis epic", "kind": "primary"},
+    {"citation": "Epic of Gilgamesh, Tablet XI", "kind": "primary"},
+    {"citation": "John C. Whitcomb and Henry M. Morris, The Genesis Flood, 1961", "kind": "scholarship"},
+    {"citation": "Davis A. Young, The Biblical Flood: A Case Study of the Church's Response to Extrabiblical Evidence, 1995", "kind": "scholarship"},
+    {"citation": "Nahum M. Sarna, Genesis (JPS Torah Commentary), 1989", "kind": "scholarship"},
+    {"citation": "Irving Finkel, The Ark Before Noah: Decoding the Story of the Flood, 2014", "kind": "scholarship"},
+    {"citation": "Tremper Longman III and John H. Walton, The Lost World of the Flood, 2018", "kind": "scholarship"},
+    {"citation": "William Ryan and Walter Pitman, Noah's Flood, 1998", "kind": "scientific"},
+    {"citation": "EPICA community members, Eight glacial cycles from an Antarctic ice core, Nature, 2004", "kind": "scientific"},
+    {"citation": "National Academy of Sciences and Institute of Medicine, Science, Evolution, and Creationism, 2008", "kind": "scientific"}
+  ]
+}
+
+
+--- stderr ---

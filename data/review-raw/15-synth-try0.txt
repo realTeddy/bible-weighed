@@ -1,0 +1,44 @@
+{
+  "summary": "All four reviews judge the claim unlikely, while recognizing that the Bible contains both affirmations of women and restrictive or unequal provisions. They emphasize that their judgments depend on what justice requires and what counts as the Bible’s treatment as a whole. Each regards the positive portrayals of women as significant but not sufficient to resolve the legal and institutional difficulties. They differ in confidence, in how strongly they characterize particular passages, and in how much weight they give theological defenses. Their reported credences in the claim are GPT-6.1: 8, Gemini 3.8: 15, Grok 4.7: 20, and Opus 5.5: 12, on a 100-point scale. Gemini reports high confidence, Grok low confidence, and GPT-6.1 and Opus medium confidence.",
+  "agreement": "high",
+  "agreed": [
+    "Genesis presents women and men as made in God’s image, and biblical texts depict women in significant religious roles.",
+    "Some biblical laws and New Testament instructions impose sex-based distinctions that pose serious difficulties under standards of equal autonomy and authority.",
+    "Positive examples do not by themselves resolve the concerns raised by restrictive prescriptions; narratives describing abuse should not automatically be treated as endorsing it.",
+    "Contextual interpretation, legal protections and divine accommodation are substantive defenses, but none of the reviews considers them sufficient to establish the claim as stated."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of the theological defense",
+      "positions": "GPT-6.1 treats accommodation as a serious possibility requiring a stronger explanation. Gemini judges it philosophically weak; Grok and Opus see it as more plausible for limiting or tolerating harm than as a defense of the treatment itself, particularly where actions are depicted as commanded."
+    },
+    {
+      "point": "Whether women are described as property",
+      "positions": "Gemini characterizes biblical law as treating women as property or dependents. Grok and Opus reject the unqualified property characterization, emphasizing dependent legal status and specific restrictions instead; GPT-6.1 focuses on unequal provisions without adopting that label."
+    },
+    {
+      "point": "Deuteronomy 22:28–29",
+      "positions": "Gemini presents it as requiring a raped woman to marry her attacker. Grok regards that reading as plausible but stresses a disputed Hebrew verb; Opus also notes an alternative seduction reading. GPT-6.1 does not make this passage a central example."
+    },
+    {
+      "point": "Comparison with other ancient laws",
+      "positions": "Grok considers some biblical provisions plausibly less harsh than particular Middle Assyrian laws. Opus judges the comparison mixed, while Gemini cautions that some neighboring societies gave women greater autonomy. GPT-6.1 notes that comparative claims are contested."
+    },
+    {
+      "point": "Strength of conclusions about New Testament restrictions",
+      "positions": "Gemini and Grok emphasize enduring patriarchal commands; Opus considers some reinterpretations successful but insufficient for the hardest cases. GPT-6.1 finds contextual alternatives plausible, though not clearly sufficient to dissolve every restriction."
+    }
+  ],
+  "deciding_cruxes": [
+    "Does justice require equal legal protection, consent and equal access to authority, or can equal worth coexist with sex-based roles?",
+    "Can a perfectly good God justly accommodate unequal institutions, especially where texts portray particular actions as commanded rather than merely tolerated?",
+    "Should the claim be judged by the full range of biblical prescriptions or by an overarching redemptive trajectory?",
+    "How should disputed passages be translated and interpreted, and are restrictions local, enduring or textually disputed?",
+    "Does compatibility mean mere logical possibility, or a persuasive account of the treatment as substantively just?"
+  ],
+  "what_is_settled": "The reviews agree that the cited biblical texts contain both affirmations of women and sex-specific laws or restrictions, and that interpreters dispute their implications. They also agree that identifying positive examples does not, by itself, settle the justice of the restrictive provisions.",
+  "what_is_open": "The moral standard to apply, the scope and meaning of disputed passages, the strength of historical comparisons, and whether accommodation or a trajectory reading reconciles the texts with perfect goodness remain contested or dependent on prior commitments."
+}
+
+
+--- stderr ---

@@ -1,0 +1,44 @@
+{
+  "summary": "All four reviews conclude that Jesus almost certainly existed as a historical person, assigning the claim probabilities of 95–99%. They distinguish that conclusion from claims about divinity, miracles and the accuracy of detailed Gospel narratives. All emphasize Paul's early letters, especially his reference to James as the Lord's brother, and report a broad scholarly consensus across religious and secular perspectives. They also recognize limitations in the sources and regard a purely celestial origin later turned into an earthly biography as unlikely. Their main differences concern how decisively particular arguments work, especially the independence of later sources and the force of allegedly embarrassing details.",
+  "agreement": "high",
+  "agreed": [
+    "A historical Jesus is much more likely than a wholly mythical or originally celestial figure.",
+    "Existence does not establish miracles, divinity or the accuracy of every Gospel story.",
+    "Paul's letters are important early evidence; a family relationship between James and Jesus is the preferred reading, though a religious-title interpretation is possible.",
+    "Josephus's reference to James in Antiquities 20 is generally considered authentic, while the longer Jesus passage contains Christian alterations.",
+    "The Gospels are later, theologically shaped sources whose historical details require separate assessment.",
+    "There are no surviving records of Jesus from his lifetime, and Paul provides relatively little earthly biography.",
+    "Specialists overwhelmingly accept Jesus's existence, though they dispute much about his life."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of conclusion and confidence",
+      "positions": "GPT-6.1 assigns 99% with medium confidence and stresses the estimate's subjectivity; Gemini 3.8 and Opus 5.5 assign 97% with high confidence, and Grok 4.7 assigns 95% with high confidence."
+    },
+    {
+      "point": "How decisive embarrassing details are",
+      "positions": "Gemini treats crucifixion as explainable only as a historical reality and regards baptism and Nazareth as strong indicators. Grok and Opus also see such details as evidence but acknowledge criticism of the historical criteria; GPT-6.1 treats crucifixion's difficulty for some audiences as one consideration while noting a theological narrative could have created it."
+    },
+    {
+      "point": "Independence of later non-Christian sources",
+      "positions": "Gemini describes Josephus and Tacitus as reliable corroboration and reports a general consensus that Tacitus drew on Roman knowledge or official context. Opus calls them independent in its bottom line but acknowledges that Tacitus may repeat Christian claims. Grok explicitly says Tacitus's independence is unproven, while GPT-6.1 likewise cautions that later sources may depend on Christian reports and that Josephus's independence is less certain than the passage's authenticity."
+    },
+    {
+      "point": "Scope of the historical core",
+      "positions": "GPT-6.1 explicitly scores the minimal claim that a real first-century Jewish man lies behind the traditions. Grok includes execution under Pilate in its minimal account, while Gemini and Opus additionally present baptism by John and other features of a teacher's life as part of the broadly accepted outline. Grok stresses that a confident detailed biography is not established."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether Paul's 'brother of the Lord' denotes Jesus's relative or a religious title, and whether the relevant passages are authentic.",
+    "Whether the earliest traditions are better explained by a recent human founder or by a celestial figure later given an earthly life.",
+    "How much weight to give the authenticity and independence of Josephus and Tacitus.",
+    "How strongly crucifixion and other inconvenient details favor historical memory over theological invention.",
+    "How much weight to give the scholarly consensus and the absence of contemporary records.",
+    "Whether the claim concerns minimal existence or also includes specific biographical and supernatural claims."
+  ],
+  "what_is_settled": "The reviews agree that the historical-person claim is overwhelmingly supported and that scholarly acceptance is broad; none treats miracles or the full Gospel portrait as established by that conclusion.",
+  "what_is_open": "The precise probability, the independence of later testimony, the interpretation of individual passages, and which details of Jesus's life and teachings are reliable remain disputed. The reviews also identify possible early evidence for a purely celestial Jesus or evidence of interpolation as findings that could change their assessments; supernatural claims depend on separate commitments and evidence."
+}
+
+
+--- stderr ---

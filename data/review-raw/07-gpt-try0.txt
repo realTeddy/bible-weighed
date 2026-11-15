@@ -1,0 +1,174 @@
+{
+  "kind": "mixed",
+  "verdict": "Almost certainly not inerrant",
+  "credence": 2,
+  "confidence": "medium",
+  "bottom_line": "I am scoring the claim that the original writings of the 66-book Protestant canon made no false assertions and contained no genuine contradictions, interpreted according to their genres and ordinary ancient conventions. Copying errors, approximations and figurative language do not by themselves count against it. Several historical and textual tensions are individually open to harmonization, but their cumulative force strongly favors the presence of at least one error or contradiction. Original manuscripts no longer survive, so this is a judgment from reconstructed texts, not a direct inspection of the autographs. A strong prior that God guaranteed inerrancy can rationally produce a much higher estimate; a weaker claim about the Bible’s theological reliability would also score differently.",
+  "sub_claims": [
+    {
+      "claim": "The birth accounts probably contain a historical chronological error.",
+      "kind": "empirical",
+      "case_for": "Matthew places Jesus’ birth during Herod the Great’s reign, while Luke associates it with a census under Quirinius. Josephus places Herod’s death years before Quirinius’ census, generally dated to 6 CE.",
+      "case_against": "Luke might refer to an earlier, otherwise poorly documented registration, or his wording might have a different chronological meaning. Ancient administrative records are incomplete.",
+      "consensus": "Most critical historians regard the tension as substantial and commonly judge Luke’s census chronology mistaken. Some confessional scholars defend an earlier registration or alternative reading; there is no consensus across all scholars.",
+      "evidence": [
+        "Matthew 2:1 places Jesus’ birth in Herod’s reign.",
+        "Luke 2:1–2 links the birth to a registration when Quirinius governed Syria.",
+        "Josephus, Jewish Antiquities, describes Herod’s death and the later census associated with Quirinius."
+      ],
+      "verdict": "Probably an error in at least one account.",
+      "credence": 90
+    },
+    {
+      "claim": "Matthew and John probably differ on the timing of Jesus’ death relative to the Passover meal.",
+      "kind": "textual",
+      "case_for": "Matthew presents the Last Supper as a Passover meal; John appears to place Jesus’ trial and death before the Jewish authorities have eaten the Passover.",
+      "case_against": "The references in John may concern other festival meals, and ‘preparation of the Passover’ may mean the Friday of Passover week. Different calendars are also possible, though difficult to establish for these participants.",
+      "consensus": "Many critical New Testament scholars see a chronological difference. Confessional scholars offer several harmonizations, and interpretations remain contested.",
+      "evidence": [
+        "Matthew 26:17–20 presents the disciples preparing and eating the Passover meal.",
+        "John 18:28 says the authorities wanted to avoid defilement so they could eat the Passover.",
+        "John 19:14 calls the day of sentencing the preparation of the Passover."
+      ],
+      "verdict": "Probably a genuine chronological difference, though not conclusive in isolation.",
+      "credence": 80
+    },
+    {
+      "claim": "The genealogies of Jesus probably contain incompatible claims about Joseph’s ancestry.",
+      "kind": "textual",
+      "case_for": "Matthew names Jacob as Joseph’s father, whereas Luke traces Joseph through Heli; their lines also diverge between David and Joseph.",
+      "case_against": "One genealogy could represent legal or adoptive relationships rather than biological descent, or Luke could be recording a relationship through marriage. Ancient genealogies could serve more than one purpose.",
+      "consensus": "Many critical scholars see conflicting genealogical traditions. Confessional scholars commonly defend legal, adoptive or other harmonizations; the intended relationship in Luke is disputed.",
+      "evidence": [
+        "Matthew 1:16 names Jacob as Joseph’s father.",
+        "Luke 3:23 associates Joseph with Heli.",
+        "Matthew traces the line through David’s son Solomon, while Luke traces it through Nathan."
+      ],
+      "verdict": "Probably a conflict, but the proposed alternative relationships cannot be ruled out.",
+      "credence": 75
+    },
+    {
+      "claim": "The Exodus account probably overstates the historical scale of the departure from Egypt.",
+      "kind": "empirical",
+      "case_for": "The narrative describes a very large departing population, but archaeological evidence does not establish a migration or wilderness sojourn on that scale; evidence for early Israel also points substantially to emergence within Canaan.",
+      "case_against": "Mobile populations can leave limited archaeological traces, and the numbers may be conventional, figurative or understood in some other ancient sense. A smaller historical departure is compatible with much of the evidence.",
+      "consensus": "Many archaeologists and historians doubt an exodus on the narrated scale, while scholars differ about possible historical cores. Some confessional scholars defend a substantially historical account or alternative interpretations of the numbers.",
+      "evidence": [
+        "Exodus 12:37 reports about 600,000 men on foot, besides children.",
+        "Numbers 1:46 gives a total of 603,550 counted men.",
+        "Archaeological interpretations of early Israelite settlement generally emphasize substantial continuity with Canaanite populations."
+      ],
+      "verdict": "Probably not accurate as a straightforward report of population size.",
+      "credence": 90
+    },
+    {
+      "claim": "Scholars can determine the original wording of every contested biblical passage with confidence.",
+      "kind": "textual",
+      "case_for": "Many manuscripts, translations and quotations allow textual critics to reconstruct a great deal of the text, sometimes with high confidence.",
+      "case_against": "No original biblical manuscripts survive, manuscript traditions disagree, and some variants remain difficult to resolve. High confidence about many passages is not certainty about all of them.",
+      "consensus": "Textual critics broadly agree that variants exist and that some original readings remain disputed. Scholars, including confessional scholars, differ over particular reconstructions and their implications.",
+      "evidence": [
+        "The surviving manuscript traditions contain variants.",
+        "Critical editions identify passages where editors weigh competing readings.",
+        "The inerrancy claim concerns original writings rather than every surviving copy."
+      ],
+      "verdict": "Almost certainly false; this limits both proof and disproof of claims about the originals.",
+      "credence": 1
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Did God guarantee that the biblical authors would make no erroneous assertions?",
+      "type": "prior",
+      "if_yes": "Inerrancy becomes highly probable, and otherwise unlikely harmonizations deserve substantially more weight.",
+      "if_no": "Ordinary historical and textual explanations become much more plausible.",
+      "your_view": "I assign that guarantee a low prior; the disputed evidence does not raise it enough to overcome the cumulative tensions."
+    },
+    {
+      "crux": "Were apparent conflicts intended as literal historical assertions rather than literary, approximate or conventional expressions?",
+      "type": "definition",
+      "if_yes": "The historical and chronological tensions count strongly against inerrancy.",
+      "if_no": "Some apparent errors disappear, though the remaining historical claims still require assessment.",
+      "your_view": "Genre and ancient conventions matter, but they do not plausibly remove every historical assertion."
+    },
+    {
+      "crux": "Are independently unsupported harmonizations generally more likely than ordinary authorial error?",
+      "type": "evidence",
+      "if_yes": "The case for inerrancy improves substantially.",
+      "if_no": "The accumulation of tensions strongly favors at least one error.",
+      "your_view": "Some harmonizations are plausible, but repeatedly relying on undocumented details is less persuasive than allowing ordinary mistakes."
+    },
+    {
+      "crux": "Does the claim require errorlessness in historical details as well as reliability in theological teaching?",
+      "type": "definition",
+      "if_yes": "The evidence discussed here bears directly against it.",
+      "if_no": "These examples may not refute the claim, and the conclusion depends on which theological claims are meant.",
+      "your_view": "I score the broader historical-and-theological claim specified above, not the narrower theological one."
+    }
+  ],
+  "strongest_for": [
+    "Many alleged contradictions have reasonable contextual, linguistic, genre-based or textual explanations; a superficial list of discrepancies overstates the case.",
+    "Incomplete ancient evidence leaves room for historical details that could resolve some tensions.",
+    "If there is strong independent reason to believe God guaranteed the authors’ truthfulness, that evidence could outweigh otherwise plausible error-based explanations.",
+    "The absence of autographs means that a demonstrated error in a later manuscript does not automatically establish an error in the original."
+  ],
+  "strongest_against": [
+    "The census chronology is difficult to reconcile with the best available external historical evidence.",
+    "Multiple independent-looking textual and historical tensions are more naturally explained by fallible authors and traditions than by a succession of undocumented harmonizations.",
+    "A universal claim of errorlessness is vulnerable to any one genuine error, even if most biblical claims are accurate.",
+    "The surviving evidence does not independently establish a divine guarantee of errorlessness."
+  ],
+  "weak_arguments": {
+    "for": [
+      "‘The Bible says it is inspired, so every historical detail must be errorless’: inspiration and comprehensive inerrancy are distinct claims.",
+      "‘Archaeology confirms some places and people, so every biblical assertion is correct’: partial corroboration cannot establish universal accuracy.",
+      "‘Any imaginable reconciliation proves there is no contradiction’: logical possibility alone does not establish historical plausibility."
+    ],
+    "against": [
+      "‘The manuscripts differ, so the originals contained errors’: copying variants do not by themselves show what the originals said.",
+      "‘The Bible contains poetry or approximations, so it is erroneous’: genre and ordinary conventions must be considered.",
+      "‘Miracles are impossible, therefore the Bible is wrong’: that conclusion depends on a contested philosophical prior, not merely on identifying a miracle claim.",
+      "‘Every apparent discrepancy is a contradiction’: some accounts can differ in emphasis or omit details without conflicting."
+    ]
+  },
+  "would_change": [
+    "Strong independent evidence of an earlier Quirinius-related registration matching Luke’s account would raise my credence.",
+    "Persuasive contextual evidence that the disputed chronologies or genealogies were not asserting incompatible facts would raise it.",
+    "New, well-dated archaeological evidence for a departure and wilderness population on the described scale would raise it.",
+    "A compelling independent case for a divine guarantee of biblical errorlessness would raise it substantially.",
+    "Reliable early textual or historical evidence establishing additional irreconcilable errors would lower it."
+  ],
+  "sources": [
+    {
+      "citation": "The Bible, Matthew 1–2 and 26; Luke 2–3; John 18–19; Exodus 12; Numbers 1 (ancient texts).",
+      "kind": "scripture"
+    },
+    {
+      "citation": "Josephus, Jewish Antiquities, approximately 93–94 CE.",
+      "kind": "primary"
+    },
+    {
+      "citation": "Raymond E. Brown, The Birth of the Messiah, updated edition, 1993.",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Craig L. Blomberg, The Historical Reliability of the Gospels, second edition, 2007.",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Kenneth A. Kitchen, On the Reliability of the Old Testament, 2003.",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Israel Finkelstein and Neil Asher Silberman, The Bible Unearthed, 2001.",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "International Council on Biblical Inerrancy, The Chicago Statement on Biblical Inerrancy, 1978.",
+      "kind": "other"
+    }
+  ]
+}
+
+
+--- stderr ---

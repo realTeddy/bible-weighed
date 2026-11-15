@@ -1,0 +1,47 @@
+{
+  "summary": "All four reviews distinguish faith’s rational permissibility from the stronger claim that it is well supported by reason and evidence. They agree that Scripture-grounded faith need not be opposed to reason, but do not consider its central supernatural claims clearly established by public evidence. Each treats early Christian testimony as significant while distinguishing early belief in the resurrection from proof that it occurred. Their assessments depend heavily on definitions of rationality, interpretations of Scripture, and prior beliefs about God and miracles. Gemini expresses high confidence in its assessment, while the other three report low confidence.",
+  "agreement": "high",
+  "agreed": [
+    "Faith can be rationally defensible without being conclusively demonstrated by public evidence.",
+    "Early sources support Jesus’ existence, crucifixion, and the early proclamation or belief that he had risen; they do not by themselves establish a bodily resurrection.",
+    "Philosophical arguments for theism are serious but contested and do not by themselves establish the authority of Christian Scripture.",
+    "Established science conflicts with some literal readings of Scripture, but does not disprove every form of scriptural faith.",
+    "Religious experience and testimony may support belief, but competing traditions and possible error complicate their evaluation.",
+    "Textual preservation and corroboration of some historical details do not prove the truth or divine origin of the entire text."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of the overall conclusion",
+      "positions": "GPT-6.1 assigns the strong claim 20% credence with low confidence; Gemini 3.8 assigns 28% with high confidence; Grok 4.7 assigns 23% with low confidence; Opus 5.5 assigns 35% with low confidence. All distinguish this from a more permissive reading of rationality."
+    },
+    {
+      "point": "Historical and textual criticism",
+      "positions": "Gemini presents critical scholarship as refuting claims of extraordinary biblical harmony and gives a relatively emphatic negative assessment of historical reliability. Grok and Opus also emphasize serious problems in major narratives while distinguishing them from better-supported historical settings. GPT emphasizes partial recoverability and disputed narratives without making as sweeping an assessment."
+    },
+    {
+      "point": "Natural explanations and historical method",
+      "positions": "Gemini describes naturalistic explanations for resurrection belief as robust and considers methodological naturalism essential to reliable public history. Grok favors it as a historical default but says it does not disprove miracles. GPT and Opus emphasize that the testimony does not settle the cause and that conclusions depend substantially on prior beliefs about divine action."
+    },
+    {
+      "point": "Non-literal interpretation",
+      "positions": "All recognize that some non-literal readings can coexist with science. Gemini characterizes reconciliation as retrofitting and a retreat from empirical historical claims; GPT regards genre-sensitive readings as legitimate but not a solution to every difficulty. Grok and Opus also accept compatibility on nuanced readings, while distinguishing compatibility from positive support."
+    },
+    {
+      "point": "Prior probability of miracles",
+      "positions": "GPT and Grok favor a low prior for divine intervention, though not impossibility. Opus stresses that neither a high nor a vanishingly low prior is compelled. Gemini considers a high prior for specific interventions unjustified without independent corroboration."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether rationality means permissible belief or requires public evidence that strongly favors the belief.",
+    "How probable God and divine intervention are judged before evaluating the historical reports.",
+    "How early, independent, and reliable the resurrection sources are, and how well they distinguish miraculous from natural explanations.",
+    "Whether personal experience or properly basic belief can justify faith without public proof, especially amid conflicting religious claims.",
+    "Whether scriptural faith requires historical or scientific inerrancy, and which scriptural tradition and interpretation are being evaluated.",
+    "How much weight to give philosophical objections such as evil and divine hiddenness."
+  ],
+  "what_is_settled": "The reviews agree that faith is not inherently opposed to reason, that some biblical settings and basic historical claims have support, and that early Christians proclaimed Jesus risen. They also agree that some literal readings conflict with established science and that preservation of a text does not establish its truth.",
+  "what_is_open": "Whether the supernatural claims are true or well supported, whether personal experience can warrant a particular faith, and how historical evidence should be weighed against alternative explanations remain disputed and depend substantially on philosophical and interpretive commitments."
+}
+
+
+--- stderr ---

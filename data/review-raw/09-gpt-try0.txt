@@ -1,0 +1,163 @@
+{
+  "kind": "empirical",
+  "verdict": "Probably true: direct borrowing is not well supported",
+  "credence": 86,
+  "confidence": "medium",
+  "bottom_line": "I am scoring the claim that pagan dying-and-rising-god myths were not a significant direct source of the earliest Christian proclamation that Jesus died for sins and was raised. That proclamation is early and is closely connected to Jewish scriptures and expectations, while proposed pagan parallels generally lack evidence of a direct connection. Nevertheless, some pre-Christian myths do involve a deity dying and returning, and the early Christian movement lived in a culturally interconnected Mediterranean world. The evidence cannot establish that no pagan story influenced any Christian idea, and a broader claim of complete independence would deserve considerably less confidence.",
+  "sub_claims": [
+    {
+      "claim": "The earliest documented Christian proclamation presents Jesus' death and resurrection in a Jewish scriptural framework.",
+      "kind": "textual",
+      "case_for": "Paul reports a received tradition that Christ died for sins and was raised 'according to the scriptures'; Jewish texts already associated faithful suffering and eventual resurrection with God's purposes.",
+      "case_against": "Citing Jewish scripture does not prove that the tradition had no additional Greek or other Mediterranean influences. Paul's letters are not a complete record of its formation.",
+      "consensus": "Most scholars, including confessional Christian scholars, recognize the Jewish context as fundamental. They differ over the precise development of the tradition and the extent of other influences.",
+      "evidence": [
+        "1 Corinthians 15:3–8 presents death, burial, raising and appearances as a tradition Paul received.",
+        "Daniel 12:2 describes the awakening of the dead.",
+        "2 Maccabees 7 connects martyrdom with hope of resurrection.",
+        "Isaiah 53 describes a suffering servant; identifying that figure with Jesus is a Christian interpretation, not the only reading."
+      ],
+      "verdict": "Strongly supported",
+      "credence": 97
+    },
+    {
+      "claim": "Some pre-Christian pagan traditions contain meaningful death-and-return parallels.",
+      "kind": "textual",
+      "case_for": "In the Sumerian descent narrative, Inanna dies in the underworld and is restored; Osiris is killed and restored to a form of life associated with the underworld.",
+      "case_against": "The stories differ from one another and from the Christian proclamation in their settings, kinds of return and religious meanings. Whether a given return counts as resurrection depends partly on the definition.",
+      "consensus": "Scholars dispute how useful 'dying and rising gods' is as a general category and which cases belong in it. Tryggve Mettinger defended the existence of ancient Near Eastern examples; comparative scholars such as Jonathan Z. Smith emphasized problems with overly broad classifications.",
+      "evidence": [
+        "The Descent of Inanna is attested before Christianity.",
+        "Osiris traditions predate Christianity, although their details vary across sources.",
+        "In 1 Corinthians 15, Paul argues for resurrection using the distinction between a natural and a spiritual body."
+      ],
+      "verdict": "Supported, with important qualifications",
+      "credence": 95
+    },
+    {
+      "claim": "The earliest Christian message significantly borrowed its death-and-resurrection claim directly from a pagan dying-and-rising-god myth.",
+      "kind": "empirical",
+      "case_for": "Christians emerged in a world of cross-cultural contact, where stories of divine death and restoration existed. Similar religious narratives can be adapted without leaving an explicit acknowledgment of borrowing.",
+      "case_against": "A parallel and an opportunity for contact do not establish transmission. The early Jewish evidence offers a substantial context for the proclamation, and no clearly documented chain of borrowing from a particular pagan myth is established.",
+      "consensus": "Direct derivation from a specific pagan dying-and-rising myth is not the prevailing scholarly explanation. Some writers, including Richard Carrier, defend substantially greater pagan influence; scholars differ over particular comparisons and the weight of indirect cultural influences.",
+      "evidence": [
+        "Paul's letters preserve the resurrection proclamation by the middle of the first century.",
+        "The earliest surviving Christian formulation invokes scriptures rather than naming a pagan myth as its source.",
+        "The known pagan parallels differ significantly in narrative and religious context."
+      ],
+      "verdict": "Unlikely, though not disproved",
+      "credence": 14
+    },
+    {
+      "claim": "The absence of demonstrated borrowing proves that Jesus literally rose from the dead.",
+      "kind": "philosophical",
+      "case_for": "If the earliest witnesses sincerely encountered the risen Jesus and alternative explanations are judged inadequate, a believer may regard resurrection as the best explanation.",
+      "case_against": "A tradition can arise without being copied from a pagan myth and without the event it describes literally occurring. Historical evidence and prior judgments about miracles are separate questions.",
+      "consensus": "There is no consensus across religious and nonreligious scholars on the miracle itself. Historical methods commonly assess claims using ordinary causal explanations, an approach whose limits are disputed by confessional scholars.",
+      "evidence": [
+        "Paul reports appearances to several individuals and groups in 1 Corinthians 15:5–8.",
+        "The reported appearances do not, by themselves, identify their cause.",
+        "The question of literary or religious borrowing is distinct from the question of a miracle."
+      ],
+      "verdict": "Not established by the borrowing evidence",
+      "credence": 98
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does 'borrow' mean a significant direct source, or any influence whatsoever?",
+      "type": "definition",
+      "if_yes": "For significant direct borrowing, I consider the claim probably true.",
+      "if_no": "For a categorical denial of every possible influence, I would be much less confident: the evidence is too incomplete to exclude all influence.",
+      "your_view": "The significant-direct-source reading best captures the usual claim that Christianity copied pagan dying-and-rising gods."
+    },
+    {
+      "crux": "Is there evidence linking an early Christian claim to a particular pagan narrative, beyond resemblance and possible contact?",
+      "type": "evidence",
+      "if_yes": "A credible early transmission pathway or explicit adaptation would lower my credence substantially.",
+      "if_no": "Jewish antecedents and the lack of a demonstrated pathway favor the claim.",
+      "your_view": "I do not know of evidence establishing such a pathway for the core proclamation."
+    },
+    {
+      "crux": "How restrictive should the category 'dying and rising god' be?",
+      "type": "definition",
+      "if_yes": "If broad enough to include different kinds of restoration, several meaningful pre-Christian parallels exist.",
+      "if_no": "If restricted to a close match for Jesus' particular resurrection, fewer parallels qualify.",
+      "your_view": "Both broad and narrow comparisons can be useful, provided differences are not erased and resemblance is not treated as proof of borrowing."
+    },
+    {
+      "crux": "How plausible is a miracle before considering the historical testimony?",
+      "type": "prior",
+      "if_yes": "A relatively favorable prior can make literal resurrection a more attractive explanation of testimony.",
+      "if_no": "A very low prior favors nonmiraculous explanations even if witnesses were sincere.",
+      "your_view": "This affects the resurrection question much more directly than the distinct question of whether the proclamation was borrowed."
+    }
+  ],
+  "strongest_for": [
+    "The earliest surviving formulation explicitly connects Jesus' death and raising to scripture.",
+    "Jewish traditions of resurrection, martyrdom and divine vindication provide relevant antecedents.",
+    "A close resemblance is not itself evidence that a specific story was transmitted and adopted.",
+    "Many popular comparisons obscure major differences between restoration, underworld life and resurrection."
+  ],
+  "strongest_against": [
+    "Some pre-Christian myths genuinely feature divine death and restoration, so parallels cannot all be dismissed as inventions.",
+    "Early Christianity developed amid extensive Mediterranean cultural contact.",
+    "Sources for the earliest formation of Christian beliefs are incomplete, so an undocumented influence remains possible.",
+    "Religious ideas can be adapted and combined without being copied wholesale or credited to their sources."
+  ],
+  "weak_arguments": {
+    "for": [
+      "No pagan myth has any dying-and-returning deity: some ancient narratives provide counterexamples under reasonable definitions.",
+      "Jewish influence rules out pagan influence: multiple influences can coexist.",
+      "The resurrection really happened, therefore nobody could have used an earlier story to interpret or express it: the conclusions do not logically follow."
+    ],
+    "against": [
+      "Jesus and another figure both died and returned, therefore one story was copied from the other: similarity alone does not establish transmission.",
+      "A later account of a pagan myth must preserve the same story in Jesus' time: its earlier form requires independent evidence.",
+      "Christianity and pagan religions both promise salvation, therefore Christianity borrowed its central claims: the resemblance is too general to prove a source."
+    ]
+  },
+  "would_change": [
+    "A securely dated early Christian text explicitly identifying a particular pagan death-and-return myth as a source.",
+    "A distinctive sequence of shared details, demonstrably present before Christianity, together with a credible route of transmission.",
+    "New early evidence showing that the Jewish resurrection and martyrdom precedents were substantially less relevant to the first Christians than currently thought.",
+    "New evidence that a supposed pagan parallel arose only after Christian contact, which would further weaken that proposed borrowing."
+  ],
+  "sources": [
+    {
+      "citation": "Paul, First Epistle to the Corinthians, especially 15:3–8 and 15:42–49, first century CE",
+      "kind": "scripture"
+    },
+    {
+      "citation": "Book of Daniel, 12:2, second century BCE",
+      "kind": "scripture"
+    },
+    {
+      "citation": "2 Maccabees, chapter 7, second century BCE",
+      "kind": "scripture"
+    },
+    {
+      "citation": "The Descent of Inanna to the Netherworld, Sumerian narrative attested in the early second millennium BCE",
+      "kind": "primary"
+    },
+    {
+      "citation": "Tryggve N. D. Mettinger, The Riddle of Resurrection: 'Dying and Rising Gods' in the Ancient Near East, 2001",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Jonathan Z. Smith, Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity, 1990",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "N. T. Wright, The Resurrection of the Son of God, 2003",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Richard Carrier, On the Historicity of Jesus: Why We Might Have Reason for Doubt, 2014",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

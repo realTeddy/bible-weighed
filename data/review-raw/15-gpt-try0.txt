@@ -1,0 +1,157 @@
+{
+  "kind": "mixed",
+  "verdict": "Probably not, under a substantive standard of equal justice.",
+  "credence": 8,
+  "confidence": "medium",
+  "bottom_line": "I score the claim as saying that biblical instructions attributed to God, properly understood, treat women justly—not merely that the Bible contains affirmations of women or that its difficulties can conceivably be reconciled with God’s goodness. The Bible contains powerful affirmations of women’s dignity and examples of women exercising authority. But some laws permit captive marriage without requiring the woman’s consent and apply unequal standards to women, while some New Testament passages restrict women’s authority. These are serious difficulties for equal justice, though religious scholars offer substantial arguments from historical context, divine accommodation and disputed interpretation. A claim of mere logical compatibility with a perfectly good God would receive a higher credence; a claim that every biblical rule is an ideal for all times would receive a lower one.",
+  "sub_claims": [
+    {
+      "claim": "Biblical texts affirm women’s dignity and depict women as capable of religious leadership.",
+      "kind": "textual",
+      "case_for": "Genesis depicts both male and female as made in God’s image; women also teach, lead and bear witness in significant narratives.",
+      "case_against": "These affirmations coexist with restrictions and unequal legal treatment, and do not by themselves establish equal standing in every biblical text or community.",
+      "consensus": "Scholars, including confessional scholars and feminist critics, generally acknowledge both significant female figures and constraints on women, though they dispute their theological implications.",
+      "evidence": [
+        "Genesis 1:27 describes male and female as created in God’s image.",
+        "Deborah judges Israel in Judges 4–5.",
+        "Romans 16:1–2 commends Phoebe as a deacon or servant of the church, depending on translation.",
+        "Galatians 3:28 says that in Christ there is neither male nor female."
+      ],
+      "verdict": "Strongly supported, but not decisive for the overall claim.",
+      "credence": 98
+    },
+    {
+      "claim": "Some biblical laws prescribe or permit treatment of women that falls short of equal justice.",
+      "kind": "textual",
+      "case_for": "The laws regulate marriage to female captives without requiring their consent and apply sex-specific procedures and presumptions that expose women to serious harm.",
+      "case_against": "The laws can be read as constraints on practices already embedded in ancient societies, rather than endorsements of ideal conduct. Their interpretation and comparison with other ancient laws are contested.",
+      "consensus": "Many historical and feminist scholars identify patriarchal assumptions in these laws. Confessional scholars differ: some agree about the inequality while defending divine accommodation, and others argue that the laws are just when understood in their context.",
+      "evidence": [
+        "Deuteronomy 21:10–14 permits an Israelite man to take a female captive as a wife after a mourning period; it does not state that her consent is required.",
+        "The same passage forbids selling her if the man later rejects her, a protection that does not resolve the consent problem.",
+        "Deuteronomy 22:23–27 distinguishes a betrothed woman assaulted in the countryside from one who does not cry out in a city; the latter is liable to death.",
+        "Numbers 5:11–31 prescribes a jealousy ordeal for a wife suspected of adultery, with no corresponding ordeal for a husband."
+      ],
+      "verdict": "Highly likely under a standard that gives serious weight to consent and equal legal protection.",
+      "credence": 96
+    },
+    {
+      "claim": "The New Testament consistently grants women the same scope of authority as men.",
+      "kind": "textual",
+      "case_for": "Women pray and prophesy, serve churches and are prominent witnesses; restrictions can be read as addressing particular local problems rather than establishing universal rules.",
+      "case_against": "Some passages restrict women’s teaching or require wives’ submission, and their stated reasoning is not obviously limited to local circumstances.",
+      "consensus": "No consensus. Christian egalitarian and complementarian scholars disagree over translation, historical setting and whether restrictions are universal. Scholars also dispute the authorship of some relevant letters.",
+      "evidence": [
+        "1 Corinthians 11:5 refers to women praying and prophesying.",
+        "1 Timothy 2:11–14 restricts a woman’s teaching or authority over a man and appeals to Adam and Eve.",
+        "Ephesians 5:22–25 instructs wives to submit to husbands and husbands to love their wives.",
+        "Romans 16:7 identifies Junia in connection with the apostles; the precise sense is debated."
+      ],
+      "verdict": "Probably false on the most straightforward reading, though contextual alternatives deserve serious consideration.",
+      "credence": 15
+    },
+    {
+      "claim": "A perfectly good God could justly work through laws and institutions that fall short of ideal equality.",
+      "kind": "philosophical",
+      "case_for": "A good God might regulate entrenched practices to limit harm while gradually moving people toward fuller justice; permitting a practice under nonideal conditions need not mean approving it as an ideal.",
+      "case_against": "Attributing specific unequal permissions and penalties to God is harder to justify than God’s merely tolerating human wrongdoing. The accommodation account needs a persuasive explanation of why less harmful commands were unavailable or inappropriate.",
+      "consensus": "No consensus. Confessional scholars themselves differ over accommodation, biblical authority and gender equality; philosophers disagree about what perfect goodness permits under nonideal conditions.",
+      "evidence": [
+        "Biblical laws sometimes constrain practices without expressly abolishing them.",
+        "Christian interpreters disagree about continuity between ancient laws and later ethical obligations.",
+        "The claim depends partly on moral judgments and theological assumptions, not archaeological evidence alone."
+      ],
+      "verdict": "Possible, but not by itself a sufficient explanation of the particular laws.",
+      "credence": 55
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does justice require meaningful consent and equal legal protection regardless of sex?",
+      "type": "value",
+      "if_yes": "The captive-marriage and other unequal provisions count strongly against the claim.",
+      "if_no": "A hierarchical or historically relative account of justice can make those provisions easier to defend.",
+      "your_view": "Yes; consent and equal protection are central, though their application in nonideal circumstances requires judgment."
+    },
+    {
+      "crux": "Can divine accommodation adequately justify these particular provisions?",
+      "type": "prior",
+      "if_yes": "The passages can be understood as just harm reduction rather than divine approval of unequal treatment.",
+      "if_no": "God-attributed permissions and penalties become strong evidence against the claim.",
+      "your_view": "Accommodation is a serious possibility, but its force depends on a convincing explanation of why better protections were not commanded."
+    },
+    {
+      "crux": "Should restrictive passages be read as universally normative rather than locally addressed or culturally conditioned?",
+      "type": "evidence",
+      "if_yes": "The case for enduring sex-based restrictions is stronger, making the justice claim harder to defend under equal-authority standards.",
+      "if_no": "The New Testament can more plausibly support equal authority while addressing particular historical problems.",
+      "your_view": "Some contextual readings are plausible, but they do not clearly dissolve every restriction."
+    },
+    {
+      "crux": "Does ‘consistent with a perfectly good God’ mean logically possible or supported as the best explanation?",
+      "type": "definition",
+      "if_yes": "If mere logical possibility is sufficient, the claim is much easier to sustain.",
+      "if_no": "If the passages must be substantively just and plausibly explained by perfect goodness, the difficulties carry much more weight.",
+      "your_view": "The substantive reading is more informative and is the one scored here."
+    }
+  ],
+  "strongest_for": [
+    "Creation in God’s image and examples of women leading and bearing witness provide substantial biblical resources for equal dignity.",
+    "Some laws can plausibly be understood as limiting harm within entrenched institutions rather than presenting those institutions as ideals.",
+    "Contextual and translation-based readings of restrictive passages have serious scholarly defenders, including committed Christians.",
+    "A perfect God’s permission of a nonideal arrangement is not automatically equivalent to approval of it."
+  ],
+  "strongest_against": [
+    "Captive-marriage law permits a profound intrusion on a woman’s freedom without requiring her consent.",
+    "Sex-specific procedures and penalties impose unequal risks, including potentially fatal consequences based on assumptions about resistance.",
+    "Several restrictions are presented as instructions, not merely as descriptions of human wrongdoing.",
+    "Affirmations of dignity do not erase concrete legal and institutional inequalities."
+  ],
+  "weak_arguments": {
+    "for": [
+      "‘Women are made in God’s image, so every law affecting them must be just’: the conclusion does not follow.",
+      "‘The laws were normal for their time, so they were just’: historical prevalence does not establish moral rightness.",
+      "‘Husbands are told to love their wives, so unequal authority cannot be unjust’: benevolent duties do not settle the justice of hierarchy."
+    ],
+    "against": [
+      "‘The Bible records abuse of women, so it endorses every abuse it records’: narration is not necessarily approval.",
+      "‘Every biblical author shared one identical view of women’: the texts span genres, periods and perspectives.",
+      "‘One disturbing passage proves God cannot possibly be good’: a logical impossibility requires more argument than a moral difficulty."
+    ]
+  },
+  "would_change": [
+    "Strong linguistic and historical evidence that the captive-marriage provision required the woman’s meaningful consent.",
+    "A persuasive account of why a perfectly good God could not have commanded materially better protections in the relevant circumstances.",
+    "Stronger contextual evidence that apparently general New Testament restrictions were narrowly targeted and not intended as enduring norms.",
+    "A compelling moral argument that the relevant inequalities were justified without discounting women’s autonomy and welfare."
+  ],
+  "sources": [
+    {
+      "citation": "The Bible: Genesis 1; Judges 4–5; Deuteronomy 21–22; Numbers 5; Romans 16; 1 Corinthians 11; Galatians 3; Ephesians 5; 1 Timothy 2",
+      "kind": "scripture"
+    },
+    {
+      "citation": "Phyllis Trible, Texts of Terror: Literary-Feminist Readings of Biblical Narratives, 1984",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Tikva Frymer-Kensky, Reading the Women of the Bible, 2002",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Carol Meyers, Rediscovering Eve: Ancient Israelite Women in Context, 2012",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "William J. Webb, Slaves, Women & Homosexuals: Exploring the Hermeneutics of Cultural Analysis, 2001",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "John Piper and Wayne Grudem, eds., Recovering Biblical Manhood and Womanhood, 1991",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

@@ -1,0 +1,41 @@
+{
+  "summary": "All four reviewers conclude with high confidence that a literal, recent global flood as described in Genesis almost certainly did not occur. They cite converging geological, environmental, archaeological and genetic evidence. They distinguish that claim from a regional flood or a theological narrative, which they regard as plausible interpretations. They also recognize that an intervention concealing the evidence cannot be tested in the same way as an ordinary historical claim. Their differences concern chiefly the strength of their wording, the text’s intended scope, and how likely a regional event was to have inspired it.",
+  "agreement": "high",
+  "agreed": [
+    "A recent flood covering the globe and destroying humans and land animals outside the ark is strongly contradicted by multiple independent records.",
+    "Ice cores and other environmental archives, geological formations, human and animal histories, and genetics weigh against the global claim.",
+    "Genesis uses sweeping language, but interpreting that language and its historical intent is debated.",
+    "Mesopotamian flood traditions are closely related to Genesis; a real regional flood could have contributed to them, but would not establish a global flood.",
+    "Marine fossils on mountains and widespread flood stories do not by themselves prove a recent global flood.",
+    "A miracle that also removes or alters expected evidence would require a further assumption and is not empirically testable in the ordinary way."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of conclusion and numerical credence",
+      "positions": "GPT-6.1 and Gemini report 0%; Grok and Opus report 1%. GPT-6.1 says its figure is rounded, while Opus says its actual credence is well below 1%; Gemini uses stronger language of physical impossibility. All nevertheless reject the literal global event with high confidence."
+    },
+    {
+      "point": "What the authors intended",
+      "positions": "Opus and GPT-6.1 emphasize that the narrative pictures comprehensive or universal destruction. Grok considers intent to describe the modern globe uncertain; Gemini regards a modern globally exhaustive historical dispatch as unlikely. These judgments address different formulations, so their textual credences are not directly comparable."
+    },
+    {
+      "point": "Regional origins",
+      "positions": "Gemini says Mesopotamian floods likely inspired the shared traditions. GPT-6.1, Grok and Opus call a regional source plausible, with GPT-6.1 and Opus emphasizing that a specific historical source remains unproven."
+    },
+    {
+      "point": "Scope and emphasis of the empirical assessment",
+      "positions": "Opus explicitly scores a flood roughly 4,000–5,000 years ago; Gemini focuses heavily on a traditional third-millennium BCE date. GPT-6.1 and Grok also address a global flood more broadly within the human past. Gemini and Opus give particular emphasis to heat problems in proposed flood-geology mechanisms."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether the claim requires literal planetary coverage and universal destruction, rather than a regional event told in universal language.",
+    "Whether independent geological, chronological, archaeological and genetic records reliably preserve evidence inconsistent with the proposed catastrophe.",
+    "Whether scripture’s authority or a proposed miracle that conceals contrary evidence should outweigh the physical record.",
+    "How much historical weight to give Genesis and related flood traditions, and whether their similarities indicate a particular real event."
+  ],
+  "what_is_settled": "The reviewers agree that the literal recent global-flood claim is overwhelmingly contradicted by converging evidence, and that related Mesopotamian flood traditions exist.",
+  "what_is_open": "The authors’ intended geographical scope, whether a particular regional flood lies behind the traditions, and theological commitments about scripture and miracles remain matters of interpretation or uncertainty."
+}
+
+
+--- stderr ---

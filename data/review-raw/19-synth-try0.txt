@@ -1,0 +1,46 @@
+{
+  "summary": "All four reviewers judge the claim probably false: they regard divine hiddenness as meaningful evidence against a perfectly loving, personal God. Each considers apparently non-resistant nonbelief important and expects divine love to favor access to a relationship. All acknowledge possible theistic explanations and treat hiddenness as evidence rather than a conclusive disproof. They differ in how strongly they press the argument and in their descriptions of scholarly consensus. GPT-6.1 and Opus report low confidence; Gemini and Grok report medium confidence.",
+  "agreement": "high",
+  "agreed": [
+    "Apparently sincere, non-resistant nonbelief probably exists and gives the argument substantial force.",
+    "A loving God would plausibly have reason to make a conscious relationship available to those open to it, though what divine love requires is disputed.",
+    "Freedom, moral development, transformative revelation and unknown divine purposes are relevant replies, but do not clearly eliminate the evidence.",
+    "Knowing that God exists need not compel someone to love or obey God.",
+    "Hiddenness is not a decisive disproof, and its force depends on the God being considered and the expectations assigned to competing views."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of the conclusion",
+      "positions": "All assign less than even odds to the claim: GPT-6.1 gives 20%, Gemini 28%, Grok 35% and Opus 30%. Gemini describes the evidence as especially strong; Opus calls it moderate, while GPT-6.1 and Grok emphasize its dependence on contested expectations."
+    },
+    {
+      "point": "What love requires",
+      "positions": "Gemini argues more strongly that perfect love entails making belief available to open people. GPT-6.1 and Grok describe a strong but defeasible expectation rather than an exceptionless rule; Opus finds the expectation plausible but substantially contestable."
+    },
+    {
+      "point": "Status of non-resistant nonbelief",
+      "positions": "All consider it likely real. Gemini and Opus describe broad acceptance among relevant scholars, while GPT-6.1 and Grok emphasize continuing disagreement, including difficulty assessing hidden resistance."
+    },
+    {
+      "point": "Scholarly consensus on evidential force",
+      "positions": "Gemini describes broad consensus among formal epistemologists and non-theists that hiddenness has non-trivial evidential weight. GPT-6.1 and Grok stress that there is no consensus on its force; Grok distinguishes recognition of a serious problem from agreement that it ultimately counts strongly against theism."
+    },
+    {
+      "point": "Limits of skeptical theism and traditional expectations",
+      "positions": "Gemini argues particularly strongly that skeptical theism threatens moral and theological knowledge; Grok and Opus also identify that potential cost, while GPT-6.1 emphasizes uncertainty about God's possible reasons. Grok and Opus explicitly discuss traditions that anticipate hiddenness: Grok says this modestly reduces surprise for those specific hypotheses, while Opus considers it a weak evidential defeater."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether non-resistant nonbelief occurs, and how confidently apparent openness can be distinguished from hidden resistance.",
+    "Whether perfect divine love creates a strong expectation of conscious relationship and belief during earthly life.",
+    "Whether freedom, moral formation, implicit relationship, delayed communion or other goods adequately explain the extent and distribution of hiddenness.",
+    "How confidently humans can estimate what a loving God would do, and whether appeals to unknown reasons weaken other moral or theological judgments.",
+    "How much more expected the observed pattern is under naturalism or no loving God than under the relevant theistic hypothesis.",
+    "Whether 'significant' means meaningful but defeasible evidence or a decisive objection; GPT-6.1, Grok and Opus explicitly distinguish these readings."
+  ],
+  "what_is_settled": "The reviews agree that people report sincere, unsuccessful seeking and that hiddenness is a serious philosophical issue, not a conclusive disproof. Their shared assessment is that non-resistant nonbelief is probably real.",
+  "what_is_open": "The depth and scale of non-resistant nonbelief, the requirements of divine love, the adequacy of theistic explanations, the comparative likelihoods under competing worldviews and the overall evidential weight remain disputed."
+}
+
+
+--- stderr ---

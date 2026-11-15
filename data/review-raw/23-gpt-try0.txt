@@ -1,0 +1,154 @@
+{
+  "kind": "mixed",
+  "verdict": "Almost certainly not as a recent, sole founding couple",
+  "credence": 1,
+  "confidence": "medium",
+  "bottom_line": "I am scoring the claim that Adam and Eve were the first humans, specially created roughly within the last 10,000 years, and the sole biological ancestors of everyone alive today. Genesis itself does not specify that date; it is a common literal reading based partly on biblical genealogies. Human fossils, ancient DNA, and population genetics overwhelmingly favor a much older, branching human history involving large, interconnected populations. A different claim—that a couple living among other humans could eventually become genealogical ancestors of everyone alive—is much more plausible and is not ruled out by genetics. The direction of the evidence is robust, though an exact probability depends heavily on how one weighs scripture and possible miracles.",
+  "sub_claims": [
+    {
+      "claim": "A couple living within roughly the last 10,000 years were the first humans and sole biological ancestors of all people today.",
+      "kind": "empirical",
+      "case_for": "A literal reading of Genesis and its genealogies supports a relatively recent founding couple, especially if scripture is considered a reliable source of revealed history.",
+      "case_against": "Fossils and ancient DNA establish the existence of humans long before that period, while genetic diversity and admixture point to a long history of populations rather than a recent two-person origin.",
+      "consensus": "Scientists overwhelmingly reject this recent-origin account. Some confessional scholars and young-earth creationists affirm it; many other religious scholars accept an ancient human population.",
+      "evidence": [
+        "Homo sapiens fossils substantially predate 10,000 years.",
+        "Ancient human genomes and genetic evidence of interbreeding with Neanderthals predate that period.",
+        "Genesis gives genealogies but no explicit calendar date for creation."
+      ],
+      "verdict": "Overwhelmingly unlikely.",
+      "credence": 1
+    },
+    {
+      "claim": "The human ancestral population passed through a sole two-person bottleneck within the last several hundred thousand years.",
+      "kind": "empirical",
+      "case_for": "Population-size estimates depend on models and assumptions, and unusual population structure or a supernatural event could complicate ordinary inferences.",
+      "case_against": "Multiple independent genetic lineages and patterns of variation are much better explained by substantial ancestral populations and interbreeding among ancient groups. A two-person bottleneck would need an extraordinary alternative explanation for that evidence.",
+      "consensus": "Population geneticists broadly favor an ancestral population, not a recent sole founding pair. Some confessional researchers dispute particular models or propose alternative accounts; there is no consensus across scientific and confessional communities.",
+      "evidence": [
+        "Whole-genome analyses infer a complex population history rather than a recent founding pair.",
+        "Modern genomes retain ancestry from ancient groups including Neanderthals.",
+        "Inferred effective population size is a statistical quantity, not a direct census of every individual."
+      ],
+      "verdict": "Very unlikely under ordinary evolutionary assumptions.",
+      "credence": 2
+    },
+    {
+      "claim": "A couple who lived among other people could be genealogical ancestors of everyone alive today.",
+      "kind": "empirical",
+      "case_for": "Ancestral lines multiply rapidly, and migration can spread descendants widely. Models show that universal genealogical ancestry can arise without a two-person genetic bottleneck.",
+      "case_against": "Whether any particular ancient couple achieved this is difficult to establish; results depend on migration, isolation, and survival of descendant lines.",
+      "consensus": "The theoretical possibility is widely accepted. Confessional scholar Joshua Swamidass has argued for its relevance to Adam and Eve, though that does not establish that they existed.",
+      "evidence": [
+        "Genealogical ancestors need not contribute identifiable DNA to every living descendant.",
+        "Other contemporary people can also be ancestors of everyone alive today.",
+        "Models of common ancestry depend on assumptions about how populations mix."
+      ],
+      "verdict": "Plausible as a possibility, but not evidence for a particular couple.",
+      "credence": 98
+    },
+    {
+      "claim": "Genesis presents Adam and Eve as an original human couple.",
+      "kind": "textual",
+      "case_for": "Genesis 2–3 narrates the creation of a man and woman, and later passages portray them in an ancestral role. Traditional Jewish and Christian readings commonly take them as historical.",
+      "case_against": "The text's ancient literary and theological purposes do not automatically settle whether its authors intended modern biological claims or whether every narrative detail must be historical.",
+      "consensus": "Scholars recognize the narrative's ancestral role, but disagree about its intended historicity and how it relates to science. Confessional scholars likewise differ between historical, literary, and genealogical readings.",
+      "evidence": [
+        "Genesis 2–3 describes the man and woman in Eden.",
+        "Genesis 3:20 calls Eve the mother of all living.",
+        "Genesis does not explicitly discuss population genetics or give a creation date."
+      ],
+      "verdict": "The ancestral portrayal is clear; its intended and actual historicity are disputed.",
+      "credence": 90
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Must Adam and Eve have been the only human ancestors, rather than ancestors alongside other people?",
+      "type": "definition",
+      "if_yes": "The genetic and fossil evidence weighs strongly against a recent couple.",
+      "if_no": "A universal genealogical couple is compatible with evolutionary science, although their existence remains unestablished.",
+      "your_view": "I score the exclusive reading because the claim calls them a single original couple, and I distinguish it from the genealogical alternative."
+    },
+    {
+      "crux": "Is the couple placed within roughly the last 10,000 years?",
+      "type": "definition",
+      "if_yes": "The evidence against their being the first and sole founding humans is especially strong.",
+      "if_no": "An older founding pair avoids the most immediate dating conflict, but a sole bottleneck in the last several hundred thousand years still faces strong genetic objections.",
+      "your_view": "The date is a common literal interpretation, not an explicit statement in Genesis."
+    },
+    {
+      "crux": "Should scripture's apparent historical testimony outweigh conflicting scientific evidence?",
+      "type": "prior",
+      "if_yes": "A believer with a strong commitment to that interpretation can reasonably assign a much higher probability to the claim.",
+      "if_no": "Independent scientific evidence dominates, making the scored claim very unlikely.",
+      "your_view": "I give the independently testable evidence more weight. Science's ordinary methods do not disprove miracles, but invoking one does not by itself explain why the evidence looks as it does."
+    },
+    {
+      "crux": "Could the genetic evidence be explained without a large ancestral population?",
+      "type": "evidence",
+      "if_yes": "A sole founding couple becomes more plausible, especially on an older chronology.",
+      "if_no": "The exclusive-couple claim remains strongly disfavored.",
+      "your_view": "Current population-genetic explanations favor a long-lived, structured population; precise historical estimates remain model-dependent."
+    }
+  ],
+  "strongest_for": [
+    "Genesis is an ancient primary text whose straightforward ancestral narrative has been taken as historical by many religious communities.",
+    "For someone with strong independent reasons to trust divine revelation, apparent scientific conflict need not settle the historical question.",
+    "Population-genetic reconstructions involve assumptions and cannot directly observe every ancestral generation.",
+    "Universal genealogical ancestry is possible without genetic isolation, preserving a less exclusive historical-Adam proposal."
+  ],
+  "strongest_against": [
+    "Human fossils and ancient DNA show that humans existed far earlier than a recent literal chronology allows.",
+    "Genome-wide diversity and ancient admixture fit a branching population history much better than a recent sole couple.",
+    "The genealogical alternative permits other human ancestors and therefore does not establish the exclusive founding claim.",
+    "A miracle could be proposed to accommodate contrary evidence, but the proposal has little independent power to distinguish the claim from alternatives."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Mitochondrial Eve and Y-chromosomal Adam prove Genesis: they are ancestors along particular unbroken genetic lines, not necessarily contemporaries or the only people alive.",
+      "Everyone has ancestors, so everyone must descend exclusively from one original couple: shared ancestry does not imply exclusive ancestry.",
+      "Evolution is only a theory: in science, a theory is a well-supported explanatory framework, not merely a guess."
+    ],
+    "against": [
+      "Evolution makes universal common ancestors impossible: genealogical common ancestry is compatible with evolution and population mixing.",
+      "A two-person origin is impossible because two people could never have descendants: the objection concerns the fit with actual genetic and historical evidence, not arithmetic possibility.",
+      "Science has disproved every possible miraculous or theological interpretation: scientific methods constrain empirical versions but cannot eliminate every supernatural reinterpretation."
+    ]
+  },
+  "would_change": [
+    "Ancient genomes and fossils showing a recent, worldwide replacement from two founders, supported by independently verified dating.",
+    "A reproducible population-genetic model explaining observed diversity and ancient admixture from a sole couple substantially better than current population models.",
+    "Independent, well-dated historical evidence identifying a specific couple and tracing their descendants across populations.",
+    "A compelling independent argument that a particular literal interpretation of Genesis is divinely guaranteed despite the contrary empirical evidence."
+  ],
+  "sources": [
+    {
+      "citation": "Genesis, chapters 2–5",
+      "kind": "scripture"
+    },
+    {
+      "citation": "Li and Durbin, “Inference of human population history from individual whole-genome sequence,” 2011",
+      "kind": "scientific"
+    },
+    {
+      "citation": "Green et al., “A Draft Sequence of the Neandertal Genome,” 2010",
+      "kind": "scientific"
+    },
+    {
+      "citation": "Rohde, Olson, and Chang, “Modelling the recent common ancestry of all living humans,” 2004",
+      "kind": "scientific"
+    },
+    {
+      "citation": "Joshua Swamidass, The Genealogical Adam and Eve, 2019",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "John H. Walton, The Lost World of Adam and Eve, 2015",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

@@ -1,0 +1,41 @@
+{
+  "summary": "All four reviewers judge supernatural foreknowledge unlikely to be the best explanation of the evidence, assigning the claim probabilities of 5% to 10%. They favor later composition, reinterpretation, narrative shaping, or ordinary forecasting for the strongest examples. All regard the dating of Daniel 11 and Isaiah’s naming of Cyrus as crucial, and note that an established early date would make those cases much more striking. They also point to disputed or apparent failures and to the difficulty of independently assessing New Testament fulfillment claims. They differ substantially in confidence and in how much a prior belief in divine revelation could change the conclusion.",
+  "agreement": "high",
+  "agreed": [
+    "Daniel 11 and Isaiah 44–45 are striking if demonstrably written long before the events, but the reviewers favor later dates.",
+    "Isaiah 53 existed before Jesus; whether it predicts him is disputed, and later writers knew the earlier scriptures.",
+    "Ezekiel’s Tyre oracle presents difficulties for a straightforward account of complete fulfillment.",
+    "Specificity, secure pre-event dating, independent confirmation and the treatment of misses matter when evaluating the claim.",
+    "Statistical arguments that assume independent, preselected fulfillments are weak, and rejecting miracles by assumption is not itself a demonstration."
+  ],
+  "disagreed": [
+    {
+      "point": "Certainty and dating",
+      "positions": "GPT-6.1 assigns 5% with low confidence and stresses disputed dating and interpretation. Gemini assigns 6% with high confidence and describes later dating and natural explanations in more definitive terms. Grok assigns 10% and Opus 5%, both with medium confidence, and strongly favor later dating."
+    },
+    {
+      "point": "Tyre and Ezekiel 29",
+      "positions": "GPT-6.1 says the implications of Ezekiel 29’s statement that Nebuchadnezzar received no wages are debated and judges literal fulfillment of the whole oracle unlikely. Gemini, Grok and Opus treat the Tyre prediction as a failure; Gemini and Opus describe Ezekiel 29 as acknowledging it."
+    },
+    {
+      "point": "Role of prior belief",
+      "positions": "GPT-6.1, Gemini and Grok emphasize that a higher prior for divine revelation can support a substantially more favorable interpretation. Opus also recognizes the prior’s relevance but argues that the prophecy evidence adds little even if theism is granted."
+    },
+    {
+      "point": "Original meaning of Isaiah 53",
+      "positions": "GPT-6.1 and Grok emphasize disputed alternatives, including Israel or another figure. Gemini more directly favors Israel or a contemporary prophet, while Opus emphasizes the servant’s identification with Israel elsewhere in Isaiah."
+    }
+  ],
+  "deciding_cruxes": [
+    "Were the most specific passages written before the relevant events were foreseeable, and is their dating supported independently of assumptions about miracles?",
+    "Were predictions specific and interpreted as predictions before fulfillment, with outcomes independently confirmed rather than shaped by the texts?",
+    "How should apparent failures, conditionality, hyperbole and selective reporting affect the evaluation?",
+    "Does theological or typological fulfillment count as evidence of foreknowledge, or is a stricter historical test required?",
+    "How probable is divine revelation before considering the prophecies?"
+  ],
+  "what_is_settled": "The reviews agree that Isaiah 53 predates Jesus, that Daniel 11 contains detailed historical correspondences, and that later biblical authors knew earlier scriptures. They also agree that critical scholars generally favor later dates for Daniel’s visions and Isaiah 40–55, while confessional scholars defend earlier dating.",
+  "what_is_open": "The precise dating and interpretation of contested passages, the independence and accuracy of reported fulfillments, and how to weigh apparent failures remain disputed. The conclusion also depends on the standard of evidence and prior commitments concerning divine revelation."
+}
+
+
+--- stderr ---

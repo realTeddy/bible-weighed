@@ -1,0 +1,149 @@
+{
+  "kind": "mixed",
+  "verdict": "Probably did not happen, though the answer depends heavily on one's prior view of miracles and theism",
+  "credence": 10,
+  "confidence": "low",
+  "bottom_line": "Historians across the spectrum agree that Jesus was crucified, that his followers soon afterward sincerely believed they had seen him alive, and that this belief arose very early and was understood in a bodily sense. What is disputed is the best explanation for those facts. Grief-related and visionary experiences, rapid legendary growth, and uncertainty about the tomb can plausibly account for the core evidence. They do not do so perfectly, but they need no event that otherwise has no well-documented analogue. If you already think a personal God exists and might act in history, the evidence becomes considerably more striking and a credence well above 10% is defensible. Starting from a neutral-to-skeptical prior on miracles, the historical record is too thin and too late in its details to make a bodily resurrection the most probable explanation. My number reflects that, and it would move a lot with a different prior.",
+  "sub_claims": [
+    {
+      "claim": "Jesus of Nazareth died by Roman crucifixion under Pontius Pilate around 30-33 CE.",
+      "kind": "empirical",
+      "case_for": "This is multiply attested: Paul, all four Gospels, Josephus (Antiquities 18, the core of the Testimonium Flavianum), and Tacitus (Annals 15.44). A crucified messiah was embarrassing to early Christians, which passes the criterion of embarrassment. Roman crucifixion was reliably lethal.",
+      "case_against": "Mythicists deny Jesus existed at all. Swoon theorists suggest he survived. Both positions are marginal and lack positive evidence.",
+      "consensus": "Near-universal agreement among secular, Jewish, and Christian historians.",
+      "evidence": ["1 Corinthians 15:3", "Tacitus, Annals 15.44", "Josephus, Antiquities 18.63-64 (core generally accepted as authentic)", "Mark 15"],
+      "verdict": "Virtually certain",
+      "credence": 99
+    },
+    {
+      "claim": "Shortly after his death, multiple followers, including Peter, the Twelve, James, and later Paul, had experiences they sincerely took to be appearances of the risen Jesus.",
+      "kind": "empirical",
+      "case_for": "The tradition Paul quotes in 1 Corinthians 15:3-8 is widely dated to within a few years of the crucifixion. Paul knew Peter and James personally (Galatians 1-2). Paul himself reports such an experience. James, a skeptical brother according to Mark 3 and John 7, became a leader of the movement. The rapid emergence of resurrection belief needs some explanation.",
+      "case_against": "That the experiences occurred is strongly supported. Their character is not. They may have been visions rather than physical encounters. The appearance to 'more than five hundred' is unnamed and cannot be checked. Later Gospel narratives may have expanded modest visionary claims.",
+      "consensus": "Broad consensus that the experiences occurred, including from skeptics such as E.P. Sanders, Bart Ehrman, Paula Fredriksen, and Gerd Lüdemann. There is deep disagreement about what caused them.",
+      "evidence": ["1 Corinthians 15:3-8", "Galatians 1:18-19", "1 Corinthians 9:1", "Acts 9 (later, secondary)"],
+      "verdict": "Very likely, understood as experiences",
+      "credence": 93
+    },
+    {
+      "claim": "Jesus' tomb was found empty.",
+      "kind": "textual",
+      "case_for": "Mark reports it. Women as the first witnesses would have been an odd thing to invent. Matthew 28:11-15 reflects a Jewish counter-claim that the disciples stole the body, which presupposes agreement that the tomb was empty. 'Buried... raised' in 1 Corinthians 15 arguably implies it. A known tomb in Jerusalem could have been checked. The Jehohanan ossuary (Giv'at ha-Mivtar, 1968) shows that at least some crucified men received proper burial.",
+      "case_against": "Paul never explicitly mentions an empty tomb. Mark, the first account, is about 40 years after the events, and his original ending (16:8) has the women tell no one, possibly explaining why the story was unknown earlier. Romans often left crucified victims unburied or in common graves. The Joseph of Arimathea burial may be apologetic. By the time the story circulated, checking the tomb may have been impossible.",
+      "consensus": "No consensus. Gary Habermas's surveys suggest a majority of scholars publishing on the topic accept the empty tomb, but that pool skews toward believers. Dale Allison, a critical scholar, judges it somewhat more likely than not. Ehrman and Crossan doubt it.",
+      "evidence": ["Mark 16:1-8", "Matthew 28:11-15", "1 Corinthians 15:4", "Jehohanan ossuary", "Deuteronomy 21:22-23 and Jewish burial norms"],
+      "verdict": "Roughly a coin flip, perhaps slightly more likely than not",
+      "credence": 55
+    },
+    {
+      "claim": "The earliest believers understood Jesus' resurrection as bodily rather than as purely spiritual survival or exaltation.",
+      "kind": "textual",
+      "case_for": "In Second Temple Judaism, 'resurrection' (anastasis) meant bodily restoration, not ghostly survival, as N.T. Wright documents extensively. Paul's 'spiritual body' (soma pneumatikon, 1 Corinthians 15:44) is still a soma, a body animated by the Spirit, not an immaterial one. The pattern 'buried, then raised' implies the corpse is involved.",
+      "case_against": "Paul's phrasing ('flesh and blood cannot inherit the kingdom,' 15:50) and his equation of his own visionary experience with the other appearances could imply a transformed or heavenly mode, not a resuscitated corpse. The strongly physical details (eating fish, touching wounds) appear only in the later Luke and John, possibly to counter docetism.",
+      "consensus": "A majority, including many non-confessional scholars, think Paul believed in some bodily continuity. A significant minority, such as Lüdemann and some Jesus Seminar figures, read Paul more spiritually.",
+      "evidence": ["1 Corinthians 15:35-54", "Philippians 3:21", "Luke 24:39-43", "John 20:24-29", "Daniel 12:2", "2 Maccabees 7"],
+      "verdict": "Likely",
+      "credence": 75
+    },
+    {
+      "claim": "Natural explanations, singly or combined, adequately account for the established historical facts.",
+      "kind": "philosophical",
+      "case_for": "Bereavement visions are common and sometimes vivid, felt as real, and occasionally shared. Religious conversion experiences like Paul's are well documented. Apocalyptic expectation provided a ready framework of resurrection and vindication. Group dynamics and memory can amplify initial claims. Legendary development between 30 and 90 CE could add physical details. Many religious movements, such as the Sabbatai Zevi movement, survived a disconfirmed messiah through reinterpretation.",
+      "case_against": "Individual hypotheses each struggle. Fraud fails because the disciples were sincere. Swoon and wrong-tomb theories are implausible. Hallucination alone does not explain an empty tomb, if there was one. Mass simultaneous visions of the same content are poorly documented. A disappointed sect claiming 'resurrection' for a single individual before the general resurrection was unexpected in Jewish thought. Combinations of theories can feel ad hoc.",
+      "consensus": "No consensus. Secular historians generally consider natural explanations adequate or the question beyond historical method. Confessional scholars (Wright, Licona, Craig, Habermas) argue they fail. Allison is notably even-handed and finds the evidence ambiguous.",
+      "evidence": ["Allison's survey of bereavement visions in Resurrecting Jesus (2005)", "Rees's and later studies on bereavement hallucinations", "Analogies from apocalyptic movements"],
+      "verdict": "Probably adequate, though not without residual puzzles",
+      "credence": 70
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Is the prior probability of a divinely caused bodily resurrection, before examining the evidence, non-negligible (for example, because theism is reasonably likely and God might act to vindicate Jesus)?",
+      "type": "prior",
+      "if_yes": "The convergent early evidence (appearances, possible empty tomb, rapid bodily belief) can push the posterior into the range of 30-70% or higher. This is roughly where Swinburne, the McGrews, and Wright land.",
+      "if_no": "With a naturalistic or Humean prior, even fairly strong testimony rarely outweighs the background improbability. The credence stays in low single digits or below.",
+      "your_view": "Theism is a live philosophical option, but a specific miracle claim also faces many competitors: other religions' miracle claims, and countless unverified resurrection reports. I put the prior low but not infinitesimal."
+    },
+    {
+      "crux": "Was the tomb actually found empty?",
+      "type": "evidence",
+      "if_yes": "Pure-vision explanations weaken. Theft, relocation, or misremembering must be added, and the resurrection hypothesis gains relative ground.",
+      "if_no": "The data reduce to experiences and beliefs, which bereavement visions and legend explain fairly well. The case for a bodily resurrection drops substantially.",
+      "your_view": "Close to 50/50. Even granting an empty tomb, mundane explanations for a missing body in 1st-century Judea are available and only modestly improbable."
+    },
+    {
+      "crux": "Were the appearances physical, group experiences of the kind described in Luke and John, or visionary experiences like Paul's?",
+      "type": "evidence",
+      "if_yes": "Physical group encounters with touch and eating are much harder to explain as hallucinations. This favors the claim.",
+      "if_no": "Visionary experiences fit known psychological phenomena well. This favors natural explanations.",
+      "your_view": "Our earliest source, Paul, lists his own vision alongside the others without distinction. The heavily physical details appear only in later Gospels. This tilts toward visionary origins."
+    },
+    {
+      "crux": "Can or should historians, working as historians, conclude that a miracle occurred?",
+      "type": "value",
+      "if_yes": "Licona's approach applies. The resurrection hypothesis competes on explanatory scope and power, and confessional scholars argue it wins.",
+      "if_no": "Ehrman's approach applies. History can establish the beliefs and experiences but must remain agnostic on supernatural causes. This leaves the question to philosophy and theology.",
+      "your_view": "Methodological naturalism is a reasonable working rule for historians, but it does not settle the metaphysical question. The real work is done by the prior in the first crux."
+    },
+    {
+      "crux": "Does 'bodily' require the same physical corpse to be raised, or would a transformed or spiritual body count?",
+      "type": "definition",
+      "if_yes": "I score the strict reading here: the corpse itself raised and transformed, leaving no remains. Credence about 10%.",
+      "if_no": "Looser readings, where Jesus survived death and genuinely appeared in some form, are consistent with a wider range of evidence and worldviews. Many would score them higher, especially within theistic or spiritualist frameworks.",
+      "your_view": "The claim as worded and traditionally understood is the strict bodily reading. That is what I score."
+    }
+  ],
+  "strongest_for": [
+    "The 1 Corinthians 15:3-8 tradition dates to within a few years of the crucifixion and names individuals, some of whom Paul knew personally. This leaves little time for legend to grow.",
+    "Skeptics and enemies converted: James the brother and Paul the persecutor. This is unusual for grief visions, which typically occur among those already devoted.",
+    "In the Jewish context, 'resurrection' meant bodily, not merely spiritual, life. Proclaiming this in Jerusalem, where the tomb could be visited, would be risky if the body were still present.",
+    "The women's testimony at the tomb and the early Jewish 'stolen body' polemic suggest a tomb story with roots before Mark.",
+    "The disciples innovated: a single messiah raised before the general resurrection, against a backdrop where a crucified messiah meant failure. This suggests something powerful caused the belief."
+  ],
+  "strongest_against": [
+    "Extraordinary claims require proportionate evidence. Our sources consist of a few early creedal lines and theologically motivated narratives written 40-65 years later, which is far less than we would need for a unique, otherwise unparalleled event.",
+    "Paul, our only first-person witness, describes his experience as a revelation and lists it alongside the others, never mentioning an empty tomb or physical encounter. The tangible details appear only in later Gospels.",
+    "Bereavement visions, conversion experiences, and apocalyptic reinterpretation are well-documented mechanisms that plausibly explain the rise of resurrection belief.",
+    "The Gospel resurrection accounts disagree substantially on who went to the tomb, what they saw, where Jesus appeared (Galilee or Jerusalem), and when. This fits developing traditions.",
+    "Comparable claims of miracles and appearances in other religious movements, which Christians themselves reject, show how such beliefs can arise and spread without actually happening."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'No one would die for a lie.' Sincere belief proves sincerity, not truth. Hallucinating or mistaken believers would also die for their beliefs. The evidence for most apostles' martyrdom is also late and thin.",
+      "'Five hundred witnesses could have been checked.' They are unnamed and no record exists of anyone verifying them. A 50s CE reader in Corinth had no practical way to do so.",
+      "The Shroud of Turin. Radiocarbon dating in 1988 placed it in 1260-1390 CE, and it has no evidential value for 1st-century events.",
+      "'The Gospels are eyewitness accounts, so they must be accurate.' Their authorship is disputed. Even eyewitness testimony is fallible, and the Gospels contain clear theological shaping and conflicting details."
+    ],
+    "against": [
+      "'Jesus never existed.' Mythicism is rejected by almost all historians, including secular ones, and does not engage the actual evidence.",
+      "'It is just a copy of dying-and-rising gods like Osiris or Mithras.' The parallels are vague or post-date Christianity, and the Jewish context explains the belief far better.",
+      "The swoon theory. A severely scourged and crucified man would not have survived, let alone inspired belief in a glorious triumph over death.",
+      "'Contradictions in the Gospels show nothing happened.' Discrepancies in peripheral details are normal in historical sources and do not disprove a common core.",
+      "'Science proves the dead don't rise.' Science shows that natural processes do not raise the dead, which the claim concedes. The real question is whether a supernatural cause is plausible, which is a matter of prior probability, not scientific disproof."
+    ]
+  },
+  "would_change": [
+    "Discovery of an independent, early, non-Christian source (for example, a Roman or Jewish administrative record) confirming the tomb was empty or describing physical appearances would raise my credence substantially.",
+    "Strong new arguments or evidence for theism, and specifically for a God who would act to vindicate Jesus, would raise the prior and with it the posterior.",
+    "Archaeological or textual evidence that Jesus' body remained in a known grave, or that the early resurrection belief was explicitly non-physical, would lower my credence substantially.",
+    "Robust psychological research showing that large groups of people can share detailed, consistent hallucinations of a deceased person would strengthen natural explanations and lower my credence.",
+    "A demonstration that the appearance traditions in 1 Corinthians 15 were later interpolations or much later developments would weaken the early evidence and lower my credence."
+  ],
+  "sources": [
+    {"citation": "N.T. Wright, The Resurrection of the Son of God, 2003", "kind": "scholarship"},
+    {"citation": "Dale C. Allison Jr., Resurrecting Jesus: The Earliest Christian Tradition and Its Interpreters, 2005", "kind": "scholarship"},
+    {"citation": "Dale C. Allison Jr., The Resurrection of Jesus: Apologetics, Polemics, History, 2021", "kind": "scholarship"},
+    {"citation": "Michael R. Licona, The Resurrection of Jesus: A New Historiographical Approach, 2010", "kind": "scholarship"},
+    {"citation": "Bart D. Ehrman, How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee, 2014", "kind": "scholarship"},
+    {"citation": "Gerd Lüdemann, The Resurrection of Jesus: History, Experience, Theology, 1994", "kind": "scholarship"},
+    {"citation": "Paul Copan and Ronald K. Tacelli (eds.), Jesus' Resurrection: Fact or Figment? A Debate Between William Lane Craig and Gerd Lüdemann, 2000", "kind": "scholarship"},
+    {"citation": "Robert M. Price and Jeffery Jay Lowder (eds.), The Empty Tomb: Jesus Beyond the Grave, 2005", "kind": "scholarship"},
+    {"citation": "Pinchas Lapide, The Resurrection of Jesus: A Jewish Perspective, 1983 (English translation)", "kind": "scholarship"},
+    {"citation": "E.P. Sanders, The Historical Figure of Jesus, 1993", "kind": "scholarship"},
+    {"citation": "Timothy McGrew and Lydia McGrew, 'The Argument from Miracles: A Cumulative Case for the Resurrection of Jesus of Nazareth,' in The Blackwell Companion to Natural Theology, 2009", "kind": "scholarship"},
+    {"citation": "David Hume, An Enquiry Concerning Human Understanding, Section X 'Of Miracles', 1748", "kind": "primary"},
+    {"citation": "1 Corinthians 15; Galatians 1-2; Mark 16; Matthew 28; Luke 24; John 20-21", "kind": "scripture"},
+    {"citation": "Tacitus, Annals 15.44; Josephus, Antiquities of the Jews 18.63-64", "kind": "primary"}
+  ]
+}
+--- stderr ---

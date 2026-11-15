@@ -1,0 +1,172 @@
+{
+  "kind": "mixed",
+  "verdict": "Almost certainly did not happen as a physical event",
+  "credence": 2,
+  "confidence": "medium",
+  "bottom_line": "Jesus of Nazareth almost certainly died by Roman crucifixion around 30 CE, and shortly thereafter his disciples experienced profound visions that led them to sincerely believe he had been vindicated and raised by God. However, the claim that a decaying human corpse literally reanimated and transformed into an immortal physical body violates fundamental, universally observed principles of biology and thermodynamics. While Christian confessional scholars argue that the historical evidence of the empty tomb and post-mortem appearances is best explained by a unique divine miracle, mainstream secular historiography views the earliest experiences as visionary and grief-induced, with physicalizing details like touching wounds and eating food emerging decades later in the Gospel traditions. Because ancient, sectarian testimony cannot overcome the overwhelming scientific and empirical prior probability against the reversal of biological death, the claim of a literal bodily resurrection cannot be accepted as historically factual.",
+  "sub_claims": [
+    {
+      "claim": "Jesus of Nazareth died by crucifixion under Pontius Pilate.",
+      "kind": "empirical",
+      "case_for": "Universally attested across early Christian traditions (Paul, Mark, Q, John) and independently corroborated by non-Christian Roman and Jewish sources (Tacitus, Josephus); Roman crucifixion procedures were reliably lethal.",
+      "case_against": "Swoon or apparent-death hypotheses suggest Jesus may have merely lost consciousness; however, this lacks ancient textual support and is medically implausible given Roman execution practices.",
+      "consensus": "Overwhelming historical consensus among secular, Jewish, and Christian scholars that Jesus died on the Roman cross.",
+      "evidence": [
+        "Tacitus, Annals 15.44",
+        "Josephus, Antiquities 18.3.3",
+        "1 Corinthians 15:3",
+        "Synoptic Gospels and John"
+      ],
+      "verdict": "Historically certain",
+      "credence": 99
+    },
+    {
+      "claim": "Shortly after Jesus' death, his disciples and Paul had experiences they interpreted as encounters with the risen Jesus.",
+      "kind": "textual",
+      "case_for": "1 Corinthians 15 preserves a creed dating to within a few years of Jesus' death listing appearances to individuals and groups; Paul directly attests his own transformative experience; early disciples endured hardship and persecution for this conviction.",
+      "case_against": "Accounts could represent later communal mythmaking retrojected onto the original disciples, or theological formulations rather than immediate historical reports.",
+      "consensus": "Virtually unanimous consensus among both critical and confessional historians that early followers sincerely believed they had encountered Jesus alive after his death.",
+      "evidence": [
+        "1 Corinthians 15:3-8",
+        "Galatians 1:11-16",
+        "Earliest strata of synoptic traditions"
+      ],
+      "verdict": "Highly probable",
+      "credence": 95
+    },
+    {
+      "claim": "Jesus' corpse was buried in an identifiable private tomb that was later found empty.",
+      "kind": "textual",
+      "case_for": "All four canonical Gospels report the empty tomb discovered by women, which was culturally counterproductive to invent in first-century Jewish society; burial by Sanhedrin member Joseph of Arimathea is an unlikely Christian invention.",
+      "case_against": "Standard Roman practice was to leave crucified criminals on crosses for scavengers or bury them in common trenches; Paul's early creed (1 Cor 15) does not mention an empty tomb; Mark's account may be an apologetic or symbolic literary creation.",
+      "consensus": "No consensus; confessional scholars and some critical scholars affirm the empty tomb, while many secular historians view it as a later narrative development or remain agnostic.",
+      "evidence": [
+        "Mark 16:1-8",
+        "Digesta 48.24 on Roman burial customs",
+        "Archaeological discovery of Yehohanan (crucified individual given tomb burial in Jerusalem)"
+      ],
+      "verdict": "Historically contested and unproven",
+      "credence": 35
+    },
+    {
+      "claim": "The earliest resurrection experiences were understood as physical/tactile encounters rather than celestial/visionary experiences.",
+      "kind": "textual",
+      "case_for": "Second Temple Jewish apocalyptic expectations defined resurrection (anastasis) as the physical reconstitution of the body; Luke and John explicitly describe Jesus eating food and inviting physical touch.",
+      "case_against": "The earliest written source (Paul, c. 54 CE) uses the visionary verb ophthe ('appeared/was seen'), equates his Damascus road vision with appearances to the Twelve, and argues that 'flesh and blood cannot inherit the kingdom of God'; tactile demonstrations appear only decades later in response to docetic controversies.",
+      "consensus": "No consensus; confessional scholars maintain original physical continuity, whereas critical scholars increasingly view the earliest experiences as visionary encounters that were subsequently physicalized in oral and written traditions.",
+      "evidence": [
+        "1 Corinthians 15:35-50",
+        "Galatians 1:15-16",
+        "Luke 24:36-43",
+        "John 20:24-29"
+      ],
+      "verdict": "Unlikely for the earliest layer; reflects later narrative evolution",
+      "credence": 20
+    },
+    {
+      "claim": "A biologically dead human body was supernaturally reanimated and transformed into an immortal state.",
+      "kind": "philosophical",
+      "case_for": "If an omnipotent creator God exists, natural regularities can be suspended; proponents argue that no naturalistic hypothesis adequately explains the combination of the empty tomb, group appearances, and the explosive rise of the early church.",
+      "case_against": "Directly violates universal, empirically verified laws of biological decomposition, cellular necrosis, and thermodynamic irreversibility; ancient, sectarian testimonial evidence cannot overcome the astronomical prior improbability of a physical resurrection.",
+      "consensus": "Overwhelming scientific consensus that irreversible biological death is permanent; secular historians treat supernatural miracles as inherently outside historical methodology, while confessional scholars affirm it through theological deduction and faith.",
+      "evidence": [
+        "Universal empirical observation of biological death throughout human history",
+        "Medical science on irreversible cellular autolysis and brain death",
+        "Psychological literature on grief-induced bereavement visions"
+      ],
+      "verdict": "Almost certainly did not happen",
+      "credence": 2
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Can historical inquiry legitimately accept a supernatural miracle as the most probable explanation of ancient testimonial evidence?",
+      "type": "prior",
+      "if_yes": "Historical evidence can be evaluated alongside theological hypotheses, allowing confessional arguments for the resurrection to be considered viable.",
+      "if_no": "Methodological naturalism requires historical explanations to remain within known natural processes, making any naturalistic hypothesis intrinsically more probable than a physical resurrection.",
+      "your_view": "Public historical methodology must adhere to methodological naturalism; history lacks the epistemic tools to verify divine causation, and positing miracles undermines consistent empirical inference."
+    },
+    {
+      "crux": "Were the original apostolic experiences visionary/exaltational or tactile/physical?",
+      "type": "evidence",
+      "if_yes": "If the earliest disciples experienced interactive physical conversations with a tangible body, naturalistic psychological models struggle to account for the testimony.",
+      "if_no": "If the earliest experiences were internal visions or charismatic sensory phenomena, well-documented psychological and sociological dynamics (grief visions, cognitive dissonance, group contagion) adequately explain the origins of the movement.",
+      "your_view": "Textual analysis indicates that the earliest layer (Paul) was visionary, with tangible, anti-docetic physical demonstrations (eating, touching scars) being added in later Gospel traditions."
+    },
+    {
+      "crux": "Is the discovery of an empty tomb an authentic historical memory or a later narrative development?",
+      "type": "evidence",
+      "if_yes": "A missing corpse imposes a physical constraint that requires an explanation beyond purely subjective psychological visions of the disciples.",
+      "if_no": "If the empty tomb is a literary creation by Mark, the entire bodily resurrection narrative can be explained through subjective visionary experiences without requiring any physical displacement of a corpse.",
+      "your_view": "The silence of Paul and earliest creedal preaching regarding an empty tomb, combined with standard Roman penal practices, makes the empty tomb more likely a secondary apologetic development."
+    },
+    {
+      "crux": "How should one set the prior probability of an unprecedented suspension of physical laws?",
+      "type": "prior",
+      "if_yes": "If one already holds strong theistic priors that the God of Israel intended to inaugurate an eschatological kingdom through Jesus, the prior probability of the resurrection increases significantly.",
+      "if_no": "If priors are determined by uniform empirical observation of nature and human mortality, the antecedent probability of a physical resurrection is astronomically close to zero.",
+      "your_view": "In an objective epistemic review, priors regarding physical events must be grounded in universal empirical observation; absent independent, verifiable evidence of divine intervention, the prior must remain near zero."
+    }
+  ],
+  "strongest_for": [
+    "The early dating of the 1 Corinthians 15 creed: Formulated within 1-5 years of Jesus' death, showing that belief in the resurrection was immediate rather than the result of gradual mythological accretion.",
+    "The conversion of skeptics and opponents: Paul, a zealous persecutor of the early movement, and James, Jesus' skeptical brother, were radically converted based on claimed post-mortem encounters.",
+    "The sudden transformation of the disciples: Demoralized and scattered followers following Jesus' public crucifixion rapidly regrouped in Jerusalem with unwavering conviction that their leader was alive.",
+    "The criterion of embarrassment regarding female witnesses: In ancient Jewish and Greco-Roman contexts where women's legal testimony was devalued, fabricating women as the primary discoverers of the empty tomb would have been counter-productive for early Christian apologetics.",
+    "Explanatory coherence of the minimal facts: Proponents argue that bodily resurrection is the only single hypothesis that simultaneously accounts for the empty tomb, multiple appearance claims, and the birth of the church without resorting to ad hoc combinations of naturalistic theories."
+  ],
+  "strongest_against": [
+    "Uniformity of biological laws and universal empirical experience: Irreversible cellular necrosis, autolysis, and entropy apply without documented exception across billions of human deaths throughout history.",
+    "Evolution of the tradition from visionary to physical: Paul's earliest epistles describe the appearances using visionary terms (ophthe) and distinguish between a physical body and a spiritual resurrected body, whereas explicit physical demonstrations (eating food, touching wounds) appear only in Gospels written 40-70 years after the event.",
+    "Well-established psychological phenomena of bereavement visions: Empirical studies show that between 30% and 50% of grieving people experience vivid visual, auditory, or somatic hallucinations of deceased loved ones, which in an apocalyptic Jewish worldview would naturally be interpreted as eschatological resurrection.",
+    "Standard Roman crucifixion procedures and burial customs: Roman authorities routinely denied burial to crucified rebels as part of punitive humiliation, letting bodies be scavenged or cast into common criminal pits, making an honorable burial in a private rock tomb historically improbable.",
+    "Textual contradictions and legendary features: The canonical Gospels diverge irreconcilably regarding the timing of the tomb visit, the number and identity of visitors, the number of angels, whether the stone was already rolled away, and whether appearances occurred exclusively in Galilee or Jerusalem."
+  ],
+  "weak_arguments": {
+    "for": [
+      "The 'Liar, Lunatic, or Lord' trilemma: Ignores the widely recognized historical-critical alternatives of legend, literary embellishment, sincere mistaken belief, or visionary experience.",
+      "The 'Martyrdom proves the truth of the resurrection' argument: Willingness to die proves sincere subjective conviction, not historical truth; people across diverse religious and political movements have died for mistaken or visionary beliefs.",
+      "The claim that 500 eyewitnesses could be cross-examined: We possess only a single passing sentence written by Paul decades later; we have zero testimony, names, or accounts from any of the alleged 500 individuals, making cross-examination impossible."
+    ],
+    "against": [
+      "The Swoon / Apparent Death Theory: The claim that Jesus survived scourging, crucifixion, hypovolemic shock, and days without medical care in a cold tomb is medically absurd and fails to explain how a critically injured man could inspire belief in the Lord of Life.",
+      "The Stolen Body / Deliberate Fraud Theory: The claim that the disciples stole the corpse and fabricated the resurrection is psychologically implausible given their genuine religious zeal and willingness to suffer persecution.",
+      "Mythicism (the claim that Jesus never existed): Overwhelmingly rejected by mainstream secular and academic historians, as Jesus' historical existence and crucifixion under Pilate are among the most secure facts of ancient Mediterranean history."
+    ]
+  },
+  "would_change": [
+    "Contemporary, independent documentary evidence from hostile Roman or Jewish authorities (such as official trial or guard records) confirming an empty secured tomb and unexplained physical appearances in 30-33 CE.",
+    "Replicable, medically documented modern cases of individuals returning to permanent physical life after brain death and advanced decomposition (establishing that biological reversal of death is physically possible).",
+    "The definitive discovery of the ossuary and skeletal remains of Jesus of Nazareth, verified by rigorous archaeological and epigraphic provenance, which would conclusively reduce credence in bodily resurrection to 0%.",
+    "Discovery of an undisputed first-generation text written by the original disciples (such as Peter) detailing a purely symbolic or spiritual understanding of resurrection, which would confirm that physical resurrection was a later mythological graft."
+  ],
+  "sources": [
+    {
+      "citation": "Dale C. Allison Jr., Resurrecting Jesus: The Earliest Christian Tradition and Its Interpreters, 2005",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "N.T. Wright, The Resurrection of the Son of God, 2003",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Bart D. Ehrman, How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee, 2014",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Gerd Lüdemann, The Resurrection of Christ: A Historical and Critical Inquiry, 2004",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Gary R. Habermas and Michael R. Licona, The Case for the Resurrection of Jesus, 2004",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Paul the Apostle, First Epistle to the Corinthians (specifically chapter 15), c. 54 CE",
+      "kind": "scripture"
+    }
+  ]
+}
+
+
+--- stderr ---

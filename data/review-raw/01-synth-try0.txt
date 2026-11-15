@@ -1,0 +1,46 @@
+{
+  "summary": "All four reviews find the Gospels historically valuable but judge the full claim, including a literal resurrection, less likely than not. They agree that Jesus existed, taught, attracted followers, and was crucified under Pilate, and that the Gospels preserve characteristic elements of his teaching. They distinguish early belief in post-death appearances from proof that a bodily resurrection occurred. All see theological shaping, literary dependence, and differences between accounts as reasons for caution about details. They differ in how strongly they judge those problems, how historical methods should treat miracles, and their numerical confidence in the claim.",
+  "agreement": "high",
+  "agreed": [
+    "Jesus' existence and crucifixion under Pilate are exceptionally well supported; the Gospels preserve a historical core about his ministry.",
+    "Characteristic teaching, including kingdom themes and parables, is recoverable more securely than exact wording or every individual saying.",
+    "The Gospels were written decades after Jesus and draw on related traditions; Matthew and Luke's use of Mark limits how far agreement counts as independent corroboration.",
+    "The accounts show theological and editorial shaping and differ in chronology, speeches, and resurrection narratives.",
+    "Early followers sincerely believed Jesus had appeared to them after his death; this does not by itself establish a bodily resurrection.",
+    "The empty tomb and resurrection remain disputed, and a religious purpose or discrepancies do not make the Gospels wholly fictional."
+  ],
+  "disagreed": [
+    {
+      "point": "Overall probability and confidence",
+      "positions": "GPT-6.1 assigns the full claim 12% with low confidence; Gemini 28% with medium confidence; Grok 22% with low confidence; and Opus 35% with medium confidence. All include the resurrection, but their estimates reflect different judgments about narrative reliability, evidence, and miracle priors."
+    },
+    {
+      "point": "How reliable are the accounts beyond the core?",
+      "positions": "GPT-6.1 considers the major ministry and death narrative plausible in broad outline but unevenly verified. Gemini, Grok, and Opus make stronger negative judgments about many specific episodes and details, emphasizing contradictions, redaction, and legendary development. All allow that ancient biography could paraphrase or rearrange material."
+    },
+    {
+      "point": "How much teaching is preserved?",
+      "positions": "GPT-6.1 and Opus are relatively optimistic about characteristic teaching and its substance, assigning their respective teaching subclaims 85% and 80%. Gemini and Grok assign their broader teaching subclaims 55% and 52%, emphasizing redaction and differences in John's speeches. The subclaims are worded differently, so the numbers are not exact like-for-like comparisons."
+    },
+    {
+      "point": "Miracles and historical method",
+      "positions": "Gemini says methodological naturalism is necessary for rigorous history and treats supernatural events as outside historical validation. GPT-6.1, Grok, and Opus emphasize that judgments about the resurrection depend on miracle priors and the weight given to testimony; they regard bodily resurrection as unestablished by the evidence, while allowing different conclusions under different priors."
+    },
+    {
+      "point": "Nature of post-death experiences",
+      "positions": "Gemini describes the followers' experiences as visionary and historically certain. GPT-6.1 is more cautious about reconstructing their nature; Grok and Opus regard sincere belief or experiences as very likely while considering visions among possible explanations."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether 'substantially reliable' means preservation of a historical core and teaching themes or broad accuracy of the narratives, including specific episodes and a literal resurrection.",
+    "How probable divine intervention is before weighing the testimony, and whether historical method can establish a supernatural event.",
+    "How early, independent, and detailed the appearance and empty-tomb traditions are, compared with non-miraculous explanations for belief.",
+    "How much eyewitness memory controlled oral transmission, and how much literary dependence and theological editing reshaped it.",
+    "How much paraphrase, rearrangement, and discrepancy is compatible with reliability under ancient biographical conventions, especially when comparing John with the Synoptics."
+  ],
+  "what_is_settled": "The reviewers treat Jesus' existence and crucifixion under Pilate as exceptionally well established, and the broad existence of a Jewish teaching ministry and early belief in post-death appearances as strongly supported. They also agree that the Gospels preserve historically useful material, though not necessarily verbatim transcripts.",
+  "what_is_open": "The historical accuracy of particular sayings, episodes, chronology, and authorship remains disputed, as do the empty tomb and the nature and causes of the reported appearances. Whether Jesus rose bodily, and whether the full accounts qualify as substantially reliable, depends on disputed evidence, definitions, historical method, and prior commitments about miracles."
+}
+
+
+--- stderr ---

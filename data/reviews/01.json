@@ -1,0 +1,906 @@
+{
+ "topic": {
+  "id": 1,
+  "category": "History",
+  "short": "Gospel Reliability",
+  "resolution": "The Gospels are historically reliable accounts of Jesus' life",
+  "question": "How historically reliable are the four Gospels as accounts of what Jesus said and did?",
+  "claim": "The Gospels are substantially reliable historical accounts of Jesus' life, teaching, death and resurrection."
+ },
+ "analyses": [
+  {
+   "kind": "mixed",
+   "verdict": "Historically valuable but not securely reliable in every major claim; the resurrection remains unproved.",
+   "credence": 12,
+   "confidence": "low",
+   "bottom_line": "I interpret the claim as saying that the Gospels get the main course of Jesus’ ministry, characteristic teachings, death, and literal bodily resurrection substantially right, while allowing paraphrase, theological shaping, and some mistakes. Jesus’ existence and crucifixion are exceptionally well supported, and the Gospels preserve important information about his teaching. Their detailed narratives are harder to verify: they were written decades later, draw on related traditions, and sometimes differ. Early evidence shows that Jesus’ followers believed he appeared after his death, but whether God raised him depends heavily on prior assumptions about miracles. My 12% estimate applies to the whole claim including bodily resurrection; a claim about a substantial historical core without resurrection would score much higher.",
+   "sub_claims": [
+    {
+     "claim": "Jesus existed, preached in first-century Judea and Galilee, and was crucified under Pontius Pilate.",
+     "kind": "empirical",
+     "case_for": "Multiple early Christian sources place Jesus in this setting, and non-Christian writers also refer to him and his execution. Crucifixion is a difficult event for a movement proclaiming a triumphant Messiah to have invented.",
+     "case_against": "The sources are not contemporary biographies, and later non-Christian references do not independently establish every detail of the Gospel narratives.",
+     "consensus": "Overwhelmingly accepted by historians of early Christianity, including confessional scholars; theories that Jesus never existed are rejected by the great majority.",
+     "evidence": [
+      "Paul’s letters presuppose a recently living, crucified Jesus.",
+      "All four Gospels report crucifixion under Pilate.",
+      "Josephus and Tacitus mention Jesus; the relevant passage in Josephus includes later Christian alterations.",
+      "Archaeology independently confirms Pilate’s governorship."
+     ],
+     "verdict": "Almost certainly true.",
+     "credence": 99
+    },
+    {
+     "claim": "The Gospels preserve substantial material characteristic of Jesus’ teaching and ministry.",
+     "kind": "textual",
+     "case_for": "Recurring themes, such as God’s kingdom, parables, ethical demands, and disputes with contemporaries, appear across traditions. Oral transmission and teaching repetition could preserve characteristic material even without verbatim transcripts.",
+     "case_against": "The evangelists wrote in Greek and shaped inherited traditions for their audiences; Jesus probably taught largely in Aramaic. Shared wording is often explained by literary dependence, and attribution of individual sayings is debated.",
+     "consensus": "Most scholars, religious and nonreligious, think some characteristic teaching is recoverable, but disagree substantially about particular sayings, Jesus’ self-understanding, and how much the evangelists preserve verbatim.",
+     "evidence": [
+      "Mark and material shared by Matthew and Luke contain extensive teaching about God’s kingdom.",
+      "The Synoptic Gospels commonly depict Jesus teaching in parables.",
+      "John’s presentation of Jesus’ speeches differs markedly in style and emphasis from the Synoptics.",
+      "Most scholars regard Matthew and Luke as having used Mark, although the relationships among the sources remain debated."
+     ],
+     "verdict": "Probably true at the level of broad themes, less certain for individual wording.",
+     "credence": 85
+    },
+    {
+     "claim": "The Gospels give a substantially accurate account of the major episodes and sequence of Jesus’ ministry and death, allowing for some errors.",
+     "kind": "empirical",
+     "case_for": "The narratives fit much of the known social and geographical setting, contain distinctive details, and may preserve eyewitness testimony and early local traditions. Some differences can be explained by selection, compression, or different perspectives.",
+     "case_against": "Plausible settings do not independently verify the events narrated. The accounts sometimes differ in chronology and detail, and their shared sources mean agreement is not always independent corroboration.",
+     "consensus": "There is no consensus on the overall reliability of the narratives at this level. Many confessional scholars defend broad accuracy; many critical scholars judge individual episodes case by case and find significant literary or theological shaping.",
+     "evidence": [
+      "Mark places the temple incident near the end of Jesus’ ministry; John places a temple-cleansing episode near its beginning.",
+      "The Gospels differ in their accounts of events around the discovery of the empty tomb.",
+      "Most scholars date Mark around 70 CE and the other canonical Gospels later, though earlier dates have defenders.",
+      "The Gospels themselves do not straightforwardly identify their authors by name; traditional attributions remain debated."
+     ],
+     "verdict": "Plausible in broad outline, but too unevenly verified for high confidence.",
+     "credence": 65
+    },
+    {
+     "claim": "Early followers, including Paul, sincerely believed that the risen Jesus had appeared to them.",
+     "kind": "textual",
+     "case_for": "Paul reports an appearance to himself and passes on an earlier tradition naming other witnesses. His commitment and subsequent activity provide strong evidence of sincere conviction.",
+     "case_against": "Paul’s report is not direct testimony from each person he lists, and it gives little detail about the experiences. Sincere conviction does not establish what caused them.",
+     "consensus": "Broadly accepted that some early followers and Paul believed they had encountered the risen Jesus. Scholars, including religious scholars, differ over the nature and implications of those experiences.",
+     "evidence": [
+      "In 1 Corinthians 15:3–8, Paul lists appearances to Cephas, the Twelve, James, others, and himself.",
+      "Paul says he received and passed on at least part of this tradition.",
+      "The letter was written in the 50s CE, within a few decades of Jesus’ death.",
+      "The Gospel appearance narratives are later and differ in details."
+     ],
+     "verdict": "Very likely true, though the experiences are difficult to reconstruct.",
+     "credence": 95
+    },
+    {
+     "claim": "Jesus literally rose bodily from the dead through God’s action.",
+     "kind": "mixed",
+     "case_for": "An early resurrection proclamation, reported appearances to individuals and groups, and the emergence of a movement centered on resurrection make a cumulative case. The Gospel empty-tomb traditions are also important if they preserve early independent information.",
+     "case_against": "The evidence reaches us through committed insiders and does not provide direct, independent observation of the resurrection itself. Experiences, developing traditions, and uncertainty about burial and the empty tomb permit non-miraculous explanations, even if no single reconstruction is established.",
+     "consensus": "No consensus. Many confessional scholars affirm bodily resurrection as historical; many other historians regard the evidence as insufficient to establish it. Historical methods often bracket divine action, so this disagreement also reflects methodological and prior assumptions.",
+     "evidence": [
+      "Paul’s early appearance list is evidence of proclamation, not an eyewitness account of the empty tomb.",
+      "All four Gospels recount an empty tomb, but their accounts have differences and are not demonstrably independent.",
+      "The origin and historical status of the empty-tomb tradition remain disputed.",
+      "The resurrection claim is exceptional and its assessment depends on how one weighs miracle hypotheses against alternative explanations."
+     ],
+     "verdict": "Possible, but not established by the available historical evidence.",
+     "credence": 15
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does ‘substantially reliable’ require the literal bodily resurrection?",
+     "type": "definition",
+     "if_yes": "The overall probability is constrained by the probability of that exceptional claim; my estimate is 12%.",
+     "if_no": "A claim that the Gospels preserve a substantial historical core would be considerably more likely, though it would not follow that most individual episodes are verified.",
+     "your_view": "The claim explicitly includes resurrection, so I include it rather than scoring only the historical core."
+    },
+    {
+     "crux": "Before assessing these reports, how plausible is divine intervention in history?",
+     "type": "prior",
+     "if_yes": "If such intervention is reasonably likely, the early resurrection testimony can support a much higher probability; some theistic scholars judge it compelling.",
+     "if_no": "If divine intervention is assigned a very low prior probability, the available reports are unlikely to overcome that prior.",
+     "your_view": "I assign a low but nonzero prior to this specific miracle. Reasonable disagreement about that prior makes the numerical estimate fragile."
+    },
+    {
+     "crux": "Are the appearance and empty-tomb traditions early, independent, and specific enough to favor resurrection strongly over alternatives?",
+     "type": "evidence",
+     "if_yes": "The resurrection claim gains substantial weight, especially under a theistic prior.",
+     "if_no": "Sincere experiences and subsequent tradition remain viable explanations without establishing bodily resurrection.",
+     "your_view": "The appearance proclamation is early, but the independence and detail of the accounts, especially for the empty tomb, are too uncertain to carry the full claim decisively."
+    },
+    {
+     "crux": "How much theological and literary shaping is compatible with substantial historical reliability?",
+     "type": "definition",
+     "if_yes": "If paraphrase, rearrangement, and some errors are allowed, broad reliability of the ministry narrative is more plausible.",
+     "if_no": "If substantial reliability requires accurate chronology and close-to-verbatim reporting throughout, the claim is much less plausible.",
+     "your_view": "Ancient biography permits shaping without becoming fiction, but shaping and dependence still limit confidence in particular details."
+    }
+   ],
+   "strongest_for": [
+    "Paul preserves an early resurrection tradition and personally reports an appearance, limiting the time available for the central belief to emerge.",
+    "The Gospels plausibly incorporate earlier traditions, potentially including eyewitness testimony, and contain historically credible settings and details.",
+    "The crucifixion and central features of Jesus’ ministry fit independent lines of evidence.",
+    "For someone who considers divine action plausible, the resurrection may explain the early movement and testimony better than competing reconstructions."
+   ],
+   "strongest_against": [
+    "The Gospels were written decades after the events, and their literary relationships limit the force of apparent multiple attestation.",
+    "Differences in chronology, speeches, and resurrection narratives make uniformly accurate reporting difficult to establish.",
+    "The early appearance reports establish belief more directly than they establish a bodily resurrection or an empty tomb.",
+    "The evidence is not strong enough, in my judgment, to overcome a low prior probability for this particular miracle."
+   ],
+   "weak_arguments": {
+    "for": [
+     "‘There are many manuscripts, so the events happened’: manuscript abundance helps reconstruct texts, not automatically verify their claims.",
+     "‘The witnesses would not have suffered for a lie’: sincerity does not guarantee that an interpretation or experience was correct.",
+     "‘The accounts agree in four independent sources’: the Gospels have substantial literary and traditional relationships.",
+     "‘Every difference is merely complementary’: some differences are real interpretive problems, even if harmonization is sometimes possible."
+    ],
+    "against": [
+     "‘The Gospels contain theology, so they contain no history’: religious purposes do not prevent sources from preserving historical information.",
+     "‘Differences prove everything was invented’: disagreement can coexist with shared accurate reporting.",
+     "‘Jesus was copied wholesale from pagan dying-and-rising gods’: such comparisons often exaggerate or flatten important differences.",
+     "‘History has proved miracles impossible’: historical methods may bracket supernatural explanations without settling that philosophical question."
+    ]
+   },
+   "would_change": [
+    "A securely dated, independent first-century source giving detailed, firsthand information about Jesus’ ministry or post-death appearances.",
+    "Strong evidence that the empty-tomb tradition either originated independently very early or arose demonstrably later.",
+    "Better evidence identifying the Gospel authors and tracing particular narratives reliably to named eyewitnesses.",
+    "A persuasive argument substantially changing the prior probability of divine action or the relative likelihood of the competing explanations."
+   ],
+   "sources": [
+    {
+     "citation": "The New Testament, especially the four Gospels and 1 Corinthians 15",
+     "kind": "scripture"
+    },
+    {
+     "citation": "E. P. Sanders, The Historical Figure of Jesus, 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Bauckham, Jesus and the Eyewitnesses, 2006",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N. T. Wright, The Resurrection of the Son of God, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison Jr., The Resurrection of Jesus: Apologetics, Polemics, History, 2021",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Raymond E. Brown, The Death of the Messiah, 1994",
+     "kind": "scholarship"
+    }
+   ],
+   "id": "gpt",
+   "label": "GPT-6.1",
+   "model": "gpt-6.1-terra",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Partially reliable core regarding Jesus' life and death, but significantly shaped by theological redaction and unverified miraculous traditions",
+   "credence": 28,
+   "confidence": "medium",
+   "bottom_line": "The four Gospels are ancient theological biographies (bioi) composed decades after Jesus' crucifixion by Greek-speaking authors relying on evolving oral traditions and shared literary sources. Mainstream historical scholarship affirms a solid historical core: Jesus was an apocalyptic Jewish prophet and healer who was baptized by John, gathered disciples, and was executed under Pontius Pilate, after which his followers had profound visionary experiences. However, the claim that the Gospels are substantially reliable historical records of his detailed teachings, nature miracles, and bodily resurrection is not supported by standard historical methodology. The texts feature pronounced redactional shifts, literary dependence (with Matthew and Luke copying Mark), irreconcilable contradictions (especially between the Synoptics and John), and legendary accretions. While indispensable for understanding early Christianity and the broad contours of Jesus' ministry, the Gospels cannot be classified as substantially reliable factual records of his supernatural deeds and physical resurrection.",
+   "sub_claims": [
+    {
+     "claim": "The Gospels preserve an accurate broad outline of Jesus' life, geographic ministry, and execution under Pontius Pilate.",
+     "kind": "empirical",
+     "case_for": "Multiple independent first-century and early second-century sources—Mark, Q, special Luke, special Matthew, John, Paul's epistles, Josephus, and Tacitus—converge on the basic biographical framework: Jesus of Nazareth was a Galilean Jew, baptized by John the Baptist, who preached the Kingdom of God, gathered followers, created a disturbance in Jerusalem during Passover, and was crucified under the Roman prefect Pontius Pilate.",
+     "case_against": "The narrative framework is organized thematically and chronologically schematized rather than chronologically documented; Mark condenses the public ministry into a single year with one trip to Jerusalem, while John portrays three years and multiple trips, showing that broad outlines were shaped to fit theological and narrative agendas.",
+     "consensus": "Nearly universal consensus among secular, Jewish, and Christian historians that the general biographical and political framework of Jesus' public life and death is historically authentic.",
+     "evidence": [
+      "Tacitus, Annals 15.44, documenting Christus executed by Pontius Pilatus during the reign of Tiberius",
+      "Flavius Josephus, Antiquities 18.3.3 and 20.9.1, referencing Jesus, his crucifixion, and his brother James",
+      "Pauline epistles (Galatians 1:18-19, 1 Corinthians 11:23-26) dating from the 50s CE confirming the Jerusalem leadership and crucifixion",
+      "Multiple independent attestation across distinct Gospel source strata (Mark, Q, M, L, John)"
+     ],
+     "verdict": "Historically well-established core framework",
+     "credence": 90
+    },
+    {
+     "claim": "The Gospels faithfully preserve the authentic voice and substance of Jesus' historical teachings and sayings.",
+     "kind": "textual",
+     "case_for": "The Synoptic Gospels preserve distinctive Semitic idioms, poetic parallelism, and characteristic forms (parables, aphorisms, Kingdom of God terminology) that fit seamlessly into early first-century Jewish Palestine and meet criteria of contextual credibility, dissimilarity, and multiple attestation.",
+     "case_against": "The Gospel of John presents an entirely different Jesus who speaks in lengthy, high-Christology discourses focused on his own divine identity rather than Synoptic parables. Moreover, redaction criticism demonstrates that Matthew and Luke systematically altered, recontextualized, and expanded sayings they inherited from Mark and Q to address later church controversies.",
+     "consensus": "Strong consensus that the Synoptics preserve Jesus' authentic voice (ipsissima vox) and central themes, but widespread agreement that exact words (ipsissima verba) are rarely recoverable and that John represents late theological reflection rather than historical speech.",
+     "evidence": [
+      "Profound divergence between Synoptic parables/short aphorisms and Johannine extended 'I am' discourses",
+      "Aramaic phrases preserved in Greek texts (e.g., Talitha koum, Abba) indicating underlying Palestinian traditions",
+      "Clear redactional modifications of sayings between Mark, Matthew, and Luke (e.g., Matthew 5:3 'poor in spirit' vs. Luke 6:20 'you who are poor')"
+     ],
+     "verdict": "Substantially reliable in thematic core (Synoptics), but significantly redacted and rewritten (especially John)",
+     "credence": 55
+    },
+    {
+     "claim": "The Gospels were written by eyewitnesses or direct associates who faithfully recorded eyewitness testimony.",
+     "kind": "textual",
+     "case_for": "Second-century church traditions (Papias quoted in Eusebius, Irenaeus) consistently attribute the four Gospels to Matthew, Mark, Luke, and John. Richard Bauckham argues that the frequency and types of personal names match first-century Palestinian Jewish demographics and that the texts reflect formal mechanisms for preserving apostolic eyewitness testimony.",
+     "case_against": "All four Gospels are formally anonymous within their original texts; titles were added well into the second century. The authors wrote in polished Hellenistic Greek outside Palestine decades after Jesus' death, and Matthew and Luke copied approximately 80% of Mark's Greek text verbatim—behavior incompatible with Matthew being an apostolic eyewitness writing independently of a non-eyewitness.",
+     "consensus": "Consensus among critical, non-confessional scholars is that the Gospels are anonymous, composite, second-generation texts (c. 65-100 CE) based on oral and written traditions; conservative and confessional scholars maintain traditional or close eyewitness authorship.",
+     "evidence": [
+      "Verbatim Greek overlap among the Synoptic Gospels demonstrating extensive literary copying rather than independent eyewitness recall",
+      "Earliest extant Gospel manuscripts lack original authorial signatures in the text body",
+      "Chronological gap of 35 to 70 years between Jesus' death (c. 30/33 CE) and the composition of the Gospels (c. 68-100 CE)"
+     ],
+     "verdict": "Unlikely; Gospels are anonymous, second-generation works shaped by literary dependence",
+     "credence": 25
+    },
+    {
+     "claim": "The miracle accounts (healings, exorcisms, nature miracles) reflect literal historical occurrences.",
+     "kind": "philosophical",
+     "case_for": "Jesus' reputation as a miracle worker and exorcist is pervasive across all layers of Gospel tradition and is corroborated by hostile contemporary and near-contemporary polemics (e.g., accusations of demonic collusion in Mark 3:22; rabbinic references to Jesus practicing sorcery in b. Sanhedrin 43a).",
+     "case_against": "Nature miracles (walking on water, multiplying loaves, calming storms, raising the decaying Lazarus) heavily mirror Old Testament motifs (Moses, Elijah, Elisha) and Hellenistic wonder-worker tropes designed for theological symbolism. Methodological naturalism restricts historical inquiry from verifying suspensions of physical laws, and psychosomatic effects, faith healing, and legendary accretion provide sufficient natural explanations.",
+     "consensus": "General consensus that the historical Jesus was perceived by his contemporaries as an effective exorcist and healer; however, critical scholars regard nature miracles as theological symbols or legends, while confessional scholars accept them as historical.",
+     "evidence": [
+      "Hostile attestation in Jewish and pagan traditions conceding Jesus performed unusual deeds or 'sorcery'",
+      "Direct literary modeling of miracles on Elijah and Elisha cycles from 1 and 2 Kings",
+      "Total absence of independent contemporary verification for massive public marvels (e.g., darkness at noon, Matthew 27:52-53 resurrections of saints)"
+     ],
+     "verdict": "Historically verifiable only as perceived faith healings and exorcisms; nature miracles are unevidenced historically",
+     "credence": 20
+    },
+    {
+     "claim": "The Gospel accounts of the empty tomb and bodily resurrection of Jesus are historically reliable records of physical events.",
+     "kind": "mixed",
+     "case_for": "The resurrection proclamation began remarkably early in Jerusalem (1 Corinthians 15:3-7 creed within 2-5 years of Jesus' death). Women are consistently recorded as the primary witnesses to the empty tomb, satisfying the criterion of embarrassment given the low legal status of female testimony in antiquity. Furthermore, bodily resurrection was unexpected for a single individual prior to the end-time general resurrection in Jewish thought.",
+     "case_against": "The post-resurrection narratives across Matthew, Mark, Luke, and John contain glaring, irreconcilable contradictions regarding who visited the tomb, what was seen inside, whether appearances occurred in Galilee or Jerusalem, and whether the disciples were forbidden to leave Jerusalem. Historical methodology can establish that disciples experienced profound visions, but cannot establish the biological resuscitation of a corpse.",
+     "consensus": "Consensus that the disciples sincerely believed Jesus appeared to them after death; sharp divide where critical historians view the empty tomb as disputed and resurrection as a theological claim outside historical demonstration, while confessional scholars view bodily resurrection as the best historical hypothesis.",
+     "evidence": [
+      "1 Corinthians 15:3-8 creed documenting early visionary claims without mentioning an empty tomb",
+      "Irreconcilable discrepancies between Matthew 28, Luke 24, and John 20 regarding location, sequence, and nature of appearances",
+      "Earliest Gospel (Mark) abruptly ending at 16:8 in Codex Sinaiticus and Vaticanus without any recorded resurrection appearances"
+     ],
+     "verdict": "Disciples' sincere visionary experiences are historically certain, but physical bodily resurrection is historically unverified and narratively contradictory",
+     "credence": 22
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Should historical methodology adhere to methodological naturalism, or remain open to historical validation of supernatural divine acts like a bodily resurrection?",
+     "type": "prior",
+     "if_yes": "If methodological naturalism is maintained, miraculous suspensions of natural law can never be accepted as the most probable historical explanation, meaning the Gospel resurrection accounts must be explained via visionary grief, cognitive dissonance, and legendary accretion.",
+     "if_no": "If supernatural causation is granted a viable prior probability, the convergence of early proclamation, transformed disciples, and the empty tomb tradition can be viewed as compelling historical evidence for bodily resurrection.",
+     "your_view": "Methodological naturalism is necessary for rigorous historical investigation. Without it, historians lack any empirical standard to separate genuine historical events from widespread ancient mythmaking, hagiography, and sectarian propaganda."
+    },
+    {
+     "crux": "Are the Gospels intended to function as literal modern history, or as ancient Graeco-Roman 'bioi' (theological biographies) permitting literary dramatization?",
+     "type": "definition",
+     "if_yes": "If judged by modern historical standards, extensive editorial liberties, invented/paraphrased speeches, and timeline adjustments render the Gospels substantially unreliable.",
+     "if_no": "If judged by ancient biographical conventions, the Gospels fulfill their genre's purpose by capturing the broad character, significance, and core teachings of Jesus, even while employing creative literary devices.",
+     "your_view": "The Gospels are quintessentially ancient bioi. They preserve authentic historical memories of Jesus, but freely reshape, reorder, and invent dialogue and episodes to serve specific theological aims. Confusing ancient biographical fidelity with literal historical reliability is anachronistic."
+    },
+    {
+     "crux": "Was the pre-Gospel oral tradition tightly controlled by apostolic eyewitnesses, or did it circulate fluidly through community folklore across the Mediterranean?",
+     "type": "evidence",
+     "if_yes": "If formal apostolic control was maintained over oral traditions in Jerusalem (as argued by Gerhardsson and Bauckham), the substance of the accounts was guarded against distortion.",
+     "if_no": "If transmission was informal and decentralized across diverse Greek-speaking communities over 30-60 years (as argued by form critics and Ehrman), stories inevitably mutated and accumulated theological embellishment.",
+     "your_view": "The empirical evidence of Synoptic redaction proves significant transmission fluidity. Matthew and Luke demonstrate that early Christian authors felt entirely comfortable altering, deleting, and modifying the traditions they inherited."
+    }
+   ],
+   "strongest_for": [
+    "Independent multiple attestation across diverse early sources (Mark, Q, L, M, John, Paul, Josephus, Tacitus) solidly anchoring the core biographical framework.",
+    "Multiple details that satisfy the criterion of embarrassment, such as Jesus' baptism by John, familial rejection, Peter's denial, and female discovery of the empty tomb.",
+    "Remarkable geographical, cultural, and political accuracy regarding pre-70 CE Roman-occupied Judea and Galilee confirmed by modern archaeology (e.g., Pool of Bethesda, Pilate inscription).",
+    "The rapid, explosive emergence of the Christian movement in Jerusalem immediately following the public execution of its leader, driven by unshakeable belief in his resurrection."
+   ],
+   "strongest_against": [
+    "Irreconcilable chronological, geographical, and theological contradictions among the Gospels, most notably between the Synoptics and John, as well as in the nativity and resurrection accounts.",
+    "Demonstrable literary dependence showing that Matthew and Luke copied Mark extensively in Greek rather than providing independent eyewitness testimonies.",
+    "The anonymous, decades-long gap in composition by educated diaspora Greek speakers removed from the Aramaic-speaking Palestinian peasant context of Jesus.",
+    "The inclusion of uncorroborated, spectacular legendary events characteristic of ancient mythmaking (e.g., Matthew 27:52-53 reporting resurrected saints roaming Jerusalem, cosmic darkness, angels moving tomb stones)."
+   ],
+   "weak_arguments": {
+    "for": [
+     "The C.S. Lewis 'Liar, Lunatic, or Lord' trilemma: ignores the fourth and most historically plausible critical category—'Legend'—in which high divine claims were attributed to Jesus over decades of theological evolution rather than spoken by him.",
+     "The claim that archaeology 'proves the Bible true': discovering that places like Capernaum, Siloam, or Pontius Pilate existed proves only that the stories have an authentic historical backdrop, not that supernatural narratives set there actually occurred.",
+     "The argument that 'no one would die for a lie': martyrdom indicates sincere subjective conviction of the believers, not the objective historical factuality of their supernatural beliefs or resurrection interpretations."
+    ],
+    "against": [
+     "Christ Mythicism (the claim that Jesus never existed): overwhelmingly rejected by mainstream academia; the evidence for Jesus' historical existence is equal to or better than that for most first-century figures.",
+     "The telephone game caricature: ancient oral cultures possessed robust techniques for retaining thematic structures, parables, and aphorisms, making complete distortion of the core teacher unlikely.",
+     "The conspiracy theory that the Council of Nicaea (325 CE) created the Gospels or invented Jesus' divinity: historical manuscripts prove the fourfold Gospel collection and high Christology were firmly established by the mid-to-late second century."
+    ]
+   },
+   "would_change": [
+    "Discovery of first-century Palestinian Aramaic manuscripts or documented diaries dating from the 30s-40s CE containing verbatim Gospel discourses, drastically closing the oral transmission gap.",
+    "Discovery of contemporary, independent non-Christian official Roman administrative archives (e.g., reports from Pontius Pilate to Tiberius) corroborating an empty tomb or strange events in Jerusalem during Passover 30/33 CE.",
+    "A philosophically and scientifically compelling epistemological framework demonstrating that physical bodily resurrections can be validated by empirical historical methodology.",
+    "Decisive textual evidence proving that Matthew and Luke were entirely independent of Mark and of each other, yet still produced convergent, detailed historical accounts."
+   ],
+   "sources": [
+    {
+     "citation": "E.P. Sanders, The Historical Figure of Jesus, Penguin Books, 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Bauckham, Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony, Eerdmans, 2006",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, Jesus: Apocalyptic Prophet of the New Millennium, Oxford University Press, 1999",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N.T. Wright, The Resurrection of the Son of God, Fortress Press, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John P. Meier, A Marginal Jew: Rethinking the Historical Jesus (5 vols), Yale University Press, 1991-2016",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Tacitus, Annals, Book XV, c. 116 CE",
+     "kind": "primary"
+    }
+   ],
+   "id": "gemini",
+   "label": "Gemini 3.8",
+   "model": "gemini-3.8-flash",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Probably not true as stated: the career and crucifixion are largely historical, the full narratives are not substantially reliable, and the resurrection is not historically established.",
+   "credence": 22,
+   "confidence": "low",
+   "bottom_line": "Scored reading: the four Gospels are, allowing for ancient biographical paraphrase, substantially accurate accounts of Jesus' life, teaching, death, and bodily resurrection—not merely sources from which a thinner historical core can be extracted. On that reading the claim is probably false. Nearly all specialists, including non-Christian ones, agree there was a Galilean Jew named Jesus who was baptized by John, preached God's kingdom, attracted followers, and was crucified under Pilate; Paul, Josephus, and Tacitus support that outline. The same texts also revise one another, disagree on birth and resurrection sequences, and in John present a different voice and chronology, so they are mixed sources rather than substantially reliable narratives. Early Christian belief that Jesus appeared to followers is very well attested; that he rose bodily is not established by ordinary historical standards and depends on how probable a miracle is before the evidence is weighed. A weaker claim—that the Gospels preserve a substantially recoverable outline of his public career and death—would score about 65–75, not 22.",
+   "sub_claims": [
+    {
+     "claim": "The Gospels preserve a substantially accurate outline of Jesus' public career: a Jew from Nazareth, linked to John the Baptist, active in Galilee, who gathered disciples, clashed with authorities, and went to Jerusalem.",
+     "kind": "empirical",
+     "case_for": "This outline is early, multiply attested, and contextually at home in first-century Judaism. Paul, writing about twenty years later, already knows Jesus as a Jew of Davidic stock with a brother named James, a circle of apostles, and a crucifixion. Mark, commonly placed roughly 65–75 CE and used by Matthew and Luke, is still within living memory. Features that cut against later idealization—baptism by John, family skepticism, the disciples' failure—are more easily explained as remembered history than as invention. Archaeology and Jewish setting fit the world the stories assume.",
+     "case_against": "An outline can be right while many scenes are constructed. Matthew and Luke freely rewrite Mark; chronology and geography are sometimes theological; some episodes have no independent anchor. 'Substantial' reliability of the career narrative is stronger than mythicism allows and weaker than a harmonizing biography would need.",
+     "consensus": "Broad agreement across confessional and non-confessional scholars that this outline is historical. Mythicism is a fringe view rejected by specialists. How many individual episodes are historical remains disputed.",
+     "evidence": [
+      "1 Corinthians 15:3–8 and Galatians 1–2 place key claims in the 30s–50s CE",
+      "Josephus, Antiquities 20.200, on James the brother of Jesus; a partially authentic core in the Testimonium (Antiquities 18.63–64) is the majority view",
+      "Tacitus, Annals 15.44, reports execution under Pilate",
+      "Mark is the narrative base of Matthew and Luke",
+      "Baptism, crucifixion, and disciples' flight are embarrassment data"
+     ],
+     "verdict": "Very likely true for the outline, not for every scene",
+     "credence": 78
+    },
+    {
+     "claim": "The Gospels substantially preserve Jesus' teaching, in theme and much of its content, not merely later church theology placed on his lips.",
+     "kind": "textual",
+     "case_for": "Synoptic teaching has a distinctive profile: kingdom of God, parables, reversal ethics, address to the poor, conflict with purity and temple interpretations. Aramaic fragments and Palestinian color suggest an early substratum. Some sayings are awkward for the later church and so less likely to be invented. Even cautious historians such as Sanders, Meier, and Allison recover a recognizable teacher from these materials. Ancient biographies paraphrase speeches; verbatim transcripts should not be required.",
+     "case_against": "Matthew and Luke rearrange and edit Mark's sayings for their own programs. The Sermon on the Mount is widely seen as a compilation, not a single occasion. John's long 'I am' discourses and high christology differ in form and theology from the Synoptic voice and are treated by most critical scholars as Johannine meditation more than ipsissima verba. Paul shows surprisingly little interest in quoting Jesus' ethical teaching. Exact wording is usually unrecoverable, and a non-trivial share of sayings is redactional.",
+     "consensus": "Divided on degree, agreed on method. Most specialists think characteristic themes are recoverable. Most non-confessional scholars deny that the Gospels are reliable transcripts, and they are especially skeptical of Johannine discourse. Evangelical scholars (Blomberg, Keener, Wright) grant paraphrase but defend substantial dominical content, including more of John.",
+     "evidence": [
+      "Kingdom proclamation and parables dominate the Synoptics and are hard to derive from post-Easter Gentile theology alone",
+      "Matthew 5–7 versus Luke 6 shows compositional freedom",
+      "John 14–17 has no Synoptic parallel in form",
+      "Q is a scholarly hypothesis, not an extant document, so 'multiple attestation' must not be overcounted",
+      "Jesus Seminar skepticism about sayings was real but its voting method was widely criticized even by non-conservatives"
+     ],
+     "verdict": "Partly true: themes yes, substantial wording and Johannine speeches no",
+     "credence": 52
+    },
+    {
+     "claim": "The accounts of Jesus' death are substantially reliable: arrested in Jerusalem, examined by Jewish authorities, condemned by Pilate, crucified, and buried.",
+     "kind": "empirical",
+     "case_for": "Crucifixion under Pilate is the single best-attested fact about Jesus, shared by Paul, the four Gospels, Josephus, and Tacitus. The shame of crucifixion was a liability, not a motif anyone would freely invent for a messiah. The passion is the most stable block across the Synoptics. Burial by a named figure, Joseph of Arimathea, is early and not an obvious fiction. Local details—Passover context, priestly leadership, Roman execution—fit the period.",
+     "case_against": "Trial scenes diverge and serve theology: night trial, Sanhedrin procedure, Pilate's reluctance, and the crowd's blood cry look shaped by later church-synagogue tension and by the need to explain a Roman execution. Mark, Matthew, Luke, and John give different last words. Portents in Matthew 27 (saints raised, dramatic earthquake) are widely judged legendary. 'Substantially reliable' fits the fact and rough manner of death better than the dialogue and legal choreography.",
+     "consensus": "Crucifixion under Pilate is consensus, including among Jewish and secular historians. Detailed trial historicity is disputed. Confessional scholars tend to defend more of the passion dialogue; critical scholars treat it as a mix of memory and scripturalized narrative.",
+     "evidence": [
+      "Paul: 'Christ died... and was buried' (1 Cor 15:3–4), before the Gospels",
+      "Tacitus: Christus suffered the extreme penalty under Pilate",
+      "All four Gospels agree on crucifixion; they disagree on hearings, timing relative to Passover, and last words",
+      "Mark 15 parr.; Joseph of Arimathea appears in Mark and John, which are often treated as independent",
+      "Matthew 27:52–53 has no parallel and is historically implausible"
+     ],
+     "verdict": "The fact of crucifixion under Pilate is almost certain; the trial narratives are only moderately reliable",
+     "credence": 60
+    },
+    {
+     "claim": "The resurrection narratives are substantially reliable reports that Jesus was bodily raised and appeared to his followers.",
+     "kind": "mixed",
+     "case_for": "The best case is not harmonization of Easter morning but the earliness of the claim. Paul cites a tradition he had received: death, burial, raised on the third day, appearances to Cephas, the Twelve, more than five hundred, James, and then Paul (1 Cor 15:3–8). That formula is generally dated to within a few years of the crucifixion. James and Paul are hard to dismiss as grieving followers. Women as the first tomb witnesses fit the embarrassment criterion. The movement's origin still needs an explanation strong enough to turn a crucified man into the object of devotion. N. T. Wright and others argue that 'raised' in this Jewish context meant bodily resurrection, not a vague spiritual survival.",
+     "case_against": "The narratives do not agree on who went to the tomb, what they saw, or whether appearances were in Jerusalem or Galilee. Mark, on the consensus text, originally ended at 16:8 with fear and no appearance story; longer endings are secondary. Matthew's guards look like a later apologetic answer to theft rumors. Luke and John stress physical proofs that Paul does not narrate, and Paul's 'spiritual body' is not the same literary picture. Visionary and grief experiences, group reinforcement, and scriptural reinterpretation can explain belief without an empty tomb or a revived corpse. No contemporary non-Christian source records the resurrection. A miracle of this kind is not established by internally divergent religious texts written decades later.",
+     "consensus": "Strong consensus that early Christians sincerely believed Jesus had appeared to them. No consensus that the tomb was empty; apologist surveys claiming a majority are contested and often overweight confessional scholars. Bodily resurrection is affirmed by many confessional historians and not affirmed as a historical conclusion by most scholars using ordinary methodological naturalism. That split tracks priors as well as evidence.",
+     "evidence": [
+      "1 Cor 15:3–8 is earlier than the Gospels and lists appearances, including James and Paul",
+      "Mark 16:8 is the earliest Gospel ending; 16:9–20 is a later addition",
+      "Matthew 28, Luke 24, and John 20–21 disagree on location, participants, and physical demonstrations",
+      "Women as first witnesses is an unlikely invented detail, but it does not by itself prove an empty tomb",
+      "No Roman or Jewish contemporary records the event"
+     ],
+     "verdict": "Early appearance belief is very likely; a substantially reliable report of bodily resurrection is not established",
+     "credence": 18
+    },
+    {
+     "claim": "Differences among the four Gospels are small enough, by ancient standards, to leave them substantially reliable as a set.",
+     "kind": "textual",
+     "case_for": "Ancient bioi regularly paraphrase, telescope, and arrange for theme. Variation in testimony is what real memory looks like; identical accounts would suggest collusion. The Synoptics share a passion outline and a Galilean ministry. Craig Keener and Richard Bauckham argue that the Gospels sit inside historiographical conventions that aimed to tell the truth about a recent person, not to write free allegory. Some tensions (census, genealogies, Easter geography) have proposed harmonizations.",
+     "case_against": "The differences are not only paraphrase. Matthew and Luke cannot be straightforwardly combined on Jesus' birth without special pleading: Herod's reign ended in 4 BCE, while the Quirinius census is dated to 6 CE. Genealogies conflict. John moves the temple incident, extends the ministry, and shifts the crucifixion relative to Passover. Easter stories are not minor variants of one scene. Visible redaction—Luke softening Mark, Matthew heightening fulfillment—shows authors willing to change the tradition for theology. Complementary perspective explains some differences; it does not make all four substantially accurate together.",
+     "consensus": "Confessional harmonizers treat the differences as compatible with reliability. The critical majority treats many as authorial theology or error. Even conservative scholars often concede Markan priority and Matthean/Lukan editorial freedom.",
+     "evidence": [
+      "Luke 2:1–2 names Quirinius; Matthew 2 assumes Herod the Great",
+      "Two infancy narratives share little plot beyond Bethlehem and a virgin birth",
+      "John 2 versus Mark 11 on the temple incident",
+      "Synoptic versus Johannine date of the crucifixion relative to Passover",
+      "Matthew 1 and Luke 3 genealogies diverge"
+     ],
+     "verdict": "False if 'small enough' is meant to protect the narratives as a substantially accurate set",
+     "credence": 34
+    },
+    {
+     "claim": "Named eyewitness authorship, or direct dependence on named eyewitnesses, secures the Gospels' substantial reliability.",
+     "kind": "textual",
+     "case_for": "Luke's preface claims investigation of traditions handed on by eyewitnesses. Papias, early second century, links Mark to Peter and speaks of Matthew preserving sayings. Bauckham argues that named characters are guarantors of testimony and that ancient audiences expected this. Internal detail, especially in John and some of Luke, is hard to treat as pure fiction. Even second-generation writers can preserve controlled memory.",
+     "case_against": "The manuscripts themselves are anonymous; traditional names are second-century attributions. Most critical scholars judge Matthew and John not to be the apostles, given Greek style, dependence on Mark, and theological development. Papias is ambiguous and already shows a tendency to over-claim. Eyewitness input, if present, did not prevent major divergences. Reliability must be argued pericope by pericope, not inherited from traditional titles.",
+     "consensus": "Divided along confessional lines. Critical scholarship generally rejects apostolic authorship of Matthew and John, regards Mark-Peter as possible but unproven, and treats Luke-as-companion as possible. Evangelical scholarship more often defends the traditional authors. Eyewitness contact somewhere in the tradition is more widely granted than formal authorship.",
+     "evidence": [
+      "Gospel titles are later additions; the texts do not name their authors internally, except the disputed 'we' and beloved-disciple claims in Luke-Acts and John",
+      "Luke 1:1–4 claims researched tradition, not autopsy of Jesus' ministry",
+      "Papias via Eusebius, Ecclesiastical History 3.39",
+      "Matthew's dependence on Mark is awkward if Matthew the apostle wrote it",
+      "Second-century attributions are real but late"
+     ],
+     "verdict": "Unlikely that traditional eyewitness authorship holds for the four as a set",
+     "credence": 28
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Is a bodily resurrection so extraordinary that the existing evidence cannot establish it?",
+     "type": "prior",
+     "if_yes": "The Gospels fail as accounts of the resurrection, so the bundled claim fails even if the career outline is sound. Credence stays low, roughly 10–25.",
+     "if_no": "Early creed, named appearances, and the empty-tomb tradition may be enough to treat the resurrection as the best historical explanation. The claim can rise toward 50–70 for readers who already think God acts this way.",
+     "your_view": "A bodily resurrection is not impossible, but it is extraordinary enough that divergent Easter narratives, a decades-long gap, and no external corroboration do not establish it. I do not dismiss the earliness of the appearance claims; I judge them insufficient."
+    },
+    {
+     "crux": "Does 'substantially reliable' mean a recoverable historical core, or that the narratives themselves are basically accurate on central matters including miracles?",
+     "type": "definition",
+     "if_yes": "If only a core must be recoverable, the score jumps to about 65–75 for life, teaching themes, and death, while resurrection remains separate.",
+     "if_no": "If the texts themselves must be basically right on life, teaching, death, and resurrection, divergences and miracle claims pull the score down near the resurrection estimate.",
+     "your_view": "The claim being tested is about the accounts, not about a core scholars can sift out. Ancient paraphrase is allowed; contradictory central episodes and unestablished miracles are not."
+    },
+    {
+     "crux": "Did eyewitness memory control the tradition tightly enough, across the decades before Mark, to limit legendary growth?",
+     "type": "evidence",
+     "if_yes": "Teaching and event reliability rise, and late wholesale invention becomes a poor explanation.",
+     "if_no": "Community theology had room to reshape sayings, infancy stories, and Easter narratives before they were written.",
+     "your_view": "Some eyewitness memory is likely, especially around the passion and characteristic teaching. The editorial freedom visible once Mark is written, and the gap before Mark, show that memory did not freeze the story."
+    },
+    {
+     "crux": "Are John and the Synoptics complementary reports of one career, or divergent theological constructions?",
+     "type": "evidence",
+     "if_yes": "A unified 'Gospels' reliability claim is much easier to defend.",
+     "if_no": "They cannot all be substantially accurate on chronology, speech, and christology at once.",
+     "your_view": "They share a real person and a crucifixion, but John's voice, timing, and self-claims are divergent enough that 'the four Gospels' are not one substantially reliable account."
+    }
+   ],
+   "strongest_for": [
+    "The sources are early by ancient standards: Paul's letters in the 50s, a pre-Pauline creed, Mark within a generation or so, and the others still in the first century or soon after.",
+    "Core facts are multiply attested and externally supported at the outline level: a Jewish teacher, baptized, crucified under Pilate, with a brother James and a continuing movement.",
+    "Embarrassment and contextual fit are real: crucifixion, baptism by John, Petrine denial, women at the tomb, and a Galilean Jewish setting are poor candidates for smooth legend.",
+    "Even skeptical historians reconstruct a substantial figure from these books, which would be odd if they were mostly fiction.",
+    "Compared with biographies of Alexander or other ancient figures often treated as broadly usable, the gap and source situation are not unusually bad—once miracle claims are set aside.",
+    "The resurrection case at its best is the earliness and personal cost of appearance claims, including James and Paul, not later apologetic harmonies."
+   ],
+   "strongest_against": [
+    "The documents are anonymous theological narratives, and Matthew and Luke visibly change Mark for message as well as style.",
+    "Birth stories, genealogies, the Quirinius census against Herod's dates, Johannine chronology, and Easter sequences are serious problems, not trivia.",
+    "John's Jesus speaks in a different theological idiom; both cannot be substantially verbatim.",
+    "Miracle and resurrection claims lack contemporary external corroboration and face coherent non-miraculous alternatives, especially for appearances.",
+    "The field can extract a historical core precisely because the narratives are not reliable as they stand; that supports a weaker claim and undercuts the one being tested.",
+    "Later apocryphal gospels show how quickly this genre legendizes, so earliness helps but does not immunize the canonical texts."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Manuscript quantity shows careful copying, not that the original stories happened.",
+     "Martyrdom shows sincerity at best, and detailed martyr stories are often later; sincere people die for false beliefs.",
+     "The trilemma 'liar, lunatic, or Lord' ignores partial memory, legend, and theological development.",
+     "Lists of fulfilled prophecy usually depend on Christian rereading of Jewish texts, not on independent predictions narrow enough to count as separate proof.",
+     "'No one would die for a lie' fails if the writers were not the eyewitnesses and the preachers believed what they had received."
+    ],
+    "against": [
+     "Jesus mythicism overreaches; Paul, Josephus, and Tacitus, plus the embarrassment data, make non-existence a fringe thesis.",
+     "'Constantine invented the Gospels' is chronologically false; the texts and citations long predate the fourth century.",
+     "A gap of forty to seventy years does not by itself turn a public figure into myth; it does make unchecked detail less secure.",
+     "Religious motive does not entail wholesale fabrication. Theological historians can still preserve real events.",
+     "Loose pagan 'dying and rising god' parallels do not explain the specific Jewish, Galilean, and Pauline data.",
+     "Listing contradictions does not erase the crucifixion or the basic career."
+    ]
+   },
+   "would_change": [
+    "A securely dated pre-50 narrative or sayings text that substantially matches the Gospels would raise credence sharply.",
+    "A contemporary non-Christian notice of the empty tomb, or of a specific public miracle, would materially raise the resurrection and miracle estimates.",
+    "A solution to the Herod/Quirinius problem and to the Easter and temple-chronology conflicts that convinced non-confessional historians would raise the 'differences are compatible' score.",
+    "Clear evidence that the 1 Corinthians 15 tradition is late, or that bodily language is only a second-generation physicalizing of purely visionary claims, would push credence toward single digits.",
+    "Archaeology confirming or refuting a major public episode in the infancy or passion narratives would move the relevant sub-claim.",
+    "A demonstrated literary source showing that a central, non-miraculous block was composed as fiction rather than from tradition would lower career reliability."
+   ],
+   "sources": [
+    {
+     "citation": "E. P. Sanders, The Historical Figure of Jesus (1993)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John P. Meier, A Marginal Jew, vol. 1 (1991)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, Jesus: Apocalyptic Prophet of the New Millennium (1999)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N. T. Wright, The Resurrection of the Son of God (2003)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Bauckham, Jesus and the Eyewitnesses (2006)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison Jr., Constructing Jesus: Memory, Imagination, and History (2010)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Craig L. Blomberg, The Historical Reliability of the Gospels (1987; rev. ed. 2007)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Craig S. Keener, Christobiography (2019)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gerd Theissen and Annette Merz, The Historical Jesus: A Comprehensive Guide (1998 English ed.)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Raymond E. Brown, The Birth of the Messiah (1977; rev. ed. 1993)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "James D. G. Dunn, Jesus Remembered (2003)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Josephus, Jewish Antiquities 18.63–64 and 20.200",
+     "kind": "primary"
+    },
+    {
+     "citation": "Tacitus, Annals 15.44",
+     "kind": "primary"
+    },
+    {
+     "citation": "Paul, 1 Corinthians 15:3–8",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mark 16:1–8; Matthew 1–2; 27–28; Luke 1–2; 24; John 20–21",
+     "kind": "scripture"
+    }
+   ],
+   "id": "grok",
+   "label": "Grok 4.7",
+   "model": "grok-4.7",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Partly true: reliable on the historical core and the gist of Synoptic teaching, unreliable on many details, and the resurrection claim depends on your priors",
+   "credence": 35,
+   "confidence": "medium",
+   "bottom_line": "Almost all historians, religious and secular, agree the Gospels give real evidence about a historical Jesus. He was a Galilean Jewish preacher baptized by John who proclaimed the kingdom of God, taught in parables, gathered disciples, caused a disturbance in Jerusalem, and was crucified under Pontius Pilate. His followers then sincerely believed he had appeared to them alive. Beyond that core, mainstream critical scholarship holds that the Gospels are theologically shaped ancient biographies written 40-70 years later. They preserve the gist of Jesus' teaching, especially in Mark, Matthew and Luke, but contain legendary elements (notably the birth stories), significant discrepancies, and, in John, long speeches that are largely the evangelist's composition. Read as 'the core events and the general shape of Jesus' teaching are historically grounded,' the claim is probably true. Read as written, it covers all four Gospels, their details, and the resurrection as an actual event, and it goes well beyond what the historical evidence alone can establish. The resurrection verdict turns mainly on one's prior about miracles. I score the claim as written at about 35.",
+   "sub_claims": [
+    {
+     "claim": "The Gospels preserve a reliable historical core: Jesus existed, was baptized by John, preached in Galilee, had disciples, and was crucified under Pilate.",
+     "kind": "empirical",
+     "case_for": "Multiple independent sources attest these points: Mark, material shared by Matthew and Luke, John, and Paul's letters from the 50s CE. Non-Christian sources agree: Tacitus in Annals 15.44 and Josephus in Antiquities 20.200 and the core of 18.63-64. Several details embarrassed the early church, such as John's baptism of a supposedly sinless Jesus and crucifixion as a shameful death, so they are unlikely to be inventions. The settings fit what archaeology shows of Galilee and Judea, including the Pilate inscription and the Caiaphas-family ossuary.",
+     "case_against": "Mythicists such as Richard Carrier argue that Paul describes a celestial Christ and that the Gospels are allegorical fiction. The non-Christian references are late and brief, and the Josephus passage has been partly altered by Christian copyists.",
+     "consensus": "Overwhelming consensus across the spectrum, from Ehrman and Sanders to Wright and Keener. Mythicism has almost no support among specialists.",
+     "evidence": [
+      "Paul knew Jesus' brother James and Peter (Galatians 1:18-19)",
+      "Tacitus, Annals 15.44, on execution under Pilate",
+      "Josephus, Antiquities 20.200, on 'James the brother of Jesus called Christ'",
+      "Pilate inscription from Caesarea (1961)",
+      "The criterion of embarrassment applied to the baptism and crucifixion"
+     ],
+     "verdict": "Almost certainly true",
+     "credence": 98
+    },
+    {
+     "claim": "The Synoptic Gospels preserve the substance and gist of Jesus' teaching and characteristic activity.",
+     "kind": "textual",
+     "case_for": "The teaching shows a consistent profile across independent strands: kingdom of God, parables, an apocalyptic outlook, table fellowship with sinners, a reputation as healer and exorcist. It fits a first-century Palestinian Jewish setting and differs from later church concerns, such as the absence of any ruling on circumcision of Gentiles. Memory research suggests oral communities preserve gist reasonably well even when wording drifts. Dale Allison's 'recurrent attestation' approach supports a reliable general portrait.",
+     "case_against": "The material passed through decades of oral transmission and was adapted to community needs. Form critics showed that individual sayings were reshaped, created or attributed to Jesus. The 'criteria of authenticity' meant to separate original from added material have been heavily criticized. Even gist memory is reconstructive and can be distorted by later belief.",
+     "consensus": "Broad agreement among critical and confessional scholars that the Synoptics give a recognizable general portrait. They disagree on how many specific sayings are authentic: the Jesus Seminar was skeptical, while Keener and Bauckham are optimistic.",
+     "evidence": [
+      "Mark c. 66-74 CE, with Matthew and Luke drawing on Mark plus shared sayings material",
+      "Parables with Aramaic and Palestinian agricultural coloring",
+      "Paul's few references to Jesus' teaching, e.g. divorce in 1 Corinthians 7:10-11 and the Last Supper in 1 Corinthians 11:23-25",
+      "Allison, Constructing Jesus (2010), on gist memory"
+     ],
+     "verdict": "Probably true",
+     "credence": 80
+    },
+    {
+     "claim": "The Gospels are accurate in their specific narrative details, sequence and wording of sayings.",
+     "kind": "textual",
+     "case_for": "The Gospels are Greco-Roman biographies (bioi), a genre that aimed at a historical subject. Many differences fit accepted biographical conventions such as compressing events, shifting their order, or paraphrasing (Licona). Place names and personal names match the frequencies and geography of the time (Bauckham, P.J. Williams). Luke claims to have investigated his sources (Luke 1:1-4).",
+     "case_against": "There are many hard-to-harmonize discrepancies. The birth narratives in Matthew and Luke conflict, and Luke's census under Quirinius is in 6 CE, after Herod's death. The two genealogies differ, as do the accounts of Judas' death. The crucifixion falls on different days relative to Passover in John and the Synoptics. The temple incident comes at the start of the ministry in John and the end in the Synoptics. The resurrection appearances are in Galilee in Matthew and around Jerusalem in Luke-Acts. Matthew and Luke edit Mark for theological reasons. Accurate local color shows familiarity with the setting, not accuracy of events.",
+     "consensus": "Critical scholars generally reject detailed reliability. Evangelical scholars (Blomberg, Keener, Licona, Bauckham) defend it as reliability by the standards of ancient biography, which concedes that the details are not reliable in a modern sense. No consensus on the evangelical position.",
+     "evidence": [
+      "Matthew 1-2 vs Luke 1-2",
+      "Matthew 27:3-10 vs Acts 1:18-19",
+      "John 19:14 vs Mark 14:12",
+      "Matthew 28 vs Luke 24 on where the appearances happen",
+      "Licona, Why Are There Differences in the Gospels? (2017)"
+     ],
+     "verdict": "Mostly false at the level of detail; partly true in the loose sense used for ancient biography",
+     "credence": 25
+    },
+    {
+     "claim": "The Gospel of John is a historically reliable record of Jesus' words and deeds.",
+     "kind": "textual",
+     "case_for": "John has independent and sometimes plausible traditions: several trips to Jerusalem, Jesus' early link to John the Baptist's followers, a Passover-eve crucifixion date that many scholars prefer, and accurate Jerusalem topography such as the pools of Bethesda and Siloam. It claims to rest on the testimony of the 'beloved disciple'. Bauckham and Keener defend substantial historical value.",
+     "case_against": "In John, Jesus speaks in long, high-Christology discourses ('I am' sayings) in the same style as the narrator and 1 John, unlike the Synoptic Jesus of parables and the kingdom. John is commonly dated c. 90-110 and is openly theological (John 20:31). Signature episodes such as the raising of Lazarus are absent from the Synoptics despite their importance.",
+     "consensus": "Most critical scholars treat John's discourses as largely the evangelist's theological composition, while granting some of its narrative details value. Confessional scholars are divided, and some argue for more historicity than critics allow.",
+     "evidence": [
+      "John 3, 6, 14-17 discourses",
+      "Excavations of the Pool of Siloam (2004) and the Bethesda complex",
+      "John 21:24 on the beloved disciple"
+     ],
+     "verdict": "Unreliable for Jesus' words; mixed for narrative details",
+     "credence": 15
+    },
+    {
+     "claim": "The Gospels were written by eyewitnesses or draw closely on named eyewitness testimony.",
+     "kind": "textual",
+     "case_for": "Papias (c. 110-130, preserved in Eusebius) links Mark to Peter and mentions a collection of sayings by Matthew. The manuscripts carry consistent titles. Bauckham argues that named characters (Simon of Cyrene's sons, Bartimaeus) mark eyewitness sources and that eyewitnesses were alive when the Gospels were written. Luke 1:1-4 appeals to eyewitness tradition.",
+     "case_against": "The texts are anonymous in their contents. The titles appear later in the tradition. They are written in literary Greek far from Galilean fishermen. Matthew copies most of Mark, which is odd for an apostle-eyewitness. Papias is late and of uncertain reliability, and what he describes does not clearly match canonical Matthew. Bauckham's name analysis and claims about the 'inclusio' literary device have been widely critiqued.",
+     "consensus": "Most critical scholars reject direct apostolic or eyewitness authorship, especially for Matthew and John. Many conservative scholars accept traditional authorship or close eyewitness links. Bauckham's work is respected but has not changed the mainstream view.",
+     "evidence": [
+      "Eusebius, Ecclesiastical History 3.39 (Papias)",
+      "Bauckham, Jesus and the Eyewitnesses (2006/2017)",
+      "Mark has c. 600 of its 661 verses reproduced in Matthew"
+     ],
+     "verdict": "Unlikely as direct authorship; plausible that some eyewitness tradition lies behind Mark and Luke at a remove",
+     "credence": 20
+    },
+    {
+     "claim": "The Gospels reliably report the resurrection: the tomb was found empty and Jesus actually rose and appeared to his followers.",
+     "kind": "philosophical",
+     "case_for": "1 Corinthians 15:3-8 preserves a creed probably formulated within a few years of the crucifixion that lists appearances to Peter, the Twelve, James, more than 500 people, and Paul. The disciples sincerely believed this and were willing to suffer for it. Skeptics such as Paul and James changed sides. Women as the first witnesses would be an embarrassing invention. N.T. Wright argues the empty tomb plus the appearances best explains the rise of belief in a bodily resurrection within Judaism.",
+     "case_against": "The appearance stories grow from Mark, which has none in the earliest manuscripts and ends at 16:8, to the physical, touchable Jesus of Luke and John. They conflict on location and sequence. Paul does not mention an empty tomb. Grief visions, group experiences and later legend are well attested elsewhere. Methodologically, history cannot rate a supernatural event as the most probable explanation without a prior that allows it. Allison grants unusual facts but judges that history cannot settle the question.",
+     "consensus": "Near-consensus that the disciples sincerely experienced what they took to be appearances. The empty tomb is genuinely contested, with substantial numbers on both sides. Whether the resurrection occurred divides largely along religious lines: Wright, Licona and Habermas say yes on historical grounds, while Ehrman, Sanders, Fredriksen and Lüdemann treat it as beyond or against historical judgment. Allison is agnostic as a historian.",
+     "evidence": [
+      "1 Corinthians 15:3-8 (c. 53-55 CE)",
+      "Mark 16:8 as the earliest ending",
+      "Matthew 28 vs Luke 24 vs John 20-21",
+      "Wright, The Resurrection of the Son of God (2003)",
+      "Allison, The Resurrection of Jesus (2021)"
+     ],
+     "verdict": "The followers' belief and experiences: very likely historical. An actual resurrection: depends on your prior",
+     "credence": 30
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Should 'reliable accounts of the resurrection' be read as 'reliably report that followers believed and claimed appearances' or as 'the resurrection actually happened as described'?",
+     "type": "definition",
+     "if_yes": "Under the weaker reading, the resurrection element is largely satisfied and the whole claim rises to about 60.",
+     "if_no": "Under the stronger reading, the claim inherits the miracle question and falls to about 25-40 depending on priors.",
+     "your_view": "I score the claim as written, which on its natural reading asserts the events happened. That is why the overall credence sits at 35 rather than about 60."
+    },
+    {
+     "crux": "Is the prior probability of a miracle such as a resurrection extremely low, or substantial given theism and Jesus' context?",
+     "type": "prior",
+     "if_yes": "If the prior is extremely low, as on naturalism or with Hume-style reasoning, even good testimony cannot make the resurrection probable. The claim drops to about 10-20.",
+     "if_no": "If theism is likely and a divine act in this context is not improbable, the early creed, the appearances and the belief data make the resurrection credible. The claim could reach about 50-70.",
+     "your_view": "This is the main reason informed people disagree. Ancient testimony of this kind is weaker than the data needed to overturn a strong naturalistic prior, but theists can rationally reach a different result."
+    },
+    {
+     "crux": "Does 'substantially reliable' mean gist-level reliability (core events and characteristic teaching) or reliability of specific episodes and sayings?",
+     "type": "definition",
+     "if_yes": "At gist level, the Synoptics clearly qualify (about 80) and John partly.",
+     "if_no": "At the level of specific details, the discrepancies and editorial shaping put the claim well under 50.",
+     "your_view": "Gist reliability is defensible and is the majority view. Detailed reliability is not, except under the loose standards of ancient biography."
+    },
+    {
+     "crux": "Does memory research and the bioi genre support confidence in the transmission of Jesus traditions?",
+     "type": "evidence",
+     "if_yes": "Writing within a lifetime, with eyewitnesses still alive, supports Bauckham- and Keener-style optimism.",
+     "if_no": "Reconstructive memory and community shaping (Ehrman, Jesus Before the Gospels) support caution about specifics.",
+     "your_view": "The memory literature cuts both ways. It supports preservation of the gist and undermines confidence in the details, consistent with Allison."
+    },
+    {
+     "crux": "Should John count equally with the Synoptics?",
+     "type": "evidence",
+     "if_yes": "Including John's discourses as reliable testimony weakens the claim, because they are its least historically secure part.",
+     "if_no": "Restricting the claim to the Synoptics raises it modestly.",
+     "your_view": "The claim names all four Gospels, and John's discourses pull its score down."
+    }
+   ],
+   "strongest_for": [
+    "The Gospels belong to the genre of Greco-Roman biography and were written within living memory, 35-70 years after Jesus, a much shorter gap than for many accepted ancient biographies, such as the 400 years between Alexander and Arrian.",
+    "Paul's letters from the 50s CE independently confirm key elements: Jesus' Jewish birth, his brother James, the Twelve, the Last Supper, the crucifixion, and the very early creed of resurrection appearances in 1 Corinthians 15.",
+    "The Gospels show accurate knowledge of the geography, names, customs and political figures of first-century Palestine (Pilate, Caiaphas, Antipas). Their name frequencies match external data.",
+    "Embarrassing material that was retained, such as the baptism by John, the family thinking Jesus mad, Peter's denial, and the cry of abandonment, shows the writers did not simply invent a flattering portrait.",
+    "The followers' sincere belief in post-mortem appearances, and the rapid rise of a resurrection movement within Judaism, are facts that need explanation."
+   ],
+   "strongest_against": [
+    "All four Gospels are anonymous, written in Greek decades later by people who were probably not eyewitnesses. Matthew and Luke depend heavily on Mark and freely edit him for theological ends.",
+    "There are concrete contradictions that resist harmonization: the birth narratives, the Quirinius census, the genealogies, the date of the crucifixion, Judas' death, and where the resurrection appearances happened.",
+    "John's Jesus speaks so differently from the Synoptic Jesus that both cannot be close records of his speech. Most scholars judge John's discourses to be theological compositions.",
+    "The resurrection accounts develop visibly, from Mark's empty tomb with no appearances to Luke and John's physical, eating Jesus, which fits a pattern of legendary growth.",
+    "Supernatural claims face a steep prior. The authors' explicit evangelistic aims (John 20:31) mean their selection and framing serve belief, not neutral reporting."
+   ],
+   "weak_arguments": {
+    "for": [
+     "'We have thousands of manuscripts, more than any ancient work.' This shows the texts were transmitted accurately, not that the original authors reported events accurately.",
+     "'The apostles died for it, and no one dies for a lie.' Martyrdom shows sincerity, not accuracy. The evidence for most individual apostles' martyrdom is late and legendary.",
+     "'Archaeology has proven the Gospels.' Archaeology confirms setting and some persons. It cannot confirm speeches, miracles or the resurrection, and historical fiction can also have accurate settings.",
+     "'Hostile eyewitnesses would have corrected any errors.' The texts circulated decades later among believing communities, mostly outside Palestine, so this check was weak."
+    ],
+    "against": [
+     "'Jesus never existed.' Mythicism is rejected by nearly all specialists, religious or not, given Paul's personal contact with Jesus' brother and the multiple independent attestation.",
+     "'The Gospels copy pagan dying-and-rising gods (Horus, Mithras, Dionysus).' The supposed parallels are mostly exaggerated, come from later sources, or are not real parallels. Specialists across the spectrum reject direct borrowing.",
+     "'It is a game of telephone.' Oral tradition in communities with recognized tradents is not a chain of isolated whispers. The analogy overstates the distortion, even though distortion did occur.",
+     "'Any contradiction means the whole thing is false.' Historians routinely extract reliable cores from sources that disagree on details, and discrepancy is normal in independent testimony."
+    ]
+   },
+   "would_change": [
+    "Discovery of a first-century Gospel manuscript or sayings source securely dated before 60 CE would raise credence in transmission accuracy.",
+    "Strong new evidence for traditional authorship, such as an early independent attestation that Mark was Peter's interpreter, or that an apostle wrote Matthew or John, would raise the score.",
+    "Archaeological or documentary evidence about Jesus' tomb or burial, such as a credible ossuary or a non-Christian record, would move the empty tomb question either way.",
+    "A persuasive solution to the Quirinius census and birth-narrative conflict from new inscriptions would modestly raise detail reliability.",
+    "A decisive argument on miracle priors, either robust grounds for theism or a convincing case that the probability of a miracle is effectively zero, would move the resurrection component sharply."
+   ],
+   "sources": [
+    {
+     "citation": "E.P. Sanders, The Historical Figure of Jesus, 1993",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "E.P. Sanders, Jesus and Judaism, 1985",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John P. Meier, A Marginal Jew: Rethinking the Historical Jesus, Vol. 1, 1991",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard Bauckham, Jesus and the Eyewitnesses, 2006 (2nd ed. 2017)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, Jesus Before the Gospels, 2016",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, Did Jesus Exist?, 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison Jr., Constructing Jesus: Memory, Imagination, and History, 2010",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison Jr., The Resurrection of Jesus: Apologetics, Polemics, History, 2021",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N.T. Wright, The Resurrection of the Son of God, 2003",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Craig S. Keener, Christobiography: Memory, History, and the Reliability of the Gospels, 2019",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard A. Burridge, What Are the Gospels? A Comparison with Graeco-Roman Biography, 1992",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Michael R. Licona, Why Are There Differences in the Gospels?, 2017",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Craig L. Blomberg, The Historical Reliability of the Gospels, 1987 (2nd ed. 2007)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Paula Fredriksen, Jesus of Nazareth, King of the Jews, 1999",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Chris Keith and Anthony Le Donne (eds.), Jesus, Criteria, and the Demise of Authenticity, 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gerd Theissen and Annette Merz, The Historical Jesus: A Comprehensive Guide, 1998",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Peter J. Williams, Can We Trust the Gospels?, 2018",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "1 Corinthians 15:3-8; Galatians 1:18-19",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Josephus, Jewish Antiquities 18.63-64 and 20.200",
+     "kind": "primary"
+    },
+    {
+     "citation": "Tacitus, Annals 15.44",
+     "kind": "primary"
+    },
+    {
+     "citation": "Eusebius, Ecclesiastical History 3.39 (fragments of Papias)",
+     "kind": "primary"
+    }
+   ],
+   "id": "opus",
+   "label": "Opus 5.5",
+   "model": "claude-opus-5-5",
+   "via": "claude"
+  }
+ ],
+ "stats": {
+  "mean": 24.2,
+  "median": 25.0,
+  "min": 12,
+  "max": 35,
+  "spread": 23
+ },
+ "synthesis": {
+  "summary": "All four reviews find the Gospels historically valuable but judge the full claim, including a literal resurrection, less likely than not. They agree that Jesus existed, taught, attracted followers, and was crucified under Pilate, and that the Gospels preserve characteristic elements of his teaching. They distinguish early belief in post-death appearances from proof that a bodily resurrection occurred. All see theological shaping, literary dependence, and differences between accounts as reasons for caution about details. They differ in how strongly they judge those problems, how historical methods should treat miracles, and their numerical confidence in the claim.",
+  "agreement": "high",
+  "agreed": [
+   "Jesus' existence and crucifixion under Pilate are exceptionally well supported; the Gospels preserve a historical core about his ministry.",
+   "Characteristic teaching, including kingdom themes and parables, is recoverable more securely than exact wording or every individual saying.",
+   "The Gospels were written decades after Jesus and draw on related traditions; Matthew and Luke's use of Mark limits how far agreement counts as independent corroboration.",
+   "The accounts show theological and editorial shaping and differ in chronology, speeches, and resurrection narratives.",
+   "Early followers sincerely believed Jesus had appeared to them after his death; this does not by itself establish a bodily resurrection.",
+   "The empty tomb and resurrection remain disputed, and a religious purpose or discrepancies do not make the Gospels wholly fictional."
+  ],
+  "disagreed": [
+   {
+    "point": "Overall probability and confidence",
+    "positions": "GPT-6.1 assigns the full claim 12% with low confidence; Gemini 28% with medium confidence; Grok 22% with low confidence; and Opus 35% with medium confidence. All include the resurrection, but their estimates reflect different judgments about narrative reliability, evidence, and miracle priors."
+   },
+   {
+    "point": "How reliable are the accounts beyond the core?",
+    "positions": "GPT-6.1 considers the major ministry and death narrative plausible in broad outline but unevenly verified. Gemini, Grok, and Opus make stronger negative judgments about many specific episodes and details, emphasizing contradictions, redaction, and legendary development. All allow that ancient biography could paraphrase or rearrange material."
+   },
+   {
+    "point": "How much teaching is preserved?",
+    "positions": "GPT-6.1 and Opus are relatively optimistic about characteristic teaching and its substance, assigning their respective teaching subclaims 85% and 80%. Gemini and Grok assign their broader teaching subclaims 55% and 52%, emphasizing redaction and differences in John's speeches. The subclaims are worded differently, so the numbers are not exact like-for-like comparisons."
+   },
+   {
+    "point": "Miracles and historical method",
+    "positions": "Gemini says methodological naturalism is necessary for rigorous history and treats supernatural events as outside historical validation. GPT-6.1, Grok, and Opus emphasize that judgments about the resurrection depend on miracle priors and the weight given to testimony; they regard bodily resurrection as unestablished by the evidence, while allowing different conclusions under different priors."
+   },
+   {
+    "point": "Nature of post-death experiences",
+    "positions": "Gemini describes the followers' experiences as visionary and historically certain. GPT-6.1 is more cautious about reconstructing their nature; Grok and Opus regard sincere belief or experiences as very likely while considering visions among possible explanations."
+   }
+  ],
+  "deciding_cruxes": [
+   "Whether 'substantially reliable' means preservation of a historical core and teaching themes or broad accuracy of the narratives, including specific episodes and a literal resurrection.",
+   "How probable divine intervention is before weighing the testimony, and whether historical method can establish a supernatural event.",
+   "How early, independent, and detailed the appearance and empty-tomb traditions are, compared with non-miraculous explanations for belief.",
+   "How much eyewitness memory controlled oral transmission, and how much literary dependence and theological editing reshaped it.",
+   "How much paraphrase, rearrangement, and discrepancy is compatible with reliability under ancient biographical conventions, especially when comparing John with the Synoptics."
+  ],
+  "what_is_settled": "The reviewers treat Jesus' existence and crucifixion under Pilate as exceptionally well established, and the broad existence of a Jewish teaching ministry and early belief in post-death appearances as strongly supported. They also agree that the Gospels preserve historically useful material, though not necessarily verbatim transcripts.",
+  "what_is_open": "The historical accuracy of particular sayings, episodes, chronology, and authorship remains disputed, as do the empty tomb and the nature and causes of the reported appearances. Whether Jesus rose bodily, and whether the full accounts qualify as substantially reliable, depends on disputed evidence, definitions, historical method, and prior commitments about miracles.",
+  "model": "gpt-6.1-terra"
+ }
+}

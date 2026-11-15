@@ -1,0 +1,171 @@
+{
+  "kind": "mixed",
+  "verdict": "No. The cosmological argument does not show that God probably exists.",
+  "credence": 16,
+  "confidence": "low",
+  "bottom_line": "This scores whether the cosmological argument succeeds in showing that God probably exists, not whether God exists for other reasons. The Kalam is valid in outline: if whatever begins has a cause and the universe began, the universe has a cause. Neither premise is secure enough, and a cause — even if granted — is not shown to be God. Cosmology confirms a hot, dense early phase about 13.8 billion years ago, not creation from nothing. Stronger contingency arguments reach, at best, a necessary ground, which need not be a person, still less a unique all-powerful deity. The steps are too many and too uncertain for their conjunction to make God's existence probable.",
+  "sub_claims": [
+    {
+      "claim": "Whatever begins to exist has a cause, and this principle applies to the universe as a whole.",
+      "kind": "philosophical",
+      "case_for": "We have no clear case of something coming into being from absolute nothing. The principle is more basic than any physical law, which already presupposes a world. Refusing it only for the universe looks like special pleading. Everyday and scientific reasoning collapses if beginnings need no causes.",
+      "case_against": "Causal judgment is learned inside spacetime and may not extend to spacetime itself. A global causal principle is not an empirical result. Quantum events are sometimes cited as uncaused, though that overstates them: they occur under laws. More importantly, a one-off origin of the causal order is exactly where extrapolation is least justified, and Humean and many philosophers of physics treat the principle as optional.",
+      "consensus": "No consensus. Many metaphysicians accept a restricted causal principle; Humeans and many philosophers of physics do not treat it as a necessary truth about the cosmos. Theistic philosophers of religion usually accept it. Confessional scholars in Islamic kalam and much Christian philosophy affirm it; that reflects theological commitments as well as argument.",
+      "evidence": [
+        "No observed instance of an object beginning to exist with no causal conditions at all",
+        "Causation as analyzed by Hume is constant conjunction among events, not a demonstrable necessity applying outside experience",
+        "Laboratory quantum events occur in spacetime and are governed by probabilistic laws; they are not creation of a cosmos from nothing",
+        "The universe, if time begins with it, is not an ordinary event sitting in a prior time at which a cause could act"
+      ],
+      "verdict": "Plausible inside the world; not established for the world's existence.",
+      "credence": 58
+    },
+    {
+      "claim": "The universe began to exist in the absolute sense the Kalam needs: it came into being, rather than merely having a hot dense early phase or a past boundary in one classical model.",
+      "kind": "empirical",
+      "case_for": "The observable universe expanded from a hot dense state. Classical singularity theorems show geodesic incompleteness under general relativity plus energy conditions. The Borde-Guth-Vilenkin theorem (2003) shows that a classical spacetime which is on average expanding is past-incomplete. Thermodynamics makes a boring infinite classical past hard to square with a low-entropy early state. Alexander Vilenkin has argued these results point to a beginning.",
+      "case_against": "Those theorems assume classical spacetime and conditions quantum gravity is expected to violate. Past incompleteness is not the same as 'came into existence from nothing,' and it does not name a cause. Bouncing, emergent, and no-boundary models remain live research programs, not established science, but their existence shows that a beginning is not a result. Aquinas already held that a temporal beginning is not philosophically demonstrable.",
+      "consensus": "No consensus on an absolute metaphysical beginning. Cosmologists agree on the hot Big Bang as a description of the observable universe's early history, not on creation ex nihilo. Philosophers of physics are divided. Craig and many theistic philosophers argue for a beginning; many cosmologists treat the question as open. Medieval Christian philosophical theology did not treat a beginning as proved: Aquinas, Summa Theologiae I.46, calls it an article of faith.",
+      "evidence": [
+        "Hot Big Bang cosmology: expansion, cosmic microwave background, and light-element abundances, with a hot early phase roughly 13.8 billion years ago",
+        "Hawking and Penrose singularity theorems (1970): incompleteness under classical general relativity and energy conditions, not a theological origin",
+        "Borde, Guth, and Vilenkin, Physical Review Letters (2003): inflationary spacetimes with positive average expansion are not past-complete",
+        "No confirmed observation of a pre-Big-Bang era, and no established theory of quantum gravity",
+        "Hartle-Hawking no-boundary proposal and various bouncing or emergent models are speculative alternatives, not refuted data"
+      ],
+      "verdict": "A hot early universe is established; an absolute beginning from nothing is not.",
+      "credence": 40
+    },
+    {
+      "claim": "Contingent reality cannot be explained by an endless regress of contingent things, so there is a necessary ground of what exists.",
+      "kind": "philosophical",
+      "case_for": "This is the strongest cosmological argument, and it does not need a first moment. If every contingent thing is explained by another contingent thing, the series as a whole still looks unexplained. A necessary being, or necessary state, terminates the regress. Leibniz's question — why is there something rather than nothing? — is legitimate, and 'it just is' is a real cost.",
+      "case_against": "A strong Principle of Sufficient Reason threatens modal collapse: if every truth has an explanation, contingent truths are hard to keep contingent (van Inwagen). A regress may be acceptable if each member is explained by an earlier one. The necessary ground, if there is one, might be a law, a fact, or the fundamental physical state itself. Naturalism can pay the brute-fact cost without inconsistency.",
+      "consensus": "No consensus. Leibniz, Aquinas's contingency way, and contemporary defenders such as Pruss treat a restricted PSR as defensible. Many analytic philosophers reject a PSR strong enough to force a necessary being, partly because of modal-collapse arguments. Confessional scholastic and kalam traditions affirm a necessary divine ground; most philosophers outside those traditions do not think the argument succeeds.",
+      "evidence": [
+        "Leibniz, On the Ultimate Origination of Things (1697): contingent things require a reason outside the series",
+        "Aquinas, Summa Theologiae I.2: the Third Way, from possible beings to a necessary being",
+        "Peter van Inwagen, Why Is There Anything at All? (1996): a full PSR pushes toward necessitarianism",
+        "Alexander Pruss, The Principle of Sufficient Reason (2006): a detailed defense and restriction of the principle"
+      ],
+      "verdict": "A serious argument for some necessary ground, not a proof, and not yet an argument for God.",
+      "credence": 45
+    },
+    {
+      "claim": "A cause or necessary ground of the universe would have to be a person, not a law, a state, or an impersonal concrete reality.",
+      "kind": "philosophical",
+      "case_for": "Craig's best step: a timeless impersonal sufficient condition should either produce its effect always or never. It is hard to see how it would yield a first moment of time without a prior change. A personal agent can intend a temporal effect without a determining change in itself. If the ground explains a law-governed world, mind is at least a candidate kind of explanation, as Swinburne stresses.",
+      "case_against": "The dilemma assumes a controversial picture of causation and of timeless agency. Impersonal spontaneous origins, symmetry breaking, or a lawlike boundary condition are not known to be impossible. Timeless choosing is itself obscure: a chooser with no temporal stages is hard to distinguish from a static cause. Personhood is an extra hypothesis, not a deduction.",
+      "consensus": "No consensus. Defended by Craig and some theistic philosophers of religion. Widely rejected by non-theist specialists who discuss it (Oppy, and critics in the tradition of Hume and Mackie). It is not an established result in philosophy or in cosmology. Confessional natural theology often accepts it; that acceptance is not independent of theism.",
+      "evidence": [
+        "Craig's published defense of a personal cause, including Craig and Sinclair in The Blackwell Companion to Natural Theology (2009)",
+        "Hume, Dialogues Concerning Natural Religion (1779): a cause need only be adequate to the effect, and need not be a mind like ours",
+        "No empirical signature that would distinguish a personal origin of spacetime from an impersonal one",
+        "Objections in the specialist literature, notably Graham Oppy, Arguing about Gods (2006), to the inference from first cause to person"
+      ],
+      "verdict": "The personal step is the weakest distinctive move in the argument.",
+      "credence": 28
+    },
+    {
+      "claim": "Whatever the argument reaches — first cause or necessary ground — is God: a unique, immensely powerful, knowing creator, not a thinner principle.",
+      "kind": "philosophical",
+      "case_for": "A being that accounts for the entire physical order is already, in a thin sense, a creator. Uniqueness is motivated if there is one ground of all contingent reality. Immense power is motivated by the scale of the effect. On a charitable reading, 'God' in this argument means that creator, not yet the God of a particular revelation.",
+      "case_against": "Hume's gap remains: the cause need only be sufficient for the effect, so a finite, multiple, or non-moral source is not ruled out. Nothing in the argument yields omnibenevolence, and moral perfection is part of many definitions of God. A necessary being can be an abstract structure, a law, or a physical state. Historical cosmological arguments have always underdetermined the God of any named religion.",
+      "consensus": "Even defenders often separate 'a creator' or 'a necessary being' from full classical theism and from revealed religion. Critics treat the gap as decisive. Jewish, Christian, and Muslim philosophical theologians typically bridge it with further arguments or scripture, not with Kalam or the Third Way alone. Non-theist philosophers generally hold that the identification fails.",
+      "evidence": [
+        "Hume, Dialogues Concerning Natural Religion, parts on natural religion: infinity, uniqueness, and goodness are not fixed by the scale of the world",
+        "Aquinas reaches a necessary being in the Third Way and only afterward argues toward divine attributes; the attributes are further philosophy, not the cosmological step itself",
+        "Creation as such does not entail moral goodness; that requires independent argument, which this claim does not include",
+        "No cosmological observation distinguishes one creator from a committee, a finite designer, or an impersonal ground"
+      ],
+      "verdict": "Not shown. A first cause, even a personal one, is not yet God with the attributes the conclusion needs.",
+      "credence": 22
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does a causal principle or Principle of Sufficient Reason apply to the existence of contingent reality as a whole, or may that existence be brute?",
+      "type": "prior",
+      "if_yes": "A necessary ground is hard to avoid. Credence that some cosmological argument works rises, perhaps into the 30-50 range, but personhood and the God-identification are still required before the claim succeeds.",
+      "if_no": "Both Kalam and the contingency argument fail at the first philosophical step. Credence that the claim is true falls below about 10.",
+      "your_view": "A demand for causes inside the universe is reasonable. A global principle strong enough to forbid a brute cosmos is not known to be true, and modal-collapse objections are serious. I do not grant it as a default."
+    },
+    {
+      "crux": "Did the universe come into being, as opposed to merely having a hot early phase or a classical past boundary?",
+      "type": "evidence",
+      "if_yes": "Kalam's second premise stands. The argument still needs the causal principle and a justified identification of the cause with God.",
+      "if_no": "The temporal Kalam fails. Contingency arguments can survive, so this crux is decisive only for the Kalam form named in the claim.",
+      "your_view": "Not established. The hot Big Bang is secure; an absolute beginning from nothing is not. I put the absolute beginning near 40 percent."
+    },
+    {
+      "crux": "Must the ultimate ground be a person rather than a law, a necessary fact, or an impersonal concrete reality?",
+      "type": "prior",
+      "if_yes": "The gap to a thin creator-God narrows sharply. If the other premises were also granted, the claim could become roughly even or better.",
+      "if_no": "Even a sound argument for a first cause or necessary being would not show that God exists.",
+      "your_view": "No. Personhood is additional. Craig's timeless-choice dilemma is the best case for it and is not decisive."
+    },
+    {
+      "crux": "What must 'God' include, and what does 'succeeds in showing probably' require?",
+      "type": "definition",
+      "if_yes": "If God means full classical theism, including moral perfection and worship-worthiness, the argument fails more clearly, because creation does not imply goodness. If 'succeeds' means a proof that should move a neutral evaluator above 50 percent, the present premises do not qualify.",
+      "if_no": "If God means only 'whatever explains the universe,' the conclusion is nearly a relabeling of the premises and would score much higher. That is not the reading scored here. If 'succeeds' means only 'adds some evidence,' the claim would be more plausible, perhaps near 45, and still would not say God probably exists.",
+      "your_view": "I score the ordinary reading: a unique, immensely powerful, personal creator, established as more probable than not. Even on that thinner reading the argument does not succeed. On the thicker moral reading it does worse."
+    }
+  ],
+  "strongest_for": [
+    "The ban on absolute nothing producing a universe is one of the stronger intuitions in metaphysics; confining causation to events inside an already existing world may be the special pleading, not the cosmological argument.",
+    "Past-incompleteness results, especially Hawking-Penrose and Borde-Guth-Vilenkin (2003), make a beginning a live scientific option rather than a relic of pre-modern cosmology.",
+    "The contingency argument does not need a first moment and aims at a question naturalism often leaves as a brute fact: why there is contingent stuff at all.",
+    "If the explanation is timeless, an impersonal sufficient condition seems either to operate always or never; a personal agent is a non-frivolous proposed way to get a first temporal effect.",
+    "The charitable probabilistic version, as in Swinburne, does not need every premise to be certain. Cosmology can raise the probability of a creator even if it is not a proof."
+  ],
+  "strongest_against": [
+    "Uncertain steps multiply. A beginning that is not established, a causal principle that may not apply, a personal inference that is minority philosophy, and a further identification with God do not jointly yield a probability above one half.",
+    "Confirmed cosmology is a hot early universe, not an origin from nothing. Geodesic incompleteness is not a cause and not a mind.",
+    "Hume's gap: a cause adequate to the effect need not be unique, infinite, good, or personal. The phenomena underdetermine the theology.",
+    "If the contingency argument works, the necessary ground can still be a fundamental physical state, a law, or an impersonal concrete entity. Theism is an interpretation, not the finding.",
+    "Aquinas, the central Christian philosophical theologian, held that a temporal beginning is not demonstrable (Summa Theologiae I.46). Modern critics such as Mackie, Sobel, and Oppy have answered both Kalam and Leibnizian forms in detail.",
+    "Endorsement tracks priors. Kalam and scholastic traditions affirm the argument; philosophy at large, mostly non-theist, does not. That pattern fits premises-in, theology-out better than an argument that independently establishes God."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'Everything has a cause, so God caused the universe' fails as stated. It would give God a cause. The serious argument restricts the principle to things that begin or are contingent.",
+      "'The Big Bang proves divine creation' confuses a physical model of expansion from a hot dense state with a detected supernatural act.",
+      "'Atheism says the universe popped out of nothing' is often false. Naturalists can say the universe, a quantum state, or a wider cosmos is beginningless, necessary, or brute. Those are costs, not that slogan.",
+      "Watchmaker analogies are design arguments, not cosmological ones. That parts have causes does not by itself show that the whole has an external cause."
+    ],
+    "against": [
+      "'Who created God?' misses the principle actually used. It applies to what begins or is contingent. It bites only if God would have to begin or be contingent.",
+      "'Quantum particles appear from nothing, so the universe can too' overreaches. Those events happen in spacetime under laws. They are not a law-governed cosmos coming from absolute nothing.",
+      "'Medieval arguments died when science arrived' misreads contingency arguments. They were never claims about stellar nucleosynthesis or the cosmic microwave background, and those discoveries do not refute them.",
+      "'Most philosophers are atheists, so the argument is dead' treats a headcount as a refutation. Expert opinion is relevant, but only because of the reasons experts give, and those reasons have to be stated."
+    ]
+  },
+  "would_change": [
+    "A confirmed quantum-gravity theory on which spacetime is past-inextendible, cannot be embedded in a broader physical history, and cannot be given a law-like or brute physical account of that boundary.",
+    "A solution to modal collapse that preserves a Principle of Sufficient Reason strong enough to require a concrete necessary being, plus a non-question-begging proof that this being is a person.",
+    "A demonstration, persuasive outside confessional philosophy, that abstract objects, laws, and impersonal states cannot ground concrete contingent existence.",
+    "The reverse: an empirically favored past-eternal cosmology, or a convincing proof that timeless personhood is incoherent, would push this credence near zero.",
+    "A shift in definition. If 'God' meant only 'the explanation of the universe, whatever it is,' the claim would be close to tautological given the premises and would score much higher. That is not the claim tested here."
+  ],
+  "sources": [
+    {"citation": "Thomas Aquinas, Summa Theologiae I.2 and I.46 (1265-1274)", "kind": "scholarship"},
+    {"citation": "Al-Ghazali, The Incoherence of the Philosophers (Tahafut al-Falasifa), c. 1095", "kind": "scholarship"},
+    {"citation": "G. W. Leibniz, On the Ultimate Origination of Things, 1697", "kind": "primary"},
+    {"citation": "David Hume, Dialogues Concerning Natural Religion, 1779", "kind": "primary"},
+    {"citation": "William Lane Craig, The Kalam Cosmological Argument, 1979", "kind": "scholarship"},
+    {"citation": "William Lane Craig and James D. Sinclair, 'The Kalam Cosmological Argument,' in The Blackwell Companion to Natural Theology, 2009", "kind": "scholarship"},
+    {"citation": "Richard Swinburne, The Existence of God, 2nd ed., 2004", "kind": "scholarship"},
+    {"citation": "J. L. Mackie, The Miracle of Theism, 1982", "kind": "scholarship"},
+    {"citation": "Jordan Howard Sobel, Logic and Theism, 2004", "kind": "scholarship"},
+    {"citation": "Graham Oppy, Arguing about Gods, 2006", "kind": "scholarship"},
+    {"citation": "Alexander R. Pruss, The Principle of Sufficient Reason: A Reassessment, 2006", "kind": "scholarship"},
+    {"citation": "Peter van Inwagen, 'Why Is There Anything at All?', Proceedings of the Aristotelian Society, 1996", "kind": "scholarship"},
+    {"citation": "Stephen Hawking and Roger Penrose, 'The Singularities of Gravitational Collapse and Cosmology,' Proceedings of the Royal Society A, 1970", "kind": "scientific"},
+    {"citation": "Arvind Borde, Alan H. Guth, and Alexander Vilenkin, 'Inflationary spacetimes are not past-complete,' Physical Review Letters 90, 151301, 2003", "kind": "scientific"},
+    {"citation": "David Bourget and David J. Chalmers, 'What Do Philosophers Believe?', Philosophical Studies, 2014", "kind": "scholarship"}
+  ]
+}
+
+
+--- stderr ---

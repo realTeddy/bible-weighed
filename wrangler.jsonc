@@ -1,0 +1,8 @@
+{
+  // Static site: The Bible, Weighed. Deploy with: python3 scripts/build.py site && npx wrangler deploy
+  "name": "bible-weighed",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./site", "not_found_handling": "404-page", "html_handling": "auto-trailing-slash" },
+  "routes": [{ "pattern": "bible.tewodros.me", "custom_domain": true }],
+  "workers_dev": false
+}

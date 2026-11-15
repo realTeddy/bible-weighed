@@ -1,0 +1,147 @@
+{
+  "kind": "empirical",
+  "verdict": "Almost certainly existed, in the minimal historical sense",
+  "credence": 97,
+  "confidence": "high",
+  "bottom_line": "Nearly all historians of antiquity and early Christianity accept that a first-century Galilean Jewish preacher named Jesus existed, was baptized by John, gathered followers, and was crucified under Pontius Pilate. This includes secular, Jewish and agnostic scholars, not only religious ones. The case does not rest on any single proof. It rests on several converging lines of evidence: Paul's letters, written within about 20-25 years of the crucifixion, mention Jesus' brother James and Paul's personal meetings with Peter. The Gospels preserve awkward details that a myth-maker would be unlikely to invent. Josephus and Tacitus independently mention him. The 'mythicist' alternative, the view that Jesus began as a purely celestial being who was later historicized, is argued seriously by a few scholars, but it requires strained readings of the earliest texts. It has persuaded almost no specialists. This verdict covers only a historical human Jesus; whether the miracles, resurrection or divine claims are true is a separate question that history cannot settle the same way.",
+  "sub_claims": [
+    {
+      "claim": "Paul's authentic letters (c. 50-60 CE) refer to a recent, human Jesus with known relatives and companions.",
+      "kind": "textual",
+      "case_for": "Paul says he met Cephas/Peter and 'James the brother of the Lord' in Jerusalem (Gal 1:18-19). He refers to 'the brothers of the Lord' (1 Cor 9:5) and says Jesus was 'born of a woman, born under the law' (Gal 4:4) and 'descended from David according to the flesh' (Rom 1:3). He also mentions a last meal 'on the night he was handed over' (1 Cor 11:23-25) and the crucifixion. Paul was a contemporary and opponent of Jesus' immediate followers, and they would have known whether their leader had been a real person.",
+      "case_against": "Paul says strikingly little about Jesus' earthly life, teachings or miracles. He claims to receive his gospel by revelation rather than from people (Gal 1:11-12). Mythicists such as Richard Carrier read 'brother of the Lord' as a cultic title for any baptized Christian. They read 'born of a woman' and 'according to the flesh' as allegorical or as referring to a celestial realm, and they treat the archons who crucified Jesus (1 Cor 2:8) as demonic powers.",
+      "consensus": "The overwhelming consensus across secular, Jewish and Christian scholarship is that Paul presupposes a recent historical Jesus. Even skeptical scholars such as Bart Ehrman treat Gal 1:19 as one of the strongest data points. The cultic-brother reading is a minority view held essentially only by mythicists.",
+      "evidence": ["Galatians 1:18-19; 2:9", "1 Corinthians 9:5; 11:23-25; 15:3-8", "Galatians 4:4; Romans 1:3", "Paul's silence on most biographical details, a point pressed by mythicists"],
+      "verdict": "Very likely true; Paul's letters are the earliest and strongest evidence",
+      "credence": 92
+    },
+    {
+      "claim": "Non-Christian sources independently attest to Jesus.",
+      "kind": "textual",
+      "case_for": "Josephus (Antiquities 20.200, c. 93-94 CE) mentions the execution of 'James, the brother of Jesus who was called Christ.' The phrasing is incidental and un-Christian in tone, and most scholars accept it as authentic. Josephus' longer passage (Ant. 18.63-64, the Testimonium Flavianum) is widely judged to be partly interpolated but to contain a genuine core. Tacitus (Annals 15.44, c. 116 CE) says that 'Christus' was executed by Pontius Pilate under Tiberius. The passage is hostile to Christians and almost certainly authentic.",
+      "case_against": "The Testimonium is at least partly a Christian forgery, so some scholars doubt the whole thing. Some argue that 20.200 is also an interpolation or originally referred to Jesus son of Damneus. Tacitus wrote 80+ years later and may simply be repeating what Christians said. None of these sources is a contemporary eyewitness, and there are no records of Jesus written during his lifetime.",
+      "consensus": "Most specialists, including Louis Feldman-style Josephus scholars, John Meier and Robert Van Voorst, accept 20.200 as authentic and a core of 18.63 as Josephan. Tacitus' passage is accepted as genuine, though its independence from Christian informants is debated.",
+      "evidence": ["Josephus, Antiquities 20.200", "Josephus, Antiquities 18.63-64 (Testimonium, partly interpolated)", "Tacitus, Annals 15.44", "Pliny the Younger, Letters 10.96 (attests Christians, not Jesus' existence directly)"],
+      "verdict": "Probably true, though these sources are supplementary rather than decisive",
+      "credence": 85
+    },
+    {
+      "claim": "The Gospel traditions contain material best explained by a real historical figure (e.g., embarrassing or counter-intuitive details).",
+      "kind": "textual",
+      "case_for": "Several details are awkward for the movement. Jesus is baptized by John, which implies subordination, and later Gospels visibly struggle with this. He is crucified, which was a shameful death and a scandal for a messianic claimant. He comes from obscure Nazareth, which forced later writers into Bethlehem birth narratives to fit messianic expectation. His family thinks he is out of his mind (Mark 3:21), and he makes an apparently failed prediction of an imminent kingdom. Inventors of a myth would be unlikely to create these problems for themselves. Aramaic substrata and a Palestinian setting also fit an early tradition.",
+      "case_against": "The Gospels were written c. 70-100 CE by non-eyewitnesses with theological aims. Much of their content is modeled on the Hebrew Bible (midrash) or on literary patterns. Criteria like embarrassment have been criticized as methodologically weak (e.g., by Chris Keith, Anthony Le Donne, and the mythicists), since what embarrasses later writers may not have embarrassed earlier ones.",
+      "consensus": "Mainstream critical scholarship, both secular and confessional, accepts that the Gospels contain historical memory alongside heavy theological shaping. The criteria of authenticity are debated, but there is wide agreement on a core: baptism by John, Galilean ministry, followers, a Jerusalem conflict, and crucifixion under Pilate.",
+      "evidence": ["Mark 1:9-11 and Matthew 3:14-15 (discomfort with the baptism)", "Mark 3:21; 6:3", "Mark 9:1; 13:30", "Matthew 2 and Luke 2 reconciling Nazareth with Bethlehem", "1 Corinthians 1:23 (crucified messiah as 'stumbling block')"],
+      "verdict": "Likely true",
+      "credence": 85
+    },
+    {
+      "claim": "A mythicist model (Jesus originally a celestial/revealed figure, later historicized) explains the evidence better than historicity.",
+      "kind": "empirical",
+      "case_for": "The strongest version is Richard Carrier's Bayesian argument, building on Earl Doherty. It notes that Paul's Jesus is known mainly through scripture and revelation, and that early epistles are thin on biography. It also observes that the ancient world had dying-and-rising or celestial savior cults and that the Gospels show heavy literary construction. It points to texts like the Ascension of Isaiah that may depict heavenly crucifixion. Carrier argues that the reference class of 'Rank-Raglan hero' figures is mostly non-historical, which lowers the prior.",
+      "case_against": "The model must explain away Gal 1:19, Rom 1:3, Gal 4:4 and Josephus. It posits a celestial-Jesus phase for which there is no clear direct evidence. It also cannot explain why the earliest followers would locate their savior's death in recent history under a named Roman governor, or why Jewish and pagan critics never accused Christians of inventing him. The reference-class move is contestable: one could equally use 'founders of first-century Jewish messianic movements', who were nearly all real. The dying-and-rising god category itself is disputed in religious studies.",
+      "consensus": "There is no expert support beyond a very small number of scholars (Carrier, Robert M. Price, Raphael Lataster, and a few others). The field, including atheist and Jewish scholars, rejects mythicism. Critics such as Ehrman and Maurice Casey have answered it in book-length responses.",
+      "evidence": ["Carrier, On the Historicity of Jesus (2014)", "Ehrman, Did Jesus Exist? (2012)", "Ascension of Isaiah (debated dating and interpretation)", "Absence of ancient anti-Christian polemic claiming Jesus never lived"],
+      "verdict": "Very unlikely",
+      "credence": 4
+    },
+    {
+      "claim": "Jesus came from Nazareth in Galilee and was crucified under Pontius Pilate.",
+      "kind": "empirical",
+      "case_for": "Nazareth is attested in multiple strands, and its obscurity makes it an unlikely invention. Archaeology shows Nazareth was inhabited as a small Jewish village in the early Roman period, including Ken Dark's work on early Roman-period structures. Pilate is attested by the Pilate Stone at Caesarea, and the crucifixion under Pilate is in Tacitus and all Gospel strands.",
+      "case_against": "A minority of skeptics have argued Nazareth was not inhabited in the early first century, or that 'Nazarene' derives from a sect name or a scriptural pun rather than a town. Details of the trial narratives are clearly theologically shaped.",
+      "consensus": "This is broadly accepted. The 'Nazareth didn't exist' claim is rejected by archaeologists working on the site.",
+      "evidence": ["Mark 1:9; 6:1-6", "Pilate Stone (Caesarea Maritima)", "Tacitus, Annals 15.44", "Ken Dark, archaeological reports on Roman-period Nazareth"],
+      "verdict": "Very likely true",
+      "credence": 90
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does 'James the brother of the Lord' (Gal 1:19) refer to a biological sibling of a recent human Jesus?",
+      "type": "evidence",
+      "if_yes": "Historicity is close to certain, because Paul personally knew Jesus' brother.",
+      "if_no": "The earliest direct personal link weakens, though other Pauline and Josephan evidence remains.",
+      "your_view": "Yes, very probably. Paul distinguishes James from Cephas, the brother of the Lord, from apostles in general, and he refers to 'brothers of the Lord' as a distinct group (1 Cor 9:5). Josephus independently calls James Jesus' brother."
+    },
+    {
+      "crux": "Is Josephus, Antiquities 20.200 authentic?",
+      "type": "evidence",
+      "if_yes": "There is an independent, non-Christian, first-century attestation of Jesus via his brother, which strongly supports historicity.",
+      "if_no": "Non-Christian attestation weakens to Tacitus (later, possibly derivative) and a contested Testimonium, although the Pauline evidence still carries the case.",
+      "your_view": "Probably authentic. It is a brief, incidental, non-confessional mention that fits Josephus' narrative of Ananus, and most Josephus specialists accept it."
+    },
+    {
+      "crux": "What is the right prior or reference class for a religious founder figure with legendary accretions?",
+      "type": "prior",
+      "if_yes": "If the reference class is 'mythic heroes fitting the Rank-Raglan pattern', the prior for historicity is low, and only strong evidence overcomes it, which is Carrier's route to a low credence.",
+      "if_no": "If the reference class is 'founders or leaders of first-century Jewish sectarian or messianic movements' (e.g., John the Baptist, Theudas, the Egyptian prophet), the prior is high and the textual evidence pushes it higher.",
+      "your_view": "The second reference class is more appropriate. It matches what the earliest sources actually describe, whereas Rank-Raglan scores are driven by later legendary layers. Even with a moderately skeptical prior, the evidence yields a high posterior."
+    },
+    {
+      "crux": "Is the scholarly consensus distorted by the confessional makeup of the field?",
+      "type": "value",
+      "if_yes": "The consensus would deserve less weight, and the question would be more open than it appears.",
+      "if_no": "The consensus is a strong indicator, since it reflects informed judgment by many independent experts.",
+      "your_view": "Many New Testament scholars are religious, and that may bias views on many questions. However, the historicity consensus is shared by secular classicists, Jewish scholars and atheist or agnostic New Testament scholars (e.g., Ehrman, Casey, Fredriksen). The consensus is also justified on the merits, so the bias worry is real for maximal claims but weak for minimal historicity."
+    },
+    {
+      "crux": "Does 'existed' mean minimal historicity or the Gospel portrait including miracles?",
+      "type": "definition",
+      "if_yes": "If minimal (a real Galilean preacher behind the tradition, crucified under Pilate), the credence is about 97.",
+      "if_no": "If it means the Gospel Jesus as described, including miracles, virgin birth and resurrection, historical method cannot establish this. The credence then depends heavily on one's prior about miracles and is far lower on a naturalistic prior.",
+      "your_view": "I score the minimal reading, which is what the question naturally asks."
+    }
+  ],
+  "strongest_for": [
+    "Paul, writing within roughly two decades of the crucifixion, says he personally met Jesus' brother James and his chief disciple Peter.",
+    "Multiple independent early traditions (Paul, Mark, Q-material if it existed, John, and special material in Matthew and Luke) converge on a core biography: baptism by John, Galilean ministry, crucifixion under Pilate.",
+    "The tradition contains embarrassing or theologically inconvenient details (baptism by John, crucifixion, Nazareth origin, family skepticism, unfulfilled eschatology) that are hard to explain as invention.",
+    "Josephus mentions 'James, the brother of Jesus who was called Christ' in an incidental, non-Christian passage, and Tacitus confirms the execution under Pilate.",
+    "No ancient critic of Christianity, whether Jewish or pagan (e.g., Celsus), claimed Jesus never existed; they attacked his character and birth instead.",
+    "Historicity fits a well-attested pattern of first-century Jewish charismatic and messianic figures, several of whom are known from Josephus."
+  ],
+  "strongest_against": [
+    "There are no contemporary records of Jesus from his lifetime. All sources are post-mortem, and most are written by believers with theological agendas.",
+    "Paul is remarkably silent about Jesus' teachings, miracles and ministry, and he emphasizes revelation and scripture as his sources.",
+    "The Gospels are heavily shaped by literary and scriptural models, and their narratives contain clearly legendary elements.",
+    "The Testimonium Flavianum was demonstrably tampered with by Christian scribes, which raises general suspicion about transmission of non-Christian testimony.",
+    "The criteria used by historical-Jesus scholars (embarrassment, multiple attestation, dissimilarity) have been criticized as methodologically shaky even by mainstream scholars."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'The Gospels are eyewitness accounts': most critical scholars date them c. 70-100 CE and do not consider them eyewitness reports, so historicity should not rest on this.",
+      "'Billions of people believe it': popular belief is not historical evidence.",
+      "'There is more evidence for Jesus than for Julius Caesar or Alexander': this is false. Caesar and Alexander have coins, inscriptions, contemporary references and, for Caesar, his own writings. Jesus' evidence is good for an obscure provincial figure, but not comparable.",
+      "'The Shroud of Turin or other relics prove it': radiocarbon dating placed the Shroud in the medieval period, and relics are not reliable evidence."
+    ],
+    "against": [
+      "'Jesus is a copy of Horus, Mithras or Krishna': popular versions (e.g., the Zeitgeist film) rely on fabricated or distorted parallels. Even the real parallels would at most show literary influence, not non-existence.",
+      "'Nazareth didn't exist in the first century': archaeological evidence indicates an inhabited early Roman-period Jewish village.",
+      "'No contemporary historian mentions him, so he didn't exist': most first-century people, including most messianic claimants and provincial preachers, left no contemporary records. The silence is expected, not anomalous.",
+      "'The whole Josephus evidence is forged': the Testimonium is partly interpolated, but most scholars think it has an authentic core. The 20.200 reference is widely accepted as genuine.",
+      "'Scholars only believe it because they're Christians': secular, Jewish and atheist specialists hold the same view."
+    ]
+  },
+  "would_change": [
+    "Discovery of early manuscripts of Josephus showing 20.200 and 18.63 entirely absent, combined with strong evidence that Gal 1:19 is a later interpolation.",
+    "A securely dated pre-Pauline Christian text clearly describing Jesus as a purely celestial being crucified in a heavenly realm, with no earthly life.",
+    "Evidence that the earliest Jerusalem community (Peter, James) did not claim to have known Jesus personally.",
+    "Convincing demonstration that the core Pauline references to Jesus' earthly life (Rom 1:3, Gal 4:4, 1 Cor 11:23) are later additions.",
+    "Conversely, a first-century non-Christian document or inscription naming Jesus would push my credence even higher, toward 99+."
+  ],
+  "sources": [
+    {"citation": "Bart D. Ehrman, Did Jesus Exist? The Historical Argument for Jesus of Nazareth, 2012", "kind": "scholarship"},
+    {"citation": "Richard Carrier, On the Historicity of Jesus: Why We Might Have Reason for Doubt, 2014", "kind": "scholarship"},
+    {"citation": "Maurice Casey, Jesus: Evidence and Argument or Mythicist Myths?, 2014", "kind": "scholarship"},
+    {"citation": "John P. Meier, A Marginal Jew: Rethinking the Historical Jesus, Vol. 1, 1991", "kind": "scholarship"},
+    {"citation": "E. P. Sanders, The Historical Figure of Jesus, 1993", "kind": "scholarship"},
+    {"citation": "Robert E. Van Voorst, Jesus Outside the New Testament: An Introduction to the Ancient Evidence, 2000", "kind": "scholarship"},
+    {"citation": "Paula Fredriksen, Jesus of Nazareth, King of the Jews, 1999", "kind": "scholarship"},
+    {"citation": "Earl Doherty, The Jesus Puzzle, 1999", "kind": "scholarship"},
+    {"citation": "Josephus, Antiquities of the Jews 18.63-64 and 20.200", "kind": "primary"},
+    {"citation": "Tacitus, Annals 15.44", "kind": "primary"},
+    {"citation": "Paul, Letter to the Galatians 1:18-19 and 1 Corinthians 15:3-8", "kind": "scripture"}
+  ]
+}
+--- stderr ---

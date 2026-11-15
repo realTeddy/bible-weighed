@@ -1,0 +1,169 @@
+{
+  "kind": "mixed",
+  "verdict": "Almost certainly not: the book in its final form dates to about 167-164 BC, though some of its stories are older",
+  "credence": 3,
+  "confidence": "high",
+  "bottom_line": "The book of Daniel's 'predictions' are vague about the Babylonian and Persian periods. They grow sharper and more accurate about the Hellenistic period, and they reach close detail about events under the Seleucid king Antiochus IV Epiphanes, including the desecration of the Jerusalem temple in 167 BC. They then go wrong about how Antiochus would die (Daniel 11:40-45), and they show no knowledge of the temple's rededication in December 164 BC. That pattern is the standard signature of a text written during the crisis and set back in an earlier era, which was a common convention in Jewish apocalyptic writing. It points strongly to composition around 167-164 BC. Several other lines of evidence point the same way: problems with the 6th-century setting (Darius the Mede, the dating in Daniel 1:1), Greek and Persian loanwords, the book's placement among the Writings rather than the Prophets, and its absence from Ben Sira's list of Israel's heroes around 180 BC. The court stories in chapters 1-6 probably circulated earlier, likely in the Persian or early Hellenistic period, but not as 6th-century writings by Daniel. This is the consensus of critical scholarship, including most Catholic and many evangelical scholars. A minority of conservative scholars defend the traditional date, largely by reading chapters 11:36-45 as about a far-future Antichrist."
+  ,
+  "sub_claims": [
+    {
+      "claim": "The detailed prophecy of Daniel 11 was written before the events of the 2nd century BC that it describes.",
+      "kind": "textual",
+      "case_for": "Conservatives argue that if predictive prophecy is possible, accuracy is no evidence of lateness. On their reading, 11:36-45 is not about Antiochus at all but shifts to an eschatological Antichrist, so it contains no failed prediction. They also argue that the typological layering means the text aims beyond Antiochus.",
+      "case_against": "Chapter 11 tracks the Ptolemaic-Seleucid wars in detail: marriage alliances, Antiochus III's campaigns, Heliodorus, Antiochus IV's two Egyptian campaigns, Roman intervention by the 'ships of Kittim' in 168 BC, and the desecration and 'abomination of desolation' in 167. Then 11:40-45 predicts a third Egyptian campaign and Antiochus's death 'between the seas and the glorious holy mountain.' Neither happened. He died in Persia in 164 BC. The accuracy stops exactly where a writer in about 166-165 BC would lose knowledge. The 'shift to the Antichrist' falls at precisely that point, with no textual marker, which looks like an ad hoc rescue.",
+      "consensus": "Near-universal among critical scholars, and accepted by many confessional scholars including Catholic commentators (Hartman & Di Lella) and some evangelicals (e.g., Goldingay): composition c. 167-164 BC. Traditionalists such as E.J. Young, Baldwin and Steinmann dissent.",
+      "evidence": [
+        "Daniel 11:21-39 matches known Seleucid history, including Antiochus IV's 169 and 168 BC campaigns and the Roman ultimatum of Popilius Laenas",
+        "Daniel 11:40-45 does not match Antiochus IV's actual death in Persia (Polybius; 1 Maccabees 6; 2 Maccabees 9)",
+        "No reference to the rededication of the temple (Hanukkah, Dec 164 BC)",
+        "Daniel 8:14 and 12:11-12 give countdowns (2,300 evening-mornings; 1,290 and 1,335 days) that look like expectations revised in real time",
+        "Porphyry made this argument as early as the 3rd century AD, preserved in Jerome's Commentary on Daniel"
+      ],
+      "verdict": "Very likely written c. 167-164 BC, before Antiochus's death but after the desecration",
+      "credence": 3
+    },
+    {
+      "claim": "The book's 6th-century historical setting is accurate in the way an eyewitness account would be.",
+      "kind": "empirical",
+      "case_for": "Belshazzar, once dismissed as fictional, is attested in cuneiform as Nabonidus's son, who was left in charge of Babylon. That fits his offer to make Daniel 'third' in the kingdom (Dan 5:16). Harmonizers identify Darius the Mede with Gubaru/Ugbaru, or with Cyrus himself, reading Dan 6:28 as 'Darius, that is, Cyrus.' The 'third year of Jehoiakim' can be reconciled with Babylonian accession-year reckoning.",
+      "case_against": "No Darius the Mede ruled Babylon between Nabonidus and Cyrus. Cuneiform records go straight to Cyrus, and every proposed identification requires special pleading. Belshazzar is called king and son of Nebuchadnezzar; he was never king and was not Nebuchadnezzar's son. Nebuchadnezzar's madness (ch. 4) closely parallels a Nabonidus tradition, the Prayer of Nabonidus (4Q242), suggesting a transferred legend. The 'Chaldeans' appear as a class of sages, which is later usage. A 'Median kingdom' between Babylon and Persia fits a Hellenistic four-empire scheme better than 6th-century reality.",
+      "consensus": "Critical scholars see an author with patchy, secondhand knowledge of the Neo-Babylonian period. Conservative scholars (Wiseman, Whitcomb, Archer) offer harmonizations, but these persuade few outside traditionalist circles. Rowley's classic study remains influential.",
+      "evidence": [
+        "Nabonidus Chronicle and Verse Account of Nabonidus attest Belshazzar as crown prince/regent",
+        "No cuneiform king 'Darius the Mede'",
+        "4Q242 Prayer of Nabonidus parallels Daniel 4",
+        "Daniel 1:1 versus Jeremiah 25:1, 46:2 on the timing of Nebuchadnezzar's actions"
+      ],
+      "verdict": "Some authentic memory, but the setting has errors unlikely for a 6th-century court insider",
+      "credence": 12
+    },
+    {
+      "claim": "The book's language (Hebrew, Aramaic, loanwords) is consistent with 6th-century composition.",
+      "kind": "textual",
+      "case_for": "K.A. Kitchen argued that Daniel's Aramaic is a form of Imperial/Official Aramaic usable anywhere from about the 6th to the 2nd century, so it cannot pin a late date. Greek contacts (mercenaries, traders) existed in the 6th-century Near East, so a few Greek words are not impossible.",
+      "case_against": "The Greek loanwords are names of musical instruments (qayteros/kitharis, pesanterin/psalterion, sumponyah/symphonia). 'Symphonia' as an instrument name is otherwise attested only much later. The roughly 20 Persian loanwords, including in court titles, sit awkwardly in narratives set in Babylon before the Persian conquest. The Hebrew sections are Late Biblical Hebrew. Linguistic evidence alone is not decisive, but it leans late and offers no positive support for the 6th century.",
+      "consensus": "Most linguists see the language as compatible with, and somewhat favoring, a Hellenistic date. The language by itself is generally considered weaker evidence than the content of ch. 11.",
+      "evidence": [
+        "Greek instrument names in Daniel 3:5,7,10,15",
+        "Persian administrative terms in Aramaic chapters",
+        "Kitchen 1965 on the Aramaic"
+      ],
+      "verdict": "Not decisive alone; leans post-6th century",
+      "credence": 20
+    },
+    {
+      "claim": "External attestation shows the book existed well before the 2nd century BC.",
+      "kind": "empirical",
+      "case_for": "Eight Daniel manuscripts were found at Qumran. One, 4QDan-c, is dated by some to the late 2nd century BC, and the book was already treated as authoritative ('Daniel the prophet' in 4Q174). Ezekiel 14:14 and 28:3 mention a righteous and wise 'Daniel.' Josephus reports that Alexander the Great was shown the book.",
+      "case_against": "The Qumran copies date from about 125 BC onward, entirely consistent with composition around 165 BC. Ezekiel's figure is spelled dn'l and pairs naturally with Noah and Job as an ancient sage, likely the Ugaritic Danel. Josephus's Alexander story is widely regarded as legendary. Ben Sira, around 180 BC, lists Israel's famous men (Sir 44-49), including the twelve minor prophets, but omits Daniel. Daniel sits in the Writings rather than the Prophets in the Hebrew canon, consistent with arrival after the prophetic collection closed. The earliest clear external reference is 1 Maccabees 2:59-60, around 100 BC.",
+      "consensus": "Critical consensus: no secure evidence of the book before the 2nd century BC. Conservatives emphasize the Qumran evidence, but most acknowledge it does not require a pre-Hellenistic date.",
+      "evidence": [
+        "Qumran Daniel manuscripts (1QDan a-b, 4QDan a-e, 6QDan)",
+        "Sirach 49 omission",
+        "1 Maccabees 2:59-60",
+        "Placement among the Ketuvim",
+        "Josephus, Antiquities 11"
+      ],
+      "verdict": "External evidence fits a mid-2nd-century date and offers no support for a 6th-century one",
+      "credence": 8
+    },
+    {
+      "claim": "The court tales (chapters 1-6) are older than the final book.",
+      "kind": "textual",
+      "case_for": "The tales present a benign view of foreign kings, unlike the hostile visions. They are in Aramaic and show signs of independent circulation, such as different versions in the Greek (Old Greek of Daniel 4-6) and parallels like 4Q242. They fit a Persian or early Hellenistic diaspora setting.",
+      "case_against": "This does not support the claim. Older tales about a legendary Daniel are not 6th-century writings by Daniel, and the predictive visions in chapters 7-12 remain Maccabean.",
+      "consensus": "Widely held by critical scholars (Collins, Newsom) that the tales are earlier, probably 4th-3rd century BC, and that the book was compiled and expanded in the 160s.",
+      "evidence": [
+        "Shift from tolerant kings (1-6) to persecuting king (7-12)",
+        "Old Greek versus Masoretic divergences in chs. 4-6",
+        "Aramaic chiastic structure of chs. 2-7"
+      ],
+      "verdict": "Probably true; it rescues an older origin for parts of the book but not the claim",
+      "credence": 70
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does Daniel 11:40-45 describe Antiochus IV, and so make a failed prediction?",
+      "type": "evidence",
+      "if_yes": "Composition before his death in 164 BC but after 167 BC is nearly certain, and the claim fails.",
+      "if_no": "If the passage plausibly jumps to a distant future figure, the strongest dating anchor weakens. Other evidence (setting errors, canon, Ben Sira, loanwords) still favors a late date, but credence for an early date might rise to roughly 10-15%.",
+      "your_view": "Yes. The passage continues seamlessly from the Antiochus narrative with the same 'king of the north,' and the unmarked jump is a harmonizing move."
+    },
+    {
+      "crux": "How likely is detailed, centuries-ahead predictive prophecy before looking at the evidence?",
+      "type": "prior",
+      "if_yes": "With a substantial prior for genuine prophecy, the accuracy of chs. 8 and 11 is no longer evidence of lateness. The error in 11:40-45 and the historical problems with the setting still count against 6th-century authorship. A believer can reasonably land around 10-25%, not near certainty.",
+      "if_no": "With a naturalistic prior, a late date is close to certain.",
+      "your_view": "The case does not rest on excluding prophecy. The pattern of accurate history ending in error is decisive on evidential grounds, which is why many believing scholars accept the Maccabean date."
+    },
+    {
+      "crux": "Can Darius the Mede be identified with a known historical ruler?",
+      "type": "evidence",
+      "if_yes": "One major historical objection disappears and the author looks better informed about the 6th century.",
+      "if_no": "The author likely worked from a later schematic history (Babylon, Media, Persia, Greece), supporting late composition.",
+      "your_view": "No convincing identification exists. Gubaru and Cyrus both strain the text."
+    },
+    {
+      "crux": "Is the book's self-presentation a deceptive claim, or a recognized literary convention (pseudonymous apocalypse)?",
+      "type": "definition",
+      "if_yes": "If it is a convention, as in 1 Enoch and other apocalypses, a late date need not imply fraud. Theological objections to the late date weaken, and confessional acceptance becomes easier.",
+      "if_no": "If readers took it as literal authorship claims, a late date carries theological cost, which motivates traditionalist resistance.",
+      "your_view": "It is a convention of the genre. This does not change the historical date, but it explains why many religious scholars accept the date comfortably."
+    }
+  ],
+  "strongest_for": [
+    "If predictive prophecy is real, accuracy alone cannot date the text, and the book claims revelation explicitly.",
+    "Belshazzar's historicity and his role as regent ('third in the kingdom') show some accurate memory of the Neo-Babylonian period.",
+    "Daniel's Aramaic falls within the broad range of Official Aramaic and is not decisively 2nd-century.",
+    "The Qumran copies came within decades of the proposed composition date and already treated the book as scripture, suggesting some conservatives see too little time for acceptance.",
+    "Jewish and Christian tradition (e.g., Matthew 24:15, Josephus) treated Daniel as a prophet."
+  ],
+  "strongest_against": [
+    "Daniel 11 is accurate through 167 BC and then wrong about Antiochus IV's final campaign and death.",
+    "There is no knowledge of the temple's rededication in 164 BC, despite the book's focus on the desecration and its duration.",
+    "Darius the Mede and a separate Median kingdom between Babylon and Persia are unattested, along with other setting errors (Belshazzar as king and Nebuchadnezzar's son; Daniel 1:1).",
+    "Ben Sira omits Daniel around 180 BC, and the book stands in the Writings rather than the Prophets.",
+    "There are Greek instrument names and Persian loanwords, and Nebuchadnezzar's madness looks like a transferred Nabonidus tradition (4Q242).",
+    "The genre is apocalyptic and pseudonymous writing set in the past, a widespread Hellenistic-era convention (cf. 1 Enoch)."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'Jesus called him Daniel the prophet': citing a book by its traditional name does not adjudicate a historical question unless one already holds a specific inerrantist premise.",
+      "'Ezekiel mentions Daniel': the figure (dn'l) is paired with Noah and Job as an ancient sage, likely the Ugaritic Danel, not a contemporary exile.",
+      "'Alexander was shown the book' (Josephus): widely regarded as legend.",
+      "'Qumran proves an early date': the manuscripts date from after about 125 BC, consistent with composition around 165 BC."
+    ],
+    "against": [
+      "'Prophecy is impossible, so it must be late': alone this begs the question, though the evidence for a late date does not depend on it.",
+      "'Belshazzar never existed': refuted by cuneiform discoveries in the 19th century.",
+      "'Any Greek word proves a late date': Greek contact existed earlier; the instrument terms are suggestive, not conclusive.",
+      "'The author was a forger': this is anachronistic, since pseudonymous apocalyptic was a recognized genre."
+    ]
+  },
+  "would_change": [
+    "A securely dated Daniel manuscript or quotation from before about 200 BC.",
+    "Cuneiform evidence of a ruler matching 'Darius the Mede' governing Babylon after 539 BC.",
+    "Evidence that 11:40-45 is a later addition, or that the earlier text was originally different.",
+    "Discovery of a 6th-century Babylonian court figure named Belteshazzar matching Daniel's career.",
+    "Early attestation of 'symphonia' and the other instrument terms in Near Eastern sources from about 550 BC."
+  ],
+  "sources": [
+    {"citation": "John J. Collins, Daniel: A Commentary on the Book of Daniel (Hermeneia), 1993", "kind": "scholarship"},
+    {"citation": "Louis F. Hartman and Alexander A. Di Lella, The Book of Daniel (Anchor Bible 23), 1978", "kind": "scholarship"},
+    {"citation": "James A. Montgomery, A Critical and Exegetical Commentary on the Book of Daniel (ICC), 1927", "kind": "scholarship"},
+    {"citation": "John E. Goldingay, Daniel (Word Biblical Commentary 30), 1989", "kind": "scholarship"},
+    {"citation": "Carol A. Newsom with Brennan W. Breed, Daniel: A Commentary (Old Testament Library), 2014", "kind": "scholarship"},
+    {"citation": "H.H. Rowley, Darius the Mede and the Four World Empires in the Book of Daniel, 1935", "kind": "scholarship"},
+    {"citation": "Edward J. Young, The Prophecy of Daniel, 1949", "kind": "scholarship"},
+    {"citation": "Joyce G. Baldwin, Daniel (Tyndale Old Testament Commentaries), 1978", "kind": "scholarship"},
+    {"citation": "Andrew E. Steinmann, Daniel (Concordia Commentary), 2008", "kind": "scholarship"},
+    {"citation": "K.A. Kitchen, 'The Aramaic of Daniel,' in D.J. Wiseman et al., Notes on Some Problems in the Book of Daniel, 1965", "kind": "scholarship"},
+    {"citation": "Jerome, Commentary on Daniel (preserving Porphyry's arguments)", "kind": "primary"},
+    {"citation": "1 Maccabees 1-6; 2 Maccabees 9; Sirach 44-49", "kind": "primary"},
+    {"citation": "Prayer of Nabonidus (4Q242), Dead Sea Scrolls", "kind": "primary"},
+    {"citation": "Nabonidus Chronicle (ABC 7)", "kind": "primary"},
+    {"citation": "Book of Daniel, especially chapters 5, 6, 8, 9, 11", "kind": "scripture"}
+  ]
+}
+--- stderr ---

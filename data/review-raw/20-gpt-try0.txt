@@ -1,0 +1,179 @@
+{
+  "kind": "mixed",
+  "verdict": "Scripture-grounded faith can be rational, but its central supernatural claims are not strongly established by public evidence.",
+  "credence": 20,
+  "confidence": "low",
+  "bottom_line": "I interpret the claim as saying that publicly available reason and evidence make central Christian claims, including Jesus’ resurrection, more likely than not—not merely that a believer can rationally hold them. On that demanding reading, I think the claim is probably false. Scripture contains early testimony and genuine historical information, but these do not by themselves establish miraculous events, and philosophical arguments for God remain disputed. A weaker claim—that Scripture-grounded faith can be rational for someone with defensible background beliefs and experiences—has a much stronger case. My numerical estimate depends substantially on contested judgments about miracles and what counts as strong support.",
+  "sub_claims": [
+    {
+      "claim": "Early Christian sources provide historically significant evidence about Jesus and the first believers.",
+      "kind": "empirical",
+      "case_for": "Paul’s letters are early sources, and 1 Corinthians preserves a tradition that reports Jesus’ death and appearances after his death. The Gospels preserve additional traditions about Jesus.",
+      "case_against": "The sources are committed religious texts, not neutral investigations. Their accounts differ, their relationships are debated, and reports of appearances do not independently establish what caused them.",
+      "consensus": "Most historians, including many religious and nonreligious scholars, accept that Jesus existed and was crucified and that his followers very early proclaimed him risen. They disagree sharply about the reliability and interpretation of particular reports.",
+      "evidence": [
+        "Paul describes received tradition and reported appearances in 1 Corinthians 15:3–8.",
+        "Paul’s surviving letters precede the Gospels.",
+        "The Gospels are not four straightforwardly independent accounts; Matthew and Luke use Mark, according to the dominant scholarly view."
+      ],
+      "verdict": "Strong evidence for the early proclamation and some historical basics; insufficient by itself to establish a miracle.",
+      "credence": 90
+    },
+    {
+      "claim": "The surviving biblical text and its historical setting support broad confidence in Scripture’s factual accuracy.",
+      "kind": "textual",
+      "case_for": "Numerous manuscripts permit careful textual reconstruction, and archaeology and external sources illuminate real places, people and customs mentioned in Scripture.",
+      "case_against": "No original biblical manuscripts survive; variants and historically disputed accounts remain. Correct geographical or political details do not establish supernatural claims or the accuracy of every narrative.",
+      "consensus": "Textual critics, including confessional scholars, recognize both substantial recoverability and meaningful textual variants. Historians and archaeologists disagree over the accuracy of many individual biblical narratives and over broader theological conclusions.",
+      "evidence": [
+        "The earliest manuscripts of Mark known to scholars do not include Mark 16:9–20.",
+        "The manuscript history of John 7:53–8:11 shows that this passage’s original location is disputed.",
+        "Biblical narratives include historically identifiable settings, but corroborating a setting is not the same as corroborating every event described."
+      ],
+      "verdict": "Textual and historical evidence supports some confidence, but not a general guarantee of factual accuracy.",
+      "credence": 45
+    },
+    {
+      "claim": "The historical evidence strongly favors a bodily resurrection of Jesus over natural explanations.",
+      "kind": "empirical",
+      "case_for": "Early testimony, the disciples’ conviction, and the emergence of the resurrection proclamation can be argued to fit a real resurrection better than competing explanations, particularly if God’s existence and purposes are independently plausible.",
+      "case_against": "The evidence consists largely of ancient testimony rather than independently verifiable observation. Experiences, interpretation, transmission and religious development can generate sincere conviction without a bodily resurrection; their exact historical roles need not be fully reconstructible.",
+      "consensus": "There is no consensus that historical methods establish the resurrection. Confessional scholars such as N. T. Wright defend it historically; other historians dispute that conclusion or regard a supernatural explanation as beyond their method. Methodological restrictions do not themselves prove that miracles cannot occur.",
+      "evidence": [
+        "1 Corinthians 15 reports appearances to individuals and groups, including an experience claimed by Paul.",
+        "The written sources are separated from the events by years or decades and do not provide modern independent verification.",
+        "The explanatory comparison depends heavily on the prior probability assigned to divine action."
+      ],
+      "verdict": "The early testimony is real evidence, but I do not think it strongly establishes a bodily resurrection on public evidence alone.",
+      "credence": 25
+    },
+    {
+      "claim": "Scientific evidence rules out every reasonable interpretation of Scripture-grounded faith.",
+      "kind": "empirical",
+      "case_for": "Some literal interpretations make claims about Earth’s history and life’s origins that conflict with converging geological and biological evidence.",
+      "case_against": "Scripture can be read with attention to genre and theological purpose; many believers accept evolutionary science and an ancient Earth without abandoning faith.",
+      "consensus": "Scientists overwhelmingly accept an ancient Earth and evolution. Religious scholars and communities differ over biblical interpretation; many confessional scholars accept those scientific findings, while others contest them.",
+      "evidence": [
+        "Radiometric dating and multiple geological observations support an ancient Earth.",
+        "Genetics and the fossil record support evolution and common ancestry.",
+        "Interpretations of Genesis differ among Jews and Christians."
+      ],
+      "verdict": "Science strongly challenges some literal readings, not all Scripture-grounded faith.",
+      "credence": 5
+    },
+    {
+      "claim": "A person can rationally hold faith grounded in Scripture without a public proof of its central claims.",
+      "kind": "philosophical",
+      "case_for": "Faith may be supported by cumulative philosophical arguments, historical evidence, personal experience and a coherent interpretive framework. Some philosophers argue that belief in God can be warranted without an inference from publicly available evidence.",
+      "case_against": "Experiences and traditions vary and can mislead; critics argue that strong supernatural commitments need stronger independent evidence than these considerations supply.",
+      "consensus": "There is no consensus among philosophers of religion or epistemologists. Confessional philosophers defend several accounts of rational faith, while religious and nonreligious critics dispute their premises or conclusions.",
+      "evidence": [
+        "Alvin Plantinga’s Warranted Christian Belief develops an account of warranted Christian belief that does not require public proof.",
+        "1 Peter 3:15 calls believers to give a reason for their hope.",
+        "Competing religious experiences raise questions about how experience should be evaluated."
+      ],
+      "verdict": "Rational faith is possible, although rationality does not guarantee truth.",
+      "credence": 85
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does 'well supported' require public evidence to make the central supernatural claims more likely than not?",
+      "type": "definition",
+      "if_yes": "The claim is probably false on my assessment.",
+      "if_no": "If it means that faith has nontrivial reasons and evidence, the claim is substantially more plausible.",
+      "your_view": "I score the stronger reading, while recognizing that ordinary usage also permits the weaker one."
+    },
+    {
+      "crux": "Before assessing the historical reports, is divine action in history reasonably likely?",
+      "type": "prior",
+      "if_yes": "Early resurrection testimony can substantially favor the Christian explanation.",
+      "if_no": "The same testimony is more readily explained by mistaken experiences, interpretation or transmission.",
+      "your_view": "I assign divine intervention a low but nonzero prior; reasonable people disagree because this depends on broader metaphysical arguments."
+    },
+    {
+      "crux": "Are the surviving sources sufficiently independent and reliable to rule out plausible nonmiraculous explanations?",
+      "type": "evidence",
+      "if_yes": "The resurrection receives much stronger historical support.",
+      "if_no": "The sources establish early belief more securely than the event’s supernatural cause.",
+      "your_view": "The available sources do not sufficiently discriminate among the explanations."
+    },
+    {
+      "crux": "Can personal religious experience provide rational justification that outsiders cannot fully assess?",
+      "type": "philosophical",
+      "if_yes": "Faith may be rational for a particular person even if public evidence is inconclusive.",
+      "if_no": "Its rationality depends more heavily on shared arguments and independently checkable evidence.",
+      "your_view": "Personal experience can provide some justification, but competing experiences and possible errors limit its force."
+    },
+    {
+      "crux": "Must Scripture be read as a uniformly literal account of natural history?",
+      "type": "definition",
+      "if_yes": "Well-established science creates serious conflicts for some readings.",
+      "if_no": "Those scientific conflicts do not by themselves refute faith, although interpretive choices still need justification.",
+      "your_view": "Genre-sensitive readings are legitimate, but cannot automatically resolve every historical difficulty."
+    }
+  ],
+  "strongest_for": [
+    "Early Christian testimony gives the resurrection claim a historically identifiable foundation rather than leaving it entirely detached from evidence.",
+    "Arguments about existence, consciousness, morality and the apparent intelligibility of the universe can make theism reasonable, even though none is decisive.",
+    "Personal religious experience and a coherent theological interpretation may rationally reinforce faith for some people.",
+    "Scripture-grounded faith need not require literalism about every passage or rejection of established science."
+  ],
+  "strongest_against": [
+    "Ancient testimony is difficult to verify independently and is not strong enough, in my judgment, to establish a bodily resurrection.",
+    "Sincere religious experiences and convictions occur in competing traditions, limiting their ability to identify one tradition as true.",
+    "Textual variations, historical disputes and scientific conflicts with some literal interpretations weaken claims of comprehensive factual reliability.",
+    "The strongest philosophical arguments for theism remain contested and do not uniquely establish the authority of Christian Scripture."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Scripture must be true because Scripture says it is: that assumes the authority being tested.",
+      "Any accurate biblical place-name proves its miracles: ordinary details and extraordinary claims require separate assessment.",
+      "A changed life proves the doctrine that inspired it: beneficial effects can arise from beliefs that are not literally true."
+    ],
+    "against": [
+      "Science has disproved God: scientific findings challenge specific empirical claims, not every conception of God.",
+      "Faith is irrational by definition: that settles a substantive dispute through a contested definition.",
+      "Disagreement among religions proves all religious claims false: competing claims can all be false, but disagreement alone does not establish that."
+    ]
+  },
+  "would_change": [
+    "Strong, independently corroborated evidence of a well-documented miracle with careful exclusion of ordinary explanations would increase my credence.",
+    "New early, independent sources substantially clarifying the resurrection reports and their origins could move it in either direction.",
+    "A compelling philosophical argument substantially changing the prior probability of God or divine intervention would change my assessment.",
+    "Evidence that the earliest resurrection traditions developed later or less independently than currently understood would decrease my credence."
+  ],
+  "sources": [
+    {
+      "citation": "The Bible, 1 Corinthians 15:3–8 and 1 Peter 3:15",
+      "kind": "scripture"
+    },
+    {
+      "citation": "N. T. Wright, The Resurrection of the Son of God, 2003",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Dale C. Allison Jr., The Resurrection of Jesus: Apologetics, Polemics, History, 2021",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Alvin Plantinga, Warranted Christian Belief, 2000",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "David Hume, An Enquiry Concerning Human Understanding, 1748",
+      "kind": "primary"
+    },
+    {
+      "citation": "Bruce M. Metzger and Bart D. Ehrman, The Text of the New Testament: Its Transmission, Corruption, and Restoration, fourth edition, 2005",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "National Academy of Sciences and Institute of Medicine, Science, Evolution, and Creationism, 2008",
+      "kind": "scientific"
+    }
+  ]
+}
+
+
+--- stderr ---

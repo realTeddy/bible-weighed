@@ -1,0 +1,154 @@
+{
+  "kind": "empirical",
+  "verdict": "Almost certainly not substantially as we have it",
+  "credence": 1,
+  "confidence": "medium",
+  "bottom_line": "I interpret the claim to mean that Moses was the principal author of the five books’ narratives and laws in substantially their present form, allowing some later additions such as the account of his death. On that reading, the evidence strongly favors a lengthy process of composition and editing by multiple writers. The texts themselves attribute some writing to Moses, and ancient Jewish and Christian traditions attribute the law to him, but those attributions do not establish that he wrote all five books. A weaker claim—that the Torah preserves some genuinely early traditions or even material associated with Moses—is considerably more plausible. The 1% estimate is a personal judgment, not a measured scholarly consensus.",
+  "sub_claims": [
+    {
+      "claim": "The Torah was substantially composed and edited over a long period, rather than chiefly written in its present form by Moses.",
+      "kind": "textual",
+      "case_for": "Patterns of repeated narratives, differing language and theological emphases, legal differences, and passages that look back on later circumstances are more readily explained by multiple literary stages.",
+      "case_against": "A single author could use diverse older sources, repeat accounts for different purposes, and give laws suited to different circumstances; later editors could add retrospective passages without creating the work as a whole.",
+      "consensus": "Most critical scholars favor multiple stages and authors, but disagree substantially about sources, dates, and how the books were assembled. Some confessional scholars defend substantially Mosaic authorship; other religious scholars accept multi-stage composition.",
+      "evidence": [
+        "Genesis 36:31 refers to kings reigning in Edom before a king reigned over the Israelites.",
+        "Deuteronomy 34 narrates Moses’s death and says no comparable prophet has arisen in Israel since.",
+        "Exodus 20:24 and Deuteronomy 12:5–14 give differently framed instructions about places of worship.",
+        "Exodus 6:2–3 describes a revelation of the divine name, although Genesis depicts earlier figures using that name."
+      ],
+      "verdict": "Very likely",
+      "credence": 98
+    },
+    {
+      "claim": "The Torah preserves at least some traditions or legal material dating from the broad period traditionally associated with Moses.",
+      "kind": "empirical",
+      "case_for": "Ancient traditions can survive long transmission, and some laws, names, and cultural practices have plausible ancient Near Eastern parallels.",
+      "case_against": "Parallels often span long periods and cannot by themselves date a particular passage; later writers could also preserve, adapt, or reconstruct older-seeming material.",
+      "consensus": "Scholars differ considerably about which material is early and how securely it can be dated. Conservative scholars generally find stronger evidence for early material than many critical scholars do.",
+      "evidence": [
+        "Ancient Near Eastern legal collections predate the commonly proposed periods for Moses.",
+        "The Torah contains multiple bodies of law and traditions that could have had histories before their present literary setting.",
+        "The surviving Torah manuscripts are much later than the period traditionally assigned to Moses and do not directly document that transmission."
+      ],
+      "verdict": "Plausible but difficult to establish",
+      "credence": 45
+    },
+    {
+      "claim": "Moses personally wrote at least some material incorporated into the Torah.",
+      "kind": "empirical",
+      "case_for": "Several Torah passages explicitly depict Moses writing laws or records, and later Jewish and Christian tradition strongly associates him with the law.",
+      "case_against": "Those statements are themselves part of the tradition being evaluated; none independently establishes that Moses existed or identifies surviving words written by him.",
+      "consensus": "Confessional scholars who affirm a historical Moses commonly accept some Mosaic writing. Critical scholars generally regard personal Mosaic authorship as unverified, although they differ on the possible historical background.",
+      "evidence": [
+        "Exodus 24:4 says Moses wrote the words of the Lord.",
+        "Numbers 33:2 attributes a record of Israel’s stages of travel to Moses.",
+        "Deuteronomy 31:9 and 31:24 attribute the writing of a law to Moses, without unambiguously identifying that writing with the whole present Pentateuch."
+      ],
+      "verdict": "Possible, but unsupported by independent evidence",
+      "credence": 10
+    },
+    {
+      "claim": "Moses was a historical person behind at least part of the tradition.",
+      "kind": "empirical",
+      "case_for": "A remembered leader could have stood behind traditions that were greatly expanded and reshaped, even if the biblical narrative is not a straightforward historical record.",
+      "case_against": "There is no securely identified contemporary reference to Moses, and later literary traditions alone do not establish the historicity of an individual.",
+      "consensus": "There is no consensus that his existence can be established. Religious scholars often affirm it; critical scholars range from cautious acceptance of a historical figure to skepticism.",
+      "evidence": [
+        "The Torah and later biblical books repeatedly present Moses as Israel’s leader and lawgiver.",
+        "The Merneptah inscription attests a group called Israel in Canaan by the late 13th century BCE, but does not mention Moses.",
+        "Absence of a contemporary reference is not by itself proof that such a person never existed."
+      ],
+      "verdict": "Uncertain",
+      "credence": 35
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Do the recurring literary and legal patterns reflect successive authors and editors, rather than mostly one author working with varied sources?",
+      "type": "evidence",
+      "if_yes": "Substantially Mosaic authorship becomes very unlikely.",
+      "if_no": "Mosaic authorship becomes more plausible, though attribution still needs independent support.",
+      "your_view": "The cumulative patterns strongly favor multiple stages, even though individual examples can often be harmonized."
+    },
+    {
+      "crux": "How much weight should later religious attribution carry when authorship is not independently documented?",
+      "type": "prior",
+      "if_yes": "Strong confidence in the reliability of the tradition can substantially raise the probability of Mosaic authorship.",
+      "if_no": "The attribution is important evidence of belief and reception, but is outweighed by the literary and historical evidence.",
+      "your_view": "Tradition deserves consideration, but its later attestation makes it insufficient to settle the historical claim."
+    },
+    {
+      "crux": "Does divine revelation or prophecy make apparent references to later events compatible with Mosaic authorship?",
+      "type": "prior",
+      "if_yes": "Some apparent chronological objections lose force, although the evidence for literary development still requires explanation.",
+      "if_no": "Retrospective passages count as evidence for later writing or editing.",
+      "your_view": "My estimate does not depend on ruling miracles out; revelation could also operate through later writers and editors."
+    },
+    {
+      "crux": "Does 'Moses wrote the Torah' mean principal authorship of the existing five books, or an earlier origin for some traditions and laws?",
+      "type": "definition",
+      "if_yes": "For principal authorship substantially as we have it, my estimate is 1%.",
+      "if_no": "For some early material, or a historical Moses who influenced later traditions, the probability is substantially higher but still uncertain.",
+      "your_view": "The stronger authorship claim is the one scored here."
+    }
+  ],
+  "strongest_for": [
+    "The Torah explicitly attributes some writing to Moses, and long-standing Jewish and Christian traditions connect him with the law.",
+    "Writing and substantial legal collections existed in the ancient Near East before the traditionally proposed time of Moses.",
+    "A substantial author can use earlier sources and allow later editorial additions; diversity and a posthumous ending do not individually disprove authorship.",
+    "Some ancient cultural and legal parallels are compatible with preservation of early material."
+  ],
+  "strongest_against": [
+    "The combined patterns of repetition, differing emphases, legal tensions, and editorial seams are better explained by extended literary development.",
+    "Some passages appear to look back from circumstances later than Moses; a few additions alone would not prove the case, but they fit the broader pattern.",
+    "The explicit Mosaic writing passages do not clearly claim that Moses wrote all five books in their present form.",
+    "No independent contemporary evidence identifies Moses as the author of the Pentateuch."
+  ],
+  "weak_arguments": {
+    "for": [
+      "‘The Bible says Moses wrote a law, so he wrote every word of the Pentateuch’: the specific passages do not establish that scope.",
+      "‘Ancient writing existed, so Moses wrote these books’: literacy makes the claim possible, not demonstrated.",
+      "‘A tradition is ancient and religiously authoritative, so its authorship claim must be historically correct’: authority and historical attribution are distinct questions."
+    ],
+    "against": [
+      "‘Moses’s death is narrated, so he could not have written most of the books’: a later ending is possible.",
+      "‘No archaeological object mentions Moses, so he certainly never existed’: absence of evidence is not conclusive proof of absence.",
+      "‘Every difference between parallel passages is a contradiction’: some differences have plausible literary or contextual explanations."
+    ]
+  },
+  "would_change": [
+    "A securely dated, independently authenticated manuscript from the relevant period attributing a substantial recognizable Pentateuchal text to Moses would greatly raise my estimate.",
+    "Strong new evidence that the apparent literary layers and retrospective passages were already integrated in the relevant early period would raise it.",
+    "Secure early external evidence tracing substantial Torah passages to a different, later authorial process would lower it further."
+  ],
+  "sources": [
+    {
+      "citation": "The Bible: Genesis 36; Exodus 6, 20, and 24; Numbers 33; Deuteronomy 12, 31, and 34",
+      "kind": "scripture"
+    },
+    {
+      "citation": "Josephus, Against Apion, Book 1, circa 95–100 CE",
+      "kind": "primary"
+    },
+    {
+      "citation": "Joel S. Baden, The Composition of the Pentateuch: Renewing the Documentary Hypothesis, 2012",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Richard Elliott Friedman, Who Wrote the Bible?, 1987",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Kenneth A. Kitchen, On the Reliability of the Old Testament, 2003",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Jeffrey H. Tigay, Deuteronomy: The JPS Torah Commentary, 1996",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

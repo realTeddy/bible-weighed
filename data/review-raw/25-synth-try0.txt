@@ -1,0 +1,47 @@
+{
+  "summary": "All four reviewers read Matthew and Luke as describing a conception without a human father and judge the literal event unlikely. Their estimates range from 1% to 5%, although their stated confidence ranges from low to high. They agree that the narratives are later than the events and that reliable firsthand family testimony has not been established. They also agree that known biology offers no verified natural precedent, while a supernatural intervention is a different question. Their principal differences concern the sources' independence, the strength of the evidence for theological development, and how much the silence of earlier Christian writings matters. All recognize that a higher prior probability for divine intervention could support a higher estimate.",
+  "agreement": "high",
+  "agreed": [
+    "Matthew and Luke present Mary as conceiving Jesus without a human father.",
+    "The accounts were written decades after the events, and no firsthand source for the conception has been established.",
+    "There is no verified human parthenogenetic live birth; known biology does not establish that a supernatural intervention is impossible.",
+    "The infancy narratives have significant differences and theological purposes, though these do not by themselves disprove their shared conception claim.",
+    "Isaiah 7:14's Hebrew wording does not unambiguously predict a virginal conception; Matthew cites the Greek wording.",
+    "Paul and Mark do not explicitly mention the virginal conception, and their silence is not an explicit denial.",
+    "Assumptions about miracles substantially affect the conclusion."
+  ],
+  "disagreed": [
+    {
+      "point": "Timing of the gospel accounts",
+      "positions": "Gemini dates Matthew and Luke to 50–60 years after Jesus's birth; Opus says roughly 80–90 years. GPT and Grok state only that the accounts came decades later."
+    },
+    {
+      "point": "Independence and origin of the tradition",
+      "positions": "Opus considers a shared pre-gospel tradition very likely; Gemini describes the accounts as independent documents but favors theological composition over family memory. Grok sees no simple copying but considers independent, reliable family memory unlikely. GPT says independent firsthand sources are possible but not established."
+    },
+    {
+      "point": "Strength of the theological-development explanation",
+      "positions": "Gemini rates a theological legend highly probable and describes the evidence as decisive. Opus favors theological development but considers its origin genuinely uncertain. Grok favors theology and legend over reliable family memory; GPT favors ordinary conception and development of tradition while stressing the limits of the evidence."
+    },
+    {
+      "point": "Significance of earlier silence",
+      "positions": "Gemini regards the silence of Paul, Mark and John as strong evidence of ignorance and later development. Grok calls it significant but not denial; Opus calls it moderately significant. GPT cautions against treating silence as denial."
+    },
+    {
+      "point": "Certainty and probability",
+      "positions": "GPT assigns 1% with low confidence, Gemini 3% with high confidence, Grok 5% with low confidence, and Opus 4% with medium confidence. They differ in how strongly they think the evidence and assumptions support their judgments."
+    }
+  ],
+  "deciding_cruxes": [
+    "How probable is divine intervention before assessing the gospel accounts?",
+    "Do Matthew and Luke preserve independent, early and reliable testimony, especially from Jesus's family, or a developing theological tradition?",
+    "How much weight should be given to earlier writers' silence and to tensions in the infancy narratives?",
+    "Does Matthew's use of Isaiah interpret an existing memory or help explain the development of the story?",
+    "What role should theological commitments and church authority play alongside historical evidence?"
+  ],
+  "what_is_settled": "The reviews agree that Matthew and Luke describe a virginal conception, that their firsthand sources have not been independently established, and that no human parthenogenetic live birth has been verified.",
+  "what_is_open": "Whether the conception occurred, how the tradition originated, how independent and reliable its sources were, and how much weight to give silence and narrative differences remain disputed. The assessment also depends substantially on prior commitments about miracles and religious authority."
+}
+
+
+--- stderr ---

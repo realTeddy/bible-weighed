@@ -1,0 +1,161 @@
+{
+  "kind": "philosophical",
+  "verdict": "Inconsistent under coherent definitions of justice and love; defensible only by redefining those terms beyond human moral recognition.",
+  "credence": 12,
+  "confidence": "high",
+  "bottom_line": "The claim that eternal conscious punishment in hell is consistent with a just and loving God faces insurmountable philosophical and moral contradictions under any standard understanding of those attributes. Retributive justice fundamentally requires proportionality between guilt and punishment, yet inflicting an infinite duration of conscious agony for a finite lifetime of sins represents an infinite disproportion. Furthermore, omnibenevolence entails willing the ultimate flourishing and good of the beloved, making God's eternal, unredeemable abandonment of a creature to torment indistinguishable from malice or total indifference. Defenses grounded in creaturely free will or continuous sin in hell fail because no rational agent with full epistemic clarity would choose unending ruin, and sustaining agents solely to watch them suffer and sin indefinitely makes God the curator of gratuitous evil. Consequently, outside of dogmatic theological commitments, contemporary philosophy of religion overwhelmingly finds traditional eternal conscious torment logically incompatible with classical theism's moral claims.",
+  "sub_claims": [
+    {
+      "claim": "Eternal conscious torment satisfies the retributive requirement of proportionality in divine justice.",
+      "kind": "philosophical",
+      "case_for": "According to the classical Anselmian and Thomistic tradition, the gravity of an offense is determined by the majesty and dignity of the one offended; since God is of infinite dignity and goodness, any sin against Him incurs infinite guilt, which justly merits an infinite punishment.",
+      "case_against": "Moral culpability is universally recognized to scale with the knowledge, intent, and capacity of the actor, not the metaphysical status of the recipient; a finite creature with severely limited cognition and broken nature cannot perform an action of infinite culpability, making infinite torment an infinite injustice.",
+      "consensus": "Broad consensus among philosophers and ethicists that infinite punishment for finite actions violates proportional desert; defended primarily within confessional dogmatics.",
+      "evidence": [
+        "Anselm of Canterbury, Cur Deus Homo (c. 1098)",
+        "Thomas Aquinas, Summa Theologiae, Supplement, Q. 99",
+        "Marilyn McCord Adams, Horrendous Evils and the Goodness of God (1999)"
+      ],
+      "verdict": "Fails; violates the core principle of retributive proportionality by conflating victim status with agent culpability.",
+      "credence": 8
+    },
+    {
+      "claim": "Consigning a creature to unending conscious torment is consistent with perfect divine love (omnibenevolence).",
+      "kind": "philosophical",
+      "case_for": "God's love does not override creaturely integrity or moral agency; love respects the creature's definitive refusal of communion, permitting the creature to exist in separation rather than coercing unwanted intimacy.",
+      "case_against": "Love essentially seeks the highest good and flourishing of the beloved; allowing an epistemically impaired, traumatized, or misguided creature to suffer endless, unredeemable conscious agony when God has the power to heal, enlighten, or annihilate them directly contradicts any meaningful definition of love.",
+      "consensus": "Widely rejected in contemporary philosophy of religion; recognized as the primary internal tension in Christian theodicy, leading many theistic philosophers toward universalism or annihilationism.",
+      "evidence": [
+        "Thomas Talbott, The Inescapable Love of God (1999)",
+        "David Bentley Hart, That All Shall Be Saved (2019)",
+        "C.S. Lewis, The Great Divorce (1945)"
+      ],
+      "verdict": "Incompatible with omnibenevolence under any coherent, non-equivocal definition of love.",
+      "credence": 10
+    },
+    {
+      "claim": "The Free Will Defense successfully explains hell as a self-imposed, self-locked condition rather than active divine retribution.",
+      "kind": "philosophical",
+      "case_for": "Hell is not an active torture chamber imposed by God, but the ultimate respect for human autonomy where 'the doors are locked from the inside' (C.S. Lewis); the damned freely prefer self-centered misery to divine communion.",
+      "case_against": "Genuine free choice requires epistemic competence; no rational creature possessing full knowledge and clarity would freely choose eternal misery over beatitude. Furthermore, in human morality, allowing an impaired agent to make a permanent, catastrophic choice without intervention is considered gross negligence, not love.",
+      "consensus": "Divided; popular among contemporary conservative apologists (Plantinga, Craig, Walls), but heavily criticized by philosophical ethicists and action theorists as psychologically and conceptually incoherent.",
+      "evidence": [
+        "Jerry L. Walls, Hell: The Logic of Damnation (1992)",
+        "David Bentley Hart, That All Shall Be Saved (2019), Chapter 3",
+        "Keith DeRose, 'Universalism and Free Will', Religious Studies (1991)"
+      ],
+      "verdict": "Unsound; relies on an implausible psychology of agency and an abdication of parental moral duty.",
+      "credence": 18
+    },
+    {
+      "claim": "Eternal punishment is justified because the damned continually sin in hell, perpetually incurring new punishment.",
+      "kind": "philosophical",
+      "case_for": "Punishment is unending not merely for past earthly sins, but because the damned persistently harden their hearts, endlessly blaspheming and rebelling against God, thereby perpetually accumulating new guilt (D.A. Carson).",
+      "case_against": "God sovereignly sustains the damned in an environment where sanctification and repentance are impossible, effectively trapping them in an inescapable cycle of sin and agony; sustaining a system that guarantees perpetual moral evil and suffering makes God the curator of gratuitous horror.",
+      "consensus": "Regarded as an ad hoc theological maneuver; rejected by most ethicists and philosophers of religion as rendering God morally complicit in permanent evil.",
+      "evidence": [
+        "D.A. Carson, The Gagging of God (1996)",
+        "William Lane Craig, 'No Other Name': A Middle Knowledge Perspective (1989)",
+        "Michael J. Murray, Nature Red in Tooth and Claw: Theism and the Problem of Animal Suffering (2008)"
+      ],
+      "verdict": "Fails; turns hell into an eternal engine of gratuitous sin and suffering actively sustained by God.",
+      "credence": 14
+    },
+    {
+      "claim": "Christian scripture and historical theology uniquely and unequivocally require eternal conscious torment.",
+      "kind": "textual",
+      "case_for": "Passages such as Matthew 25:46, Revelation 14:11, and Revelation 20:10 explicitly use terms like 'eternal punishment' (kolasin aionion) and describe the smoke of torment ascending forever, establishing the dominant historic tradition of the Western church.",
+      "case_against": "The biblical corpus is polyphonic: extensive passages teach conditional immortality or destruction of the wicked ('second death', Matthew 10:28, John 3:16, Romans 6:23), while Paul repeatedly uses universalist language of cosmic reconciliation (Romans 5:18, 1 Corinthians 15:22, Colossians 1:20); early patristic theology prominently featured both annihilationism and universal restoration (apokatastasis).",
+      "consensus": "No consensus among critical biblical scholars; strong consensus that the New Testament contains competing theological trajectories rather than a single systematic doctrine of eternal conscious torment.",
+      "evidence": [
+        "Edward Fudge, The Fire That Consumes (1982)",
+        "Ilaria Ramelli, The Christian Doctrine of Apokatastasis (2013)",
+        "Richard Bauckham, The Fate of the Dead in Early Christianity (1998)"
+      ],
+      "verdict": "Textually underdetermined; conditionalism and universalism have equally plausible scriptural and historical roots.",
+      "credence": 32
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does the moral gravity of an offense track the infinite majesty of the victim or the finite capacity and culpability of the agent?",
+      "type": "definition",
+      "if_yes": "If the status of the victim determines infinite guilt, eternal conscious punishment can formally meet the criterion of retributive justice.",
+      "if_no": "If desert is strictly bounded by the finite understanding, biology, and culpability of the human actor, infinite retributive punishment is inherently unjust.",
+      "your_view": "Desert must track the agent's culpability, knowledge, and capacity; scaling guilt strictly by the metaphysical grandeur of the victim is an archaic feudal concept that contradicts modern and classical ethical philosophy."
+    },
+    {
+      "crux": "Can divine love be meaningfully defined in a way that permits God to abandon a beloved creature to unending, irredeemable conscious suffering?",
+      "type": "definition",
+      "if_yes": "If love merely requires granting libertarian autonomy regardless of how catastrophic the outcome, eternal torment could be nominally reconciled with love.",
+      "if_no": "If love necessarily entails willing and pursuing the ultimate good and flourishing of the individual beloved, eternal conscious torment is a direct logical contradiction.",
+      "your_view": "Love requires willing the good of the other; redefining love to include abandoning a creature to eternal agony evacuates the word of all moral meaning, rendering it an equivocal label for raw power."
+    },
+    {
+      "crux": "Should human moral faculties be considered competent to evaluate divine justice and love, or should skeptical theism prevail?",
+      "type": "prior",
+      "if_yes": "If our moral intuitions are largely reliable, eternal conscious punishment must be rejected as unjust and unloving.",
+      "if_no": "If divine justice and love operate on principles entirely beyond human cognitive comprehension, eternal conscious torment cannot be logically disproven, though it ceases to be meaningfully intelligible.",
+      "your_view": "Radical skeptical theism destroys theological discourse; if divine goodness can encompass what is indistinguishable from infinite cruelty, believers lose any warrant for praising God as good or just."
+    }
+  ],
+  "strongest_for": [
+    "The Free Will / Self-Exclusion Defense: Hell represents God's tragic respect for human autonomy, where creatures choose isolation over submission to God, locking the doors from the inside.",
+    "The Anselmian Infinite Offense Argument: Offenses against a Being of supreme, infinite majesty, holiness, and worth incur an objective debt that finite beings can never exhaustively repay.",
+    "Perpetual Ongoing Sin: Damnation is just because those in hell continue to rebel, curse God, and sin eternally, generating an unending accumulation of deserved punishment.",
+    "Historic Church Consensus: Major ecumenical traditions (patristic majorities, medieval scholasticism, Roman Catholic dogma, Reformation confessions) have historically affirmed eternal conscious torment based on apostolic texts."
+  ],
+  "strongest_against": [
+    "Gross Disproportionality: Subjecting a finite being to an infinite duration of agony for sins committed during a brief, biologically constrained, and culturally conditioned lifespan violates proportional justice.",
+    "Contradiction of Omnibenevolence: An omnipotent and omniscient Creator who brings beings into existence knowing they will suffer unending torment, and who refuses to either redeem or mercifully extinguish them, fails to exhibit love.",
+    "Coherence of Choice: No rational agent acting with complete knowledge and freedom would permanently choose infinite agony; consigning people to eternal ruin based on temporal, fallible choices reflects epistemic failure, not genuine libertarian self-determination.",
+    "Eternal Triumph of Evil: An eternal hell leaves evil, suffering, and hatred permanently institutionalized within creation, contradicting the eschatological vision of God being 'all in all' and overcoming all evil."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Divine Justice Demands Hell Over Love: Treating God's justice and love as competing attributes violates classical divine simplicity, reducing God's nature to an internal conflict where wrath overrides benevolence.",
+      "Sinners in Hell Would Hate Heaven More: Suggests hell is an act of mercy because heaven would be intolerable; however, if heaven were intolerable, merciful non-existence (annihilation) would be the loving response, not unending conscious torment.",
+      "Without Eternal Hell There Is No Moral Accountability: Assumes moral behavior requires the threat of infinite torture, ignoring that finite purgation, restorative justice, or annihilation provide substantial accountability without infinite cruelty."
+    ],
+    "against": [
+      "Hell Was Invented by the Medieval Church for Money: Historically false; detailed descriptions of post-mortem fiery punishment existed widely in Second Temple Jewish apocalyptic literature and Greco-Roman traditions well before medieval Catholicism.",
+      "A Truly Loving God Would Never Punish Anyone: Fails to recognize that love frequently demands just retribution, moral boundary-setting, and painful discipline; the philosophical issue is specifically the *infinite and unredeeming* duration, not punishment itself.",
+      "Jesus Never Mentioned Hell: Factually inaccurate regarding the Gospels; the Synoptic Jesus frequently utilizes vivid Gehenna and judgment imagery, even if the precise metaphysical interpretation of those warnings remains debated."
+    ]
+  },
+  "would_change": [
+    "A rigorous, non-fallacious philosophical model demonstrating how an offense by a finite agent can justly incur infinite retributive desert without relying on the rejected premise of victim-status scaling.",
+    "A sound psychological and metaphysical proof demonstrating that a fully informed, rational, and free agent could permanently and voluntarily prefer unending conscious agony to beatitude.",
+    "Overwhelming textual and historical proof that New Testament authors and early Christians unanimously and unambiguously held eternal conscious torment to the complete exclusion of annihilationism and universal reconciliation.",
+    "A coherent formulation of skeptical theism that successfully preserves the meaningful moral content of divine 'love' and 'justice' while simultaneously justifying infinite torment."
+  ],
+  "sources": [
+    {
+      "citation": "David Bentley Hart, That All Shall Be Saved: Heaven, Hell, and Universal Reconciliation, Yale University Press, 2019",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Marilyn McCord Adams, Horrendous Evils and the Goodness of God, Cornell University Press, 1999",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Thomas Talbott, The Inescapable Love of God, Universal Publishers, 1999",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Jerry L. Walls, Hell: The Logic of Damnation, University of Notre Dame Press, 1992",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Edward Fudge, The Fire That Consumes: The Biblical Case for Conditional Immortality, Providential Press, 1982",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Jonathan Edwards, The Justice of God in the Damnation of Sinners, Sermon on Romans 3:19, 1734",
+      "kind": "primary"
+    }
+  ]
+}
+
+
+--- stderr ---

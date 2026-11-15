@@ -1,0 +1,2370 @@
+{
+ "topic": {
+  "id": 2,
+  "category": "History",
+  "short": "The Resurrection",
+  "resolution": "Jesus rose bodily from the dead"
+ },
+ "endReason": "mutual_close",
+ "conceded": null,
+ "turns": [
+  {
+   "round": 1,
+   "side": "theist",
+   "type": "opening",
+   "speech": "Thank you. My case is an inference to the best explanation. I'll set out four historical data points that most critical scholars accept, whether or not they believe, and then argue that the bodily resurrection explains them better than the alternatives.\n\n**1. Very early testimony.** In 1 Corinthians 15:3–8, written around AD 53–55, Paul passes on a tradition he says he \"received\": Christ died, was buried, was raised on the third day, and appeared to Cephas, the Twelve, more than 500 at once, James, and then Paul himself. Scholars from Gerd Lüdemann to James D. G. Dunn date this formula to within a few years of the crucifixion. Paul also says he met Cephas and James in Jerusalem (Galatians 1:18–19). This is not a late legend. It is a claim that witnesses who could be named were making from the very start.\n\n**2. The empty tomb.** I'll be candid that this is more contested than the appearances. Still, a majority of specialists accept it. Mark's account is early. Women are the primary witnesses, which is embarrassing given how their testimony was treated (compare Josephus, *Antiquities* 4.219). And the earliest Jewish counter-claim, that the disciples stole the body (Matthew 28:11–15; Justin, *Dialogue with Trypho* 108), already grants that the tomb was empty. Proclaiming a resurrection in Jerusalem would also have been hard to sustain if the body was still in a known grave.\n\n**3. Appearances to individuals and to groups.** Bart Ehrman writes that it is historically certain some disciples believed they saw Jesus alive after his death. Grief hallucinations do happen, but they are generally private experiences. They don't readily explain shared group appearances, or the conversion of hostile outsiders: Paul the persecutor, and James the skeptical brother (Mark 3:21; John 7:5).\n\n**4. The origin of the belief itself.** N. T. Wright's *The Resurrection of the Son of God* (2003) shows that in Second Temple Judaism, \"resurrection\" meant a bodily, end-of-days event for all the righteous. It did not mean a single man raised in the middle of history. A crucified Messiah was a falsified Messiah (Deuteronomy 21:23; Galatians 3:13). Yet these Jewish followers proclaimed a bodily raised Messiah at once. Paul's \"spiritual body\" (1 Cor 15:44) is a transformed body, not an immaterial one: what is \"sown\" is what is \"raised.\" Some of them, including James (Josephus, *Antiquities* 20.200), died rather than give it up.\n\nTheft, wrong tomb, swoon, and hallucination each explain one data point at most, and each strains against the others. The resurrection hypothesis explains all four.\n\nTwo concessions up front. First, historical method alone can't prove a miracle. How probable the resurrection is depends partly on your background view of whether God exists. That's why I'll argue theism is at least a live option, and that the event fits a context of real religious meaning. Second, the Gospels show real discrepancies in their details. Those affect the secondary details, not the core claims listed above.\n\nI invite my opponent to offer one naturalistic account that explains all four facts together.",
+   "claims": [
+    {
+     "claim": "1 Corinthians 15:3-8 preserves a pre-Pauline tradition dating within a few years of the crucifixion",
+     "confidence": 90
+    },
+    {
+     "claim": "A majority of critical scholars accept the empty tomb, though it is more contested than the appearances",
+     "confidence": 70
+    },
+    {
+     "claim": "Some disciples sincerely believed they saw the risen Jesus, as even skeptics like Ehrman grant",
+     "confidence": 95
+    },
+    {
+     "claim": "Paul and James converted from skepticism or hostility because of experiences they took to be appearances",
+     "confidence": 80
+    },
+    {
+     "claim": "Second Temple Jewish resurrection belief was bodily and eschatological, so the early proclamation was a surprising development",
+     "confidence": 80
+    },
+    {
+     "claim": "The bodily resurrection explains the core facts better than any single naturalistic hypothesis",
+     "confidence": 70
+    },
+    {
+     "claim": "Jesus rose bodily from the dead",
+     "confidence": 80
+    }
+   ],
+   "concessions": [
+    {
+     "point": "Historical method alone cannot prove a miracle; the probability assessment depends partly on background beliefs about God's existence",
+     "significance": "moderate"
+    },
+    {
+     "point": "The Gospel resurrection narratives contain genuine discrepancies in secondary details",
+     "significance": "minor"
+    },
+    {
+     "point": "The empty tomb is more contested among scholars than the appearance traditions",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 15:3-8, 15:44",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Galatians 1:18-19; 3:13",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mark 16:1-8; Mark 3:21; John 7:5; Matthew 28:11-15",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Deuteronomy 21:23",
+     "kind": "scripture"
+    },
+    {
+     "citation": "N. T. Wright, The Resurrection of the Son of God (Fortress, 2003)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Bart D. Ehrman, How Jesus Became God (2014) / The New Testament: A Historical Introduction",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gerd Lüdemann, The Resurrection of Jesus (1994), on early dating of the 1 Cor 15 formula",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "James D. G. Dunn, Jesus Remembered (2003)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Josephus, Antiquities 4.219 (women's testimony) and 20.200 (death of James)",
+     "kind": "ancient_source"
+    },
+    {
+     "citation": "Justin Martyr, Dialogue with Trypho 108",
+     "kind": "ancient_source"
+    }
+   ],
+   "questions": [
+    "Which naturalistic hypothesis, or combination, do you hold explains the early appearance tradition, the conversions of Paul and James, and the origin of bodily resurrection belief together?",
+    "Do you accept that 1 Corinthians 15:3-8 reflects a tradition formulated within roughly five years of the crucifixion?"
+   ],
+   "signal": "continue",
+   "signal_reason": "This is the opening round and the opponent has not yet responded."
+  },
+  {
+   "round": 1,
+   "side": "atheist",
+   "type": "opening",
+   "speech": "Thank you. I'll start by accepting a lot of my opponent's case. Jesus was crucified. 1 Corinthians 15:3–7 preserves a tradition that is very early, plausibly from within the first few years. His followers sincerely believed they had seen him. So my disagreement is about the inference, not the data.\n\n**1. The prior probability matters, and my opponent has granted it.** A bodily resurrection isn't a normal historical claim. It asks us to believe that the laws governing corpses were suspended once. Ancient texts that are early and sincere still record many events no historian accepts. Since history can't prove a miracle, the real question is whether ordinary human processes could produce these beliefs. They plainly can.\n\n**2. The earliest evidence is visionary, not bodily.** Paul is our only eyewitness source. He puts his own experience in the same list, using the same verb, *ōphthē*, \"he appeared.\" Paul's own experience was a revelation \"in me\" (Galatians 1:16). Acts describes it as a light and a voice that his companions did not see in the same way (Acts 9:7; 22:9). Paul never mentions an empty tomb, women, or Jesus eating. Look at the order the texts were written in. Mark (c. 70) has no appearance at all and ends with the women telling no one (16:8). Matthew adds guards and an earthquake. Luke and John add a Jesus who can be touched and who eats fish. The Gospel of Peter has a giant figure followed by a talking cross. That is how legends grow.\n\n**3. The tomb is weak evidence.** Romans often left crucified bodies exposed, but there were exceptions. Josephus (*Jewish War* 4.317) shows that Jews buried even crucified men, so I grant that some burial is plausible. A hasty or criminal burial, though, is not a tomb anyone could later point to (see Bart Ehrman, *How Jesus Became God*, ch. 4). The \"stolen body\" polemic is a reply to the Christian story, decades later. It is not an independent check on the tomb.\n\n**4. My naturalistic account, as requested.** Grief visions are very common. Studies of the bereaved find that a large minority report sensing or seeing the dead. Peter, grieving and probably guilty after his denial, has such an experience. In a small, tightly bound apocalyptic group, the report spreads and others have their own experiences. Dale Allison, a Christian scholar, documents collective bereavement experiences in *Resurrecting Jesus* (2005). Collective sightings also occur in Marian apparitions such as Zeitoun (1968), which my opponent presumably does not count as real. Paul's experience is a vision. On Wright's argument: these were apocalyptic Jews who expected the general resurrection soon. Visions of Jesus would naturally be read as its \"firstfruits\" (1 Cor 15:20). Mark 6:14–16 shows that an individual being \"raised\" was already thinkable. Leon Festinger's *When Prophecy Fails* (1956) shows that groups often strengthen their commitment after a disconfirmation.\n\nMartyrdom shows sincerity, which I've already granted. It does not show that the belief was true. Each step in my account is a documented human behavior. The resurrection hypothesis needs a God who exists and chose to act. That assumption carries the whole explanation.",
+   "claims": [
+    {
+     "claim": "Paul, the only eyewitness source, describes his own experience as visionary and lists it alongside the others using the same verb, ophthe",
+     "confidence": 85
+    },
+    {
+     "claim": "The Gospel resurrection narratives become more physical and more elaborate in the order they were written (Mark to Matthew to Luke/John to the Gospel of Peter), a pattern of legendary development",
+     "confidence": 80
+    },
+    {
+     "claim": "Paul never explicitly mentions an empty tomb",
+     "confidence": 90
+    },
+    {
+     "claim": "Bereavement visions combined with group dynamics and apocalyptic reinterpretation give a sufficient naturalistic account of the belief",
+     "confidence": 70
+    },
+    {
+     "claim": "Because resurrection has a very low prior probability, sincere early testimony is not enough to establish it",
+     "confidence": 80
+    },
+    {
+     "claim": "Mark 6:14-16 shows that the idea of an individual being raised before the end was thinkable, which weakens Wright's novelty argument",
+     "confidence": 70
+    },
+    {
+     "claim": "A dishonorable or hasty burial would not produce a tomb that could later be identified, which makes the empty tomb weak evidence",
+     "confidence": 60
+    }
+   ],
+   "concessions": [
+    {
+     "point": "1 Corinthians 15:3-7 preserves a very early tradition, plausibly formulated within a few years of the crucifixion",
+     "significance": "moderate"
+    },
+    {
+     "point": "The early disciples, including Paul and James, sincerely believed they had experienced the risen Jesus, and some suffered for it",
+     "significance": "moderate"
+    },
+    {
+     "point": "Some form of burial of Jesus is plausible given Jewish practice (Josephus, Jewish War 4.317)",
+     "significance": "minor"
+    },
+    {
+     "point": "Group appearance claims are harder to explain with private hallucination alone, which is why my account relies on group dynamics and collective visionary experiences",
+     "significance": "moderate"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 15:3-8, 15:20, 15:44; Galatians 1:16",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 9:7; 22:9",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mark 16:8; Mark 6:14-16; Matthew 28; Luke 24:39-43; John 20-21",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Gospel of Peter 10:39-42 (the walking, speaking cross)",
+     "kind": "ancient_source"
+    },
+    {
+     "citation": "Josephus, Jewish War 4.317",
+     "kind": "ancient_source"
+    },
+    {
+     "citation": "Bart Ehrman, How Jesus Became God (2014), ch. 4",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison Jr., Resurrecting Jesus (2005)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Leon Festinger, Henry Riecken, Stanley Schachter, When Prophecy Fails (1956)",
+     "kind": "science"
+    },
+    {
+     "citation": "Marian apparitions at Zeitoun, Egypt (1968-1971)",
+     "kind": "other"
+    }
+   ],
+   "questions": [
+    "If Paul counts his own vision as the same kind of appearance as the others in 1 Cor 15, what evidence that the earlier appearances were bodily rather than visionary comes before the Gospels?",
+    "Do you accept collective apparitions such as Zeitoun as real? If not, what principled criterion lets you reject them while accepting the group appearances in 1 Cor 15?",
+    "What prior probability would you assign to a bodily resurrection before looking at the specific evidence, and how much evidence do you think it takes to overcome it?"
+   ],
+   "signal": "continue",
+   "signal_reason": "Both sides have only just set out their cases, and the key disputes over visionary versus bodily appearances, the tomb, and prior probability still need to be argued out."
+  },
+  {
+   "round": 2,
+   "side": "theist",
+   "type": "exchange",
+   "speech": "I'll take your three questions first.\n\n**1. Is there pre-Gospel evidence that the appearances were bodily?** You're right that Paul never describes them. I concede that the evidence before the Gospels is inferential, not descriptive. Here is the inference. The formula runs \"died... was buried... was raised.\" For a Pharisee, putting \"buried\" before \"raised\" points to the thing in the grave coming out of it. In 1 Corinthians 15:42–44 the same subject is \"sown\" and then \"raised.\" Romans 8:11 speaks of life given to \"your mortal bodies,\" and Philippians 3:21 says our body will be conformed to \"his glorious body.\" Paul also keeps the appearances apart from his ongoing \"visions and revelations\" (2 Cor 12:1). He calls his own appearance the \"last of all\" (1 Cor 15:8), and calling it last means the series had closed. A Jesus who appeared only in visions would have no reason to stop appearing.\n\n**2. Zeitoun.** I don't know what happened at Zeitoun, and I won't call it a hoax. But it isn't a parallel. There, crowds who were primed to expect Mary saw a light at a distance and argued over what it was. In 1 Corinthians 15, a man the witnesses knew is recognized and gives a commission. He also appears to people with no expectation at all, or with hostile ones: James and Paul.\n\n**3. Prior.** On naturalism the prior is close to zero, and I grant that openly. On theism, given Jesus's unique claims and his context, I'd put it very roughly at 1 in 100 to 1 in 1,000. Those figures are a judgment call, not a calculation. For a careful treatment of the likelihoods, see Timothy and Lydia McGrew in the *Blackwell Companion to Natural Theology* (2009).\n\n**Rebuttal.** Grief explains Peter. It doesn't explain Paul, who wasn't grieving, or James, who didn't believe. On Festinger: groups that suffer a disconfirmation fall back on categories they already have. Mark 6:14–16 is Herod guessing that John had come back. Nobody exalted John as Lord or proclaimed the end-time resurrection had begun in him. Allison himself judges an empty tomb more likely than not. If I've misremembered how strongly he puts that, I'll correct it.\n\n**Questions.** Why did Paul put \"buried\" in the formula at all if the body stayed where it was laid? And what triggered Paul's vision?",
+   "claims": [
+    {
+     "claim": "The 'died-buried-raised' sequence in 1 Cor 15:3-4 implies, for a Pharisee, that the buried body was raised",
+     "confidence": 75
+    },
+    {
+     "claim": "Paul distinguishes the resurrection appearances, which he treats as closed ('last of all'), from his ongoing visions and revelations",
+     "confidence": 70
+    },
+    {
+     "claim": "Zeitoun-type apparitions lack recognition of a known individual, commissioning, and appearances to skeptics, so they are not a close parallel",
+     "confidence": 65
+    },
+    {
+     "claim": "Grief-hallucination theory does not readily explain Paul or James",
+     "confidence": 70
+    },
+    {
+     "claim": "Mark 6:14-16 does not provide a precedent for proclaiming an individual's eschatological resurrection and exaltation",
+     "confidence": 70
+    },
+    {
+     "claim": "Dale Allison judges the empty tomb more probable than not",
+     "confidence": 60
+    },
+    {
+     "claim": "Given theism and Jesus' context, the prior for resurrection is not vanishingly small (roughly 1/100 to 1/1000)",
+     "confidence": 45
+    }
+   ],
+   "concessions": [
+    {
+     "point": "There is no pre-Gospel source that explicitly describes the earlier appearances as physical; the case for bodily appearances before the Gospels is inferential",
+     "significance": "moderate"
+    },
+    {
+     "point": "On a naturalistic background the prior probability of resurrection is close to zero",
+     "significance": "moderate"
+    },
+    {
+     "point": "My numerical prior conditional on theism is a rough judgment, not a rigorous calculation",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 15:3-8, 42-44",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Romans 8:11; Philippians 3:21; 2 Corinthians 12:1",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mark 6:14-16",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Timothy and Lydia McGrew, 'The Argument from Miracles,' in Blackwell Companion to Natural Theology (2009)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale C. Allison, Resurrecting Jesus (2005)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Leon Festinger et al., When Prophecy Fails (1956)",
+     "kind": "scholarship"
+    }
+   ],
+   "questions": [
+    "Why include 'buried' in the earliest formula if the risen Jesus left his body in the grave?",
+    "What psychological trigger do you propose for Paul's vision, given that he was a persecutor, not a grieving disciple?"
+   ],
+   "signal": "continue",
+   "signal_reason": "Key issues remain open and productive: how to read Paul on the body, how to explain Paul and James, and how priors should be weighed."
+  },
+  {
+   "round": 2,
+   "side": "atheist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**Why \"buried\"?** Partly to confirm that Jesus really died. \"Died and was buried\" is a standard Jewish pairing for that (compare Acts 2:29 on David). But I'll grant the stronger point. A Pharisee like Paul probably did assume the body left the grave. That tells us what Paul believed. It doesn't tell us anyone checked. Once you believe God raised Jesus, believing the tomb is empty follows from that, without anyone needing to look. Paul's own model also cuts against a reanimated corpse. \"You do not sow the body that is to be\" (1 Cor 15:37), and \"flesh and blood cannot inherit the kingdom\" (15:50). The body is transformed and continuous, yes. But that is a theological claim, not a report of what anyone saw.\n\n**What triggered Paul's vision?** I'll be honest: we can't psychoanalyze Paul, so any answer is speculation. Here is what we do know. He was a visionary by temperament. He reports heavenly ascents (2 Cor 12:1–4), speaks in tongues \"more than all of you\" (1 Cor 14:18), and hears the Lord speak to him (2 Cor 12:9). A zealot who was close to the people he persecuted, and possibly troubled by them, is a recognizable psychological profile. The trigger is unknown, not inexplicable.\n\n**Rebuttal.** \"Last of all\" doesn't show the appearances had ended. Christians kept seeing Jesus afterwards: Stephen (Acts 7:56), Paul in a trance in the Temple (Acts 22:17–18), John (Rev 1). Paul's \"last\" most likely asserts his rank as an apostle (15:9). On James, Acts 1:14 already puts Jesus's brothers among the believers. We have no account of an appearance to James, and nothing shows his conversion came after one. On Allison, you remember him correctly. He leans cautiously toward the empty tomb, and I accept that.\n\n**Questions.** (1) Given Acts 7 and 22, what makes Paul's Damascus experience different in kind from later visions of Jesus? (2) What evidence shows that James's belief began after an appearance, not before?",
+   "claims": [
+    {
+     "claim": "Paul's 'buried' plausibly reflects his assumption of an empty grave, but that assumption can be inferred from resurrection belief rather than verified observation",
+     "confidence": 72
+    },
+    {
+     "claim": "1 Cor 15:37 and 15:50 show Paul conceived the resurrection body as transformed rather than resuscitated flesh",
+     "confidence": 75
+    },
+    {
+     "claim": "Paul had a visionary temperament attested in his own letters (2 Cor 12:1-4; 1 Cor 14:18)",
+     "confidence": 85
+    },
+    {
+     "claim": "Visions of Jesus continued after Paul's (Acts 7:56; 22:17-18; Rev 1), weakening the 'closed series' argument",
+     "confidence": 70
+    },
+    {
+     "claim": "No source shows that James's belief came only after an appearance; Acts 1:14 places Jesus' brothers among early believers",
+     "confidence": 65
+    }
+   ],
+   "concessions": [
+    {
+     "point": "Paul, as a Pharisee, probably assumed Jesus's body left the grave",
+     "significance": "moderate"
+    },
+    {
+     "point": "Any specific psychological trigger for Paul's vision is speculative; we can't access his psychology directly",
+     "significance": "moderate"
+    },
+    {
+     "point": "The opponent correctly reports that Dale Allison leans cautiously toward the empty tomb being historical",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 15:8-9, 15:37, 15:50",
+     "kind": "scripture"
+    },
+    {
+     "citation": "2 Corinthians 12:1-4, 12:9; 1 Corinthians 14:18",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 1:14; 2:29; 7:56; 22:17-18; Revelation 1",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Dale C. Allison, Resurrecting Jesus (2005)",
+     "kind": "scholarship"
+    }
+   ],
+   "questions": [
+    "Given Acts 7:56 and 22:17-18, what principled feature makes Paul's Damascus experience different in kind from later visions of Jesus?",
+    "What evidence shows that James's belief began after an appearance rather than before it?"
+   ],
+   "signal": "continue",
+   "signal_reason": "The two main open issues, how Paul understood the body and the 'closed series' argument, are still being argued productively."
+  },
+  {
+   "round": 3,
+   "side": "theist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. Damascus versus later visions.** I'll be honest about how far this goes. Nothing in the *experience* itself has to set Damascus apart. Acts describes light and a voice, not touch. The difference lies in how Paul and Luke classify it. Paul treats \"Have I not seen Jesus our Lord?\" (1 Cor 9:1) as a credential that makes him an apostle. He never makes that claim for his later revelations (2 Cor 12:1). Luke keeps the categories apart too. The appearances end with the ascension (Acts 1:3, 9). Acts 22:17 is explicitly \"in a trance\" (*ekstasis*). Stephen sees Jesus in heaven, not on earth. You may be right that \"last of all\" partly asserts Paul's rank. Still, paired with *ektrōma*, \"untimely born\" (15:8), it most naturally marks him as late and out of sequence. So the distinction is one the early community drew, not one I can read off the phenomenology.\n\n**2. James.** No account of the appearance survives. The one in the Gospel of the Hebrews, quoted by Jerome (*De viris illustribus* 2), is late and legendary. Here is the evidence I do have. The Gospels show James unbelieving during the ministry (Mark 3:21, 31–35; John 7:5). 1 Corinthians 15:7 lists an appearance to him. By Galatians 1:19 and 2:9 he is a \"pillar.\" Acts 1:14 doesn't help you, because it is set *after* the appearances (1:3). I concede that \"conversion through an appearance\" is a probable inference, not something the texts show. That weakens James as a hostile witness.\n\n**Pressing.** \"Flesh and blood\" (15:50) is a Semitic idiom for mortal human nature (compare Gal 1:16; Matt 16:17). Paul goes straight on: \"*this* perishable must put on imperishability\" (15:53). Your case needs a tomb nobody could check. Yet Mark names Joseph of Arimathea, a member of the Sanhedrin, as the man who buried Jesus (15:43). That is an odd thing to invent. Raymond Brown (*The Death of the Messiah*, 1994) judged the Joseph burial probably historical.\n\n**Questions.** (1) If Joseph's burial is historical, how does your account survive a known tomb? (2) Why would visionaries in Jerusalem stress \"the third day\" rather than an exaltation to heaven?",
+   "claims": [
+    {
+     "claim": "Paul and Luke distinguish the resurrection appearances, as an apostolic credential that ended, from later visions (1 Cor 9:1; 15:8; Acts 1:3, 9; 22:17)",
+     "confidence": 75
+    },
+    {
+     "claim": "Acts 1:14 is set after the appearances and so does not show that James believed before Easter",
+     "confidence": 80
+    },
+    {
+     "claim": "James was an unbeliever during Jesus's ministry and later became a leader of the church",
+     "confidence": 80
+    },
+    {
+     "claim": "'Flesh and blood' in 1 Cor 15:50 is an idiom for mortal nature, not a denial of bodily continuity",
+     "confidence": 75
+    },
+    {
+     "claim": "The burial by Joseph of Arimathea is probably historical, as Raymond Brown judged",
+     "confidence": 65
+    }
+   ],
+   "concessions": [
+    {
+     "point": "In terms of the experience itself, Paul's Damascus encounter may not differ in kind from later visions; the distinction rests on how the early community classified it",
+     "significance": "moderate"
+    },
+    {
+     "point": "No account of the appearance to James survives; that his conversion followed an appearance is a probable inference, not something the texts show, which weakens him as a hostile witness",
+     "significance": "moderate"
+    },
+    {
+     "point": "'Last of all' in 1 Cor 15:8 may partly express apostolic rank rather than purely the end of a sequence",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 9:1; 15:7-8, 50, 53",
+     "kind": "scripture"
+    },
+    {
+     "citation": "2 Corinthians 12:1",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 1:3, 9, 14; 22:17",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mark 3:21, 31-35; 15:43; John 7:5",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Galatians 1:16, 19; 2:9; Matthew 16:17",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Jerome, De viris illustribus 2 (Gospel of the Hebrews)",
+     "kind": "ancient_source"
+    },
+    {
+     "citation": "Raymond E. Brown, The Death of the Messiah (1994)",
+     "kind": "scholarship"
+    }
+   ],
+   "questions": [
+    "If Joseph of Arimathea's burial is historical, how does your account survive a known, checkable tomb in Jerusalem?",
+    "Why would visionaries stress 'raised on the third day', rather than simply that Jesus was exalted to heaven, if no one believed the body had left the grave?"
+   ],
+   "signal": "continue",
+   "signal_reason": "Two key issues are still open and being argued productively: whether the burial was known and checkable, and how the earliest belief was shaped."
+  },
+  {
+   "round": 3,
+   "side": "atheist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. If Joseph's burial is historical.** That would be a real difficulty for my account, and I won't wave it away. Brown did judge the Joseph burial probably historical. But a historical Joseph doesn't give us a tomb that anyone checked. Mark 14:64 says \"all\" the council condemned Jesus. Acts 13:29 keeps a different tradition, in which \"they,\" meaning the Jerusalem rulers, took him down and laid him in a tomb. That reads like a burial carried out to obey Deuteronomy 21:23, not an act of devotion. The Mishnah (Sanhedrin 6:5) describes separate burial places kept for executed criminals, though it is late and may be idealized. Also, the disciples seem to have gone back to Galilee (Mark 14:28; 16:7). Acts puts the first public preaching seven weeks later. A known tomb raises the cost of my hypothesis. A known tomb that someone checked, early, is what your argument needs, and we don't have evidence of that.\n\n**2. Why \"the third day\"?** Your question assumes no one believed the body had left the grave, but I've already granted that Paul believed it. My claim is that the belief came from the visions plus theology, not from anyone inspecting the tomb. \"The third day\" is tied to \"according to the Scriptures\" (1 Cor 15:4). Hosea 6:2 says \"on the third day he will raise us up,\" and Jonah 1:17 gives three days in the fish. It may also just record when the first vision happened. I hold that one loosely.\n\n**Pressing.** You've now conceded that the appearances before the Gospels aren't described as physical, that Damascus doesn't differ in kind from later visions, and that James is not clearly a hostile witness. What remains is belief that an empty tomb *followed from* the resurrection, and that is exactly what my account predicts.\n\n**Questions.** (1) Which tradition came first: Mark's sympathetic Joseph, or the hostile burial by the rulers in Acts 13:29? (2) What pre-Markan evidence shows that anyone actually visited the tomb?",
+   "claims": [
+    {
+     "claim": "A historical burial by Joseph does not by itself show that an identifiable tomb was later checked",
+     "confidence": 70
+    },
+    {
+     "claim": "Acts 13:29 preserves a tradition in which Jesus's opponents buried him, which is in tension with Mark's sympathetic Joseph",
+     "confidence": 65
+    },
+    {
+     "claim": "The 'third day' motif can be explained by scriptural interpretation (Hos 6:2), given 'according to the Scriptures' in 1 Cor 15:4",
+     "confidence": 60
+    },
+    {
+     "claim": "The disciples probably returned to Galilee after the crucifixion, and the first Galilean appearances reduce the force of the claim that the tomb could be checked",
+     "confidence": 55
+    },
+    {
+     "claim": "The remaining pre-Gospel evidence fits a belief in an empty tomb that was inferred rather than observed",
+     "confidence": 65
+    }
+   ],
+   "concessions": [
+    {
+     "point": "If Joseph of Arimathea's burial is historical and the tomb was known, my account becomes harder to hold",
+     "significance": "moderate"
+    },
+    {
+     "point": "Raymond Brown judged the Joseph burial probably historical",
+     "significance": "minor"
+    },
+    {
+     "point": "The Mishnah Sanhedrin 6:5 evidence is late and may be idealized",
+     "significance": "minor"
+    },
+    {
+     "point": "My suggestion that 'the third day' records when the first vision happened is speculative",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "Mark 15:43; 14:64; 14:28; 16:7",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 13:29",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mishnah Sanhedrin 6:5",
+     "kind": "ancient_source"
+    },
+    {
+     "citation": "Hosea 6:2; Jonah 1:17; Deuteronomy 21:23",
+     "kind": "scripture"
+    },
+    {
+     "citation": "1 Corinthians 15:4",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Raymond Brown, The Death of the Messiah (1994)",
+     "kind": "scholarship"
+    }
+   ],
+   "questions": [
+    "Which burial tradition came first: Mark's sympathetic Joseph, or the hostile burial by the rulers in Acts 13:29?",
+    "What pre-Markan evidence shows that anyone actually visited the tomb?"
+   ],
+   "signal": "continue",
+   "signal_reason": "The burial and empty-tomb question is now the central disputed point and has not been settled, so the debate is still productive."
+  },
+  {
+   "round": 4,
+   "side": "theist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. Which burial tradition came first?** Mark, as a written text: around 70, against Acts around 80–90. But I don't think the two conflict. The same author who wrote Acts 13:29 also has Joseph bury Jesus (Luke 23:50–53), so Luke saw no contradiction between them. A speech that sums up what \"the rulers\" did can include one of their members acting. Brown himself suggested that Joseph may have acted as a law-observant council member following Deuteronomy 21:23, not as a disciple. If so, your tradition and mine come together: a burial by the authorities, carried out by a named man, with the women watching where (Mark 15:47). A known grave is still the result.\n\n**2. Pre-Markan evidence of a visit?** I concede it: no pre-Markan text reports anyone visiting the tomb. Some scholars (Rudolf Pesch, and more cautiously Brown) argue that Mark used a pre-Markan passion narrative that included the tomb, but that is disputed. My case here is inferential.\n\n**Pressing.** You say belief in the empty tomb simply follows from belief in the resurrection. That assumes visions would be read as \"raised\" in the first place. Jews had other categories ready to hand. When Peter shows up at the door, the household says, \"It is his angel\" (Acts 12:15). Luke 24:37 has the disciples think they are seeing a \"spirit.\" Wisdom 3:1–4 has the righteous dead at peace with God. Visions of a vindicated martyr fit \"exalted,\" \"his angel,\" or \"his spirit\" naturally. \"Raised\" fits only if they believed something had happened to the body. Also, the movement's leadership was in Jerusalem within weeks or months: Paul visits Cephas and James there around AD 35 (Gal 1:18–19). That is the same city where a council member's grave could be found. I grant this is partly an argument from silence.\n\n**Questions.** (1) Why did the visions produce \"raised\" and not the category already available, \"his angel\" or \"his spirit\"? (2) Do you grant that the leaders were based in Jerusalem by about 35, within reach of the grave?",
+   "claims": [
+    {
+     "claim": "Mark's burial account predates Acts 13:29 as a written text, and Luke himself saw no conflict between the two because he also reports the Joseph burial (Luke 23:50-53).",
+     "confidence": 85
+    },
+    {
+     "claim": "Brown suggested Joseph may have acted as a pious, law-observant council member and not as a disciple, which brings the Acts 13:29 tradition and the Mark tradition together.",
+     "confidence": 75
+    },
+    {
+     "claim": "Second Temple Jews had other categories (angel, spirit, exalted righteous) for interpreting visions of a dead person, so 'raised' implies a belief about the body.",
+     "confidence": 75
+    },
+    {
+     "claim": "By about AD 35 the movement's leaders, Cephas and James, were based in Jerusalem (Gal 1:18-19).",
+     "confidence": 90
+    },
+    {
+     "claim": "The argument that a locatable grave in Jerusalem would have constrained the proclamation is partly an argument from silence.",
+     "confidence": 80
+    }
+   ],
+   "concessions": [
+    {
+     "point": "No pre-Markan text explicitly reports anyone visiting the tomb; the case for an early checked tomb is inferential.",
+     "significance": "moderate"
+    },
+    {
+     "point": "The existence of a pre-Markan passion narrative that includes the tomb (Pesch, Brown) is disputed.",
+     "significance": "minor"
+    },
+    {
+     "point": "Mark's written burial account comes before Acts 13:29 only as a text; Acts 13:29 could preserve an independent tradition.",
+     "significance": "minor"
+    },
+    {
+     "point": "The argument from a locatable Jerusalem grave is partly an argument from silence.",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "Acts 13:29; Luke 23:50-53; Mark 15:43-47",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 12:15; Luke 24:37",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Wisdom of Solomon 3:1-4",
+     "kind": "ancient_source"
+    },
+    {
+     "citation": "Galatians 1:18-19",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Deuteronomy 21:23",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Raymond E. Brown, The Death of the Messiah (1994)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Rudolf Pesch, Das Markusevangelium (Herder commentary), on a pre-Markan passion narrative",
+     "kind": "scholarship"
+    }
+   ],
+   "questions": [
+    "If visions of a vindicated martyr could be read as 'his angel' or 'his spirit' (Acts 12:15; Luke 24:37), why did these visions produce the claim 'raised' and not one of those categories?",
+    "Do you grant that by about AD 35 the movement's leaders were based in Jerusalem, within reach of a grave that a council member had used?"
+   ],
+   "signal": "continue",
+   "signal_reason": "The debate is still moving forward: we are now testing which interpretive categories were available to the first followers and whether the tomb was in reach in Jerusalem, and neither question has been answered yet."
+  },
+  {
+   "round": 4,
+   "side": "atheist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. Why \"raised\" and not \"his angel\" or \"his spirit\"?** This is your best point, and I grant that \"raised\" is a meaningful choice. It shows they believed something had happened to Jesus himself, body included. But the category was already available to them. In Daniel 12:2–3 the raised righteous \"shine like the brightness of the firmament... like the stars.\" In 2 Maccabees 7 (vv. 9, 11, 14), *resurrection* is what martyrs are promised as their vindication. Jesus himself taught resurrection (Mark 12:18–27) and announced that the end was imminent. So: a martyred righteous man appears in luminous glory to apocalyptic followers. Martyr theology and Daniel together supply the reading \"God has raised him: the end has begun.\" Paul's light from heaven fits Daniel's astral picture better than it fits a reanimated corpse. And Luke 24:37–43 cuts against you. Luke works hard to refute the \"spirit\" reading, which suggests that reading was live because the experiences were ambiguous.\n\n**2. Jerusalem by about 35?** Yes, I grant it (Gal 1:18–19). But think about what that requires. By 35 the grave was years old. Even at Pentecost, seven weeks on, a body in a criminal burial would be badly decomposed in that climate, and I'm not sure anyone could have identified it. Believers had no reason to look, because their conviction came from the visions. The authorities had little reason to bother until the movement mattered. Acts 2:29–31 does contrast David's tomb with Jesus, but that is Luke's composition, decades later.\n\n**Pressing.** Your case now rests on a tomb that, you concede, no early text says anyone checked. Against that you have a near-zero prior on naturalism and a theistic prior you call a judgment call. Silence can't carry that much weight.\n\n**Questions.** (1) Doesn't Daniel 12:3 plus 2 Maccabees 7 give apocalyptic Jews a ready path from a vision of a martyr in glory to \"raised\"? (2) Seven weeks after burial, could anyone have identified the body?",
+   "claims": [
+    {
+     "claim": "Daniel 12:2-3 and 2 Maccabees 7 gave Second Temple Jews ready categories linking martyr vindication to resurrection, so visions could be read as 'raised'",
+     "confidence": 75
+    },
+    {
+     "claim": "Luke 24:37-43 suggests a 'spirit' reading of the appearances was in circulation and needed refuting",
+     "confidence": 60
+    },
+    {
+     "claim": "Paul's luminous Damascus experience fits Daniel's astral picture of the raised better than a reanimated corpse",
+     "confidence": 55
+    },
+    {
+     "claim": "A body in a criminal grave would likely be hard to identify after seven weeks, and harder still by AD 35",
+     "confidence": 60
+    },
+    {
+     "claim": "The theist's empty-tomb argument relies substantially on an argument from silence",
+     "confidence": 75
+    }
+   ],
+   "concessions": [
+    {
+     "point": "The choice of 'raised' rather than 'angel' or 'spirit' shows the early believers held something happened to Jesus himself, body included; this is the theist's strongest point on the origin of the belief",
+     "significance": "moderate"
+    },
+    {
+     "point": "The movement's leaders were based in Jerusalem by about AD 35 (Gal 1:18-19)",
+     "significance": "minor"
+    },
+    {
+     "point": "I'm unsure exactly how far a body would have decomposed after seven weeks in that setting, so I can't say for certain it was unidentifiable",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "Daniel 12:2-3",
+     "kind": "scripture"
+    },
+    {
+     "citation": "2 Maccabees 7:9, 11, 14",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mark 12:18-27",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Luke 24:37-43",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Galatians 1:18-19",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 2:29-31",
+     "kind": "scripture"
+    }
+   ],
+   "questions": [
+    "Doesn't Daniel 12:3 plus 2 Maccabees 7 give apocalyptic Jews a ready path from a vision of a martyr in glory to 'raised'?",
+    "Seven weeks after burial, could anyone have identified the body?"
+   ],
+   "signal": "continue",
+   "signal_reason": "The question of how the 'raised' category arose, and whether a tomb could have been checked, is still being productively narrowed."
+  },
+  {
+   "round": 5,
+   "side": "theist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. Do Daniel 12 and 2 Maccabees 7 give a path from vision to \"raised\"?** Partly, yes. I concede the category was available. Combined with imminent expectation, a reading like \"God has raised him\" is not psychologically impossible. But look at what those texts mean by the word. In Daniel 12:2, those raised are the ones who \"sleep in the dust of the earth.\" In 2 Maccabees 7:11, the third brother puts out his hands and says he hopes to get them back from God. The luminous glory in Daniel 12:3 comes *after* the bodily rising and does not replace it. So your own sources make \"raised\" mean the body comes out of the grave. That helps my case, because it makes the claim publicly falsifiable. What these texts lack is a single person raised ahead of everyone else, in the middle of history. That change still needs an explanation.\n\n**2. Could anyone have identified the body after seven weeks?** Honestly, I don't know the forensic details. Spring decomposition in a rock tomb would probably make a face hard to recognize. But identification doesn't depend on a face. It depends on which tomb, the wounds of crucifixion (compare the nailed heel bone of Yehohanan from Giv'at ha-Mivtar), and the burial cloths. Matthew 27:60 and John 19:41 say the tomb was new, so his body would have been the only one in it. Families also went back to tombs for ossilegium, gathering the bones roughly a year later.\n\n**Pressing.** My case doesn't rest on the tomb alone. Your account still has to produce group experiences, in the Twelve and in the \"more than 500,\" of a recognized person who gives a commission. Allison documents collective bereavement experiences, but he himself grants that they don't settle this question.\n\n**Questions.** (1) Since your own texts tie \"raised\" to the body leaving the dust, wasn't the disciples' claim one their opponents could check? (2) What is your best documented case of a group seeing a known individual and receiving a commission from him?",
+   "claims": [
+    {
+     "claim": "In Daniel 12:2 and 2 Maccabees 7:11, resurrection is bodily, from the dust, with restored limbs, so 'raised' implied that the grave was vacated.",
+     "confidence": 85
+    },
+    {
+     "claim": "Second Temple sources lack the idea of one individual raised ahead of the general resurrection; the early Christian claim was a real innovation.",
+     "confidence": 75
+    },
+    {
+     "claim": "A body could have been identified after seven weeks by the location of a new tomb, crucifixion wounds, and burial cloths, even if the face could not be recognized.",
+     "confidence": 55
+    },
+    {
+     "claim": "Group appearances of a recognized individual giving a commission are not well explained by documented collective bereavement experiences.",
+     "confidence": 65
+    }
+   ],
+   "concessions": [
+    {
+     "point": "The resurrection category from Daniel 12 and 2 Maccabees 7 was available, so a path from vision to 'raised' under imminent expectation is not psychologically impossible.",
+     "significance": "moderate"
+    },
+    {
+     "point": "After about seven weeks of decomposition, facial recognition of the body would probably be difficult; I am unsure of the forensic details.",
+     "significance": "minor"
+    },
+    {
+     "point": "The 'new tomb' detail comes from Matthew and John, later sources, not from Mark.",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "Daniel 12:2-3",
+     "kind": "scripture"
+    },
+    {
+     "citation": "2 Maccabees 7:9-14, esp. 7:11",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Matthew 27:60; John 19:41 (new tomb)",
+     "kind": "scripture"
+    },
+    {
+     "citation": "1 Corinthians 15:6",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Yehohanan ossuary with nailed heel bone, Giv'at ha-Mivtar, Jerusalem (excavated 1968)",
+     "kind": "archaeology"
+    },
+    {
+     "citation": "Dale Allison, Resurrecting Jesus (2005)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N. T. Wright, The Resurrection of the Son of God (2003)",
+     "kind": "scholarship"
+    }
+   ],
+   "questions": [
+    "Since your own texts (Dan 12:2; 2 Macc 7:11) tie 'raised' to the body leaving the dust, wasn't the disciples' claim one their opponents could check?",
+    "What is your best documented case of a group seeing a known individual and receiving a commission from him?"
+   ],
+   "signal": "continue",
+   "signal_reason": "The question of whether the resurrection category the opponent invokes implies a checkable bodily claim, and how group appearances are explained, has not yet been resolved."
+  },
+  {
+   "round": 5,
+   "side": "atheist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. Was the claim checkable?** Yes, in principle, and I concede that. In Jewish usage \"raised\" implied that the body left the grave, so the claim could have been falsified. But a claim that could be checked is not a claim that was checked. Whether anyone actually checked depends on access, timing, and motive. The disciples were in Galilee, preaching began weeks later, and the burial may have been criminal. The earliest Jewish rebuttal we have is reported by Matthew around 80–90. Even there it is a reply to the Christian story, not evidence that anyone inspected the grave.\n\n**2. My best documented case of a group seeing a known individual who gives a commission?** Honestly, I have no well-documented modern case where a group sees someone they knew personally and receives a commission from him. The nearest are Fatima (1917), where three children saw Mary and received messages, and the Book of Mormon's Three Witnesses (1829), who signed a statement that an angel showed them the plates. Neither is an exact parallel. But look at where the \"commission\" detail comes from. 1 Corinthians 15 gives no content at all for the group appearances. The commissions come from the Gospels, and they disagree: Matthew puts the scene on a Galilean mountain (28:16–20), while Luke keeps the disciples in Jerusalem (24:49). We know nothing about the \"500\" beyond one sentence in Paul.\n\n**On a single man raised in mid-history:** this is the kind of reinterpretation movements make. When Sabbatai Zevi converted to Islam (1666) and later died, many followers reinterpreted both events rather than give up their belief (Gershom Scholem, *Sabbatai Sevi*, 1973). Paul's \"firstfruits\" (1 Cor 15:20) shows the same move: Jesus's rising is treated as the start of the general resurrection.\n\n**Questions.** (1) Do you grant that every detail about the content of the group appearances, including commissions, touch, and eating, comes from the Gospels, written 40 to 60 years later? (2) Given Sabbatai Zevi's followers, why can't reinterpreting a disconfirmation account for the \"early raising\" innovation?",
+   "claims": [
+    {
+     "claim": "In Jewish usage, the disciples' claim 'raised' was in principle falsifiable, but there is no evidence that anyone actually checked the tomb",
+     "confidence": 75
+    },
+    {
+     "claim": "I know of no well-documented modern case of a group seeing a personally known dead individual who gives them a commission",
+     "confidence": 80
+    },
+    {
+     "claim": "1 Corinthians 15 gives no content for the group appearances; commission details come from the Gospels, which disagree on location (Matt 28:16-20 vs Luke 24:49)",
+     "confidence": 85
+    },
+    {
+     "claim": "The Sabbatean movement reinterpreted Sabbatai Zevi's apostasy and death rather than abandon belief, as documented by Scholem",
+     "confidence": 85
+    },
+    {
+     "claim": "Paul's 'firstfruits' language (1 Cor 15:20) shows the early raising was understood as the start of the general resurrection",
+     "confidence": 80
+    }
+   ],
+   "concessions": [
+    {
+     "point": "Because 'raised' implied the body leaving the grave, the disciples' claim was in principle publicly falsifiable",
+     "significance": "moderate"
+    },
+    {
+     "point": "I cannot offer a well-documented modern case of a group seeing a personally known deceased individual who gives them a commission; Fatima and the Three Witnesses are only partial analogues",
+     "significance": "moderate"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 15:5-7, 15:20",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Matthew 28:11-20; Luke 24:49",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Gershom Scholem, Sabbatai Sevi: The Mystical Messiah (1973)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Testimony of the Three Witnesses, Book of Mormon (1830)",
+     "kind": "other"
+    },
+    {
+     "citation": "Fatima apparitions (1917), as reported by Lucia dos Santos",
+     "kind": "other"
+    }
+   ],
+   "questions": [
+    "Do you grant that every detail about the content of the group appearances (commissions, touch, eating) comes from the Gospels, written 40 to 60 years later?",
+    "Given the Sabbatean reinterpretation of Sabbatai Zevi's apostasy and death, why can't reinterpreting a disconfirmation account for the 'early raising' innovation?"
+   ],
+   "signal": "continue",
+   "signal_reason": "The debate is still advancing: we are narrowing in on whether the claim could be checked versus whether it was, and on where the group appearance details come from."
+  },
+  {
+   "round": 6,
+   "side": "theist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. Does all the content of the group appearances come from the Gospels?** Touch, eating, and the specific commission scenes do, and I grant that. One qualification: the idea of being commissioned is earlier than the Gospels. Paul says he saw the Lord and was sent through it (1 Cor 9:1; Gal 1:15–16). In 1 Cor 15:7 the appearance is to \"all the apostles,\" a word that means people who were sent. So \"an appearance that commissions\" is pre-Gospel. The narrative details are not. Your point about Matthew and Luke placing the appearances differently is fair. I count it among the discrepancies I conceded in my opening.\n\n**2. Sabbatai Zevi.** I grant that reinterpretation is real and that it explains why a belief survives. But look at what the Sabbateans actually did. They explained the apostasy with a Lurianic idea they already had, the Messiah going down into impurity. My understanding is that Nathan of Gaza and others treated Zevi's death as an occultation or ascent. I'm not certain how widely that view was held. Either way, nobody claimed Zevi's body had left the grave or that he appeared to groups. That fits the point I made in Round 4. Disappointed movements turn to \"hidden\" or \"exalted,\" and those claims can't be falsified. The disciples made the one claim that could be.\n\n**Pressing.** Each part of your account is possible on its own: Peter's grief vision, group experiences among the Twelve and the 500, a persecutor's vision, a new \"raised\" category, and a tomb no one checked. But your account needs all of them to happen together. When you multiply the probabilities, the result is much lower than the case for any single part. Also, Paul says most of the 500 are \"still alive\" (1 Cor 15:6). That invites people to check, and someone inventing a story wouldn't write that.\n\n**Questions.** (1) Do you agree that your hypothesis has to be judged as a conjunction of all its parts? (2) Why would Paul point readers to living witnesses if he only had a one-line rumor?",
+   "claims": [
+    {
+     "claim": "The concept of a commissioning appearance is pre-Gospel (1 Cor 9:1; Gal 1:15-16; 'all the apostles' in 1 Cor 15:7), though narrative details are not.",
+     "confidence": 75
+    },
+    {
+     "claim": "The Sabbatean reinterpretation drew on existing kabbalistic categories and turned to occultation or ascent, not a claim of bodily resurrection with group appearances.",
+     "confidence": 70
+    },
+    {
+     "claim": "The naturalistic account is a conjunction of several independently uncertain components, so its overall probability is lower than any single component.",
+     "confidence": 80
+    },
+    {
+     "claim": "Paul's remark that most of the 500 were still alive (1 Cor 15:6) functions as an invitation to verification.",
+     "confidence": 70
+    }
+   ],
+   "concessions": [
+    {
+     "point": "Details of touch, eating, and specific commission scenes for the group appearances come from the Gospels, written decades later.",
+     "significance": "moderate"
+    },
+    {
+     "point": "Reinterpretation after a disconfirmation is a real, documented phenomenon that can explain how a belief persists.",
+     "significance": "moderate"
+    },
+    {
+     "point": "I am not certain how widespread the claim was among Sabbateans that Zevi's death was an occultation.",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 9:1; 15:6-7",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Galatians 1:15-16",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Gershom Scholem, Sabbatai Sevi: The Mystical Messiah (1973)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Leon Festinger et al., When Prophecy Fails (1956)",
+     "kind": "scholarship"
+    }
+   ],
+   "questions": [
+    "Do you agree your hypothesis must be assessed as a conjunction of all its components, with correspondingly reduced probability?",
+    "Why would Paul cite the 500 as mostly still alive (1 Cor 15:6) if he had nothing more than a one-line rumor?"
+   ],
+   "signal": "continue",
+   "signal_reason": "The conjunction argument and the Sabbatean comparison are new points still worth testing before closing."
+  },
+  {
+   "round": 6,
+   "side": "atheist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. Should my hypothesis be judged as a conjunction?** Yes. Any full explanation has to be judged as a whole. I also grant that my specific reconstruction, with Peter first, then group visions, then Paul, is less probable than any one of its steps. I hold that exact sequence only modestly. But two points cut the other way. First, the steps aren't independent. Once Peter announces a vision in a primed, grieving apocalyptic group, further experiences become much *more* likely, not just as likely as before. And once people believe Jesus was \"raised,\" believing the tomb is empty follows from that, as you've accepted. Correlated steps don't multiply like coin tosses. Second, the right comparison isn't my one story against yours. It's the *disjunction* of all naturalistic routes against the resurrection. And the resurrection is also a conjunction: God exists, God wills to raise this man in mid-history, God does it bodily, and the later Gospel details you rely on are accurate enough. Each of those has its own probability.\n\n**2. Why point to living witnesses?** I concede this counts against pure invention. Paul probably received the claim in good faith and believed that witnesses could be asked. But the Corinthians were roughly 800 miles from Judea, and no names are given. The appeal shows Paul's confidence in the tradition. It tells us nothing about what the 500 experienced. Gerd Lüdemann suggested it may be a version of the Pentecost event (Acts 2), which was an ecstatic collective experience. That is speculative, and I offer it only as possible.\n\n**Pressing.** Each pre-Gospel item you've defended, \"buried,\" \"raised,\" the 500, establishes what believers *believed*. You've conceded that none of them describes a bodily encounter or a checked tomb. So the decisive question is the prior.\n\n**Questions.** (1) Do you accept that the fair comparison is all naturalistic routes taken together against the full theistic conjunction? (2) What evidence, apart from these Easter traditions, raises the probability that God would raise *this* man?",
+   "claims": [
+    {
+     "claim": "Any explanatory hypothesis, including mine, must be assessed as a whole, but correlated steps do not multiply as independent probabilities.",
+     "confidence": 85
+    },
+    {
+     "claim": "The proper comparison is the disjunction of naturalistic explanations versus the resurrection hypothesis, which is itself a conjunction including God's existence and intention.",
+     "confidence": 80
+    },
+    {
+     "claim": "Paul's appeal to living members of the 500 shows he sincerely received and trusted the tradition, but gives no information about the nature of their experience.",
+     "confidence": 75
+    },
+    {
+     "claim": "Identifying the 500 appearance with a Pentecost-type ecstatic event (Lüdemann) is possible but speculative.",
+     "confidence": 35
+    },
+    {
+     "claim": "The pre-Gospel evidence establishes what the earliest believers believed, not a described bodily encounter or an inspected tomb.",
+     "confidence": 80
+    }
+   ],
+   "concessions": [
+    {
+     "point": "My specific reconstruction (Peter, then group visions, then Paul) taken as a conjunction is less probable than any single step, and I hold that exact sequence only with modest confidence.",
+     "significance": "moderate"
+    },
+    {
+     "point": "Paul's remark that most of the 500 are still alive counts against the idea that he invented the claim; he probably received it in good faith.",
+     "significance": "moderate"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 15:3-8, esp. 15:6",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 2:1-13 (Pentecost)",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Gerd Lüdemann, The Resurrection of Jesus: History, Experience, Theology (1994)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dale Allison, Resurrecting Jesus (2005)",
+     "kind": "scholarship"
+    }
+   ],
+   "questions": [
+    "Do you accept that the fair comparison is all naturalistic routes taken together against the full theistic conjunction (God exists, wills to raise this man, does so bodily, and the Gospel details are accurate)?",
+    "What evidence, independent of the Easter traditions themselves, raises the probability that God would raise this particular man?"
+   ],
+   "signal": "continue",
+   "signal_reason": "The debate has moved to how to compare the probabilities of the two hypotheses and what the prior should be, and that is still worth exploring."
+  },
+  {
+   "round": 7,
+   "side": "theist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. Is the fair comparison every naturalistic route together against the full theistic conjunction?** Yes, with two qualifications. First, adding up the routes only helps if each one fits the data. Theft, swoon and wrong tomb add very little, so the disjunction is really your vision-and-contagion account. Second, my hypothesis doesn't include \"the Gospel details are accurate enough.\" I've argued all along from facts that come before the Gospels. Take out the non-starters and the comparison becomes: God exists and wills to vindicate this man, against correlated visions plus a tomb nobody checked. I accept the burden that comes with that framing.\n\n**2. What evidence outside Easter makes it more likely God would raise *this* man?** Some, and it's contested. Many critical scholars accept a few things about Jesus before Easter. He had a reputation as a healer and exorcist (John Meier, *A Marginal Jew*, vol. 2, 1994). Josephus calls him a \"doer of startling deeds\" (*Antiquities* 18.63; most scholars think the core of that passage is authentic, though not all of it). He claimed unusual authority: he chose Twelve to represent Israel restored, acted against the Temple, and forgave sins (Mark 2:5–10). And he was executed as \"King of the Jews.\" I concede the sayings material comes through the Gospels and is debated. But the point is specific. If God exists, an executed man who claimed to speak for God is exactly the kind of case where a vindication would mean something. A random resurrection would not. Natural theology bears on whether God exists at all. I can't argue that case in 300 words.\n\n**Rebuttal.** I grant that the steps in your account are correlated. But correlation within a group only works inside the group. Paul was outside it and hostile. Contagion doesn't reach him, so he lowers your probability. Correlation also works against you at the tomb. A body that could be found would cut off \"raised\" at the start.\n\n**Questions.** (1) How does your contagion model reach Paul, who was hostile and outside the group? (2) If God exists, do you agree that vindicating an executed claimant fits better than a random miracle would?",
+   "claims": [
+    {
+     "claim": "Once theft, swoon and wrong tomb are set aside, the naturalistic disjunction effectively reduces to the vision-and-contagion account",
+     "confidence": 75
+    },
+    {
+     "claim": "My case does not depend on the accuracy of the Gospels' narrative details, only on facts that come before the Gospels",
+     "confidence": 70
+    },
+    {
+     "claim": "Many critical scholars accept that Jesus had a reputation as a healer and exorcist and was executed as 'King of the Jews'",
+     "confidence": 85
+    },
+    {
+     "claim": "Most scholars think the core of Josephus, Antiquities 18.63, including 'doer of startling deeds', is authentic",
+     "confidence": 70
+    },
+    {
+     "claim": "Given theism, a resurrection that vindicates an executed claimant to divine authority is more expected than a random miracle",
+     "confidence": 70
+    },
+    {
+     "claim": "Contagion within the group does not explain Paul's experience, which lowers the probability of the naturalistic conjunction",
+     "confidence": 65
+    }
+   ],
+   "concessions": [
+    {
+     "point": "The fair comparison is the naturalistic routes together against the full theistic hypothesis, and I accept the burden that framing puts on me.",
+     "significance": "moderate"
+    },
+    {
+     "point": "The steps in the naturalistic account are correlated, not independent, so multiplying their probabilities like coin tosses overstates how unlikely it is.",
+     "significance": "moderate"
+    },
+    {
+     "point": "The evidence about Jesus's claims before Easter comes largely through the Gospels and is debated, so it raises the theistic conditional probability only modestly.",
+     "significance": "moderate"
+    },
+    {
+     "point": "I cannot argue the case for God's existence (natural theology) within this exchange.",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "John P. Meier, A Marginal Jew, vol. 2 (1994)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Josephus, Antiquities 18.63 (Testimonium Flavianum)",
+     "kind": "ancient_source"
+    },
+    {
+     "citation": "Mark 2:5-10",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mark 15:26 (titulus 'King of the Jews')",
+     "kind": "scripture"
+    }
+   ],
+   "questions": [
+    "How does your contagion model, which works through correlation within the group, reach Paul, a hostile outsider?",
+    "If God exists, do you agree that vindicating an executed claimant to divine authority is more expected than a random miracle?"
+   ],
+   "signal": "continue",
+   "signal_reason": "The debate is now on the decisive questions, the prior and Paul's place in the contagion model, and these haven't been fully worked out yet."
+  },
+  {
+   "round": 7,
+   "side": "atheist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. How does contagion reach Paul?** It doesn't reach him directly, and I concede that Paul is the hardest part of my account. The group-dynamics explanation doesn't cover him. Here is what I can say. Paul wasn't ignorant of the group. He persecuted it, so he knew its claim that Jesus had been raised. The *content* of his vision, a crucified man glorified as Lord, came from that proclamation. Hostile people sometimes convert to the movements they attack, and I grant that I can't name a trigger. But the more important point is what Paul's experience is evidence *of*. On your own account it happened after the ascension. Paul describes it as a revelation \"in me\" (Gal 1:16), and Acts describes it as light and a voice. You conceded in Round 3 that it doesn't differ in kind from later visions. So the resurrection hypothesis also explains Paul with a vision. His experience confirms that visions of the exalted Jesus happened, which both of us accept. It doesn't help decide between *bodily* resurrection and visionary exaltation.\n\n**2. If God exists, is vindicating an executed claimant more expected than a random miracle?** Yes, I grant that. But the gain is limited. Other executed figures had their followers too, among them John the Baptist and later Simon bar Giora, and on any view none of them was raised. And the theistic conditional only matters as much as the case for theism, which this debate hasn't argued.\n\n**Pressing.** Ask what a vindicating God would be expected to do, against what visions would be expected to produce. The appearances go only to followers and to people who later joined. None goes to Pilate, Caiaphas, or the crowds. Acts 10:40–41 says outright that he appeared \"not to all the people but to witnesses chosen beforehand.\" That pattern is what the vision hypothesis predicts.\n\n**Questions.** (1) Since Paul's appearance was a heavenly vision after the ascension, how does it count as evidence for a *bodily* resurrection specifically? (2) Why does a public vindication appear only to insiders, as Acts 10:41 admits?",
+   "claims": [
+    {
+     "claim": "Paul's conversion is not explained by in-group contagion and is the hardest datum for my account.",
+     "confidence": 80
+    },
+    {
+     "claim": "Paul's experience was visionary (Gal 1:16; Acts 9, 22), so it does not help decide between bodily resurrection and visionary exaltation.",
+     "confidence": 75
+    },
+    {
+     "claim": "Conditional on theism, vindicating an executed claimant is more expected than a random miracle, but that conditional is only as strong as the case for theism.",
+     "confidence": 80
+    },
+    {
+     "claim": "Restricting the appearances to insiders and future converts (Acts 10:40-41) fits the vision hypothesis better than a public vindication.",
+     "confidence": 65
+    }
+   ],
+   "concessions": [
+    {
+     "point": "My contagion model does not directly explain Paul, a hostile outsider; he is the hardest datum for my account, and I cannot specify his trigger.",
+     "significance": "moderate"
+    },
+    {
+     "point": "If God exists, vindicating an executed claimant to divine authority is more expected than a random miracle.",
+     "significance": "moderate"
+    },
+    {
+     "point": "The live naturalistic alternative is essentially the vision-and-contagion account plus an unverified tomb; theft and swoon add little.",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "Galatians 1:16 (revelation 'in me')",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 9:3-7; 22:6-9 (light and voice)",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 10:40-41 (appeared not to all the people but to chosen witnesses)",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Josephus, Jewish War 7.153-155 (execution of Simon bar Giora)",
+     "kind": "ancient_source"
+    },
+    {
+     "citation": "Mark 6:17-29; Josephus, Antiquities 18.116-119 (execution of John the Baptist)",
+     "kind": "ancient_source"
+    }
+   ],
+   "questions": [
+    "Since Paul's appearance was, on your own account, a heavenly vision after the ascension, how does it count as evidence for a bodily resurrection specifically, rather than visionary exaltation?",
+    "If the resurrection was God's vindication of Jesus, why do the appearances go only to insiders and future converts and never to Pilate, Caiaphas, or the public, as Acts 10:41 admits?"
+   ],
+   "signal": "continue",
+   "signal_reason": "The debate has narrowed to whether Paul's experience and the restricted appearances favor bodily resurrection over visions, and that question is still being argued productively."
+  },
+  {
+   "round": 8,
+   "side": "theist",
+   "type": "exchange",
+   "speech": "I'll answer your two questions first.\n\n**1. How does Paul's appearance count as evidence for a *bodily* resurrection?** Taken alone, it doesn't, and I concede that. Paul's experience on its own can't tell bodily resurrection apart from visionary exaltation. Its job in my case is different. It is evidence about the *cause* of the experiences. It came to a hostile outsider whom, as you grant, your contagion model can't reach and whose trigger you can't name. The case for a body rests elsewhere. It rests on the word \"raised,\" which you agree meant the body leaving the dust. It rests on \"buried\" in the formula, and on a grave in Jerusalem that could have been found. Paul tells us something happened outside the group's psychology. The other evidence tells us what kind of thing it was.\n\n**2. Why only insiders?** Two points. First, the category is partly circular. Anyone who saw the risen Jesus and believed would show up in our sources as a \"future convert.\" Paul was an enemy when it happened. Second, in Christian theology the appearances are a commissioning of witnesses, not a public display meant to force belief. Jesus refused to give signs on demand (Mark 8:11–12; Matt 12:39). I grant your point fully on one thing: the pattern is also what the vision hypothesis predicts. So it doesn't decide between us either way.\n\n**Where we stand.** Both of us now agree on the core facts. There was an early tradition. The belief was sincere. \"Raised\" meant bodily. The claim could have been checked. Paul is unexplained on your account. What separates us is whether an unchecked tomb plus correlated visions plus an untriggered persecutor outweighs a resurrection hypothesis whose prior depends on theism, which neither of us has argued here. I think the positions are now clear.\n\n**Question.** Since your account leaves Paul as an unexplained event, isn't the real disagreement your prior against God acting, not the historical data?",
+   "claims": [
+    {
+     "claim": "Paul's Damascus experience, taken alone, does not discriminate between bodily resurrection and visionary exaltation; its evidential role concerns the cause of the experiences.",
+     "confidence": 85
+    },
+    {
+     "claim": "The bodily character of the claim rests on the meaning of 'raised' in Second Temple Judaism, 'buried' in the formula, and a locatable Jerusalem grave.",
+     "confidence": 75
+    },
+    {
+     "claim": "The insiders-only pattern is partly circular, since anyone who saw and believed would be classed as a future convert, and Paul was hostile when he had his experience.",
+     "confidence": 70
+    },
+    {
+     "claim": "The insiders-only pattern fits both the resurrection hypothesis and the vision hypothesis, so it does not discriminate between them.",
+     "confidence": 75
+    },
+    {
+     "claim": "The remaining disagreement turns mainly on the prior for theism and divine action, not on the agreed historical data.",
+     "confidence": 70
+    }
+   ],
+   "concessions": [
+    {
+     "point": "Paul's own appearance, taken alone, is not evidence for a bodily resurrection specifically, as opposed to visionary exaltation.",
+     "significance": "moderate"
+    },
+    {
+     "point": "The pattern of appearances only to followers and eventual converts is also what the vision hypothesis predicts, so it does not favor my side.",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 15:3-8",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Galatians 1:15-16",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mark 8:11-12",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Matthew 12:39",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 10:40-41",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Daniel 12:2; 2 Maccabees 7:11",
+     "kind": "scripture"
+    }
+   ],
+   "questions": [
+    "Since your account leaves Paul's conversion as an unexplained event, isn't the real disagreement your prior against God acting rather than the historical data?"
+   ],
+   "signal": "propose_closing",
+   "signal_reason": "Both sides now agree on the core data and have laid out our different weightings and priors, so further exchanges are likely to repeat what has been said rather than move the debate forward."
+  },
+  {
+   "round": 8,
+   "side": "atheist",
+   "type": "exchange",
+   "speech": "I'll answer your question first.\n\n**Isn't the real disagreement my prior against God acting, not the historical data?** Largely, yes. I concede that the data we now share don't settle this question; the background probabilities do. But I'd put it more precisely in two ways.\n\nFirst, \"unexplained\" is not the same as \"evidence for a miracle.\" I can't name what triggered Paul's experience, and I've said so. Historians routinely can't name the psychological triggers of individual conversions. That gap counts against my account only to the extent that a supernatural cause is a live alternative, and that brings us back to the prior. It doesn't sidestep it.\n\nSecond, Paul doesn't show that something happened \"outside the group's psychology.\" He was deeply involved with the group: he knew what it proclaimed and fought against it. More importantly, even if God caused Paul's vision, a vision of the exalted Jesus fits a non-bodily exaltation just as well. You conceded this last round. So Paul at most supports *theism-plus-some-postmortem-vindication*. He does not support the resolution, which is about a *bodily* rising.\n\n**Where the bodily claim stands.** You rest it on \"raised,\" \"buried,\" and a grave that could have been found. I've granted that these show the earliest believers *held* a bodily view. But to get from what they believed to what happened, you need an empty tomb that someone verified early. You've conceded that no text before Mark reports one. The bodily element, which is the resolution's actual claim, is therefore the weakest-attested part of the case, not the strongest.\n\n**Burden.** You agree that the resurrection's probability depends on theism, and that theism hasn't been argued here. The affirmative carries the burden on this resolution. If the decisive premise is admitted but not defended, the resolution isn't established. On the evidence actually presented, \"sincere visionary experiences, read through Jewish resurrection categories\" remains the more economical explanation.\n\nI agree the positions are now clear, and I join your proposal to close.",
+   "claims": [
+    {
+     "claim": "The remaining disagreement turns largely on background probabilities (theism versus naturalism) rather than on the shared historical data.",
+     "confidence": 80
+    },
+    {
+     "claim": "An unidentified psychological trigger for Paul's conversion is not positive evidence for a supernatural cause unless a supernatural cause is already a live option.",
+     "confidence": 80
+    },
+    {
+     "claim": "Even granting a divine cause, Paul's vision supports postmortem vindication or exaltation in general, not a bodily resurrection specifically.",
+     "confidence": 78
+    },
+    {
+     "claim": "The bodily element of the resolution rests on early belief plus an empty tomb that no pre-Markan text reports anyone checking, so it is the least securely attested part of the case.",
+     "confidence": 72
+    },
+    {
+     "claim": "Since the affirmative concedes the case depends on theism and theism was not argued, the resolution has not been established in this debate.",
+     "confidence": 68
+    }
+   ],
+   "concessions": [
+    {
+     "point": "The disagreement between us now turns largely on prior and background probabilities, not on the core historical data we both accept.",
+     "significance": "moderate"
+    },
+    {
+     "point": "My inability to name a trigger for Paul's experience is a real gap in my specific account.",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "Galatians 1:13-16 (Paul as persecutor; revelation 'in me')",
+     "kind": "scripture"
+    },
+    {
+     "citation": "1 Corinthians 15:3-8",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mark 16:1-8 (earliest empty tomb narrative)",
+     "kind": "scripture"
+    }
+   ],
+   "questions": [],
+   "signal": "propose_closing",
+   "signal_reason": "Both sides agree on the core data and have identified the prior and the unverified tomb as the decisive issues, so more exchanges would repeat rather than advance the debate."
+  },
+  {
+   "round": 9,
+   "side": "theist",
+   "type": "closing",
+   "speech": "Thank you to my opponent. He has been candid and careful throughout, and I think that made this a better debate.\n\n**Where we agree.** By the end, the historical core was shared ground. Jesus was crucified and probably buried. 1 Corinthians 15:3–7 preserves a tradition from within a few years of the crucifixion. The disciples, Paul and James sincerely believed they had seen Jesus alive. In Jewish usage \"raised\" meant the body leaving the grave (Daniel 12:2; 2 Maccabees 7:11), so the claim could in principle have been checked.\n\n**What I concede.** No source before the Gospels describes a bodily encounter. No source before Mark reports anyone visiting the tomb, so the bodily element rests on inference, not description. Paul's experience, taken alone, can't tell bodily resurrection apart from visionary exaltation. James is not clearly a hostile witness. The appearances going only to followers and later converts fits both hypotheses. Most importantly, the resurrection's probability depends on whether God exists, and we did not argue that question here. My opponent is right that this limits what I have shown. The honest form of my conclusion is conditional: if theism is a live option, the bodily resurrection is the best explanation of the data. For someone who starts from a near-zero naturalistic prior, this debate will not change that.\n\n**What I believe still stands.** First, the origin of the belief. My opponent called it my strongest point. Apocalyptic Jews had softer categories available (\"his angel,\" \"his spirit,\" exaltation), and disappointed movements like the Sabbateans reached for those. These men instead proclaimed one man bodily raised in the middle of history. They did so in Jerusalem, the city where he had been buried. Second, Paul. My opponent openly granted that the contagion model doesn't reach him and that no trigger can be named. \"Unexplained\" is not proof of a miracle, I agree. But it is a cost the naturalistic account carries. Third, the naturalistic account is a chain of steps, some correlated, that also needs a grave nobody checked. Each step is possible. Taken together they explain less well than a single cause does.\n\nSo the debate comes down to this. The historical evidence does not compel belief in the resurrection, but it fits it remarkably well. Once theism is granted even a modest prior, I think the bodily resurrection of Jesus is the best explanation of the evidence we both accept. I have tried to state my confidence honestly, and I commend that conclusion to the judges.",
+   "claims": [
+    {
+     "claim": "The core historical data (early tradition, sincere belief, bodily meaning of 'raised', checkable claim) are shared ground between both debaters.",
+     "confidence": 90
+    },
+    {
+     "claim": "The origin of a bodily-resurrection claim about one man in mid-history, made in Jerusalem, is better explained by the resurrection than by visions plus reinterpretation.",
+     "confidence": 65
+    },
+    {
+     "claim": "Paul's conversion remains a real, acknowledged cost to the naturalistic account.",
+     "confidence": 75
+    },
+    {
+     "claim": "Conditional on theism being a live option, the bodily resurrection is the best explanation of the shared data.",
+     "confidence": 65
+    },
+    {
+     "claim": "The historical evidence alone does not compel belief in the resurrection apart from background views on theism.",
+     "confidence": 90
+    }
+   ],
+   "concessions": [
+    {
+     "point": "The bodily element of the resolution rests on inference (the meaning of 'raised', 'buried', a locatable grave), not on any pre-Gospel description or pre-Markan report of a checked tomb.",
+     "significance": "moderate"
+    },
+    {
+     "point": "Because the resurrection's probability depends on theism and theism was not argued in this debate, my conclusion is conditional and does not persuade someone starting from a naturalistic prior.",
+     "significance": "major"
+    },
+    {
+     "point": "Paul's experience alone does not distinguish bodily resurrection from visionary exaltation, and James is not clearly a hostile witness.",
+     "significance": "moderate"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 15:3-8",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Daniel 12:2-3",
+     "kind": "scripture"
+    },
+    {
+     "citation": "2 Maccabees 7:9-14",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Acts 12:15; Luke 24:37",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Galatians 1:18-19",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Gershom Scholem, Sabbatai Sevi: The Mystical Messiah (1973)",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "N. T. Wright, The Resurrection of the Son of God (2003)",
+     "kind": "scholarship"
+    }
+   ],
+   "questions": [],
+   "signal": "continue",
+   "signal_reason": "This is my closing statement; signals are ignored in closings."
+  },
+  {
+   "round": 9,
+   "side": "atheist",
+   "type": "closing",
+   "speech": "Thank you to my opponent. He conceded hard points when he didn't have to, and that made this a real inquiry.\n\n**What I concede.** Jesus was crucified and probably buried. 1 Corinthians 15:3–7 preserves a tradition from within a few years of the crucifixion. Peter, the Twelve, James and Paul sincerely believed they had seen Jesus. In Jewish usage \"raised\" implied the body leaving the grave (Daniel 12:2; 2 Maccabees 7:11), so the earliest believers held a bodily view, and the claim could in principle have been checked. Paul is the hardest datum for my account. My contagion model does not reach him, and I cannot name what triggered his experience. That is a real cost, and I don't hide it. I also grant that my specific sequence (Peter, then the group, then Paul) is less probable than any one of its steps.\n\n**What I believe still stands.** First, the resolution claims a *bodily* rising. By my opponent's own account, that element rests on inference, not testimony. No source before the Gospels describes a bodily encounter. No source before Mark reports anyone visiting the tomb. Paul's own appearance, the only firsthand one we have, cannot distinguish bodily resurrection from visionary exaltation. The touching and eating come 40 to 60 years later, in accounts that disagree. The part of the case that bears most directly on the resolution has the weakest support.\n\nSecond, the origin of the belief is your strongest point, and I take it seriously. But Daniel 12 and 2 Maccabees 7 supplied the category, Jesus himself preached resurrection, and Paul's \"firstfruits\" (1 Cor 15:20) shows how apocalyptic Jews could read luminous visions of a martyr as the general resurrection beginning. That makes the belief explicable, even if not every detail is fully explained.\n\nThird, Paul is unexplained. That is a gap, not evidence. It points toward a supernatural cause only if a supernatural cause is already a live option.\n\n**Where it comes down.** That brings us to the decisive point, and my opponent has stated it honestly. His conclusion is conditional: *if* theism has a meaningful prior, the resurrection is the best explanation. But theism was not argued here, and the affirmative carries the burden. A resolution whose decisive premise is assumed rather than defended has not been established. On the evidence actually presented, sincere visionary experiences, read through Jewish resurrection hope and then elaborated into the Gospel narratives, remain an adequate and more economical explanation. They leave real loose ends, and I have named them. But loose ends in a natural account are not proof of a miracle.\n\nI ask the judges to find that the resolution has not been shown.",
+   "claims": [
+    {
+     "claim": "The bodily element of the resolution rests on inference; no pre-Gospel source describes a bodily encounter and no pre-Markan source reports a visited tomb.",
+     "confidence": 88
+    },
+    {
+     "claim": "Daniel 12, 2 Maccabees 7, and Jesus' own resurrection teaching supplied the category that lets visions of a glorified martyr be read as 'raised'.",
+     "confidence": 75
+    },
+    {
+     "claim": "The theist's conclusion is conditional on a theism that was not argued, so the affirmative has not carried its burden on the resolution.",
+     "confidence": 82
+    },
+    {
+     "claim": "Sincere visionary experiences interpreted through Jewish resurrection hope remain an adequate naturalistic explanation of the shared data, despite real gaps.",
+     "confidence": 70
+    }
+   ],
+   "concessions": [
+    {
+     "point": "Paul's conversion is the hardest datum for my account; contagion does not reach him and I cannot name a trigger.",
+     "significance": "moderate"
+    },
+    {
+     "point": "The earliest believers held a bodily view of the resurrection, and the claim was in principle publicly checkable.",
+     "significance": "moderate"
+    },
+    {
+     "point": "My specific reconstruction, taken as a sequence, is less probable than any single step, and it leaves loose ends.",
+     "significance": "moderate"
+    },
+    {
+     "point": "The origin of the 'raised' belief is the theist's strongest argument; my account makes it explicable but does not explain every detail.",
+     "significance": "minor"
+    }
+   ],
+   "sources": [
+    {
+     "citation": "1 Corinthians 15:3-8, 15:20",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Daniel 12:2-3",
+     "kind": "scripture"
+    },
+    {
+     "citation": "2 Maccabees 7:9-14",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Mark 12:18-27; Mark 16:8",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Galatians 1:16",
+     "kind": "scripture"
+    }
+   ],
+   "questions": [],
+   "signal": "continue",
+   "signal_reason": "This is the closing statement; signals are ignored here."
+  }
+ ],
+ "judges": [
+  {
+   "scores": {
+    "theist": {
+     "evidence": 5,
+     "logic": 6,
+     "engagement": 7,
+     "honesty": 7,
+     "clarity": 7,
+     "overall": 6
+    },
+    "atheist": {
+     "evidence": 6,
+     "logic": 7,
+     "engagement": 7,
+     "honesty": 8,
+     "clarity": 7,
+     "overall": 7
+    }
+   },
+   "winner": "atheist",
+   "margin": "narrow",
+   "verdict": "The atheist wins narrowly because the theist did not establish the bodily resurrection on the evidence and background assumptions defended in the debate. Both sides argued seriously and made consequential concessions.\n\nThe theist’s strongest point was that early Jewish resurrection language makes a bodily interpretation of the proclamation plausible. The atheist offered a credible, though speculative, account of how visions and apocalyptic expectations could generate that belief. Neither side demonstrated exactly what the first witnesses experienced. The theist also overstated the evidence for commissions in the early group appearances and for James dying rather than renouncing his belief.\n\nThe atheist effectively distinguished belief in an empty tomb from evidence that someone inspected it, and exposed weaknesses in treating Paul’s experience as specifically evidence of a bodily rising. But an early verified empty tomb is not logically the only evidence that could establish a bodily resurrection; the later Gospel accounts also require assessment, even if their date and differences reduce their weight.\n\nThe theist’s conditional conclusion depended on a theistic probability judgment left substantially undefended. That does not make the conclusion false, but it leaves the affirmative burden unmet here. The atheist’s inability to specify a trigger for Paul remains a limitation, not a demonstration of resurrection.",
+   "highlights": [
+    {
+     "round": 2,
+     "side": "atheist",
+     "quote": "That tells us what Paul believed. It doesn't tell us anyone checked.",
+     "why": "Separates an early bodily belief from independent evidence of an empty grave."
+    },
+    {
+     "round": 3,
+     "side": "theist",
+     "quote": "Nothing in the experience itself has to set Damascus apart.",
+     "why": "A significant concession about the limits of Paul’s experience."
+    },
+    {
+     "round": 5,
+     "side": "theist",
+     "quote": "a reading like \"God has raised him\" is not psychologically impossible",
+     "why": "Narrows the disagreement over the origin of resurrection belief."
+    },
+    {
+     "round": 6,
+     "side": "atheist",
+     "quote": "the steps aren't independent",
+     "why": "Challenges an overly simple multiplication of probabilities in the naturalistic account."
+    },
+    {
+     "round": 9,
+     "side": "theist",
+     "quote": "the resurrection's probability depends on whether God exists, and we did not argue that question here",
+     "why": "States the central limitation of the affirmative case."
+    }
+   ],
+   "fallacies": [
+    {
+     "round": 2,
+     "side": "theist",
+     "name": "Non sequitur",
+     "quote": "A Jesus who appeared only in visions would have no reason to stop appearing.",
+     "explanation": "A reported series could end or be classified differently without showing that its experiences were bodily."
+    },
+    {
+     "round": 6,
+     "side": "theist",
+     "name": "Overgeneralization",
+     "quote": "someone inventing a story wouldn't write that",
+     "explanation": "An appeal to living witnesses can count against invention, but it does not rule invention out."
+    },
+    {
+     "round": 1,
+     "side": "atheist",
+     "name": "Hasty generalization",
+     "quote": "That is how legends grow.",
+     "explanation": "Differences between later and earlier texts are consistent with elaboration, but chronology alone does not establish how each detail originated."
+    }
+   ],
+   "factual_errors": [
+    {
+     "round": 1,
+     "side": "theist",
+     "claim": "Some of them, including James (Josephus, Antiquities 20.200), died rather than give it up.",
+     "correction": "Josephus reports James’s execution but does not say he was offered a chance to renounce resurrection belief or died rather than do so.",
+     "severity": "moderate"
+    },
+    {
+     "round": 2,
+     "side": "theist",
+     "claim": "In 1 Corinthians 15, a man the witnesses knew is recognized and gives a commission.",
+     "correction": "1 Corinthians 15 lists appearances but does not describe their content or report a commission during a group appearance. The theist later conceded that the specific commission scenes are in the Gospels.",
+     "severity": "moderate"
+    },
+    {
+     "round": 1,
+     "side": "atheist",
+     "claim": "Luke and John add a Jesus who can be touched and who eats fish.",
+     "correction": "Luke explicitly describes Jesus eating fish. John describes Jesus preparing and distributing food, but does not explicitly say that he eats fish.",
+     "severity": "minor"
+    }
+   ],
+   "key_concessions": [
+    {
+     "round": 2,
+     "side": "theist",
+     "point": "Pre-Gospel evidence for bodily appearances is inferential, not descriptive.",
+     "impact": "moderate"
+    },
+    {
+     "round": 2,
+     "side": "atheist",
+     "point": "Paul probably believed that Jesus’s body had left the grave.",
+     "impact": "moderate"
+    },
+    {
+     "round": 3,
+     "side": "theist",
+     "point": "James’s conversion after an appearance is an inference, weakening him as a hostile witness.",
+     "impact": "moderate"
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "point": "The bodily claim was in principle checkable, but no exact modern group-commission analogue was supplied.",
+     "impact": "moderate"
+    },
+    {
+     "round": 7,
+     "side": "atheist",
+     "point": "Contagion does not directly explain Paul, and his trigger is unknown.",
+     "impact": "moderate"
+    },
+    {
+     "round": 9,
+     "side": "theist",
+     "point": "The conclusion is conditional on a theistic background that was not defended in the debate.",
+     "impact": "major"
+    }
+   ],
+   "turning_point": {
+    "round": 6,
+    "description": "The atheist distinguished dependent steps in a naturalistic explanation from independent probabilities and challenged the comparison between one reconstruction and the entire resurrection hypothesis."
+   },
+   "best_argument": {
+    "theist": "Early bodily resurrection language, the Jerusalem setting, and Paul’s experience together create a cumulative challenge for a purely visionary account.",
+    "atheist": "Early sources establish resurrection belief more securely than bodily encounters or an inspected tomb; visions interpreted through Jewish apocalyptic expectations offer a plausible alternative."
+   },
+   "unanswered": {
+    "theist": [],
+    "atheist": []
+   },
+   "judge": "historian",
+   "model": "gpt-6.1-terra",
+   "weighted": {
+    "theist": 6.25,
+    "atheist": 6.9
+   }
+  },
+  {
+   "scores": {
+    "theist": {
+     "evidence": 8,
+     "logic": 7,
+     "engagement": 9,
+     "honesty": 9,
+     "clarity": 8,
+     "overall": 7
+    },
+    "atheist": {
+     "evidence": 8,
+     "logic": 9,
+     "engagement": 9,
+     "honesty": 9,
+     "clarity": 8,
+     "overall": 8
+    }
+   },
+   "winner": "atheist",
+   "margin": "clear",
+   "verdict": "This debate was an exceptional model of philosophical rigor, intellectual honesty, and mutual charity. Both debaters displayed top-tier scholarship, correctly handling primary texts and modern critical consensus. The theist built an inference to the best explanation upon early creedal traditions (1 Cor 15), the origin of bodily resurrection belief, and anomalous conversions. The atheist responded with a devastatingly effective Bayesian and epistemic critique, holding the affirmative strictly to the burden of proof.\n\nThe atheist prevails on two decisive logical grounds. First, the resolution specifies that Jesus rose bodily. Under probing, the theist conceded that no pre-Gospel source describes physical encounters (touching, eating), that no pre-Markan source attests to a visited tomb, and that the earliest firsthand witness, Paul, experienced a post-ascension vision that cannot distinguish bodily resurrection from visionary exaltation. The bodily element of the resolution was thus reduced to an inferential deduction rather than direct testimony.\n\nSecond, the theist conceded from opening to close that historical evidence cannot prove a miracle and that the resurrection's probability depends upon theism—a premise left undefended. As the atheist argued in Round 8, a categorical proposition cannot be established when its necessary supporting premise is merely assumed. While the atheist could not identify a psychological trigger for Paul's conversion, an explanatory gap in natural history does not license an inference to a supernatural bodily resurrection. Because the affirmative failed to establish the categorical bodily claim required by the resolution, the negative wins.",
+   "highlights": [
+    {
+     "round": 1,
+     "side": "atheist",
+     "quote": "Paul is our only eyewitness source. He puts his own experience in the same list, using the same verb, ōphthē, 'he appeared.'",
+     "why": "Establishes the atheist's primary textual anchor: that the earliest direct source treats all appearances as phenomenologically visionary."
+    },
+    {
+     "round": 4,
+     "side": "theist",
+     "quote": "Visions of a vindicated martyr fit 'exalted,' 'his angel,' or 'his spirit' naturally. 'Raised' fits only if they believed something had happened to the body.",
+     "why": "The theist's strongest argument, compellingly demonstrating that Jewish resurrection categories specifically entailed bodily transformation rather than mere postmortem survival."
+    },
+    {
+     "round": 6,
+     "side": "atheist",
+     "quote": "Second, the right comparison isn't my one story against yours. It's the disjunction of all naturalistic routes against the resurrection.",
+     "why": "A vital probabilistic correction countering the theist's attempt to treat the naturalistic case as an improbable conjunction of independent failures."
+    },
+    {
+     "round": 8,
+     "side": "atheist",
+     "quote": "If the decisive premise is admitted but not defended, the resolution isn't established.",
+     "why": "Directly clinches the debate on burden of proof, exploiting the theist's admission that their conclusion is strictly conditional on an unargued theism."
+    }
+   ],
+   "fallacies": [
+    {
+     "round": 6,
+     "side": "theist",
+     "name": "False Independence / Conjunction Error",
+     "quote": "When you multiply the probabilities, the result is much lower than the case for any single part.",
+     "why": "Treats conditionally dependent events as statistically independent; in group social dynamics, an initial report of a bereavement vision significantly increases the probability of subsequent contagion."
+    },
+    {
+     "round": 8,
+     "side": "theist",
+     "name": "Argument from Ignorance / God of the Gaps",
+     "quote": "Since your account leaves Paul as an unexplained event, isn't the real disagreement your prior against God acting, not the historical data?",
+     "why": "Treats an admitted explanatory lacuna in natural history (the unknown psychological trigger for an ancient figure's conversion) as positive evidential support for a supernatural miracle."
+    }
+   ],
+   "factual_errors": [],
+   "key_concessions": [
+    {
+     "round": 1,
+     "side": "theist",
+     "point": "Historical method alone cannot prove a miracle, and the probability of the resurrection depends partly on background beliefs about God's existence.",
+     "impact": "major"
+    },
+    {
+     "round": 2,
+     "side": "theist",
+     "point": "There is no pre-Gospel source that explicitly describes the appearances as physical; the case for bodily appearances before the Gospels is inferential.",
+     "impact": "major"
+    },
+    {
+     "round": 4,
+     "side": "theist",
+     "point": "No pre-Markan text explicitly reports anyone visiting the tomb, making the case for a checked grave inferential and partly an argument from silence.",
+     "impact": "moderate"
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "point": "In Jewish usage 'raised' implied the body left the grave, meaning the disciples' proclamation was in principle publicly falsifiable.",
+     "impact": "moderate"
+    },
+    {
+     "round": 7,
+     "side": "atheist",
+     "point": "The contagion model does not directly explain Paul, a hostile outsider whose conversion trigger remains unexplained.",
+     "impact": "moderate"
+    },
+    {
+     "round": 8,
+     "side": "theist",
+     "point": "Paul's own appearance, taken alone, cannot distinguish a bodily resurrection from visionary exaltation.",
+     "impact": "major"
+    }
+   ],
+   "turning_point": {
+    "round": 8,
+    "description": "In Round 8, the theist conceded that Paul's Damascus experience cannot distinguish a bodily resurrection from visionary exaltation, and that the theist's conclusion was conditional on a theistic prior that had not been defended. This conceded the core of the resolution (the bodily claim) and surrendered the burden of proof."
+   },
+   "best_argument": {
+    "theist": "The unique historical origin of the belief: Second Temple Jews had accessible categories for postmortem vindication ('spirit', 'angel', heavenly exaltation), yet proclaimed a single Messiah bodily raised in mid-history in Jerusalem where the grave was known, a claim inexplicable by simple grief hallucination given the conversion of Paul.",
+    "atheist": "The failure to meet the burden of proof for a bodily event: all pre-Gospel sources describe visionary phenomena rather than physical contact, no pre-Markan source records a visited tomb, and the affirmative's conclusion was admitted to be conditional on an undefended theistic prior."
+   },
+   "unanswered": {
+    "theist": [
+     "The specific psychological trigger for Paul's visionary conversion as an antagonistic persecutor outside the reach of group bereavement contagion.",
+     "The rhetorical force of Paul citing more than 500 witnesses, 'most of whom are still alive' (1 Cor 15:6), which served as an explicit invitation to contemporaneous verification."
+    ],
+    "atheist": [
+     "Why an objective, bodily vindication by God appeared exclusively to insiders and eventual converts (Acts 10:40-41) rather than to public authorities like Pilate or Caiaphas.",
+     "How the affirmative can sustain a categorical resolution when its decisive premise (the prior probability of theism) was conceded to be assumed rather than established."
+    ]
+   },
+   "judge": "philosopher",
+   "model": "gemini-3.8-flash",
+   "weighted": {
+    "theist": 8.1,
+    "atheist": 8.6
+   }
+  },
+  {
+   "scores": {
+    "theist": {
+     "evidence": 7,
+     "logic": 7,
+     "engagement": 8,
+     "honesty": 9,
+     "clarity": 8,
+     "overall": 7
+    },
+    "atheist": {
+     "evidence": 8,
+     "logic": 8,
+     "engagement": 9,
+     "honesty": 8,
+     "clarity": 8,
+     "overall": 8
+    }
+   },
+   "winner": "atheist",
+   "margin": "narrow",
+   "verdict": "The atheist wins narrowly because the affirmative carried the burden and did not discharge it. Both debaters were unusually careful: they answered questions first, cited real scholarship, and conceded when a text would not bear the claim. The theist offered the stronger positive narrative, an early creed, the Jewish meaning of raised, a burial that may have been locatable, and a persecutor whom group contagion does not reach. The atheist accepted that core and attacked the inference from belief to event. The debate turned on the bodily element itself. The theist conceded that no source before the Gospels describes a physical encounter, that no pre-Markan text reports a tomb visit, that Paul's experience alone cannot separate bodily resurrection from visionary exaltation, and that James is not clearly a hostile witness. The atheist conceded the matching costs. Raised meant the body left the grave and was in principle checkable. Paul remains unexplained. No modern case closely matches a group seeing a known person who gives a commission. The closing decides the scores. The theist states, honorably, that the conclusion is conditional on theism, that theism was not argued, and that a naturalistic prior will not be moved. That honesty should not be punished as evasion, but the concession does give away the resolution as framed. The atheist's account has real loose ends. Those gaps were not shown to be evidence of a miracle unless a supernatural cause is already live. On the arguments actually presented, the negative better contained the specific claim that Jesus rose bodily.",
+   "highlights": [
+    {
+     "round": 4,
+     "side": "atheist",
+     "quote": "This is your best point, and I grant that \"raised\" is a meaningful choice.",
+     "why": "Names the theist's strongest argument and concedes its force instead of deflecting."
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "quote": "I have no well-documented modern case where a group sees someone they knew personally and receives a commission from him.",
+     "why": "Honestly limits the collective-vision analogy at the exact point the theist pressed."
+    },
+    {
+     "round": 7,
+     "side": "atheist",
+     "quote": "I concede that Paul is the hardest part of my account.",
+     "why": "Admits the main cost in the naturalistic reconstruction rather than papering over it."
+    },
+    {
+     "round": 9,
+     "side": "theist",
+     "quote": "if theism is a live option, the bodily resurrection is the best explanation of the data.",
+     "why": "States the affirmative conclusion in its honest conditional form."
+    },
+    {
+     "round": 9,
+     "side": "atheist",
+     "quote": "A resolution whose decisive premise is assumed rather than defended has not been established.",
+     "why": "Ties the shared concessions to the affirmative burden that decides the debate."
+    }
+   ],
+   "fallacies": [
+    {
+     "round": 6,
+     "side": "theist",
+     "name": "false independence",
+     "quote": "When you multiply the probabilities, the result is much lower than the case for any single part.",
+     "explanation": "Treats the naturalistic steps as if they multiply like independent events. The theist later conceded that correlation makes that multiplication overstate the improbability."
+    },
+    {
+     "round": 8,
+     "side": "theist",
+     "name": "false dichotomy",
+     "quote": "isn't the real disagreement your prior against God acting, not the historical data?",
+     "explanation": "Collapses a remaining historical dispute, whether an early bodily belief and an unchecked grave establish a bodily event, into a pure prior disagreement. The atheist accepted the prior point but correctly kept the bodily-specific gap in play."
+    }
+   ],
+   "factual_errors": [
+    {
+     "round": 1,
+     "side": "theist",
+     "claim": "Still, a majority of specialists accept it.",
+     "correction": "A majority acceptance of the empty tomb is disputed. Some apologetic surveys claim one, but many critical scholars reject or suspend judgment on it, and those surveys' samples and methods are contested. The speaker did immediately flag the tomb as more contested than the appearances.",
+     "severity": "minor"
+    },
+    {
+     "round": 1,
+     "side": "atheist",
+     "claim": "Acts describes it as a light and a voice that his companions did not see in the same way (Acts 9:7; 22:9).",
+     "correction": "Acts 9:7 says the companions heard the voice but saw no one; Acts 22:9 says they saw the light but did not hear the voice. The accounts conflict about hearing as well as seeing, rather than simply agreeing that the companions failed to see the event in the same way.",
+     "severity": "minor"
+    }
+   ],
+   "key_concessions": [
+    {
+     "round": 9,
+     "side": "theist",
+     "point": "The conclusion is conditional on theism, which was not argued, and will not move someone starting from a naturalistic prior.",
+     "impact": "major"
+    },
+    {
+     "round": 3,
+     "side": "theist",
+     "point": "Damascus need not differ in kind from later visions, and James's conversion by an appearance is only an inference, weakening him as a hostile witness.",
+     "impact": "major"
+    },
+    {
+     "round": 4,
+     "side": "theist",
+     "point": "No pre-Markan text reports that anyone visited the tomb; that part of the case is inferential.",
+     "impact": "moderate"
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "point": "In Jewish usage the claim was in principle publicly falsifiable, and there is no close modern case of a group seeing a known dead person who commissions them.",
+     "impact": "moderate"
+    },
+    {
+     "round": 7,
+     "side": "atheist",
+     "point": "Contagion does not reach Paul, and no psychological trigger for his experience can be named.",
+     "impact": "moderate"
+    },
+    {
+     "round": 8,
+     "side": "atheist",
+     "point": "The shared historical data do not settle the question; the disagreement now turns largely on background probabilities.",
+     "impact": "moderate"
+    }
+   ],
+   "turning_point": {
+    "round": 8,
+    "description": "Both sides agree on the early creed, sincere belief, and the bodily meaning of raised, and the theist concedes that Paul's appearance alone cannot prove a bodily rising. The theist then locates the dispute in the prior; the atheist accepts that framing but adds that an unverified tomb and an undefended theistic premise cannot carry the affirmative burden."
+   },
+   "best_argument": {
+    "theist": "Jewish usage made raised a bodily and in-principle checkable claim, yet the disciples chose it over available softer categories such as angel, spirit, or mere exaltation, proclaimed it in Jerusalem, and included a hostile outsider the contagion model does not reach.",
+    "atheist": "The resolution requires a bodily event, but the pre-Gospel evidence shows an early bodily belief rather than a described physical encounter or a reported early tomb check, and an unargued theism cannot carry the affirmative burden."
+   },
+   "unanswered": {
+    "theist": [
+     "After granting facial recognition would be difficult, the theist's point that identification could rest on which tomb was used, crucifixion wounds, burial cloths, and later ossilegium was never specifically rebutted."
+    ],
+    "atheist": [
+     "The demand for evidence, independent of the Easter traditions, sufficient to make God's existence and a vindication of this man probable enough to meet the affirmative burden was only modestly answered and then explicitly left unargued."
+    ]
+   },
+   "judge": "adjudicator",
+   "model": "grok-4.7",
+   "weighted": {
+    "theist": 7.65,
+    "atheist": 8.2
+   }
+  }
+ ],
+ "panel": {
+  "votes": {
+   "theist": 0,
+   "atheist": 3,
+   "draw": 0
+  },
+  "winner": "atheist",
+  "overall": {
+   "theist": 6.67,
+   "atheist": 7.67
+  },
+  "weighted": {
+   "theist": 7.33,
+   "atheist": 7.9
+  }
+ },
+ "judges_v1": [
+  {
+   "judge": "historian",
+   "scores": {
+    "theist": {
+     "evidence": 8,
+     "logic": 7,
+     "engagement": 9,
+     "honesty": 9,
+     "clarity": 8,
+     "overall": 8
+    },
+    "atheist": {
+     "evidence": 8,
+     "logic": 8,
+     "engagement": 8,
+     "honesty": 9,
+     "clarity": 8,
+     "overall": 8
+    }
+   },
+   "winner": "atheist",
+   "margin": "narrow",
+   "verdict": "This was an unusually high-quality and honest exchange. Both debaters cited primary texts accurately for the most part: 1 Cor 15, Galatians, Josephus Ant. 4.219, 18.63 and 20.200, War 4.317, Mishnah Sanhedrin 6:5, Daniel 12, 2 Maccabees 7, and Jerome's quotation of the Gospel of the Hebrews. Their use of scholarship (Brown, Allison, Wright, Meier, Lüdemann, Scholem) was also largely fair. The theist made the best single argument of the debate, on the origin of the belief. He showed that Second Temple Jews had softer categories available (\"his angel,\" \"his spirit,\" exaltation), and he turned the atheist's own Daniel 12 and 2 Maccabees 7 texts to show that \"raised\" meant the body leaving the dust, which made the claim falsifiable. The atheist openly granted that this was the theist's strongest point. He also admitted that his contagion model cannot reach Paul. Even so, the atheist won the structural argument. Step by step, he got the theist to concede several things: no pre-Gospel source describes a bodily encounter; no pre-Markan text reports anyone visiting the tomb; Paul's appearance cannot tell bodily resurrection apart from visionary exaltation; James is not clearly a hostile witness; and the conclusion depends on a theistic prior that was never argued. The resolution asserts a bodily rising and the affirmative carries the burden, so the theist's closing reformulation into a conditional (\"if theism is a live option...\") leaves the resolution unestablished as stated. The atheist's maxim that \"a claim that could be checked is not a claim that was checked\" sums up why the evidence for the bodily element ended up as the weakest part of the case. The atheist's account has real gaps, Paul above all, and he named them himself. On argumentation measured against the burden, he edges it narrowly.",
+   "highlights": [
+    {
+     "round": 4,
+     "side": "theist",
+     "quote": "Visions of a vindicated martyr fit \"exalted,\" \"his angel,\" or \"his spirit\" naturally. \"Raised\" fits only if they believed something had happened to the body.",
+     "why": "This is the theist's strongest and most original move. It forced the atheist to concede that the choice of 'raised' was meaningful and implied a belief about the body."
+    },
+    {
+     "round": 5,
+     "side": "theist",
+     "quote": "So your own sources make \"raised\" mean the body comes out of the grave.",
+     "why": "An effective reversal. It turned the atheist's Daniel 12 and 2 Maccabees 7 evidence into support for a publicly falsifiable bodily claim."
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "quote": "But a claim that could be checked is not a claim that was checked.",
+     "why": "A concise and decisive distinction that blunted the falsifiability argument and set up the atheist's case on burden."
+    },
+    {
+     "round": 6,
+     "side": "atheist",
+     "quote": "Correlated steps don't multiply like coin tosses.",
+     "why": "A sound probabilistic rebuttal to the theist's conjunction argument, which the theist explicitly conceded in Round 7."
+    },
+    {
+     "round": 9,
+     "side": "theist",
+     "quote": "The honest form of my conclusion is conditional: if theism is a live option, the bodily resurrection is the best explanation of the data.",
+     "why": "An admirably honest statement of what was shown. It also reduced the affirmative case to a conditional the debate never discharged."
+    }
+   ],
+   "fallacies": [
+    {
+     "round": 2,
+     "side": "theist",
+     "name": "Non sequitur",
+     "quote": "A Jesus who appeared only in visions would have no reason to stop appearing.",
+     "explanation": "How Paul classified his experience as 'last' does not follow from the experiences being bodily. Visionary experiences can also be treated as a closed apostolic category. The atheist rebutted this with Acts 7:56, Acts 22:17-18 and Revelation 1."
+    },
+    {
+     "round": 6,
+     "side": "theist",
+     "name": "Straw man",
+     "quote": "That invites people to check, and someone inventing a story wouldn't write that.",
+     "explanation": "The atheist had never argued that Paul invented the 500. He argued that we know nothing about what they experienced. Rebutting invention does not address the actual objection."
+    },
+    {
+     "round": 1,
+     "side": "theist",
+     "name": "Straw man (preemptive)",
+     "quote": "Theft, wrong tomb, swoon, and hallucination each explain one data point at most, and each strains against the others.",
+     "explanation": "This lists weak alternatives that the opponent never defended. The theist later conceded in Round 7 that theft, swoon and wrong tomb were non-starters, leaving only the vision account in play."
+    },
+    {
+     "round": 1,
+     "side": "atheist",
+     "name": "Possibility-to-probability slide",
+     "quote": "the real question is whether ordinary human processes could produce these beliefs. They plainly can.",
+     "explanation": "Showing that natural processes could produce the beliefs does not show that they did, or that they explain the data best. The atheist later conceded that Paul does not fit the contagion model."
+    },
+    {
+     "round": 1,
+     "side": "atheist",
+     "name": "Weak analogy",
+     "quote": "Collective sightings also occur in Marian apparitions such as Zeitoun (1968)",
+     "explanation": "A distant, contested light seen by primed crowds differs significantly from claimed recognition of a personally known individual. In Round 5 the atheist conceded that he has no well-documented parallel."
+    }
+   ],
+   "factual_errors": [
+    {
+     "round": 6,
+     "side": "theist",
+     "claim": "nobody claimed Zevi's body had left the grave or that he appeared to groups",
+     "correction": "Sabbatean tradition did produce empty-tomb claims. Scholem records a legend that Zevi's brother opened the tomb and found it empty, and Allison cites this as a parallel in Resurrecting Jesus. The flat 'nobody claimed' is overstated, even though the theist hedged on the occultation doctrine.",
+     "severity": "moderate"
+    },
+    {
+     "round": 1,
+     "side": "theist",
+     "claim": "Some of them, including James (Josephus, Antiquities 20.200), died rather than give it up.",
+     "correction": "Josephus reports only that Ananus had James and others stoned as lawbreakers. He says nothing about James being offered a chance to recant. The 'rather than give it up' framing comes from later Christian tradition (Hegesippus, via Eusebius), not Josephus.",
+     "severity": "minor"
+    },
+    {
+     "round": 1,
+     "side": "atheist",
+     "claim": "Luke and John add a Jesus who can be touched and who eats fish.",
+     "correction": "Physical touch already appears in Matthew 28:9, where the women 'took hold of his feet.' The legendary-development sequence the atheist presented is therefore slightly simplified.",
+     "severity": "minor"
+    },
+    {
+     "round": 3,
+     "side": "atheist",
+     "claim": "the disciples seem to have gone back to Galilee (Mark 14:28; 16:7)",
+     "correction": "Mark 14:28 and 16:7 only predict that Jesus will go ahead to Galilee. Mark never narrates the disciples returning. Better support would be Matthew 28:16 and John 21. The atheist hedged with 'seem to,' which softens the error.",
+     "severity": "minor"
+    }
+   ],
+   "key_concessions": [
+    {
+     "round": 9,
+     "side": "theist",
+     "point": "The resurrection's probability depends on theism, which was not argued, so the theist's conclusion is only conditional and does not persuade someone starting from a naturalistic prior.",
+     "impact": "major"
+    },
+    {
+     "round": 4,
+     "side": "theist",
+     "point": "No pre-Markan text reports anyone visiting the tomb, so the case for an early checked tomb is inferential.",
+     "impact": "moderate"
+    },
+    {
+     "round": 8,
+     "side": "theist",
+     "point": "Paul's appearance, taken alone, cannot distinguish bodily resurrection from visionary exaltation.",
+     "impact": "moderate"
+    },
+    {
+     "round": 3,
+     "side": "theist",
+     "point": "No account of the appearance to James survives, which weakens him as a hostile witness. Damascus may not differ in kind from later visions.",
+     "impact": "moderate"
+    },
+    {
+     "round": 7,
+     "side": "atheist",
+     "point": "The contagion model does not reach Paul, a hostile outsider, and no trigger for his experience can be named.",
+     "impact": "moderate"
+    },
+    {
+     "round": 4,
+     "side": "atheist",
+     "point": "The choice of 'raised' over 'angel' or 'spirit' shows the believers held that something happened to Jesus's body. This is the theist's strongest point.",
+     "impact": "moderate"
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "point": "Because 'raised' implied the body leaving the grave, the claim was in principle publicly falsifiable. He has no well-documented parallel of a group commissioned by a known deceased individual.",
+     "impact": "moderate"
+    },
+    {
+     "round": 7,
+     "side": "theist",
+     "point": "The naturalistic steps are correlated, so multiplying their probabilities like coin tosses overstates how unlikely the account is.",
+     "impact": "moderate"
+    }
+   ],
+   "turning_point": {
+    "round": 8,
+    "description": "The theist conceded that Paul's experience is not evidence for a bodily resurrection specifically, and he reframed the disagreement as one about priors. The atheist turned this into a burden argument: Paul supports at most 'theism-plus-some-postmortem-vindication,' the bodily element rests on an unverified tomb, and the decisive theistic premise was conceded but never defended. The theist's closing accepted a conditional conclusion, which settled the debate on the resolution as worded."
+   },
+   "best_argument": {
+    "theist": "The origin-of-belief argument. Apocalyptic Jews had softer, unfalsifiable categories available for a vindicated martyr ('his angel,' 'his spirit,' exaltation), and disappointed movements such as the Sabbateans reached for those. Yet Jesus's followers proclaimed one man bodily 'raised' in the middle of history, in Jerusalem, and the atheist's own Daniel 12:2 and 2 Maccabees 7:11 confirm that this meant the body leaving the grave.",
+    "atheist": "The bodily element of the resolution is its weakest-attested part. Paul, the only firsthand witness, describes a revelation 'in me' that is indistinguishable from visionary exaltation. No pre-Gospel source describes a bodily encounter, and no pre-Markan text reports a checked tomb. 'A claim that could be checked is not a claim that was checked,' so with theism unargued, the affirmative has not met its burden."
+   },
+   "unanswered": {
+    "theist": [
+     "The Sabbatean contrast: disappointed movements turn to unfalsifiable categories (hidden, exalted), while the disciples made the one falsifiable claim. The atheist pivoted to conjunction and burden instead of rebutting it directly.",
+     "Identifying the body without facial recognition, through the known tomb, crucifixion wounds, grave cloths and ossilegium practice (Round 5), went unaddressed.",
+     "Brown's harmonization, in which Joseph acted as a law-observant council member and so reconciles Mark 15:43 with Acts 13:29, was not contested after Round 4.",
+     "Paul's conversion as a hostile outsider remains unexplained on the atheist's account. This was conceded, not answered."
+    ],
+    "atheist": [
+     "The legendary-growth trajectory (Mark with no appearances, then Matthew's guards, then Luke and John's physical Jesus, then the Gospel of Peter's talking cross) was never directly addressed beyond a general concession of discrepancies.",
+     "The burden argument, that the resolution's decisive premise (a meaningful theistic prior) was assumed rather than defended, was conceded rather than answered.",
+     "Lüdemann's suggestion that the appearance to the 500 reflects a Pentecost-type ecstatic collective experience went unrebutted.",
+     "The point that the 'third day' motif could derive from Scripture (Hosea 6:2, Jonah) rather than a dated tomb discovery was not contested."
+    ]
+   },
+   "weighted": {
+    "theist": 8.1,
+    "atheist": 8.15
+   }
+  },
+  {
+   "judge": "philosopher",
+   "scores": {
+    "theist": {
+     "evidence": 8,
+     "logic": 7,
+     "engagement": 9,
+     "honesty": 9,
+     "clarity": 8,
+     "overall": 7
+    },
+    "atheist": {
+     "evidence": 8,
+     "logic": 8,
+     "engagement": 9,
+     "honesty": 9,
+     "clarity": 8,
+     "overall": 8
+    }
+   },
+   "winner": "atheist",
+   "margin": "narrow",
+   "verdict": "Both debaters were careful, well-sourced and unusually candid, and they argued in good faith from start to finish. The theist built a clear inference-to-the-best-explanation case. His strongest move was on the origin of the belief: in Second Temple usage \"raised\" meant a body leaving the grave, which made the claim one that could be checked, while disappointed movements such as the Sabbateans reached for categories that could not be falsified. He also pressed hard on Paul, a hostile outsider that the contagion model cannot reach. The atheist granted these costs openly.\n\nThe resolution, though, is specifically about a bodily rising, and the theist's own concessions weakened that link over the debate. He granted that no pre-Gospel source describes a bodily encounter, that no pre-Markan text reports anyone visiting the tomb, that Paul's appearance cannot distinguish bodily resurrection from visionary exaltation, and that James is not clearly a hostile witness. Most importantly, he granted that his conclusion holds only if theism is given a meaningful prior, and theism was never argued. The atheist used each concession well. He separated \"checkable\" from \"checked\" and \"unexplained\" from \"evidence for a miracle.\" He also showed that correlated steps do not multiply like independent coin tosses, and that the resurrection hypothesis is itself a conjunction.\n\nThe atheist has real gaps of his own. He cannot name a trigger for Paul's vision, he has no strong analogue for group commissioning appearances, and his use of Acts 1:14 on James was weak. But the affirmative carries the burden, and a conclusion that depends on a premise admitted but not defended does not meet it. On argument quality and burden of proof, the atheist edges it.",
+   "highlights": [
+    {
+     "round": 5,
+     "side": "atheist",
+     "quote": "But a claim that could be checked is not a claim that was checked.",
+     "why": "A crisp logical distinction that undercut the theist's argument from public falsifiability without denying its premise."
+    },
+    {
+     "round": 4,
+     "side": "theist",
+     "quote": "Visions of a vindicated martyr fit \"exalted,\" \"his angel,\" or \"his spirit\" naturally. \"Raised\" fits only if they believed something had happened to the body.",
+     "why": "The theist's strongest argument. The opponent explicitly called it the best point of the debate."
+    },
+    {
+     "round": 6,
+     "side": "atheist",
+     "quote": "Correlated steps don't multiply like coin tosses.",
+     "why": "Correctly identified the hidden independence assumption in the theist's conjunction argument. The theist then conceded it."
+    },
+    {
+     "round": 8,
+     "side": "atheist",
+     "quote": "\"unexplained\" is not the same as \"evidence for a miracle.\"",
+     "why": "Blocked a gap-based inference from Paul's untriggered vision and tied the point back to the prior."
+    },
+    {
+     "round": 9,
+     "side": "theist",
+     "quote": "The honest form of my conclusion is conditional: if theism is a live option, the bodily resurrection is the best explanation of the data.",
+     "why": "An admirably honest statement of what he had shown. It also fixed the limits of the affirmative case under the burden of proof."
+    }
+   ],
+   "fallacies": [
+    {
+     "round": 6,
+     "side": "theist",
+     "name": "Treating dependent probabilities as independent",
+     "quote": "When you multiply the probabilities, the result is much lower than the case for any single part.",
+     "explanation": "This assumes the steps of the naturalistic account are probabilistically independent. Several are correlated (contagion within the group, tomb belief following from 'raised'). The theist conceded this in Round 7."
+    },
+    {
+     "round": 6,
+     "side": "theist",
+     "name": "Straw man / false dichotomy",
+     "quote": "That invites people to check, and someone inventing a story wouldn't write that.",
+     "explanation": "The atheist never proposed that Paul invented the 500. Ruling out invention leaves sincere but mistaken belief open, so the point does not favor resurrection over the atheist's actual hypothesis."
+    },
+    {
+     "round": 1,
+     "side": "theist",
+     "name": "Piecemeal refutation (divide and conquer)",
+     "quote": "Theft, wrong tomb, swoon, and hallucination each explain one data point at most, and each strains against the others.",
+     "explanation": "This judges each alternative alone, when a naturalist can combine them (visions plus an unverified tomb). The atheist exploited this, and the theist later accepted the disjunctive framing."
+    },
+    {
+     "round": 1,
+     "side": "atheist",
+     "name": "Hasty generalization",
+     "quote": "That is how legends grow.",
+     "explanation": "It infers legendary development of the whole tradition from the order of composition and the embellishments in some later texts (the Gospel of Peter). Growth in secondary details does not by itself show that the core claims are legendary."
+    },
+    {
+     "round": 2,
+     "side": "atheist",
+     "name": "Misapplied evidence (chronological error)",
+     "quote": "On James, Acts 1:14 already puts Jesus's brothers among the believers.",
+     "explanation": "Acts 1:14 is set after the resurrection appearances (Acts 1:3), so it cannot show James believed before an appearance. The theist pointed this out and the atheist did not defend the point."
+    }
+   ],
+   "factual_errors": [
+    {
+     "round": 2,
+     "side": "atheist",
+     "claim": "Acts 1:14 shows Jesus's brothers among the believers, undercutting a post-appearance conversion of James.",
+     "correction": "Acts 1:14 comes after the forty days of appearances described in Acts 1:3, so it is consistent with James believing after an appearance. It does not show prior belief.",
+     "severity": "minor"
+    },
+    {
+     "round": 1,
+     "side": "theist",
+     "claim": "Some of them, including James (Josephus, Antiquities 20.200), died rather than give it up.",
+     "correction": "Josephus reports that James was stoned on Ananus's charge of breaking the law. He does not say James was offered a chance to recant or died specifically for refusing to deny the resurrection.",
+     "severity": "minor"
+    },
+    {
+     "round": 4,
+     "side": "atheist",
+     "claim": "Paul's light from heaven fits Daniel's astral picture better than it fits a reanimated corpse.",
+     "correction": "The 'light from heaven' comes from Acts (9:3; 22:6; 26:13), not from Paul's own letters, which do not describe the experience as luminous. This conflates the two sources.",
+     "severity": "minor"
+    }
+   ],
+   "key_concessions": [
+    {
+     "round": 9,
+     "side": "theist",
+     "point": "The resurrection's probability depends on theism, theism was not argued, and so the conclusion is only conditional and will not move someone with a naturalistic prior.",
+     "impact": "major"
+    },
+    {
+     "round": 4,
+     "side": "theist",
+     "point": "No pre-Markan text reports anyone visiting the tomb; the case for an early checked tomb is inferential.",
+     "impact": "moderate"
+    },
+    {
+     "round": 2,
+     "side": "theist",
+     "point": "No pre-Gospel source explicitly describes the appearances as physical.",
+     "impact": "moderate"
+    },
+    {
+     "round": 8,
+     "side": "theist",
+     "point": "Paul's appearance, taken alone, does not distinguish bodily resurrection from visionary exaltation.",
+     "impact": "moderate"
+    },
+    {
+     "round": 3,
+     "side": "theist",
+     "point": "Conversion of James through an appearance is an inference, not something the texts show, which weakens him as a hostile witness.",
+     "impact": "moderate"
+    },
+    {
+     "round": 7,
+     "side": "atheist",
+     "point": "The contagion model does not reach Paul; he is the hardest datum, and no trigger can be named.",
+     "impact": "moderate"
+    },
+    {
+     "round": 4,
+     "side": "atheist",
+     "point": "The choice of 'raised' over 'angel' or 'spirit' shows believers held that something happened to Jesus's body; this is the theist's strongest point.",
+     "impact": "moderate"
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "point": "Because 'raised' implied an empty grave, the claim could in principle be publicly falsified.",
+     "impact": "moderate"
+    },
+    {
+     "round": 6,
+     "side": "atheist",
+     "point": "His specific naturalistic sequence, taken as a conjunction, is less probable than any single step.",
+     "impact": "moderate"
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "point": "He has no well-documented case of a group seeing a known deceased person who gives them a commission.",
+     "impact": "moderate"
+    }
+   ],
+   "turning_point": {
+    "round": 8,
+    "description": "The theist conceded that Paul's appearance cannot distinguish bodily resurrection from visionary exaltation, and agreed that the disagreement comes down to the prior on God acting. The atheist then argued that Paul supports at most 'theism plus some postmortem vindication', not the bodily claim. He added that the bodily element is the least attested part of the case and that the decisive theistic premise was admitted but never defended, so the affirmative burden was unmet. The theist's closing accepted this conditional framing."
+   },
+   "best_argument": {
+    "theist": "The origin of the belief. In Second Temple Judaism, 'raised' (Dan 12:2; 2 Macc 7:11) meant the body leaving the dust, so the disciples made a publicly falsifiable claim in Jerusalem, where Jesus had been buried. Softer, unfalsifiable categories were available ('his angel', 'his spirit', exaltation), and disappointed movements like the Sabbateans used exactly those. The claim of one man raised bodily in the middle of history still needs explaining.",
+    "atheist": "The resolution's bodily element rests on what believers held, not on anything verified. No pre-Gospel source describes a bodily encounter, no pre-Markan text reports a checked tomb, and the only firsthand appearance (Paul's) was visionary and cannot tell bodily resurrection from exaltation. A claim that could be checked is not one that was checked. Without a defended theistic prior, the affirmative has not met its burden."
+   },
+   "unanswered": {
+    "theist": [
+     "The Sabbatean rebuttal (Round 6): reinterpreting movements turn to unfalsifiable categories ('hidden', 'exalted'), while the disciples made the one claim that could be falsified. The atheist did not directly address this asymmetry.",
+     "Identification of the body without facial recognition (Round 5): a known tomb, crucifixion wounds, burial cloths, a new tomb, and the practice of ossilegium. The atheist did not respond to these points.",
+     "No well-documented analogue was produced for a group seeing a known individual who gives them a commission.",
+     "No psychological trigger for Paul's vision was offered; the atheist conceded this was a gap."
+    ],
+    "atheist": [
+     "The burden-of-proof point: the decisive theistic premise was assumed, not defended. The theist conceded it rather than answering it.",
+     "Luke 24:37-43 works hard to refute a 'spirit' reading, which suggests the original experiences were ambiguous. The theist never addressed this.",
+     "Legendary growth across the texts (Mark's lack of appearances, Matthew's guards, Luke and John's physical touch and eating, the Gospel of Peter's talking cross). The theist folded this into his earlier concession about discrepancies but never rebutted the developmental pattern.",
+     "Paul's experience at most supports theism plus some postmortem vindication, not a bodily rising. The theist's closing restated his reliance on 'raised' and 'buried' but did not bridge the gap between what was believed and what happened."
+    ]
+   },
+   "weighted": {
+    "theist": 8.1,
+    "atheist": 8.35
+   }
+  },
+  {
+   "judge": "adjudicator",
+   "scores": {
+    "theist": {
+     "evidence": 8,
+     "logic": 7,
+     "engagement": 9,
+     "honesty": 9,
+     "clarity": 8,
+     "overall": 7
+    },
+    "atheist": {
+     "evidence": 8,
+     "logic": 8,
+     "engagement": 9,
+     "honesty": 9,
+     "clarity": 8,
+     "overall": 8
+    }
+   },
+   "winner": "atheist",
+   "margin": "narrow",
+   "verdict": "This was an unusually honest and high-level exchange. Both debaters answered every question directly, cited sources accurately, and made real concessions. The result turns on burden of proof and on the specific wording of the resolution: a bodily resurrection.\n\nThe theist's strongest move was the origin-of-belief argument in Round 4. Jews had softer categories available (\"his angel,\" \"his spirit,\" exaltation), so choosing \"raised\" implies a claim about the body. Combined with Daniel 12:2 and 2 Maccabees 7:11, this made the claim publicly falsifiable. The theist also pressed hard on Paul as a hostile outsider whom the contagion model cannot reach, and the atheist openly admitted that gap.\n\nThe atheist kept the debate focused on the gap between what the early believers held and what happened. \"A claim that could be checked is not a claim that was checked\" pinpointed the weak link. By Round 8 the theist had conceded several key points. No pre-Gospel source describes a bodily encounter. No pre-Markan text reports anyone visiting the tomb. Paul's appearance, taken alone, cannot separate bodily resurrection from visionary exaltation. The atheist then argued well that Paul at most supports some post-mortem vindication, not the bodily claim the resolution makes.\n\nThe decisive point was the theist's own closing. He admitted his conclusion is conditional on theism, which he promised in Round 1 to show was \"at least a live option\" but then said he could not argue. Since the affirmative carries the burden, an admitted but undefended premise leaves the resolution unestablished. The atheist's account has real holes: Paul, and no documented parallel for group commissioning appearances. That keeps the margin narrow, but the atheist wins on the argument actually presented.",
+   "highlights": [
+    {
+     "round": 5,
+     "side": "atheist",
+     "quote": "But a claim that could be checked is not a claim that was checked.",
+     "why": "In one line it separates the theist's falsifiability point from actual verification. This became the core of the atheist's case on the bodily element."
+    },
+    {
+     "round": 4,
+     "side": "theist",
+     "quote": "\"Raised\" fits only if they believed something had happened to the body.",
+     "why": "The theist's best argument. The atheist called it the theist's strongest point, and it forced the concession that the earliest believers held a bodily view."
+    },
+    {
+     "round": 6,
+     "side": "atheist",
+     "quote": "Correlated steps don't multiply like coin tosses.",
+     "why": "An effective answer to the theist's conjunction argument. It also turned the point around by noting that the theistic hypothesis is itself a conjunction."
+    },
+    {
+     "round": 7,
+     "side": "theist",
+     "quote": "Contagion doesn't reach him, so he lowers your probability.",
+     "why": "A sharp counter to the correlation defense. It won the clearest concession of the debate: that Paul is the hardest datum for the atheist."
+    },
+    {
+     "round": 9,
+     "side": "theist",
+     "quote": "The honest form of my conclusion is conditional: if theism is a live option, the bodily resurrection is the best explanation of the data.",
+     "why": "Admirably candid. It also concedes that the affirmative's decisive premise was never defended, which settles the burden question."
+    }
+   ],
+   "fallacies": [
+    {
+     "round": 1,
+     "side": "theist",
+     "name": "Straw man / divide and conquer",
+     "quote": "Theft, wrong tomb, swoon, and hallucination each explain one data point at most, and each strains against the others.",
+     "explanation": "This tests naturalistic hypotheses one at a time, when the live alternative is a combined account. The atheist offered exactly that, and the theist later conceded in Round 7 that theft and swoon are non-starters, so the real comparison was with a composite."
+    },
+    {
+     "round": 1,
+     "side": "atheist",
+     "name": "Weak analogy",
+     "quote": "Collective sightings also occur in Marian apparitions such as Zeitoun (1968), which my opponent presumably does not count as real.",
+     "explanation": "Zeitoun involved primed crowds seeing a distant light, not a group recognizing a known individual. The theist showed the disanalogy, and the atheist later conceded in Round 5 that he had no well-documented parallel."
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "name": "Weak analogy",
+     "quote": "When Sabbatai Zevi converted to Islam (1666) and later died, many followers reinterpreted both events rather than give up their belief",
+     "explanation": "The Sabbateans reinterpreted using unfalsifiable categories (occultation, descent into impurity) and never claimed a bodily raising or group appearances. That is the very feature at issue, as the theist pointed out."
+    },
+    {
+     "round": 6,
+     "side": "theist",
+     "name": "False dilemma",
+     "quote": "That invites people to check, and someone inventing a story wouldn't write that.",
+     "explanation": "This treats deliberate invention as the only alternative to accurate testimony, leaving out sincere transmission of an unverified tradition. The atheist made that point in reply."
+    }
+   ],
+   "factual_errors": [
+    {
+     "round": 1,
+     "side": "theist",
+     "claim": "Some of them, including James (Josephus, Antiquities 20.200), died rather than give it up.",
+     "correction": "Josephus, Antiquities 20.200, says James was stoned on a charge of breaking the law, brought by the high priest Ananus. It does not say he was killed for refusing to recant belief in the resurrection, or that he was offered the chance to recant. The 'died rather than give it up' framing goes beyond what the source says.",
+     "severity": "minor"
+    },
+    {
+     "round": 1,
+     "side": "atheist",
+     "claim": "Mark (c. 70) has no appearance at all and ends with the women telling no one (16:8).",
+     "correction": "It is accurate that Mark has no appearance narrative. However, Mark 16:7 (and 14:28) explicitly predicts an appearance in Galilee, so it is misleading to present Mark as evidence that appearance traditions were absent at that stage. The atheist cited 16:7 himself in Round 3.",
+     "severity": "minor"
+    }
+   ],
+   "key_concessions": [
+    {
+     "round": 9,
+     "side": "theist",
+     "point": "The conclusion is conditional on theism, which was not argued in this debate, so it does not persuade someone who starts from a naturalistic prior.",
+     "impact": "major"
+    },
+    {
+     "round": 4,
+     "side": "theist",
+     "point": "No pre-Markan text reports anyone visiting the tomb; the case for an early checked tomb is inferential.",
+     "impact": "major"
+    },
+    {
+     "round": 8,
+     "side": "theist",
+     "point": "Paul's appearance, taken alone, is not evidence for a bodily resurrection as opposed to visionary exaltation.",
+     "impact": "moderate"
+    },
+    {
+     "round": 3,
+     "side": "theist",
+     "point": "James's conversion through an appearance is an inference, not something the texts show, which weakens him as a hostile witness.",
+     "impact": "moderate"
+    },
+    {
+     "round": 7,
+     "side": "atheist",
+     "point": "The contagion model does not reach Paul; he is the hardest datum for the account, and no trigger can be named.",
+     "impact": "moderate"
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "point": "There is no well-documented case of a group seeing a personally known deceased individual who gives them a commission.",
+     "impact": "moderate"
+    },
+    {
+     "round": 4,
+     "side": "atheist",
+     "point": "The choice of 'raised' shows the early believers held that something happened to Jesus's body; this is the theist's strongest point.",
+     "impact": "moderate"
+    },
+    {
+     "round": 5,
+     "side": "atheist",
+     "point": "Because 'raised' implied the body leaving the grave, the claim was in principle publicly falsifiable.",
+     "impact": "moderate"
+    }
+   ],
+   "turning_point": {
+    "round": 8,
+    "description": "The theist conceded that Paul's appearance alone cannot distinguish bodily resurrection from visionary exaltation, and agreed that the dispute comes down mainly to priors. The atheist then argued that Paul at most supports theism plus some post-mortem vindication, not a bodily rising. Together with the earlier concession that no pre-Markan text reports a checked tomb, this left the bodily element, which is the resolution's actual claim, resting on inference alone, with the theism premise conceded as unargued."
+   },
+   "best_argument": {
+    "theist": "The origin-of-belief argument. Second Temple Jews had softer, unfalsifiable categories for a vindicated martyr ('his angel,' 'his spirit,' exaltation; Acts 12:15, Luke 24:37, Wisdom 3), and failed movements like the Sabbateans reached for such categories. The disciples instead proclaimed that one man had been 'raised' in the middle of history. On their own sources (Dan 12:2, 2 Macc 7:11), that meant the body leaving the grave, and they proclaimed it in Jerusalem, where the burial took place. Combined with Paul, a hostile outsider beyond the reach of group contagion, this places a real explanatory cost on the naturalistic account.",
+    "atheist": "The gap between belief and verification for the bodily element. Every pre-Gospel datum ('buried,' 'raised,' the 500) establishes what believers held, not that anyone checked a tomb or met a physical body. The only firsthand appearance (Paul's) was a post-ascension vision that cannot distinguish bodily resurrection from exaltation. Touch and eating appear only 40 to 60 years later, in accounts that disagree. Since the resolution claims a bodily rising and its probability depends on a theism the affirmative did not defend, the burden is not met."
+   },
+   "unanswered": {
+    "theist": [
+     "What triggered Paul's vision, and how does the naturalistic account reach a hostile outsider? The atheist conceded this gap rather than answering it.",
+     "There is no documented case of a group seeing a known deceased individual who commissions them. The atheist conceded the lack of a parallel and shifted to questioning where the commission details come from.",
+     "Disappointed movements like the Sabbateans reached for unfalsifiable categories ('hidden,' 'exalted'), while the disciples made the one falsifiable claim. Beyond Daniel and 'firstfruits,' the atheist never fully explained the shift to a single man raised in the middle of history."
+    ],
+    "atheist": [
+     "The affirmative carries the burden, and the decisive premise (that theism has a meaningful prior) was admitted but never argued. The theist conceded this rather than answering it.",
+     "A claim that could be checked is not a claim that was checked. The theist offered only inference and an acknowledged argument from silence to show that anyone actually checked the tomb.",
+     "Paul's vision, even if God caused it, supports post-mortem vindication or exaltation just as well as a bodily resurrection. The theist conceded this and moved the bodily case elsewhere."
+    ]
+   },
+   "weighted": {
+    "theist": 8.1,
+    "atheist": 8.35
+   }
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+  "kind": "philosophical",
+  "verdict": "Probably false: hiddenness is likely real, moderate evidence against a loving God, though not decisive",
+  "credence": 30,
+  "confidence": "low",
+  "bottom_line": "If a perfectly loving God existed, we would at first expect that God to make their existence clear to anyone open to a relationship. Yet many sincere, non-resistant people find no such evidence, and belief in God tracks geography and culture closely. Theists have strong replies: God may value freely chosen faith, morally significant freedom, or a gradual, transformative way of being known, or may have reasons we cannot see. These replies weaken the argument considerably, but most of them are possibilities rather than independently supported explanations, and several fit the actual pattern of belief poorly. On balance, hiddenness is more likely under 'no loving God' than under 'loving God,' so it counts as meaningful evidence against, though its strength depends heavily on contested priors and on how one understands divine love.",
+  "sub_claims": [
+    {
+      "claim": "Non-resistant nonbelief exists: some people who are open to God, and not culpably resisting, fail to believe.",
+      "kind": "empirical",
+      "case_for": "Converts who report long, sincere seeking with no result, former believers who lost faith against their own wishes (Schellenberg's 'former believers' and 'lifelong seekers'), isolated nontheists, and whole cultures historically without the concept of a personal, loving God (e.g., early Buddhist and Daoist traditions) make it highly plausible that at least some nonbelief is non-resistant.",
+      "case_against": "Some traditions (Calvinist readings of Romans 1:18-20) hold that all nonbelief involves suppression of truth. Some argue that resistance can be subtle and unconscious, so self-reports are unreliable.",
+      "consensus": "Most philosophers of religion, including many theists (e.g., Howard-Snyder, Rea), concede that non-resistant nonbelief probably exists. A minority of confessional scholars, mainly in Reformed traditions, deny it.",
+      "evidence": ["Testimony of sincere seekers and deconverts", "Historical populations without access to theistic concepts", "Strong correlation of belief with birthplace and upbringing (Maitzen 2006)", "Romans 1:18-20 as the main textual basis for denial"],
+      "verdict": "Very likely true",
+      "credence": 88
+    },
+    {
+      "claim": "A perfectly loving God would, for all we can tell, ensure that every non-resistant person is in a position to believe.",
+      "kind": "philosophical",
+      "case_for": "Ideal love seeks relationship for the beloved's good. A conscious, personal relationship with God is plausibly a great good, and belief that God exists is required for it. Human analogies (a loving parent does not stay hidden from a child who wants contact) support this.",
+      "case_against": "Divine love may differ greatly from parental love (Rea). God may value non-coercive, morally transformative knowledge (Moser), the preservation of freedom against overwhelming evidence (Swinburne, Murray), or relationships begun after death. The premise may also overstate the role of explicit propositional belief compared with implicit, de re relation to God.",
+      "consensus": "No consensus. This premise is where most academic debate focuses.",
+      "evidence": ["Schellenberg 1993, 2015", "Rea 2018 on divine transcendence and love", "Moser 2008 on purposively available evidence", "Analogies from human parental love"],
+      "verdict": "Plausible prima facie, but substantially contestable",
+      "credence": 55
+    },
+    {
+      "claim": "Theodicies of hiddenness (freedom, soul-making, the value of seeking, avoiding coerced or self-interested belief) adequately explain the observed pattern of hiddenness.",
+      "kind": "philosophical",
+      "case_for": "Overwhelming evidence might crowd out moral choice or turn love into prudence (Murray, Swinburne). Pascal held that God gives enough light for those who seek and enough darkness for those who do not. These goods are real.",
+      "case_against": "The goods explain why God might give less than overwhelming evidence, not why God would give some people a vivid sense of God and others nothing. Devils in many traditions believe yet remain free, so belief does not remove freedom. The distribution of belief follows culture rather than moral disposition, which fits poorly with seeker-sensitive explanations.",
+      "consensus": "No consensus. Many theistic philosophers think some combination of explanations works. Critics such as Schellenberg, Drange, and Maitzen think they fail on distribution.",
+      "evidence": ["Pascal, Pensées", "Murray, 'Coercion and the Hiddenness of God' (1993)", "Swinburne 1998", "Maitzen 2006 on demographics", "James 2:19 on believing demons"],
+      "verdict": "Partially successful; weakest at explaining distribution",
+      "credence": 35
+    },
+    {
+      "claim": "Skeptical theism defeats the inference from 'we see no reason for hiddenness' to 'there is no reason.'",
+      "kind": "philosophical",
+      "case_for": "Our cognitive limits relative to an omniscient being make it unsurprising that we cannot discern God's reasons. Isaiah 55:8-9 and Job emphasize this.",
+      "case_against": "If applied consistently, skeptical theism undermines inferences about what God would do in other cases too, including revelation and moral guidance. Bayesian treatments show that even uncertainty about reasons usually leaves hiddenness more expected on atheism, so the evidence remains but is weakened.",
+      "consensus": "Divided. It is widely discussed in the problem of evil literature, and many find that it reduces evidential force without eliminating it.",
+      "evidence": ["Isaiah 55:8-9", "Book of Job", "Literature on skeptical theism in the evidential problem of evil"],
+      "verdict": "Reduces but does not eliminate the evidential force",
+      "credence": 30
+    },
+    {
+      "claim": "Hiddenness is an expected feature of the God of major theistic traditions, so it does not count against those traditions.",
+      "kind": "textual",
+      "case_for": "Scripture explicitly anticipates divine hiddenness (Isaiah 45:15, Psalm 22:1, Psalm 10:1). Mystical traditions treat the dark night of the soul as normal spiritual development (John of the Cross). Hiddenness was not a surprise discovery.",
+      "case_against": "Textual anticipation shows that traditions noticed the problem, not that it is probable given a perfectly loving God. A tradition could build in any observed feature after the fact. The evidential question concerns 'loving God,' not a specific tradition's self-description.",
+      "consensus": "Confessional scholars widely emphasize this. Analytic philosophers generally treat it as relevant to the priors of a specific tradition, but not decisive for the evidential question.",
+      "evidence": ["Isaiah 45:15", "Psalm 22:1", "John of the Cross, Dark Night of the Soul", "Kierkegaard on indirect communication"],
+      "verdict": "True as textual history; weak as an evidential defeater",
+      "credence": 40
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Is divine love relevantly like ideal human love, especially in seeking explicit, conscious relationship now?",
+      "type": "definition",
+      "if_yes": "Hiddenness is fairly strong evidence against (credence in claim around 15-20).",
+      "if_no": "If divine love is transcendent and oriented to goods we cannot discern, the evidence weakens greatly (credence around 55-65).",
+      "your_view": "Divine love may well differ, but the claim that God is 'loving' must keep enough content to make predictions. If it keeps none, the theistic hypothesis loses explanatory power. This favors the stronger reading moderately."
+    },
+    {
+      "crux": "Does any proposed good actually require the specific distribution of belief we observe, which follows culture and history?",
+      "type": "evidence",
+      "if_yes": "Hiddenness is close to neutral evidence.",
+      "if_no": "Hiddenness remains significant evidence against.",
+      "your_view": "No proposal I know explains distribution well. Freedom and soul-making explain less-than-overwhelming evidence, not why it is distributed geographically."
+    },
+    {
+      "crux": "How much should we trust our judgments about what a God would likely do (skeptical theism)?",
+      "type": "prior",
+      "if_yes": "If we can reasonably estimate this, hiddenness provides evidence against.",
+      "if_no": "Deep skepticism makes hiddenness nearly irrelevant, but at a cost to other theistic inferences.",
+      "your_view": "Moderate trust is warranted. Total skepticism is self-undermining for theism's own predictive claims."
+    },
+    {
+      "crux": "Does 'significant' mean decisive, or merely a meaningful likelihood ratio below 1?",
+      "type": "definition",
+      "if_yes": "If 'significant' means decisive or nearly proving atheism, the claim is likely true (credence around 75).",
+      "if_no": "If it means a meaningful but defeasible piece of evidence, the claim is likely false (credence around 25).",
+      "your_view": "I score the second, standard Bayesian reading. On that reading, hiddenness is meaningful evidence without being conclusive."
+    }
+  ],
+  "strongest_for": [
+    "A God might value freely chosen, morally transforming faith that overwhelming evidence would undermine (Murray, Swinburne, Moser).",
+    "Our limited understanding of divine purposes limits our ability to predict what a loving God would reveal (skeptical theism, Rea).",
+    "Relationship with God might begin after death or occur implicitly, so present nonbelief need not mean being cut off from God.",
+    "Major theistic traditions anticipated hiddenness. It is part of their concept of God, so its observation is not surprising given those traditions."
+  ],
+  "strongest_against": [
+    "Non-resistant nonbelief is very likely real, and a loving being would plausibly want relationship with those open to it.",
+    "The distribution of belief follows birthplace and culture, not moral or spiritual openness, contrary to seeker-sensitive explanations.",
+    "Belief does not remove freedom: believers still choose whether to love or obey, so freedom explanations fail to require nonbelief.",
+    "Even with uncertainty about God's reasons, hiddenness is clearly expected on atheism and only possibly expected on theism, so it shifts probability."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'All nonbelievers are secretly resisting God': this conflicts with substantial testimony and is unfalsifiable as stated.",
+      "'God is not hidden; look at nature': this does not explain why many reasonable inquirers find the evidence inconclusive.",
+      "'Scripture predicts hiddenness, so it confirms theism': anticipation is not explanation, and a tradition can accommodate any observation."
+    ],
+    "against": [
+      "'If God existed, there would be a sign in the sky': this ignores that minimal evidence can be enough for belief, and that explanations exist for less-than-overwhelming evidence.",
+      "'Hiddenness proves no God exists': at most it is probabilistic evidence and does not affect deistic or non-loving gods.",
+      "'Believers only believe because of upbringing, so there is no God': this is a genetic fallacy unless framed as Maitzen's distribution argument."
+    ]
+  },
+  "would_change": [
+    "A theodicy that independently predicts the observed cultural and geographic distribution of belief.",
+    "Strong evidence that apparently non-resistant nonbelievers are in fact resistant.",
+    "A compelling account of divine love showing that conscious relationship now is not something a loving God would prioritize.",
+    "Evidence that God makes themselves known in ways not captured by explicit belief, such as reliable universal religious experience."
+  ],
+  "sources": [
+    {"citation": "J. L. Schellenberg, Divine Hiddenness and Human Reason, 1993", "kind": "scholarship"},
+    {"citation": "J. L. Schellenberg, The Hiddenness Argument: Philosophy's New Challenge to Belief in God, 2015", "kind": "scholarship"},
+    {"citation": "Daniel Howard-Snyder and Paul K. Moser (eds.), Divine Hiddenness: New Essays, 2002", "kind": "scholarship"},
+    {"citation": "Michael C. Rea, The Hiddenness of God, 2018", "kind": "scholarship"},
+    {"citation": "Paul K. Moser, The Elusive God: Reorienting Religious Epistemology, 2008", "kind": "scholarship"},
+    {"citation": "Richard Swinburne, Providence and the Problem of Evil, 1998", "kind": "scholarship"},
+    {"citation": "Stephen Maitzen, 'Divine Hiddenness and the Demographics of Theism,' Religious Studies, 2006", "kind": "scholarship"},
+    {"citation": "Michael J. Murray, 'Coercion and the Hiddenness of God,' American Philosophical Quarterly, 1993", "kind": "scholarship"},
+    {"citation": "Adam Green and Eleonore Stump (eds.), Hidden Divinity and Religious Belief: New Perspectives, 2016", "kind": "scholarship"},
+    {"citation": "Theodore M. Drange, Nonbelief and Evil: Two Arguments for the Nonexistence of God, 1998", "kind": "scholarship"},
+    {"citation": "Blaise Pascal, Pensées, 1670", "kind": "primary"},
+    {"citation": "Isaiah 45:15; Psalm 22:1; Psalm 10:1; Romans 1:18-20", "kind": "scripture"}
+  ]
+}
+--- stderr ---

@@ -1,0 +1,176 @@
+{
+  "kind": "empirical",
+  "verdict": "Unlikely to highly unlikely; modern critical scholarship broadly rejects the traditional authorship of Matthew and John, while Mark and Luke remain disputed but doubtful.",
+  "credence": 14,
+  "confidence": "high",
+  "bottom_line": "None of the four canonical Gospels internally names its author, and the traditional titles ('According to Matthew', etc.) appear in the manuscript record only towards the mid-to-late second century. Internal evidence strongly contradicts apostolic authorship for Matthew (which relies heavily on Greek Mark rather than an eyewitness perspective) and John (which reflects layered theological composition within a distinct community). Mark and Luke have slightly stronger cases as early traditions associate them with non-apostolic figures, but serious tensions between Acts and Paul's authentic letters, as well as the Greek literacy and provenance of the texts, lead mainstream historians to conclude all four were composed by anonymous second- or third-generation Greek-speaking Christians.",
+  "sub_claims": [
+    {
+      "claim": "The Gospel of Matthew was written by the apostle Matthew, the former tax collector.",
+      "kind": "textual",
+      "case_for": "Unanimous early church tradition from Papias (c. 110 CE) and Irenaeus (c. 180 CE) attributes it to Matthew. The Gospel contains specialized financial vocabulary and distinct Jewish-Christian legal arguments fitting a literate tax collector.",
+      "case_against": "The text copies roughly 80 to 90 percent of Mark nearly verbatim in Greek; an eyewitness apostle is exceptionally unlikely to depend wholesale on a non-eyewitness. Papias described Matthew compiling Hebrew or Aramaic sayings, but canonical Matthew is an original Greek composition, not a translation.",
+      "consensus": "Overwhelming consensus among critical scholars (including many moderate confessional scholars) rejects apostolic authorship; defended primarily by conservative evangelical scholars.",
+      "evidence": [
+        "Extensive verbatim dependence on Mark (Markan priority)",
+        "Linguistic consensus that canonical Matthew was originally drafted in Greek",
+        "Papias fragment quoted in Eusebius, Hist. Eccl. 3.39.16",
+        "Complete internal anonymity of the text"
+      ],
+      "verdict": "Very unlikely to be by the apostle Matthew",
+      "credence": 8
+    },
+    {
+      "claim": "The Gospel of Mark was written by John Mark, an associate and interpreter of Peter.",
+      "kind": "textual",
+      "case_for": "Papias (c. 110 CE) explicitly states that Mark was Peter's interpreter and recorded his memories accurately though not in chronological order. Attributing the text to an obscure non-apostle who had a falling out with Paul (Acts 13:13) satisfies the criterion of embarrassment.",
+      "case_against": "The text is internally anonymous and exhibits noticeable geographical and cultural errors regarding 1st-century Palestine (e.g., Mark 7:31). It reads as Hellenistic episodic narrative incorporating diverse oral traditions rather than direct personal Petrine reminiscences.",
+      "consensus": "Divided; critical consensus generally views it as an anonymous Hellenistic composition, though a notable minority of scholars consider some historical connection to Petrine tradition or a Christian named Mark plausible.",
+      "evidence": [
+        "Papias fragment in Eusebius, Hist. Eccl. 3.39.15",
+        "Geographical anomalies such as the roundabout route in Mark 7:31",
+        "1 Peter 5:13 mentioning 'my son Mark'",
+        "Absence of internal authorial claims"
+      ],
+      "verdict": "Plausible but unproven indirect connection; doubtful as direct Petrine memoir",
+      "credence": 28
+    },
+    {
+      "claim": "The Gospel of Luke and the Book of Acts were written by Luke the physician, a travelling companion of Paul.",
+      "kind": "textual",
+      "case_for": "The Book of Acts features prominent first-person plural narrative sections ('we' passages), suggesting authorial presence during Paul's travels. Luke was a relatively minor Gentile figure (Col 4:14), making pseudepigraphal invention unlikely, and 2nd-century attestation (Irenaeus, Muratorian Canon) is uniform.",
+      "case_against": "The theology, chronology, and biographical details in Acts conflict sharply with Paul's own undisputed epistles (notably Galatians 1-2 vs. Acts 9 and 15). The author never mentions Paul writing letters, and the 'we' passages can be understood as an incorporated diary, source fragment, or Hellenistic sea-voyage literary motif.",
+      "consensus": "Substantial disagreement; majority of critical scholars view Luke-Acts as written c. 80-100 CE by an admirer of Paul rather than a companion, though conservative and some moderate scholars defend Lukan authorship.",
+      "evidence": [
+        "First-person plural 'we' passages in Acts 16, 20-21, 27-28",
+        "Factual and theological divergences between Acts and Galatians",
+        "Formal literary prologue in Luke 1:1-4 citing handed-down traditions",
+        "Muratorian Fragment and Irenaeus (c. 170-180 CE)"
+      ],
+      "verdict": "Unresolved; possible link via sources or an associate, but unlikely a direct companion",
+      "credence": 25
+    },
+    {
+      "claim": "The Gospel of John was written by the apostle John, son of Zebedee.",
+      "kind": "textual",
+      "case_for": "The text claims derivation from the 'disciple whom Jesus loved' (John 21:24). Early patristic sources, notably Irenaeus claiming a link through Polycarp, identify this figure as John of Ephesus. Archaeology has confirmed precise topographical details in Jerusalem known before 70 CE (Pools of Bethesda and Siloam).",
+      "case_against": "John 21:24 distinguishes the authorial/editorial community from the Beloved Disciple ('we know that his testimony is true'). The text exhibits complex compositional layers, Hellenistic philosophical concepts (the Logos), and advanced Christology incompatible with Acts 4:13 describing John as an uneducated Galilean fisherman.",
+      "consensus": "Strong critical consensus rejects direct authorship by John son of Zebedee, viewing the text as the product of a 'Johannine community' or school developed over several stages.",
+      "evidence": [
+        "Editorial colophon in John 21:24",
+        "Acts 4:13 characterization of John as 'uneducated and untrained' (agrammatos kai idiotes)",
+        "Distinct stages of composition and textual redaction across John",
+        "Archaeological confirmation of pre-70 CE Jerusalem pools (John 5:2, 9:7)"
+      ],
+      "verdict": "Very unlikely to be directly penned by the apostle John",
+      "credence": 12
+    },
+    {
+      "claim": "The canonical Gospels were originally anonymous compositions that received their titles in the 2nd century.",
+      "kind": "textual",
+      "case_for": "No canonical Gospel contains an author's name inside the body text. Early mid-2nd-century writers like Justin Martyr refer to them collectively as 'the memoirs of the apostles' without individual names. The uniform title formula 'According to...' (Kata...) matches 2nd-century library cataloging practices when texts were brought together.",
+      "case_against": "No ancient manuscript of the canonical Gospels survives lacking an authorial title or attribution. Martin Hengel and Brant Pitre argue that circulating anonymous texts across disparate Mediterranean communities would have inevitably generated conflicting titles, yet the traditional titles are remarkably uniform.",
+      "consensus": "Broad critical consensus holds they were originally published anonymously; a significant confessional minority argues the titles were affixed from the earliest distribution.",
+      "evidence": [
+        "Uniform grammatical formulation 'Kata Matthaion', 'Kata Markon', etc.",
+        "Justin Martyr's First Apology citing 'memoirs' without authorial names (c. 150 CE)",
+        "Earliest extant papyri with titles dating from c. 200 CE (P66, P75)",
+        "Absence of internal greetings or dedications naming authors"
+      ],
+      "verdict": "Highly likely that they circulated initially without authorial names",
+      "credence": 82
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Did the Gospels circulate anonymously for decades before authorial titles were assigned?",
+      "type": "evidence",
+      "if_yes": "Traditional attributions are most likely second-century traditions developed during canon consolidation to secure apostolic authority.",
+      "if_no": "Traditional attributions represent preserved first-century historical memory from the time of initial publication.",
+      "your_view": "The internal lack of authorial signatures, Justin Martyr's generic references, and comparative Hellenistic manuscript practices indicate they were published anonymously and given standardized titles in the early-to-mid second century."
+    },
+    {
+      "crux": "Are patristic testimonies (especially Papias as quoted by Eusebius) historically reliable regarding authorship?",
+      "type": "evidence",
+      "if_yes": "Mark preserves Petrine memory and Matthew wrote a primary apostolic source.",
+      "if_no": "Patristic writers conflated distinct texts, accepted pious legends, or engaged in retrojective apostolic branding.",
+      "your_view": "Papias preserves garbled or idealized second-generation traditions; specifically, his description of Matthew composing Hebrew sayings fails to match the original Greek text and Markan dependence of canonical Matthew."
+    },
+    {
+      "crux": "Could first-century Galilean non-elites write sophisticated Greek narrative and theological literature?",
+      "type": "prior",
+      "if_yes": "Apostolic authorship remains plausible either through miraculous gift, later Greek education, or comprehensive reliance on scribes.",
+      "if_no": "Direct composition by fishermen or local tax collectors is historically ruled out, shifting authorship to educated Greek-speaking diaspora Christians.",
+      "your_view": "Literacy in 1st-century Roman Palestine was limited, and literary Greek composition was restricted to a tiny urban educated elite; direct authorship of Matthew or John by Galilean disciples without extensive scribal authorship is historically implausible."
+    },
+    {
+      "crux": "How should 'authorship' be defined in the context of ancient religious literature?",
+      "type": "definition",
+      "if_yes": "If authorship includes serving as the authoritative tradition-bearer or patron of a community school, traditional claims have moderate viability.",
+      "if_no": "If authorship requires personally composing or directly dictating the continuous Greek text, the traditional claim fails decisively.",
+      "your_view": "Applying standard historical-critical standards of actual literary composition, the traditional claim fails, even if historical memories of Peter or the Beloved Disciple remotely anchor parts of Mark and John."
+    }
+  ],
+  "strongest_for": [
+    "The attribution of two Gospels to minor, non-apostolic figures (Mark and Luke), one of whom abandoned Paul during mission work (Acts 13:13), satisfies the criterion of embarrassment.",
+    "Remarkable uniformity across all surviving manuscripts and patristic citations, with no competing alternative authorial attributions found in any ancient library or manuscript.",
+    "The 'we' passages in Acts provide prima facie textual evidence that the author utilized an eyewitness travel diary or was personally present with Paul.",
+    "Plausible second-century chains of custody, such as Irenaeus claiming direct instruction from Polycarp, who allegedly knew the apostle John in Asia Minor.",
+    "Demonstrably accurate pre-70 CE Palestinian topography and cultural markers (e.g., Pools of Bethesda and Siloam in John) indicating genuine eyewitness traditions underlying the text."
+  ],
+  "strongest_against": [
+    "Canonical Matthew relies verbatim on the Greek text of Mark for up to 90% of its narrative, which is historically inexplicable if Matthew was an eyewitness apostle and Mark was not.",
+    "All four Gospels are internally anonymous, containing no internal authorial self-identification, in stark contrast to the genuine letters of Paul and Revelation.",
+    "Canonical Matthew and John are sophisticated, rhetorically adept Greek compositions, whereas historical Galilean disciples were Aramaic-speaking non-elites described in Acts 4:13 as uneducated.",
+    "Major biographical, legal, and theological discrepancies between Acts and Paul's genuine epistles (e.g., the Jerusalem Council in Galatians 2 vs. Acts 15) undermine Luke's role as a companion of Paul.",
+    "Papias' description of Matthew compiling the 'sayings in the Hebrew dialect' cannot describe canonical Matthew, which was composed natively in Greek using Greek sources.",
+    "The closing chapter of John (John 21:24) explicitly distinguishes the writing editors ('we know') from the disciple whose testimony is recorded."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Claiming Acts 4:13 calling Peter and John 'uneducated' was mere rhetorical hyperbole and that Galilean fishermen routinely possessed high-level Greek literary composition skills.",
+      "Asserting that the mention of a tax collector named Matthew in Matthew 9:9 is an authorial signature proving the apostle wrote the book.",
+      "Arguing that the absence of untitled Gospel manuscripts from the 3rd century proves the original 1st-century autographs had the traditional titles attached."
+    ],
+    "against": [
+      "Claiming the Gospels were malicious 2nd-century forgeries manufactured to invent Christianity out of whole cloth.",
+      "Arguing that illiterate communities could never be behind a book, ignoring the standard ancient Mediterranean practice of oral dictation to amanuenses.",
+      "Asserting that any text containing supernatural or miracle stories must have been composed centuries later as pure myth."
+    ]
+  },
+  "would_change": [
+    "Discovery of a secure 1st-century manuscript of Mark or Luke with an undisputed original authorial dedication or signature.",
+    "Discovery of a 1st-century Semitic (Hebrew or Aramaic) original text underlying canonical Matthew that matches Papias' description of the Logia.",
+    "Papyrological or archaeological evidence demonstrating that early 2nd-century Christian communities circulated the canonical Gospels under competing authorial names prior to Irenaeus.",
+    "Epigraphic or documentary evidence demonstrating widespread high-register Greek literary literacy among the rural Galilean working classes in the early 1st century CE."
+  ],
+  "sources": [
+    {
+      "citation": "Raymond E. Brown, 'An Introduction to the New Testament' (Anchor Bible Reference Library, 1997)",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Martin Hengel, 'The Four Gospels and the One Gospel of Jesus Christ' (Trinity Press International, 2000)",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Richard Bauckham, 'Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony' (Eerdmans, 2006)",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Bart D. Ehrman, 'Forged: Writing in the Name of God—Why the Bible's Authors Are Not Who We Think They Are' (HarperOne, 2011)",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Eusebius of Caesarea, 'Church History' (c. 325 CE), quoting Papias of Hierapolis (c. 110 CE)",
+      "kind": "primary"
+    },
+    {
+      "citation": "Irenaeus of Lyons, 'Against Heresies' (Adversus Haereses, c. 180 CE)",
+      "kind": "primary"
+    }
+  ]
+}
+
+
+--- stderr ---

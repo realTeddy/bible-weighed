@@ -1,0 +1,153 @@
+{
+  "kind": "mixed",
+  "verdict": "Probably false",
+  "credence": 20,
+  "confidence": "medium",
+  "bottom_line": "I am scoring the claim as saying that the historical Jesus did not predict a definitive, globally manifest coming of the Son of Man and final judgment within the lifetime of his contemporaries, so no such prediction failed. The most natural reading of several Gospel passages is that he did predict an imminent culmination, although whether the words go back to Jesus and whether he identified himself as the coming Son of Man are disputed. That anticipated public culmination did not occur within his contemporaries’ lifetimes. Sophisticated Christian interpretations understand the coming and cosmic imagery as vindication and judgment associated with Jerusalem’s fall in 70 CE, rather than a prediction of the final return; that reading is possible but, in my judgment, less persuasive overall. Jesus’ expected renewal of the world should not automatically be equated with its physical destruction.",
+  "sub_claims": [
+    {
+      "claim": "The most natural reading of the relevant Gospel passages places the coming of the Son of Man within Jesus’ contemporaries’ lifetimes.",
+      "kind": "textual",
+      "case_for": "Mark and Matthew describe the Son of Man coming amid cosmic disturbances and then say that 'this generation' will not pass away until all these things happen. Elsewhere, 'this generation' ordinarily refers to Jesus’ contemporaries.",
+      "case_against": "The imagery can be read through Daniel and prophetic poetry as Jesus’ heavenly vindication and judgment on Jerusalem. On some readings, 'all these things' refers to events leading up to Jerusalem’s destruction, not the ultimate return.",
+      "consensus": "Many critical scholars favor an imminent apocalyptic reading. Confessional scholars are divided: some accept the apparent difficulty, while others, including N. T. Wright and R. T. France, defend readings centered on Jerusalem’s fall. There is no consensus across all scholars.",
+      "evidence": [
+        "Mark 13:24–30 describes cosmic disturbances and the Son of Man’s coming before the generation saying.",
+        "Matthew 24:29–34 follows a similar sequence; Matthew 24:3 frames the discourse with a question about Jesus’ coming and the end of the age.",
+        "Daniel 7:13–14 depicts a humanlike figure coming with clouds toward the Ancient of Days."
+      ],
+      "verdict": "Probably the most natural reading, though a serious alternative exists",
+      "credence": 85
+    },
+    {
+      "claim": "The historical Jesus himself expected a definitive divine judgment and kingdom within his contemporaries’ lifetimes.",
+      "kind": "empirical",
+      "case_for": "Imminent kingdom and judgment traditions occur across several strands of the Gospel material, and an apocalyptic Jewish setting makes them historically intelligible.",
+      "case_against": "The Gospels are later, theological sources, and the precise discourse may reflect early Christian interpretation or editorial composition. Some scholars reconstruct Jesus primarily as a teacher of a present or non-imminent kingdom.",
+      "consensus": "Many prominent historical-Jesus scholars, including E. P. Sanders and Dale Allison, regard Jesus as an eschatological prophet expecting imminent divine action. Scholars disagree over the details, the authenticity of individual sayings, and whether Jesus expected his own return. Critical and confessional scholarship can employ different assumptions about the sources, although neither camp is uniform.",
+      "evidence": [
+        "Mark 1:15 announces that the kingdom of God has drawn near.",
+        "Mark 9:1 says some standing there will not taste death before seeing the kingdom come with power; its intended referent is disputed.",
+        "Matthew 10:23 says the Son of Man will come before the disciples finish going through Israel’s towns.",
+        "The Gospels were written after Jesus’ death and are not verbatim transcripts."
+      ],
+      "verdict": "Probably true, with substantial uncertainty about the exact prediction",
+      "credence": 75
+    },
+    {
+      "claim": "The discourse’s coming and cosmic imagery can instead refer to Jesus’ vindication and Jerusalem’s destruction in 70 CE.",
+      "kind": "textual",
+      "case_for": "Jewish prophetic language can describe political catastrophes with cosmic imagery; Daniel’s figure comes toward God, not necessarily down to earth. The destruction of the temple is an explicit starting point of the discourse.",
+      "case_against": "The darkened sun, heavenly coming, and gathering of the elect read naturally as a climactic, public event, and Matthew connects the discussion with the end of the age. Reducing the whole sequence to events around 70 CE risks underplaying those features.",
+      "consensus": "This is a substantial scholarly interpretation, defended by confessional scholars such as Wright and France, but it is contested by many historians and biblical scholars.",
+      "evidence": [
+        "Mark 13:1–2 predicts the temple’s destruction.",
+        "Mark 13:26–27 describes the Son of Man coming in clouds and gathering the elect.",
+        "Luke 21:20–24 connects Jerusalem’s encirclement and fall with a subsequent period of Gentile domination."
+      ],
+      "verdict": "Possible but less persuasive as the complete explanation",
+      "credence": 25
+    },
+    {
+      "claim": "If Jesus predicted a globally manifest final coming and judgment within that generation, the prediction failed.",
+      "kind": "empirical",
+      "case_for": "Jesus’ contemporaries died long ago, and no generally recognizable final judgment or worldwide gathering matching the literal description occurred within their lifetimes.",
+      "case_against": "A believer can identify fulfillment in Jesus’ resurrection, heavenly enthronement, or Jerusalem’s fall, or interpret the time reference differently. Whether those count as fulfillment depends on what the prediction meant.",
+      "consensus": "There is no consensus on whether the conditional applies: scholars dispute both the prediction’s historical authenticity and its meaning. There is broad agreement that the temple was destroyed by Roman forces in 70 CE.",
+      "evidence": [
+        "The temple was destroyed in 70 CE, roughly four decades after Jesus’ death.",
+        "Mark 13:27 speaks of gathering the elect from the ends of the earth to the ends of heaven.",
+        "Mark 13:32 says the day and hour are unknown, which does not by itself rule out an approximate generational deadline."
+      ],
+      "verdict": "Very likely, given the stated literal interpretation",
+      "credence": 95
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does 'this generation' include the coming described immediately before it?",
+      "type": "textual",
+      "if_yes": "The passages strongly suggest a deadline within the lives of Jesus’ contemporaries.",
+      "if_no": "The generation saying could concern Jerusalem’s fall or preliminary signs while leaving the final return undated.",
+      "your_view": "Probably yes; the immediate sequence and 'all these things' favor inclusion."
+    },
+    {
+      "crux": "Is the coming primarily symbolic language for heavenly vindication and judgment on Jerusalem?",
+      "type": "definition",
+      "if_yes": "The events around 70 CE can be understood as fulfillment without a visible final return.",
+      "if_no": "A globally manifest culmination did not occur within the stated period.",
+      "your_view": "The symbolic reading has real textual support, but I think it strains the full sequence."
+    },
+    {
+      "crux": "Did the imminent predictions originate with Jesus rather than later Christian tradition?",
+      "type": "evidence",
+      "if_yes": "Jesus himself likely made the prediction at issue.",
+      "if_no": "The texts may preserve an early Christian expectation without establishing that Jesus predicted it.",
+      "your_view": "Probably at least the imminent expectation goes back to Jesus; exact wording and self-identification are less certain."
+    },
+    {
+      "crux": "Should theological commitments determine in advance that Jesus could not make a failed prediction?",
+      "type": "prior",
+      "if_yes": "An interpreter has a strong reason to prefer a non-failure reading even where its textual fit is disputed.",
+      "if_no": "The historical and textual evidence can be assessed without requiring either inerrancy or a blanket rejection of miracles.",
+      "your_view": "I do not assume inerrancy or rule out miracles in advance; neither assumption is needed to observe that the described public culmination did not plainly occur."
+    }
+  ],
+  "strongest_for": [
+    "Danielic and prophetic imagery makes a nonliteral reading of clouds and cosmic upheaval historically plausible.",
+    "The discourse begins with the temple’s destruction, which occurred in 70 CE within the lifetime of some of Jesus’ hearers.",
+    "The Gospels are later literary sources, so their wording cannot automatically be treated as a transcript of Jesus.",
+    "An imminent kingdom expectation does not by itself prove that Jesus predicted his own literal return or the physical destruction of the universe."
+  ],
+  "strongest_against": [
+    "The coming of the Son of Man and gathering of the elect immediately precede the statement that all these things will happen within 'this generation'.",
+    "Several traditions portray Jesus expecting decisive divine action soon, making a single editorial mistake an incomplete explanation.",
+    "A final, globally manifest judgment did not occur within the lifetimes of Jesus’ contemporaries."
+  ],
+  "weak_arguments": {
+    "for": [
+      "'No one knows the day or hour' disproves an imminent deadline: uncertainty about an exact date is compatible with a generational timeframe.",
+      "'Generation' must mean the Jewish people: that is not its ordinary meaning in comparable Gospel uses.",
+      "Any event in 70 CE automatically fulfills the passage: that depends on whether the passage actually describes that event."
+    ],
+    "against": [
+      "Jesus predicted the physical annihilation of the planet: divine judgment and world renewal need not mean that.",
+      "A disputed Gospel saying proves its exact words were spoken by Jesus: historical attribution requires additional argument.",
+      "All Christians must deny the apparent difficulty: confessional scholars disagree about the interpretation and its implications."
+    ]
+  },
+  "would_change": [
+    "Early, independent textual evidence securely attributing or denying the specific generational prediction to Jesus.",
+    "A compelling linguistic argument that 'all these things' excludes the immediately preceding coming and gathering.",
+    "Stronger comparative evidence that the whole sequence was conventionally understood as heavenly vindication and a city’s destruction, rather than an ultimate public judgment."
+  ],
+  "sources": [
+    {
+      "citation": "New Testament: Mark 1, 9 and 13; Matthew 10 and 24; Luke 21",
+      "kind": "scripture"
+    },
+    {
+      "citation": "Hebrew Bible: Daniel 7",
+      "kind": "scripture"
+    },
+    {
+      "citation": "E. P. Sanders, Jesus and Judaism, 1985",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Dale C. Allison Jr., Jesus of Nazareth: Millenarian Prophet, 1998",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "N. T. Wright, Jesus and the Victory of God, 1996",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "R. T. France, The Gospel of Matthew, 2007",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

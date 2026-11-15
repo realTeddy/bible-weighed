@@ -1,0 +1,46 @@
+{
+  "summary": "All four reviewers judge the claim unlikely, chiefly because endless suffering appears disproportionate to finite human culpability and difficult to reconcile with perfect love. They recognize freedom-based self-exclusion as a significant defense, but question whether an informed person could reject God forever. GPT-6.1 and Opus are cautious, while Grok is more skeptical and Gemini regards the moral conflict as conclusive under coherent definitions of justice and love. Their credences are 15%, 22%, 12%, and 12%, respectively, with different levels of confidence. All see meaningful biblical support for the traditional view, but regard its interpretation as contested. They also differ over how widely philosophers reject the doctrine.",
+  "agreement": "high",
+  "agreed": [
+    "Traditional eternal conscious punishment faces serious objections concerning proportionality and divine love.",
+    "Freedom-based self-exclusion offers a defense, but raises difficult questions about informed choice and whether God could heal or persuade without coercion.",
+    "The infinite-status argument and the claim that continuing sin warrants continuing punishment face substantial objections.",
+    "Biblical passages support the traditional reading, but destruction and restoration readings also have defenders.",
+    "Rejecting eternal torment does not require rejecting every form of punishment."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength of the moral conclusion",
+      "positions": "Gemini calls the doctrine contradictory under coherent definitions of justice and love; Grok calls it very unlikely on ordinary meanings. GPT-6.1 and Opus judge it probably inconsistent but remain less certain; GPT-6.1 explicitly says contradiction is not demonstrated."
+    },
+    {
+      "point": "Force of the freedom-based defense",
+      "positions": "GPT-6.1 treats irreversible, informed rejection as possible but unestablished. Opus finds a self-chosen model plausible and more defensible than retributive punishment; Grok also considers it a serious defense but less persuasive for penal torment. Gemini rejects the defense as unsound."
+    },
+    {
+      "point": "What counts as the claim",
+      "positions": "GPT-6.1 and Grok mainly assess hopeless, unending penal suffering; Opus gives some weight to self-chosen models as well. GPT-6.1, Grok, and Opus say a weaker self-exclusion or compatibility claim would receive a higher estimate, whereas Gemini argues that freedom does not rescue eternal torment."
+    },
+    {
+      "point": "Extent of philosophical consensus",
+      "positions": "Gemini reports overwhelming contemporary rejection outside dogmatic commitments. GPT-6.1 emphasizes the absence of consensus; Grok and Opus describe substantial philosophical criticism alongside continuing traditionalist defenses."
+    },
+    {
+      "point": "Textual and historical weight",
+      "positions": "All regard interpretation as contested. Opus emphasizes the traditional view's stronger historical pedigree; GPT-6.1 and Grok stress significant support without clarity, while Gemini describes the alternative scriptural and historical roots as equally plausible."
+    }
+  ],
+  "deciding_cruxes": [
+    "Can unending suffering be proportionate to finite human culpability, including any continuing wrongdoing?",
+    "Can a fully informed, unimpaired person freely and permanently reject God, and could God heal or persuade that person without coercion?",
+    "Does perfect love require continued pursuit of every person's eventual good?",
+    "Does the claim cover self-chosen alienation, or only divinely imposed penal suffering?",
+    "How authoritative are the relevant scriptures, and which interpretation of them is correct?",
+    "Can human moral standards meaningfully evaluate divine justice and love?"
+  ],
+  "what_is_settled": "The reviews agree that the traditional doctrine has substantial textual and historical support and that serious philosophical and theological alternatives exist. They also agree that the central disputes concern justice, love, freedom, and interpretation rather than a straightforward empirical test.",
+  "what_is_open": "Whether eternal suffering is compatible with perfect justice and love remains disputed, as do the possibility of irrevocable informed rejection, the requirements of divine love, and the correct interpretation and authority of the relevant texts."
+}
+
+
+--- stderr ---

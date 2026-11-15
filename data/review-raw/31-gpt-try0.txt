@@ -1,0 +1,118 @@
+{
+  "kind": "mixed",
+  "verdict": "Probably not morally sound as a universal prohibition",
+  "credence": 10,
+  "confidence": "low",
+  "bottom_line": "I am scoring the claim that all same-sex sexual acts are morally wrong, including those between consenting adults in loving, faithful relationships, and that this rule binds people today. Several biblical passages most naturally read as prohibiting at least male same-sex intercourse, though their scope and present application are debated. The strongest traditional case rests on divine authority or a moral account of sex as oriented toward male-female union and procreation; neither can be settled by science alone. I find those premises less persuasive than an ethics centered on consent, care, fidelity and avoidance of harm, under which a categorical ban lacks sufficient justification. My 10% is a judgment under moral uncertainty, not a scientific measurement; a narrower claim that biblical teachings about fidelity remain valuable would score substantially higher.",
+  "sub_claims": [
+    {
+      "claim": "Some biblical texts prohibit male same-sex intercourse.",
+      "kind": "textual",
+      "case_for": "Leviticus explicitly prohibits a man lying with a male, and Romans describes male same-sex acts disapprovingly. The prohibitions are not explicitly limited to coercion or prostitution.",
+      "case_against": "These texts emerged in cultures with different sexual conventions and categories; their exact scope, rationale and relationship to modern relationships are disputed.",
+      "consensus": "Many biblical scholars, including traditional Christian scholars and some scholars who reject the prohibition today, accept that at least some male same-sex acts are condemned. Scholars disagree about the precise scope and implications.",
+      "evidence": ["Leviticus 18:22 and 20:13", "Romans 1:26–27", "The meaning of the Greek term arsenokoitai in 1 Corinthians 6:9 and 1 Timothy 1:10 is disputed."],
+      "verdict": "Very likely",
+      "credence": 95
+    },
+    {
+      "claim": "The biblical prohibitions bind all people as categorical moral rules today.",
+      "kind": "philosophical",
+      "case_for": "Traditional interpreters see a consistent moral pattern grounded in creation, reaffirmed in the New Testament and not confined to Israel's ceremonial law.",
+      "case_against": "Other interpreters distinguish ancient rules and their cultural targets from enduring principles, or argue that modern committed same-sex relationships were not adequately addressed by the texts.",
+      "consensus": "No consensus. Confessional scholars disagree both about biblical authority and about how to interpret and apply these passages.",
+      "evidence": ["Traditional readings often connect Genesis 1–2 and Jesus's discussion of marriage in Mark 10:6–9 to sexual ethics.", "Romans 1 places its discussion within an argument about idolatry and human conduct.", "Ancient authors did not use modern categories of sexual orientation."],
+      "verdict": "Unlikely, though highly dependent on theological premises",
+      "credence": 20
+    },
+    {
+      "claim": "Consensual same-sex intimacy is inherently damaging to human flourishing.",
+      "kind": "empirical",
+      "case_for": "Critics may argue that same-sex acts cannot serve certain goods they regard as essential to sex, or point to health risks associated with particular practices.",
+      "case_against": "Health risks vary by practice and precautions, not simply by partners' sexes. Same-sex relationships can involve love, mutual support and commitment; evidence of stigma-related harms does not show that intimacy itself is harmful.",
+      "consensus": "Scientific and professional opinion does not treat same-sex orientation or relationships as inherently pathological. Whether an act frustrates a spiritual or teleological good is not a question science alone can settle.",
+      "evidence": ["Bailey and colleagues review evidence on sexual orientation and reject treating non-heterosexual orientation as inherently disordered.", "Hatzenbuehler and colleagues report an association between institutional discrimination and psychiatric disorders among sexual-minority populations.", "That association does not establish that every religious teaching or practice produces those harms."],
+      "verdict": "Very unlikely on an ordinary, evidence-based account of flourishing",
+      "credence": 5
+    },
+    {
+      "claim": "Sex is morally legitimate only when it has the male-female, procreative form of marital union.",
+      "kind": "philosophical",
+      "case_for": "A sophisticated natural-law view treats sex as an integrated bodily and personal act whose procreative orientation gives marital union its distinctive form; it need not require conception to be possible in every encounter.",
+      "case_against": "The proposed moral necessity of that biological form is contested. Inferring an exclusive moral purpose from reproductive anatomy is not compulsory, and intimacy, pleasure, commitment and care can be genuine sexual goods.",
+      "consensus": "No consensus. Traditional religious philosophers and theologians defend versions of this account; many secular and affirming religious ethicists reject it.",
+      "evidence": ["The argument concerns the kind and meaning of an act, not merely whether a particular act produces a child.", "The same debate also affects judgments about contraception, infertile couples and non-procreative heterosexual acts."],
+      "verdict": "Unpersuasive, but not empirically disprovable",
+      "credence": 10
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Has God authoritatively commanded a timeless prohibition, and is the relevant interpretation correct?",
+      "type": "prior",
+      "if_yes": "The prohibition has a strong claim to authority within divine-command ethics, though its interpretation and moral implications still require care.",
+      "if_no": "The texts' ancient prohibitions do not by themselves establish a binding rule today.",
+      "your_view": "I assign limited weight to this conjunction because both revelation and the specific interpretation are contested."
+    },
+    {
+      "crux": "Does sexual morality require the procreative form of male-female union?",
+      "type": "value",
+      "if_yes": "A categorical prohibition can follow without claiming that same-sex partners lack love or fidelity.",
+      "if_no": "The sexes of consenting partners do not alone establish that their intimacy is wrong.",
+      "your_view": "I do not find the exclusive procreative-form requirement sufficiently justified."
+    },
+    {
+      "crux": "Do the texts condemn same-sex acts generally, rather than only abusive or exploitative examples?",
+      "type": "evidence",
+      "if_yes": "Affirming the acts today requires explaining why the ancient prohibition is not binding, rather than denying it exists.",
+      "if_no": "The texts leave more direct room for affirming consensual same-sex relationships.",
+      "your_view": "A broad condemnation of at least male intercourse is more plausible than an exclusively exploitation-based reading, though the textual details are debated."
+    },
+    {
+      "crux": "Does 'sound moral teaching' mean faithful to a particular religious tradition or justified as a rule for everyone?",
+      "type": "definition",
+      "if_yes": "A prohibition may count as sound within a tradition that accepts its authoritative premises.",
+      "if_no": "It needs justification accessible beyond those premises, which I find lacking.",
+      "your_view": "I score the universal moral claim; a tradition-internal claim could receive a higher credence."
+    }
+  ],
+  "strongest_for": [
+    "A believer who has independent grounds for trusting divine revelation can reasonably give substantial weight to scriptural prohibitions.",
+    "The relevant texts do not plainly restrict their condemnation to coercive or commercial acts.",
+    "Natural-law arguments offer a systematic account of sexual ethics that applies to heterosexual conduct as well as same-sex conduct."
+  ],
+  "strongest_against": [
+    "Consensual, loving same-sex relationships can realize important human goods, and a categorical ban excludes those goods without a sufficiently persuasive general justification.",
+    "Ancient texts do not automatically settle how their rules should apply to modern relationships or to people outside the tradition.",
+    "The central theological and teleological premises are disputed and cannot be established simply by citing the prohibition itself."
+  ],
+  "weak_arguments": {
+    "for": [
+      "It is unnatural, so it is wrong: a claim about nature does not by itself establish a moral prohibition.",
+      "Same-sex relationships cannot produce children, so they lack value: this overlooks other relationship goods and does not explain the moral status of infertile heterosexual couples.",
+      "The Bible says it, so everyone must accept it: this assumes the authority and interpretation at issue."
+    ],
+    "against": [
+      "The Bible is old, so its teaching must be wrong: age alone does not determine moral truth.",
+      "All biblical references concern rape or exploitation: that restriction is not explicit in the principal passages and is contested.",
+      "A relationship feels loving, so every act within it is moral: love matters, but it does not settle every ethical question."
+    ]
+  },
+  "would_change": [
+    "Stronger independent evidence for divine revelation, together with a convincing case that it requires this specific timeless interpretation.",
+    "A more compelling philosophical demonstration that procreative form is necessary for morally permissible sex.",
+    "Strong evidence that consensual same-sex intimacy inherently frustrates essential human goods, rather than causing risks that depend on practices or social treatment.",
+    "Decisive textual evidence that the relevant biblical prohibitions were limited to exploitation or instead explicitly addressed enduring, equal same-sex partnerships."
+  ],
+  "sources": [
+    {"citation": "The Bible: Genesis 1–2; Leviticus 18:22 and 20:13; Mark 10:6–9; Romans 1:26–27; 1 Corinthians 6:9; 1 Timothy 1:10", "kind": "scripture"},
+    {"citation": "Robert A. J. Gagnon, The Bible and Homosexual Practice: Texts and Hermeneutics, 2001", "kind": "scholarship"},
+    {"citation": "James V. Brownson, Bible, Gender, Sexuality: Reframing the Church's Debate on Same-Sex Relationships, 2013", "kind": "scholarship"},
+    {"citation": "Bernadette J. Brooten, Love Between Women: Early Christian Responses to Female Homoeroticism, 1996", "kind": "scholarship"},
+    {"citation": "J. Michael Bailey and colleagues, Sexual Orientation, Controversy, and Science, 2016", "kind": "scientific"},
+    {"citation": "Mark L. Hatzenbuehler and colleagues, The Impact of Institutional Discrimination on Psychiatric Disorders in Lesbian, Gay, and Bisexual Populations: A Prospective Study, 2010", "kind": "scientific"}
+  ]
+}
+
+
+--- stderr ---

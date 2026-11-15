@@ -1,0 +1,161 @@
+{
+  "kind": "mixed",
+  "verdict": "Internally coherent and philosophically defensible, but not well supported by public empirical evidence",
+  "credence": 28,
+  "confidence": "high",
+  "bottom_line": "Whether faith grounded in Scripture is considered rational depends heavily on how rationality is defined. Under internalist frameworks or Reformed epistemology, biblical faith can be held rationally without intellectual dishonesty or cognitive dysfunction. However, evaluating the claim under standard evidentialist criteria reveals that Scripture's supernatural and historical assertions are not well supported by independent empirical evidence or critical scholarship. Mainstream science and historical-critical analysis indicate that the Bible reflects ancient human authorship, theological diversity, and outdated cosmological models rather than a verified supernatural record. Consequently, while biblical faith is not strictly opposed to reason, asserting that it is 'well supported by reason and evidence' overstates the objective epistemic case.",
+  "sub_claims": [
+    {
+      "claim": "The historical narratives of Scripture, especially the resurrection of Jesus, are well supported by standard historical evidence.",
+      "kind": "empirical",
+      "case_for": "The New Testament offers multiple early, independent attestations to Jesus' life, crucifixion, and the disciples' belief in his resurrection. The minimal facts approach points to an empty tomb, post-mortem appearances reported shortly after Jesus' death (e.g., 1 Corinthians 15), and the rapid transformation of the early church despite severe persecution, which defenders argue is best explained by a physical resurrection.",
+      "case_against": "Standard historical methodology operates under methodological naturalism, where ancient testimony by partisan believers cannot establish a suspension of the laws of nature. The Gospels were written decades later in non-eyewitness Greek contexts with divergent, contradictory details, and psychological grief visions, legendary embellishment, and cognitive dissonance reduction provide robust naturalistic counter-explanations.",
+      "consensus": "Mainstream secular and academic critical historians agree that Jesus existed, was baptized, and was crucified under Pontius Pilate, but reject the claim that standard historical methodology can or does verify miracles like the resurrection. Confessional evangelical scholars defend historical verifiability, but they remain an academic minority within secular historiography.",
+      "evidence": [
+        "Paul's creed in 1 Corinthians 15:3-8 dated to within a few years of the crucifixion",
+        "Discrepancies in the resurrection accounts between Mark 16, Matthew 28, Luke 24, and John 20",
+        "Absence of contemporary non-Christian corroboration for miraculous events"
+      ],
+      "verdict": "Unproven by standard historiographical canons",
+      "credence": 22
+    },
+    {
+      "claim": "Natural theology provides strong rational and philosophical arguments consistent with the biblical worldview.",
+      "kind": "philosophical",
+      "case_for": "Arguments from cosmic contingency (Leibnizian), the beginning of spacetime (Kalam), the fine-tuning of cosmological constants for life, and the existence of objective moral values point toward a personal, transcendent, intelligent Creator matching key attributes of the biblical God.",
+      "case_against": "Natural theology at best argues for an abstract Prime Mover or Cosmic Architect, not the specific covenantal deity of the Old and New Testaments. Furthermore, strong philosophical counter-arguments exist, including the problem of gratuitous evil, divine hiddenness, cosmological multiverse models, and evolutionary accounts of morality.",
+      "consensus": "Deeply divided. While a significant majority of specialists in the philosophy of religion favor theism, the broader discipline of professional academic philosophy leans heavily toward atheism/naturalism (around 70% in PhilPapers surveys).",
+      "evidence": [
+        "Values of fundamental cosmological parameters (e.g., cosmological constant, cosmological initial entropy)",
+        "Draper's formulation of the evidential problem of evil and pain",
+        "Schellenberg's argument from divine hiddenness"
+      ],
+      "verdict": "Philosophically viable and intellectually serious, though contentious and inconclusive",
+      "credence": 42
+    },
+    {
+      "claim": "Scriptural accounts of creation and nature are compatible with or corroborated by modern empirical science.",
+      "kind": "empirical",
+      "case_for": "Theism historically provided the conceptual foundation for modern science by conceiving of the universe as an orderly creation governed by rational laws. Non-literal hermeneutics (e.g., evolutionary creationism, literary framework view) demonstrate that Genesis was intended to convey theological truths rather than mechanistic natural history.",
+      "case_against": "A straightforward historical-grammatical reading of biblical texts describes a young cosmos, special creation of humans distinct from other primates, and a global cataclysmic flood, all of which are directly contradicted by geology, paleontology, evolutionary biology, and astrophysics. Reconciling Scripture with science requires retrofitting texts through allegorical accommodation.",
+      "consensus": "Virtually unanimous consensus across the physical and biological sciences affirms an ancient universe (~13.8 billion years), universal common ancestry via evolution, and no worldwide flood. Leading scientific institutions and many Christian scientists accept evolutionary models, but reject concordism.",
+      "evidence": [
+        "Genomic evidence for common ancestry between humans and other hominids (e.g., chromosome 2 fusion)",
+        "Geological column and radiometric dating contradicting a global flood and young earth",
+        "Ancient Near Eastern context showing Genesis shares cosmographical motifs with Mesopotamian literature"
+      ],
+      "verdict": "False if read literally or concordistically; viable only through non-literal theological reinterpretation",
+      "credence": 15
+    },
+    {
+      "claim": "Faith in biblical revelation can meet rigorous standards of epistemic rationality without coercive external proofs.",
+      "kind": "philosophical",
+      "case_for": "Under Reformed epistemology (e.g., Alvin Plantinga), belief in God and biblical truth can be 'properly basic' and epistemically warranted through properly functioning cognitive faculties (the sensus divinitatis and the internal testimony of the Holy Spirit). Rationality does not require that every belief be demonstrated through an evidential chain of public proofs.",
+      "case_against": "Divorcing rationality from publicly accessible, truth-tracking evidence opens the door to epistemic relativism (the 'Great Pumpkin objection'). Without external evidential checks, any mutually contradictory, self-authenticating religious tradition can claim equal epistemic justification.",
+      "consensus": "Wide recognition among epistemologists that strong foundationalism/evidentialism is flawed and that religious belief can be internally coherent and epistemically permissible, alongside deep disagreement over whether proper basicality confers actual truth warrant.",
+      "evidence": [
+        "Plantinga's model of warrant and proper functionalism in epistemology",
+        "Epistemological parity arguments regarding memory, other minds, and perceptual beliefs",
+        "The problem of religious diversity and conflicting self-authenticating claims"
+      ],
+      "verdict": "Defensible as a form of rational permissibility, though not intersubjectively demonstrable",
+      "credence": 62
+    },
+    {
+      "claim": "The biblical text displays an internal harmony and prophetic unity that defies naturalistic explanation.",
+      "kind": "textual",
+      "case_for": "Written by dozens of authors across multiple cultures and centuries, the biblical canon exhibits profound thematic coherence, complex typological intertextuality, and specific predictive prophecies (e.g., suffering servant motifs in Isaiah 53) that believers view as clear markers of divine inspiration.",
+      "case_against": "Historical-critical scholarship reveals that the Bible is a diverse anthology containing internal tensions, distinct theological perspectives (e.g., differing viewpoints in wisdom literature, differing Christologies across the Gospels), editorial compilation layers, and prophecies composed after the events they describe (vaticinium ex eventu) or creatively re-read out of their original historical context.",
+      "consensus": "Mainstream biblical scholars, including mainline Protestant, Catholic, and Jewish academics, reject inerrancy and strict harmonic unity, viewing the texts as deeply human documents shaped by distinct historical and theological contexts.",
+      "evidence": [
+        "Documentary Hypothesis (JEDP) and multiple authorship of Isaiah",
+        "Divergent perspectives on the afterlife between Ecclesiastes and late Second Temple apocalyptic literature",
+        "Early Christian midrashic re-interpretation of Old Testament passages like Hosea 11:1 or Isaiah 7:14"
+      ],
+      "verdict": "Refuted by critical historical and literary scholarship",
+      "credence": 18
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Is rationality defined by strict evidentialism (public, verifiable evidence) or by internalist/proper-functionalist warrant?",
+      "type": "definition",
+      "if_yes": "If strict evidentialism is required, biblical faith cannot be judged well-supported or fully rational.",
+      "if_no": "If proper functionalism or phenomenal conservatism is sufficient, biblical faith can be thoroughly rational for the believer.",
+      "your_view": "While broad rationality accommodates properly basic beliefs, asserting that faith is 'well supported by reason and evidence' makes an explicitly evidentialist claim, which must be judged by public empirical standards."
+    },
+    {
+      "crux": "What is the prior probability of supernatural divine intervention versus naturalistic explanation?",
+      "type": "prior",
+      "if_yes": "If theism is assumed highly probable, historical reports of miracles become plausible explanations.",
+      "if_no": "If nature is a closed causal system or miracles are inherently maximally improbable, no ancient textual evidence can rationally justify belief in a miracle.",
+      "your_view": "Methodological naturalism remains the only reliable foundation for public scholarship and historical investigation; assigning high prior probability to specific miraculous interventions without independent corroboration lacks rational justification."
+    },
+    {
+      "crux": "Does grounding faith in Scripture require historical and scientific inerrancy, or merely existential and theological authority?",
+      "type": "definition",
+      "if_yes": "If inerrancy is required, the claim fails decisively against historical and scientific findings.",
+      "if_no": "If Scripture is understood as culturally conditioned human testimony to divine encounters, reason and faith can coexist harmoniously.",
+      "your_view": "Moderate and progressive theological models successfully insulate faith from scientific refutation, but they do so by retreating from the claim that Scripture provides evidentially supported empirical history."
+    }
+  ],
+  "strongest_for": [
+    "Epistemological models like Reformed epistemology establish that belief in God does not require exhaustive empirical proofs to be rational and cognitively well-functioning.",
+    "Arguments from cosmic fine-tuning and contingency provide serious philosophical foundations for general theism that align with biblical creation theology.",
+    "The historical emergence of the early Christian movement from a crushed messianic sect into an enduring faith rests on historical data points (early testimony, the empty tomb tradition) that require substantive explanatory engagement.",
+    "Christian theism historically provided the metaphysical conviction of cosmic order and intelligibility that catalyzed the Scientific Revolution."
+  ],
+  "strongest_against": [
+    "Modern critical historiography and textual analysis demonstrate that the Bible is an anthology of ancient human documents marked by redaction, theological disagreements, and historical errors.",
+    "Empirical sciences (evolutionary biology, paleontology, cosmology) directly refute straightforward readings of biblical origin narratives.",
+    "The central miraculous events of Scripture (e.g., virgin birth, bodily resurrection, parting of the Red Sea) cannot be historically validated without violating standard canons of historiographical evidence.",
+    "The evidential problem of natural evil and the widespread phenomenon of divine hiddenness provide powerful rational counter-arguments against the benevolent, active God described in Scripture."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Archeology has verified several biblical places and rulers, therefore the entire theological and miraculous narrative must be true.",
+      "The complexity of living systems (e.g., irreducible complexity) automatically proves the specific creation account of Genesis.",
+      "Prophetic predictive accuracy proves divine origin, which often relies on reading modern events into ancient apocalyptic poetry or ignoring late dating of texts."
+    ],
+    "against": [
+      "Faith is fundamentally 'belief without evidence or against evidence', which mischaracterizes traditional philosophical and theological definitions of faith.",
+      "Religious belief is merely a psychological disorder or product of primitive ignorance, ignoring rich traditions of rational reflection in natural theology.",
+      "Any historical discrepancy or scientific incompatibility instantly proves that religious adherents are irrational or insincere."
+    ]
+  },
+  "would_change": [
+    "Unambiguous archaeological or epigraphic evidence outside the New Testament dating to the 30s CE verifying the resurrection appearances or empty tomb.",
+    "A decisive philosophical resolution to the problem of evil and divine hiddenness that logically harmonizes gratuitous suffering with an omnipotent, loving deity.",
+    "Scientific discovery of definitive, irreducibly non-natural information structures in biological origins that resist any evolutionary or chemical explanation.",
+    "A formal epistemological proof establishing that supernatural testimony can meet Bayesian thresholds over naturalistic counter-hypotheses."
+  ],
+  "sources": [
+    {
+      "citation": "Alvin Plantinga, Warranted Christian Belief, 2000",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Richard Swinburne, The Existence of God, 2004",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Graham Oppy, Arguing about Gods, 2006",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "N. T. Wright, The Resurrection of the Son of God, 2003",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Bart D. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible, 2009",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Francis S. Collins, The Language of God: A Scientist Presents Evidence for Belief, 2006",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

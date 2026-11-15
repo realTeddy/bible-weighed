@@ -1,0 +1,154 @@
+{
+  "kind": "mixed",
+  "verdict": "Almost certainly did not happen as a global event",
+  "credence": 0,
+  "confidence": "high",
+  "bottom_line": "I am scoring the claim that, after humans had spread across the world, a flood covered the entire Earth and destroyed all humans and land animals outside Noah’s ark, as described in Genesis 6–9. Independent evidence from ice cores, geology, archaeology, and genetics strongly contradicts such an event. A 0% credence is rounded to the nearest whole percent, not a claim of logical impossibility. Some religious scholars regard the narrative as describing a regional flood or as theological literature; those readings are not ruled out in the same way. An intervention that also erased or altered all contrary evidence cannot be excluded by physical evidence alone, but it requires a further assumption.",
+  "sub_claims": [
+    {
+      "claim": "Genesis 6–9 depicts a flood encompassing the whole world and destroying humans and land animals outside the ark.",
+      "kind": "textual",
+      "case_for": "The narrative says the waters covered all the high mountains under heaven and that all land creatures with the breath of life died, except those on the ark.",
+      "case_against": "Ancient descriptions of the whole earth can use broad language from a particular cultural perspective, and some interpreters read the scope as rhetorical rather than geographically literal.",
+      "consensus": "Many scholars read the narrative’s stated scope as universal within its ancient cosmology, but there is no consensus that its language requires modern readers to affirm a physically global historical flood. Confessional scholars include defenders of both global and regional readings.",
+      "evidence": [
+        "Genesis 7:19–23",
+        "Genesis 8:1–19",
+        "Ancient Near Eastern flood traditions also use sweeping language about destruction."
+      ],
+      "verdict": "The narrative depicts comprehensive destruction, though its intended historical interpretation is debated.",
+      "credence": 90
+    },
+    {
+      "claim": "A worldwide flood covering the highest mountains occurred after humans spread across the continents.",
+      "kind": "empirical",
+      "case_for": "Marine fossils high in mountains and extensive sedimentary formations show that areas now on land were once underwater. A divinely caused catastrophe could, in principle, have operated differently from ordinary geological processes.",
+      "case_against": "Uplift and long-term changes in seas explain marine rocks on mountains. Ice cores, sediments, and other independently dated records show no corresponding global inundation and disruption.",
+      "consensus": "Earth scientists overwhelmingly reject a recent global flood. Some confessional flood geologists dispute mainstream dating and interpret much of the geological record as flood deposits; many religious scientists accept the mainstream evidence.",
+      "evidence": [
+        "Antarctic ice-core records extend through hundreds of thousands of years.",
+        "Marine sedimentary rocks occur in formations of many different ages and environments.",
+        "Sea-level reconstructions show substantial changes, but not a recent rise covering all mountains."
+      ],
+      "verdict": "Almost certainly false.",
+      "credence": 0
+    },
+    {
+      "claim": "All surviving human populations and land-animal populations descend from the ark’s occupants after a recent worldwide catastrophe.",
+      "kind": "empirical",
+      "case_for": "Population bottlenecks and migrations do occur, and ancient genetic diversity can sometimes survive through a small number of ancestors. A proponent may also invoke rapid dispersal or divine intervention.",
+      "case_against": "Archaeological and genetic evidence points to long, geographically distributed population histories, not a simultaneous recent reduction of humans and land animals to the ark’s occupants followed by worldwide recolonization.",
+      "consensus": "Population geneticists, archaeologists, and biogeographers overwhelmingly reject the proposed recent universal bottleneck. Some confessional scholars accept it and dispute the dating or interpretation of the evidence; other religious scholars do not.",
+      "evidence": [
+        "Human genetic data support deep population histories across continents.",
+        "Archaeological records show long-term human occupation in multiple regions.",
+        "Island and continental animal distributions fit long histories of separation and evolution better than a single recent dispersal from an ark."
+      ],
+      "verdict": "Almost certainly false under a recent literal reading.",
+      "credence": 0
+    },
+    {
+      "claim": "Regional floods contributed to the traditions behind the Genesis narrative.",
+      "kind": "empirical",
+      "case_for": "Major floods occurred in Mesopotamia, and Genesis shares notable narrative features with earlier Mesopotamian flood stories.",
+      "case_against": "Literary similarities do not identify a particular historical flood as the source, and flood stories can develop and change without preserving a reliable account of one event.",
+      "consensus": "Scholars broadly recognize connections with Mesopotamian flood traditions, but there is no consensus identifying a specific flood behind Genesis. Confessional scholars differ over whether a regional historical event underlies it.",
+      "evidence": [
+        "The flood account in the Epic of Gilgamesh",
+        "Genesis 6–9",
+        "Archaeological evidence of regional flooding in Mesopotamia"
+      ],
+      "verdict": "Plausible, but a specific historical source is unproven.",
+      "credence": 60
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does the claim require literal worldwide coverage and destruction?",
+      "type": "definition",
+      "if_yes": "The geological and biological evidence makes it extremely unlikely.",
+      "if_no": "A regional flood or a theological narrative remains possible, but is a different claim.",
+      "your_view": "The claim explicitly says global, so I score the literal worldwide reading."
+    },
+    {
+      "crux": "Are independent physical records reliable enough to rule out the proposed catastrophe?",
+      "type": "evidence",
+      "if_yes": "The global flood is overwhelmingly disfavored.",
+      "if_no": "The physical case against it would weaken substantially.",
+      "your_view": "Yes. Multiple kinds of evidence converge, even allowing for uncertainties in individual records."
+    },
+    {
+      "crux": "Should one assign a high prior probability to a miracle that also removes or alters the expected physical evidence?",
+      "type": "prior",
+      "if_yes": "Belief in a global flood can remain coherent despite the physical record.",
+      "if_no": "The absence of expected traces is powerful evidence against it.",
+      "your_view": "I assign such a specifically evidence-concealing intervention a very low prior probability. Its possibility alone does not establish that it occurred."
+    },
+    {
+      "crux": "Must fidelity to scripture require a literal, geographically global historical reading?",
+      "type": "value",
+      "if_yes": "A reader may prioritize that theological commitment over the scientific inference.",
+      "if_no": "One can accept the scientific evidence while interpreting Genesis in another way.",
+      "your_view": "This is a theological commitment rather than a conclusion that physical evidence alone can settle; religious interpreters disagree."
+    }
+  ],
+  "strongest_for": [
+    "Genesis presents an explicit and detailed account of comprehensive destruction and survival aboard an ark.",
+    "Earlier Mesopotamian flood narratives show that a major flood tradition predates the biblical text.",
+    "Some confessional scholars argue that scripture’s authority warrants accepting the event even when present scientific interpretations disagree.",
+    "A miracle is not logically impossible merely because ordinary physical processes would not produce it."
+  ],
+  "strongest_against": [
+    "Ice cores and other environmental archives preserve long sequences without the disruption expected from a worldwide inundation.",
+    "Geology shows many distinct depositional environments and ages rather than one recent worldwide flood deposit.",
+    "Human and animal genetic and archaeological histories do not fit the proposed recent universal bottleneck and dispersal.",
+    "Marine fossils on mountains are explained by deposition and tectonic uplift without a global flood."
+  ],
+  "weak_arguments": {
+    "for": [
+      "Flood stories worldwide prove one global event: flooding is common, and similarities can reflect shared traditions or independent storytelling.",
+      "Marine fossils on mountains prove the mountains were recently submerged: marine rocks can be uplifted over geological time.",
+      "A boat-shaped feature or alleged ark discovery proves the account: such claims require independently verified dating, identification, and context."
+    ],
+    "against": [
+      "A global flood is impossible because miracles are impossible: that assumes the philosophical conclusion rather than establishing it.",
+      "The existence of a similar Mesopotamian story proves no historical flood occurred: literary borrowing does not rule out a regional historical event.",
+      "The ark could not hold every modern species, so the question is settled: this is a substantial practical difficulty, but the result depends on assumptions about kinds, animal care, and possible intervention."
+    ]
+  },
+  "would_change": [
+    "A securely dated, globally correlated flood deposit and ecological disruption from the relevant period, confirmed by independent methods.",
+    "Converging genetic evidence that humans and terrestrial animals underwent the required simultaneous recent bottlenecks.",
+    "Verified archaeological evidence connecting the ark and its occupants to a worldwide catastrophe.",
+    "A compelling independent reason to assign high prior probability to an intervention that produced the flood while removing its expected physical traces."
+  ],
+  "sources": [
+    {
+      "citation": "Genesis 6–9",
+      "kind": "scripture"
+    },
+    {
+      "citation": "Andrew George, The Epic of Gilgamesh: A New Translation, 1999",
+      "kind": "primary"
+    },
+    {
+      "citation": "John H. Walton and Tremper Longman III, The Lost World of the Flood: Mythology, Theology, and the Deluge Debate, 2018",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "John C. Whitcomb and Henry M. Morris, The Genesis Flood, 1961",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Jean Jouzel et al., “Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years,” 2007",
+      "kind": "scientific"
+    },
+    {
+      "citation": "Anna-Sapfo Malaspinas et al., “A genomic history of Aboriginal Australia,” 2016",
+      "kind": "scientific"
+    }
+  ]
+}
+
+
+--- stderr ---

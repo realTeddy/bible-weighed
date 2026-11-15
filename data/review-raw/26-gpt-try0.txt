@@ -1,0 +1,157 @@
+{
+  "kind": "empirical",
+  "verdict": "Probably not, though the evidence is disputed.",
+  "credence": 25,
+  "confidence": "low",
+  "bottom_line": "I am scoring the claim that Jesus understood himself to share the unique identity or status of Israel’s God and communicated that, whether explicitly or through his actions—not merely that he saw himself as God’s chosen Messiah or agent. The clearest apparent claims occur in John, a later source whose wording many historians do not regard as a reliable transcript of Jesus. Earlier traditions portray Jesus exercising extraordinary authority, but whether this implies a claim to be God is contested. His followers accorded him extraordinary divine significance very early, yet that does not by itself establish what he thought about himself before his death. A weaker claim that Jesus saw himself as a uniquely authorized agent is more likely; a claim that he explicitly taught a fully developed doctrine of the Trinity is much less likely.",
+  "sub_claims": [
+    {
+      "claim": "Jesus understood himself to have an exceptional role and authority in God’s approaching kingdom.",
+      "kind": "empirical",
+      "case_for": "Multiple early traditions portray Jesus announcing the kingdom, calling disciples, judging Israel’s response, and acting with unusual authority. His crucifixion as ‘King of the Jews’ fits a ministry with royal or messianic implications.",
+      "case_against": "The sources are written by followers after Easter, and particular claims about his role could have been amplified. Scholars dispute how explicitly Jesus identified himself as Messiah and how he understood his mission.",
+      "consensus": "Many historians, including religious and nonreligious scholars, accept that Jesus had an exceptional eschatological mission, but there is no consensus on its precise content.",
+      "evidence": [
+        "Mark 1:14–15 portrays Jesus proclaiming the approaching kingdom.",
+        "Mark 2:1–12 portrays him pronouncing forgiveness.",
+        "Mark 15:26 records the charge ‘King of the Jews.’",
+        "Parallel traditions in Matthew and Luke contain sayings about his authority, though shared material is not necessarily independent."
+      ],
+      "verdict": "Probably true, but insufficient by itself to establish the main claim.",
+      "credence": 80
+    },
+    {
+      "claim": "Jesus deliberately presented himself as sharing God’s unique identity, rather than acting solely as God’s authorized agent.",
+      "kind": "empirical",
+      "case_for": "His reported forgiveness of sins, authority over the Sabbath, temple action, and association with the heavenly Son of Man can be read together as enacting roles or prerogatives associated with God. N. T. Wright and other Christian scholars argue that Jesus’ actions and kingdom message imply an extraordinary divine identity even without a modern formula.",
+      "case_against": "Jewish traditions allowed prophets, messiahs, and heavenly figures to exercise delegated authority. The individual episodes have disputed historical details and interpretations; even if some are authentic, their combination does not unambiguously reveal Jesus’ inner self-understanding.",
+      "consensus": "No consensus. Some confessional scholars argue for an implicit divine claim; many other historians interpret the evidence in terms of agency or an eschatological calling without identifying Jesus as God.",
+      "evidence": [
+        "In Mark 2:5–12, opponents question Jesus’ authority to forgive sins; the narrative also calls it authority given to the Son of Man.",
+        "Mark 2:27–28 associates the Son of Man with lordship over the Sabbath.",
+        "Mark 11:15–17 describes Jesus’ action in the temple.",
+        "Mark 14:61–64 combines imagery from Psalm 110 and Daniel 7 with an accusation of blasphemy; the meaning and historical details are disputed."
+      ],
+      "verdict": "Possible, but the evidence does not make it the most likely interpretation.",
+      "credence": 30
+    },
+    {
+      "claim": "John’s strongest apparent claims to divine identity reliably convey what the historical Jesus himself claimed.",
+      "kind": "textual",
+      "case_for": "John could preserve authentic memories independently of the Synoptics, translating Jesus’ meaning into its own theological language. Its distinctive testimony cannot be dismissed simply because it is theological or relatively late.",
+      "case_against": "John was composed decades after Jesus and presents extended, distinctive theological speeches unlike much of the earlier Synoptic material. Its high Christology does not establish that its particular wording or conceptual formulations go back to Jesus.",
+      "consensus": "No consensus on how much historical material John preserves. Many critical scholars are cautious about using its distinctive speeches as direct evidence of Jesus’ self-understanding; some confessional scholars give them substantially greater historical weight.",
+      "evidence": [
+        "John 8:58 has Jesus say, ‘Before Abraham was, I am.’",
+        "John 10:30 has Jesus say, ‘I and the Father are one’; its precise implications are debated.",
+        "John 20:28 records Thomas addressing Jesus as ‘My Lord and my God,’ rather than Jesus saying those words about himself.",
+        "John is commonly dated around 90–100 CE, though its dating and sources are debated."
+      ],
+      "verdict": "The sayings are important evidence for John’s portrayal, but their historical attribution to Jesus is uncertain and probably overstated if treated as verbatim.",
+      "credence": 20
+    },
+    {
+      "claim": "Within the first few decades after Jesus’ death, followers accorded him a status and devotion closely associated with God.",
+      "kind": "empirical",
+      "case_for": "Paul’s letters from the 50s present Jesus in exalted terms and place him within worship and language associated with Israel’s God. Larry Hurtado and Richard Bauckham argue that remarkably high devotion or divine identification emerged early.",
+      "case_against": "The exact meaning of ‘divine’ is disputed: exaltation, heavenly agency, and worship-like practices do not automatically mean that every early believer identified Jesus with God in the same sense. Early belief also does not prove Jesus shared it during his ministry.",
+      "consensus": "Broad agreement that extraordinary devotion to Jesus appeared early; substantial disagreement over its precise conceptual meaning and how directly it reflects Jesus’ own claims. Confessional and nonconfessional scholars participate on different sides of these debates.",
+      "evidence": [
+        "Paul’s letters were written roughly two decades after Jesus’ death.",
+        "Philippians 2:6–11 depicts Jesus receiving exaltation and universal homage.",
+        "1 Corinthians 8:6 places the ‘one Lord, Jesus Christ’ alongside the ‘one God, the Father’ in language resembling Israel’s confession of one God.",
+        "1 Corinthians 15:3–8 presents a received tradition about Jesus’ death, resurrection, and appearances."
+      ],
+      "verdict": "Very likely, subject to debate over what that status meant.",
+      "credence": 90
+    }
+  ],
+  "cruxes": [
+    {
+      "crux": "Does ‘claimed to be God’ include communicating divine identity indirectly through actions and allusions?",
+      "type": "definition",
+      "if_yes": "The Synoptic evidence becomes relevant, raising the probability substantially above that for an explicit declaration.",
+      "if_no": "The case relies much more heavily on disputed Johannine wording, and my probability falls.",
+      "your_view": "Indirect communication counts, but claims to exceptional delegated authority alone do not."
+    },
+    {
+      "crux": "Do John’s distinctive speeches preserve Jesus’ own self-understanding accurately?",
+      "type": "evidence",
+      "if_yes": "The main claim becomes considerably more likely, although individual sayings still need interpretation.",
+      "if_no": "The strongest explicit-looking evidence is less probative, leaving ambiguous earlier traditions.",
+      "your_view": "John may preserve historical memories, but I give its distinctive formulations limited weight as direct reports."
+    },
+    {
+      "crux": "Are Jesus’ reported prerogatives best explained as divine identity rather than authorized agency?",
+      "type": "evidence",
+      "if_yes": "The case for an implicit claim is appreciably stronger.",
+      "if_no": "Those traditions support an extraordinary mission without establishing the claim.",
+      "your_view": "Agency is a serious alternative, and the surviving evidence does not clearly distinguish the explanations."
+    },
+    {
+      "crux": "How much prior weight should be given to theological commitments about revelation and scriptural reliability?",
+      "type": "prior",
+      "if_yes": "A prior commitment that the Gospels reliably convey divine revelation can rationally yield a much higher probability within that framework.",
+      "if_no": "An ordinary historical assessment gives more weight to literary development, attribution uncertainty, and alternative interpretations.",
+      "your_view": "My estimate uses historical evidence without assuming either that miracles are impossible or that the Gospels are guaranteed accurate."
+    }
+  ],
+  "strongest_for": [
+    "Jesus’ reported actions and sayings can be read cumulatively as assuming roles associated with God, rather than as isolated claims of authority.",
+    "John presents Jesus in strikingly divine terms and may preserve some independent historical memories.",
+    "Very early followers gave Jesus exceptional devotion and status; this could reflect something distinctive in his own ministry.",
+    "Jewish monotheism was not conceptually so simple that every association of Jesus with divine identity must be a late Gentile invention."
+  ],
+  "strongest_against": [
+    "The clearest apparent self-identifications come from a later Gospel whose distinctive speeches are historically contested.",
+    "The earlier traditions permit interpretations involving divine appointment or agency without Jesus claiming to be God.",
+    "The sources were written by committed followers after Jesus’ death, making later interpretation difficult to disentangle from his own views.",
+    "Early exaltation of Jesus can show what followers believed without showing that Jesus made the same claim."
+  ],
+  "weak_arguments": {
+    "for": [
+      "‘John reports it, therefore Jesus said it’: the historical reliability of the attribution is itself in question.",
+      "‘Only God can forgive, so any claim to pronounce forgiveness proves Jesus claimed to be God’: a speaker might claim delegated authority.",
+      "‘Christians worshipped Jesus early, so he must have explicitly claimed to be God’: belief can develop or be reinterpreted after a person’s death."
+    ],
+    "against": [
+      "‘Jesus never says the exact English words “I am God”’: a claim can be communicated without that formula.",
+      "‘Jesus prayed to God or distinguished himself from the Father, so he could not claim divine status’: those facts are compatible with some conceptions of incarnation and divine distinction.",
+      "‘A first-century Jew could never associate a human figure with divine identity’: that assumes away the complex Jewish evidence under debate."
+    ]
+  },
+  "would_change": [
+    "A securely dated, independent first-century source reporting Jesus’ own clear claim to share God’s identity would substantially raise my estimate.",
+    "Strong evidence that the distinctive Johannine sayings preserve early, independent eyewitness testimony would raise it.",
+    "Earlier independent evidence explaining the relevant sayings as later community creations, or clearly presenting Jesus’ self-understanding as exclusively delegated agency, would lower it."
+  ],
+  "sources": [
+    {
+      "citation": "The New Testament, especially Mark 2, 11, 14–15; John 8, 10, 20; Philippians 2; 1 Corinthians 8 and 15.",
+      "kind": "scripture"
+    },
+    {
+      "citation": "N. T. Wright, Jesus and the Victory of God, 1996.",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Larry W. Hurtado, Lord Jesus Christ: Devotion to Jesus in Earliest Christianity, 2003.",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Richard Bauckham, Jesus and the God of Israel: God Crucified and Other Studies on the New Testament’s Christology of Divine Identity, 2008.",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Dale C. Allison Jr., Constructing Jesus: Memory, Imagination, and History, 2010.",
+      "kind": "scholarship"
+    },
+    {
+      "citation": "Bart D. Ehrman, How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee, 2014.",
+      "kind": "scholarship"
+    }
+  ]
+}
+
+
+--- stderr ---

@@ -1,0 +1,44 @@
+{
+  "summary": "All four reviewers judge the claim almost certainly false when it means that a single original couple were humanity’s sole biological founders. They cite genetic diversity, fossils and ancient DNA as evidence for a long history of human populations. All distinguish that claim from the possibility that a couple living among other people became genealogical ancestors of everyone alive today. None regards that possibility as evidence that the biblical couple existed. They differ in how categorically they state the genetic conclusion, how they interpret Genesis, and how much weight they give to older or non-exclusive alternatives. They also recognize that theological commitments or proposed miracles can affect the answer.",
+  "agreement": "high",
+  "agreed": [
+    "A recent sole founding couple is strongly contradicted by the genetic and fossil evidence.",
+    "Universal genealogical ancestry is possible alongside ancestry from other people, but it does not establish a particular historical Adam and Eve.",
+    "Mitochondrial Eve and Y-chromosomal Adam do not demonstrate that the biblical couple were the only humans or sole founders.",
+    "Scientific evidence does not rule out every possible miraculous or theological interpretation."
+  ],
+  "disagreed": [
+    {
+      "point": "Strength and scope of the genetic conclusion",
+      "positions": "Gemini calls a two-person biological bottleneck genetically impossible and speaks most categorically. Grok and GPT-6.1 also strongly reject an exclusive pair, while GPT-6.1 emphasizes model dependence and qualifies its conclusion under ordinary evolutionary assumptions. Opus stresses that recent bottlenecks are excluded much more decisively than very ancient ones."
+    },
+    {
+      "point": "Genesis and historical intent",
+      "positions": "Gemini strongly favors a theological, mythopoetic reading over empirical historical intent. Grok says the narrative depicts a first pair but is unlikely to be accurate history. GPT-6.1 says the ancestral portrayal is clear while intended and actual historicity are disputed; Opus likewise treats genre and intended historicity as contested, citing archetypal features."
+    },
+    {
+      "point": "Genealogical alternatives",
+      "positions": "All accept their possibility, but Gemini emphasizes geographic isolation as a constraint; GPT-6.1 and Opus also note dependence on migration and isolation. Grok and Gemini stress that non-exclusive ancestry changes the traditional claim, while GPT-6.1 and Opus distinguish it from the sole-founder reading. Their numerical scores address differently framed propositions and should not be compared directly."
+    },
+    {
+      "point": "A much older sole couple",
+      "positions": "Opus explicitly considers a pair roughly 750,000 or more years ago very unlikely but harder to exclude, and notes that such a date could encompass archaic hominins as descendants. GPT-6.1 says an older pair avoids the immediate recent-date conflict but faces genetic objections within the last several hundred thousand years. Gemini and Grok state the case against a sole pair more broadly."
+    },
+    {
+      "point": "Reported confidence",
+      "positions": "GPT-6.1 gives its scored claim a credence of 1% with medium confidence; Gemini, Grok and Opus each give 2% with high confidence. Their formulations and time horizons are not identical."
+    }
+  ],
+  "deciding_cruxes": [
+    "Whether the claim requires a sole founding couple or only genealogical ancestors alongside others.",
+    "When the proposed couple lived, and how reliably genetic evidence constrains a bottleneck at that date.",
+    "Whether Genesis should be read as historical biological origins, theological literature, or in another way.",
+    "How much weight to give scriptural authority or possible miracles relative to ordinary empirical inference.",
+    "Whether population mixing and geographic isolation would allow a particular couple’s descendants to reach every living population."
+  ],
+  "what_is_settled": "The reviews agree that the evidence strongly disfavors a recent sole founding pair, and that shared genealogical ancestry does not require such a pair. They agree that neither lineage nicknames nor genealogical models identify the biblical couple.",
+  "what_is_open": "The reviews leave open the existence of a particular historical couple, the reach of a couple’s genealogical descendants, the interpretation of Genesis and its theological implications. They differ over how firmly genetics excludes a much older sole pair and acknowledge that conclusions involving miracles depend on prior commitments."
+}
+
+
+--- stderr ---

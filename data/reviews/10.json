@@ -1,0 +1,850 @@
+{
+ "topic": {
+  "id": 10,
+  "category": "Science",
+  "short": "Genesis & Science",
+  "resolution": "Genesis 1-11 fits with modern science",
+  "question": "Can Genesis 1-11 be reconciled with modern science?",
+  "claim": "Genesis 1-11, read as its authors intended, fits with modern science."
+ },
+ "analyses": [
+  {
+   "kind": "mixed",
+   "verdict": "Probably not, on the most historically likely reading of the authors’ intended account of the world",
+   "credence": 10,
+   "confidence": "medium",
+   "bottom_line": "I am scoring whether Genesis 1–11’s ancient authors intended an account of the physical world and human past that is substantially compatible with modern science—not whether its theological message can coexist with science. The authors did not write modern science, and their purposes and the work’s composition are disputed; nevertheless, several narratives appear to presuppose an ancient cosmos and a human history at odds with scientific evidence. The flood is the clearest difficulty: the text presents a catastrophe destroying all land life outside the ark, while geology, genetics, and archaeology do not support such an event in the relevant human past. Some religious scholars argue that the narratives’ intended claims are theological, highly figurative, or geographically limited, making reconciliation possible, but those readings are contested as accounts of ancient intent. A broader claim that Genesis can be read faithfully alongside science, without requiring agreement in its ancient picture of nature, would receive a substantially higher credence.",
+   "sub_claims": [
+    {
+     "claim": "Genesis 1’s intended picture of the cosmos is substantially compatible with modern astronomy and Earth science.",
+     "kind": "textual",
+     "case_for": "The chapter has a highly structured literary form and emphasizes God’s ordering and assigning functions rather than offering a technical account of material processes. Its description of the sky could be phenomenological rather than a scientific claim.",
+     "case_against": "The text separates waters above and below a firmament and places lights in it; it also presents vegetation before the sun. These features fit an ancient cosmological picture more naturally than modern physical history.",
+     "consensus": "Many biblical scholars understand the chapter against ancient Near Eastern cosmology, though they dispute details and how much the author intended to assert about material origins. Confessional scholars disagree: John Walton emphasizes functional ordering, while others defend more literal or concordist readings.",
+     "evidence": [
+      "Genesis 1:6–8 describes a firmament separating waters.",
+      "Genesis 1:11–19 places vegetation on the third day and the luminaries on the fourth.",
+      "Genesis 7:11 refers to the windows of heaven.",
+      "Modern astronomy places the sun’s formation before Earth’s vegetation."
+     ],
+     "verdict": "Probably incompatible as an intended physical picture, though not necessarily as theology.",
+     "credence": 15
+    },
+    {
+     "claim": "The flood narrative’s intended scope is compatible with the scientific history of Earth and humanity.",
+     "kind": "empirical",
+     "case_for": "Ancient descriptions can use universal language rhetorically, and a devastating regional flood could underlie a theological narrative. A limited event affecting the author’s known world would be easier to reconcile with science.",
+     "case_against": "Genesis repeatedly describes all high mountains being covered and all land creatures outside the ark dying. A recent event on that scale would have consequences inconsistent with multiple independent geological, biological, and archaeological records.",
+     "consensus": "Earth scientists overwhelmingly reject a recent global flood of the described kind. Biblical scholars differ over genre, historical reference, and the force of the universal language; some confessional scholars defend a global flood, while others, including Walton and Tremper Longman III, argue for a more limited historical event.",
+     "evidence": [
+      "Genesis 7:19–23 describes waters covering high mountains and the destruction of life outside the ark.",
+      "Antarctic ice cores preserve layered climate records extending far beyond a few thousand years.",
+      "Human genetic diversity and population histories do not support a recent bottleneck to the ark’s occupants alone.",
+      "Archaeological sequences show human populations in multiple regions continuing through the period usually assigned to a recent biblical flood."
+     ],
+     "verdict": "Very unlikely if the narrative asserts a recent worldwide destruction of land life; a regional reading is scientifically possible but textually disputed.",
+     "credence": 3
+    },
+    {
+     "claim": "An exclusive, recent descent of all humans from Adam and Eve, followed by the genealogies of Genesis 1–11, fits population genetics and chronology.",
+     "kind": "empirical",
+     "case_for": "The text does not give a calendar date, genealogies may omit generations, and Adam and Eve could be genealogical ancestors without being the only people alive or the sole biological source of everyone’s ancestry. Some Christians accept evolution while retaining a historical couple.",
+     "case_against": "A sole ancestral pair living only a few thousand years ago, with no ancestry from other humans, cannot account for observed genetic diversity and the much older histories of many human genetic lineages. The genealogical-ancestor proposal changes the exclusive-pair claim rather than validating it.",
+     "consensus": "Population geneticists accept a deep and complex human population history, not an exclusive recent two-person bottleneck. Religious scholars and scientists disagree about whether Genesis requires such a bottleneck, permits other contemporary humans, or uses Adam and Eve primarily as literary or theological figures.",
+     "evidence": [
+      "Genesis 2–5 presents Adam, Eve, and a succession of descendants but does not state a date in years before the present.",
+      "Human genomes contain genetic lineages with histories much older than a few thousand years.",
+      "Genealogical ancestry and the inheritance of identifiable DNA are different: a person may be a genealogical ancestor without contributing detectable DNA to every descendant.",
+      "Neanderthal ancestry in many living people is part of a complex history of interbreeding among ancient populations."
+     ],
+     "verdict": "The exclusive recent-pair reading is very unlikely; compatibility of the text itself depends substantially on interpretation.",
+     "credence": 5
+    },
+    {
+     "claim": "The Babel narrative, as an account of the origin and dispersal of human languages, fits linguistic and archaeological evidence.",
+     "kind": "empirical",
+     "case_for": "The narrative can be read as a theological explanation of linguistic diversity, using a city and tower as literary symbols. Historical linguistics cannot reconstruct the entire history of language or rule out a remote common language.",
+     "case_against": "The story portrays language diversification and human scattering as connected to a single city-building episode. The evidence instead points to long, complex population dispersals and linguistic diversification; the ancient city setting makes a very recent worldwide event particularly difficult.",
+     "consensus": "Linguists do not have a consensus on whether all languages ultimately descend from one historical language, and cannot reconstruct such a language with established methods. Biblical scholars differ on whether Babel refers to a particular historical event; religious interpreters range from literal to primarily literary and theological readings.",
+     "evidence": [
+      "Genesis 11:1–9 links linguistic confusion and dispersal to the building of a city and tower.",
+      "Written records attest distinct languages in the ancient Near East several thousand years ago.",
+      "Humans had dispersed across much of the world long before the ancient Mesopotamian city-building setting.",
+      "Related languages normally diversify through changes accumulated across generations."
+     ],
+     "verdict": "A recent, worldwide historical Babel event is unlikely; the narrative’s theological point is not itself a linguistic hypothesis.",
+     "credence": 10
+    },
+    {
+     "claim": "The theological purposes of Genesis 1–11 can be affirmed without contradicting modern science.",
+     "kind": "philosophical",
+     "case_for": "Claims about God, human dignity, moral responsibility, and divine judgment are not straightforwardly settled by measurements of geology or genetics. A reader can accept ancient literary forms and scientific findings together.",
+     "case_against": "Some theological interpretations depend on particular historical events or on treating every element of the narrative as factual. Whether reinterpretation preserves the intended theology is a substantive interpretive and religious dispute.",
+     "consensus": "There is no consensus across religious traditions or biblical scholarship on which historical claims are indispensable. Many religious scholars and scientists combine evolutionary science with faith, while others see that combination as inconsistent with their reading of scripture.",
+     "evidence": [
+      "Genesis 1:26–27 describes humanity in relation to the image of God.",
+      "Genesis 3–4 addresses human disobedience, judgment, and violence.",
+      "Religious interpreters differ on the relationship between these themes and the historicity of the narratives."
+     ],
+     "verdict": "Yes, on many—but not all—religious interpretations.",
+     "credence": 90
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does compatibility require the ancient authors’ apparent picture of physical history to be substantially correct?",
+     "type": "definition",
+     "if_yes": "The claim is unlikely: several apparent features conflict with established science.",
+     "if_no": "Compatibility is much easier if the claim concerns only theological meaning or a modern reader’s faithful use of the text.",
+     "your_view": "The claim’s reference to authorial intent makes the stricter question the relevant one, without requiring the authors to have intended a scientific treatise."
+    },
+    {
+     "crux": "Did the flood author intend worldwide destruction of humans and land animals outside the ark?",
+     "type": "evidence",
+     "if_yes": "The scientific evidence weighs very heavily against compatibility.",
+     "if_no": "A regional event or a primarily literary narrative is much easier to reconcile, although it does not automatically resolve the other passages.",
+     "your_view": "The repeated universal language favors the broader intended catastrophe; rhetorical and geographically limited readings remain possible."
+    },
+    {
+     "crux": "Should apparent descriptions of the ancient cosmos be treated as claims the authors meant to make, rather than incidental imagery?",
+     "type": "evidence",
+     "if_yes": "Compatibility with modern cosmology is unlikely.",
+     "if_no": "The creation account can be compatible insofar as its intended claims concern divine ordering and meaning rather than physical structure.",
+     "your_view": "The distinction is important but not clean: an author can communicate theology through a picture of the world that the author also takes for granted."
+    },
+    {
+     "crux": "How plausible are miracles that would produce the narrated events without leaving the expected physical evidence?",
+     "type": "prior",
+     "if_yes": "A suitably interventionist account can preserve historical claims despite ordinary scientific expectations.",
+     "if_no": "Independent scientific evidence strongly disfavors a recent global catastrophe and an exclusive recent ancestral pair.",
+     "your_view": "Science cannot rule out every miraculous scenario, but a proposal that also explains away contrary evidence has little independent support and lowers my probability rather than rescuing the claim."
+    },
+    {
+     "crux": "Must a religiously faithful reading preserve the authors’ apparent assumptions about natural history?",
+     "type": "value",
+     "if_yes": "The tension with science is a serious problem for that standard of faithfulness.",
+     "if_no": "Many interpretations allow both religious commitment to Genesis and acceptance of modern science.",
+     "your_view": "This is partly a theological and interpretive judgment, not a question science alone can settle."
+    }
+   ],
+   "strongest_for": [
+    "Genesis is ancient theological literature, not a modern scientific textbook; imposing modern scientific questions can misidentify what it intended to teach.",
+    "Structured narrative, symbolism, and ancient rhetorical conventions make literal readings of every detail uncertain.",
+    "Regional-flood and genealogical-Adam models show that some historically oriented religious readings need not contradict established science.",
+    "Scientific findings do not by themselves disprove theological claims about creation, divine purpose, or human responsibility."
+   ],
+   "strongest_against": [
+    "The flood’s repeated descriptions of comprehensive destruction are difficult to reduce to a local event without altering the apparent scope of the narrative.",
+    "Independent geological, genetic, and archaeological evidence strongly conflicts with a recent worldwide flood and a resulting human bottleneck.",
+    "The creation narrative’s waters above the firmament and its ordering of vegetation and luminaries fit an ancient cosmological picture better than modern astronomy.",
+    "Reconciliation may require treating as figurative or incidental features that the ancient authors plausibly regarded as part of the actual world."
+   ],
+   "weak_arguments": {
+    "for": [
+     "‘Science keeps changing, so any disagreement can be dismissed’: revisions do not make well-supported findings equally uncertain.",
+     "‘Each creation day corresponds neatly to a geological era’: the sequence does not consistently match scientific history.",
+     "‘A possible miracle proves the event happened’: logical possibility is not independent evidence for an event."
+    ],
+    "against": [
+     "‘Genesis is not a science textbook, so none of its claims can be historically meaningful’: theological literature can still make claims about the world.",
+     "‘Evolution disproves God’: evolutionary biology does not by itself settle whether a deity exists.",
+     "‘All religious scholars insist on a young Earth and global flood’: confessional scholars hold substantially different interpretations."
+    ]
+   },
+   "would_change": [
+    "Strong new geological, genetic, and archaeological evidence for a recent worldwide catastrophe and human bottleneck would substantially increase my credence.",
+    "Compelling textual evidence that the relevant authors intended the flood’s universal scope purely as conventional hyperbole would increase it.",
+    "Stronger comparative evidence that the creation account’s cosmological features were understood exclusively as imagery, not as descriptions of the world, would increase it.",
+    "Better evidence that the authors intended an exclusive recent human pair or a physically global flood would decrease it."
+   ],
+   "sources": [
+    {
+     "citation": "Genesis 1–11",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Claus Westermann, Genesis 1–11: A Commentary, 1984",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John H. Walton, The Lost World of Genesis One, 2009",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Tremper Longman III and John H. Walton, The Lost World of the Flood, 2018",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Richard E. Green et al., A Draft Sequence of the Neandertal Genome, 2010",
+     "kind": "scientific"
+    },
+    {
+     "citation": "EPICA community members, Eight Glacial Cycles from an Antarctic Ice Core, 2004",
+     "kind": "scientific"
+    }
+   ],
+   "id": "gpt",
+   "label": "GPT-6.1",
+   "model": "gpt-6.1-terra",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Almost certainly false under both literal-historical and original-authorial readings",
+   "credence": 5,
+   "confidence": "high",
+   "bottom_line": "When Genesis 1–11 is evaluated against the findings of modern science, reconciliation fails on both empirical and hermeneutical grounds. If read as literal physical history, the text's core claims—a universe created in six days, a solid celestial vault, humanity originating from a single couple ~6,000 years ago, a global flood, and the sudden dispersal of all human languages at Babel—are decisively contradicted by astrophysics, geology, evolutionary biology, population genetics, and historical linguistics. If read according to original authorial intent in its ancient Near Eastern context, the authors were articulating theological polemics using the pre-scientific cosmology of their time, not communicating 21st-century material science. Even theological accommodation frameworks, which argue that the Bible teaches spiritual truths rather than science, acknowledge that the authors' physical assumptions do not match scientific reality. Consequently, the claim that the text as intended 'fits' modern science is rejected by the overwhelming consensus of both scientists and academic biblical scholars.",
+   "sub_claims": [
+    {
+     "claim": "The cosmology and sequence of creation in Genesis 1 (day-night cycle before celestial bodies, vegetation before the sun, solid firmament dividing primeval waters) correspond to modern astrophysics and planetary history.",
+     "kind": "mixed",
+     "case_for": "Day-Age concordists (e.g., Hugh Ross) argue that 'yom' can denote an extended epoch, that the narrative is framed phenomenologically from Earth's surface, and that the sun, moon, and stars existed from verse 1 but only became visible on Day 4 after atmospheric clearing.",
+     "case_against": "Biblical Hebrew 'raqia' denotes a solid vault or arch holding back cosmic waters (cf. Gen 1:6-8; Job 37:18), reflecting standard ancient Near Eastern cosmology. Concordist readings require severe grammatical strain: the text depicts light, morning/evening, and land vegetation before celestial bodies, and marine life after land plants, directly contradicting the 13.8-billion-year cosmic timeline and fossil record.",
+     "consensus": "Near-universal consensus across astrophysics, geology, and academic biblical studies that Genesis 1 does not describe the physical sequence of cosmic or Earth history; even conservative evangelical scholars largely reject concordism in favor of literary/functional frameworks.",
+     "evidence": [
+      "Big Bang nucleosynthesis dating the universe to ~13.8 Ga and Earth to ~4.5 Ga",
+      "Fossil record showing vascular land plants appearing hundreds of millions of years after marine life",
+      "Ancient Near Eastern lexical meaning of raqia as a physical structure dividing upper waters"
+     ],
+     "verdict": "False",
+     "credence": 2
+    },
+    {
+     "claim": "All living humans descend solely and biologically from a single historical couple (Adam and Eve) created de novo roughly 6,000–10,000 years ago without evolutionary ancestors.",
+     "kind": "empirical",
+     "case_for": "Traditional biblical genealogies (Genesis 5, 11) and New Testament references (Romans 5:12) treat Adam as the unique historical progenitor of humanity; some confessional scholars argue genetic coalescence or divine de novo creation can preserve a genealogical lineage (e.g., Swamidass's genealogical Adam model).",
+     "case_against": "Human population genomics conclusively demonstrates that the ancestral effective population size of modern humans never passed through an extreme bottleneck of two individuals at any point in the last several hundred thousand years; modern genetic diversity requires an ancestral breeding population numbering in the thousands. Furthermore, anatomical, genetic, and fossil evidence firmly establishes human common descent with other primates.",
+     "consensus": "Overwhelming consensus across evolutionary genetics, physical anthropology, and mainstream biology; broadly acknowledged by Christian biologists (e.g., BioLogos, Francis Collins).",
+     "evidence": [
+      "Human leukocyte antigen (HLA) allele diversity predating human speciation",
+      "Linkage disequilibrium and coalescence models indicating minimum ancestral populations of several thousand",
+      "Fossil hominin transitions (Australopithecus, Homo erectus, Neanderthals) spanning millions of years"
+     ],
+     "verdict": "False",
+     "credence": 3
+    },
+    {
+     "claim": "A catastrophic global deluge (Noah's Flood, Genesis 6–9) covered the entire planet within the last 10,000 years, destroying all terrestrial air-breathing life outside the Ark.",
+     "kind": "empirical",
+     "case_for": "The narrative uses universal language ('all the high mountains under the whole heaven were covered'); creationists cite global sedimentary strata, rapid fossilization, and marine fossils on mountain ranges as physical evidence of a worldwide deluge.",
+     "case_against": "The geological record exhibits continuous sedimentation, volcanism, and ice accumulation spanning millions of years with no trace of a synchronous global marine transgression in the Holocene. A single catastrophic year cannot account for biostratigraphic sorting (e.g., distinct fossil zones where modern mammals never co-occur with dinosaurs or trilobites), uninterrupted ice core layers exceeding 100,000 annual layers, or the biogeographical distribution of isolated endemic faunas.",
+     "consensus": "Complete consensus among geologists, paleontologists, and geophysicists, including Christian professional geologists; biblical scholars view the narrative as an adapted Near Eastern flood tradition (Atrahasis, Gilgamesh).",
+     "evidence": [
+      "Continuous annual ice core records in Greenland (>100,000 years) and Antarctica (>800,000 years) with no flood hiatus",
+      "Biostratigraphic faunal succession across the geologic column",
+      "Biogeographical endemism (e.g., Australian marsupials, Madagascan lemurs) incompatible with post-Ararat dispersion",
+      "Dendrochronological continuous tree-ring sequences extending beyond 13,000 years"
+     ],
+     "verdict": "False",
+     "credence": 1
+    },
+    {
+     "claim": "The diversity of world languages originated rapidly from a single divine confusion event at a Mesopotamian tower (Genesis 11).",
+     "kind": "empirical",
+     "case_for": "Genesis 11:1-9 explicitly attributes linguistic diversity to divine intervention to scatter humanity; proponents point to the rapid historical branching of language families and hypothetical global linguistic roots.",
+     "case_against": "Historical and comparative linguistics demonstrates that human languages evolve gradually over millennia through sound shifts, grammaticalization, contact, and geographic divergence. Archaeological and genetic evidence establishes that modern humans inhabited Australia, the Americas, and East Asia with established, diversified linguistic traditions tens of thousands of years before the first Mesopotamian ziggurats arose.",
+     "consensus": "Unanimous consensus among historical linguists, archaeologists, and anthropologists.",
+     "evidence": [
+      "Archaeological dating of human arrival in Australia (~50,000–65,000 years ago) with distinct, long-isolated language families",
+      "Comparative reconstruction of major language families (Indo-European, Sino-Tibetan, Afroasiatic) showing gradual diversification",
+      "Historical records of Mesopotamian multilingualism (Sumerian and Akkadian) long coexisting prior to and during the 3rd millennium BCE"
+     ],
+     "verdict": "False",
+     "credence": 1
+    },
+    {
+     "claim": "The original authorial intent of Genesis 1–11 was to provide a scientifically accurate physical history of material origins.",
+     "kind": "textual",
+     "case_for": "The text employs sequential historical narrative markers (waw-consecutive verbal forms), detailed numerical chronologies, and historical genealogies ('toledot') connecting primeval figures directly to historical patriarchs like Abraham.",
+     "case_against": "Comparative Near Eastern literature demonstrates that Genesis 1–11 belongs to the genre of theological primeval history (myth-theology), sharing literary motifs, symbolic numerology (e.g., sexagesimal lifespans echoing the Sumerian King List), and an ancient three-tiered cosmology with contemporary Mesopotamian and Egyptian literature. The author intended to communicate Israelite monotheistic theology, covenant, and human vocation, not material mechanisms or modern natural history.",
+     "consensus": "Broad consensus among critical biblical scholars, Assyriologists, and leading evangelical Old Testament scholars (e.g., John Walton, Peter Enns, Tremper Longman); opposed primarily by strict young-earth creationist literalists.",
+     "evidence": [
+      "Literary parallels with the Epic of Atrahasis, Enuma Elish, and the Sumerian King List",
+      "Schematic and symbolic use of numbers in genealogies (multiples of 5 and 7)",
+      "Temple-inauguration and functional order motifs in Genesis 1"
+     ],
+     "verdict": "False",
+     "credence": 10
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "What is meant by 'read as its authors intended'—did the author intend to teach physical cosmology, or did they use their era's pre-scientific cosmology merely as an incidental cultural framework to communicate theological truths?",
+     "type": "definition",
+     "if_yes": "If 'authorial intent' includes the physical assertions of the author's worldview (solid sky, young earth, global flood, historical first pair), the text directly contradicts modern science.",
+     "if_no": "If 'authorial intent' is restricted solely to the theological message (divine accommodation/NOMA), one can argue the theological points do not conflict with science, but the text itself still cannot be said to 'fit' modern science in any substantive empirical sense.",
+     "your_view": "The author held and assumed the pre-scientific cosmology of the ancient Near East as a real description of the physical world, even if their primary theological objective was polemical and religious. Separating theological intent from cosmological intent rescues theological authority for believers, but it does not make the text's physical worldview 'fit' modern science."
+    },
+    {
+     "crux": "Does 'fits with modern science' permit concordist harmonization (reinterpreting 'days' as cosmic epochs, the 'firmament' as atmosphere, and the 'flood' as a local inundation)?",
+     "type": "definition",
+     "if_yes": "Concordism allows one to read modern discoveries into ancient poetry, yielding a superficial reconciliation at the cost of textual integrity.",
+     "if_no": "The text must be evaluated against the author's actual grammatical and cultural meaning, under which concordist harmonizations represent anachronistic eisegesis.",
+     "your_view": "Concordist harmonization violates sound hermeneutical principles. The text means what its authors intended in their ancient context; forcing modern scientific concepts (such as the Big Bang, plate tectonics, or evolutionary deep time) into Genesis 1–11 is rejected by both secular and confessional biblical scholars."
+    },
+    {
+     "crux": "Can miraculous divine intervention be invoked to explain away empirical discrepancies (e.g., supernatural suspension of physics during the Flood, accelerated radioactive decay, or de novo genetic insertion)?",
+     "type": "prior",
+     "if_yes": "An omnipotent God could create a universe with apparent age or miraculously alter physical laws, making any text unfalsifiable and formally compatible with any observation.",
+     "if_no": "Scientific inquiry relies on methodological naturalism and the uniformity of physical laws; ad hoc miracles that mimic billions of years of natural history imply divine deception (an 'Omphalos' hypothesis).",
+     "your_view": "Invoking unrecorded miracles to reconcile empirical contradictions abandons scientific explanation entirely and imputes deceptive evidence into the natural world. Reconciling a text with science requires coherence with scientific methodology, not invoking miracles to override it."
+    }
+   ],
+   "strongest_for": [
+    "Genesis depicts a cosmos with an absolute temporal beginning ('In the beginning'), broadly consonant with the 20th-century Big Bang cosmological paradigm rather than steady-state or eternal-universe models.",
+    "The general progression in Genesis 1 moves from inorganic conditions to simple plant life, then aquatic life, and finally human beings, roughly mirroring the broad directional arrow of natural history.",
+    "Theological accommodation frameworks (e.g., John Calvin, modern evangelical scholars like John Walton) argue that God communicated using the existing cultural and cosmological thought-forms of the ancient audience, meaning the text was never intended to convey physical science in the first place.",
+    "Recent population genetics models (e.g., S. Joshua Swamidass) show that a genealogical universal ancestor couple living a few thousand years ago is mathematically possible, provided they are not the sole genetic ancestors of all humanity."
+   ],
+   "strongest_against": [
+    "The explicit cosmology of Genesis 1 presumes a solid dome (raqia) dividing primeval waters above from waters below, with celestial luminaries embedded inside it, which is fundamentally at odds with modern astrophysics.",
+    "The sequence of creation events in Genesis 1—vegetation created on Day 3 before the sun and stars on Day 4, and birds created before land animals—flatly contradicts planetary evolution and the fossil record, where vascular plants appear after billions of years of solar illumination and land tetrapods precede birds by ~200 million years.",
+    "The genetic diversity and coalescent history of modern humans rule out a biological bottleneck of two individuals at any point in the human lineage within the last several hundred thousand years.",
+    "The geological, geochemical, and fossil records contain no evidence of a global catastrophic flood in the Holocene; instead, Earth's strata record billions of years of gradual and catastrophic processes sorted by distinct evolutionary epochs.",
+    "Comparative linguistics and archaeology demonstrate that human languages evolved gradually over tens of thousands of years across geographically dispersed populations, directly refuting a single Babel dispersal event in the Bronze Age."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Concordist 'Day-Age' arguments claiming the Hebrew word 'yom' matches geological eras and that the sun was merely 'revealed' through cloud cover on Day 4; this is grammatical eisegesis that ignores the explicit 'evening and morning' formula and ANE cosmology.",
+     "Young-earth 'Flood geology' claiming all sedimentary strata and fossils were deposited in a single year; this violates basic principles of sedimentology, thermodynamics, and biostratigraphic ordering.",
+     "Citing 'Mitochondrial Eve' and 'Y-chromosomal Adam' as scientific proof of the biblical couple; these genetic coalescent points did not live at the same time, were not the only humans alive, and represent moving statistical coalescences, not unique progenitors.",
+     "Claiming the order of creation in Genesis 1 matches modern science; the sequence of light before the sun, plants before the sun, and birds before reptiles and land mammals directly contradicts natural history."
+    ],
+    "against": [
+     "Dismissing Genesis 1–11 as crude, ignorant fairy tales; this ignores the sophisticated literary, theological, and polemical artistry of ancient Near Eastern historiography.",
+     "Claiming the Bible claims the Earth is a flat square because of poetic idioms like 'four corners of the earth'; ancient writers used figurative idioms alongside their cosmology, and treating every poetic metaphor as literal dogma misunderstands ancient literary forms.",
+     "Arguing that belief in God is incompatible with science; millions of scientists and religious believers embrace theistic evolution, viewing Genesis as theological revelation rather than a science textbook.",
+     "Asserting that if Genesis 1–11 is not literal history, the entire Judeo-Christian theological tradition collapses; many historic Jewish and Christian traditions (from Philo and Origen to Augustine and modern Catholic/Protestant theologians) have consistently recognized non-literal and allegorical dimensions to these chapters."
+    ]
+   },
+   "would_change": [
+    "Unequivocal geological and paleontological discovery of a globally synchronous marine sediment layer from the mid-Holocene containing mixed modern and extinct fossil assemblages (e.g., humans, pterosaurs, and trilobites in the same horizon).",
+    "Population genomics discovering that modern human genetic diversity across all loci coalesces to a single pair living ~6,000–10,000 years ago without prior hominin ancestral lineages.",
+    "Linguistic discovery proving that all extant and extinct language families abruptly diverged from a common Mesopotamian ancestor language around 2500–2000 BCE.",
+    "Newly discovered ancient Hebrew lexical and contextual evidence showing that ancient Levantine writers understood the cosmos as an expanding, billions-of-years-old space vacuum rather than an arch holding back waters."
+   ],
+   "sources": [
+    {
+     "citation": "John H. Walton, The Lost World of Genesis One: Ancient Cosmology and the Origins Debate, 2009",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Peter Enns, The Evolution of Adam: What the Bible Does and Doesn't Say about Human Origins, 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Davis A. Young and Ralph F. Stearley, The Bible, Rocks, and Time: Christians and an Earthly Shore, 2008",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Francis S. Collins, The Language of God: A Scientist Presents Evidence for Belief, 2006",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "S. Joshua Swamidass, The Genealogical Adam and Eve: The Surprising Science of Universal Ancestry, 2019",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Mark S. Smith, The Priestly Vision of Genesis 1, 2010",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Hugh Ross, The Genesis Question: Scientific Advances and the Accuracy of Genesis, 1998",
+     "kind": "other"
+    }
+   ],
+   "id": "gemini",
+   "label": "Gemini 3.8",
+   "model": "gemini-3.8-flash",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Probably false: read as its authors likely intended it, Genesis 1-11 does not fit modern science",
+   "credence": 20,
+   "confidence": "medium",
+   "bottom_line": "The claim is unlikely. In its ancient Near Eastern setting, Genesis 1-11 presents a primeval world — a recent creation under a solid sky, humanity from a founding pair, a flood that ends every other human line, and languages split at one city — that does not match astronomy, geology, genetics, archaeology, or linguistics. The authors were doing theology inside the conceptual world of their time, not modern science, and that is the strongest point in the claim's favor. But 'not a science textbook' is not the same as 'fits modern science.' Day-age, framework, and functional readings reduce the clash only by setting aside much of what the narrative presents and what its earliest readers took it to affirm. A theological message can be held alongside science; the intended primeval history cannot.",
+   "sub_claims": [
+    {
+     "claim": "Genesis 1, as its authors intended it, is compatible with a 13.8-billion-year-old universe and with the scientific order of cosmic and biological history.",
+     "kind": "textual",
+     "case_for": "The chapter is a structured liturgical text, not a lab report. It shares the ancient Near Eastern cosmos but reassigns it to one God, with sabbath and temple-inauguration themes. 'Day' is used flexibly in Genesis 2:4, the seventh day has no evening, and two creation accounts sit side by side. John Walton and others argue the authors were assigning functions and roles, not reporting material manufacture in 144 hours, so deep time and evolution are simply outside the intended claim.",
+     "case_against": "Numbered days with evening and morning are ordinary Hebrew for normal days, and the text narrates God making light, a raqia, plants, and animals in an order that is not the scientific order (vegetation before the sun; birds before land animals). The raqia is the solid sky of ancient cosmology, not a metaphor invented by later concordists. Earliest readers were puzzled by the days precisely because they took the sequence as real. A functional-only reading imposes a material/function split the authors did not make.",
+     "consensus": "Mainstream biblical scholarship, including many Jewish and Christian scholars, treats Genesis 1 as ancient theology in an ancient cosmos, not as modern science and not as Walton's functional thesis. Evangelical scholarship is divided among young-earth, day-age, framework, and evolutionary-creation readings. Scientific consensus is that the sequence and timescale, if asserted, are false.",
+     "evidence": [
+      "Hebrew yom with evening, morning, and ordinals is the normal idiom for a day",
+      "Genesis 1:6-8 raqia separating waters above from waters below, matching ancient Near Eastern sky-structures",
+      "Plants on day 3, luminaries on day 4, birds on day 5, land animals on day 6",
+      "Genesis 2:4-25 offers a different sequence from Genesis 1",
+      "Universe ~13.8 billion years old; Earth ~4.5 billion years old; life far older than humanity"
+     ],
+     "verdict": "The authors were not teaching modern cosmology, but the world they described does not match it.",
+     "credence": 25
+    },
+    {
+     "claim": "Adam and Eve, read as the authors intended, fit paleoanthropology and population genetics.",
+     "kind": "empirical",
+     "case_for": "The story is archetypal and etiological: 'adam' means human, formed from dust, and the pair can be a representative head rather than the sole genetic source of everyone. Some confessional scholars (C. John Collins, and in a different way William Lane Craig) keep a historical pair as federal or genealogical ancestors inside a larger population. Genesis never states a genetic model.",
+     "case_against": "The narrative presents a first man, a woman built from him, and all later humans as their descendants, with Genesis 3-5 and the flood genealogy assuming that line is the human line. Population genetics finds no two-person bottleneck in Homo sapiens; ancestral population size stayed in the thousands; Neanderthals and Denisovans interbred with modern humans. Anatomically modern humans are on the order of a few hundred thousand years old, with a fossil and archaeological record no single recent pair can absorb. A purely symbolic Adam is a possible theology, but it is not the most likely authorial intent.",
+     "consensus": "Geneticists and paleoanthropologists overwhelmingly reject a recent sole genetic pair. Biblical scholars are split: critical scholarship often treats Adam as mythic or archetypal; many evangelicals and official Catholic teaching have wanted a historical origin of humanity, while BioLogos-style scholars drop the genetic claim. There is no cross-field consensus that the intended Adam fits the data.",
+     "evidence": [
+      "Genesis 2-5: one man, one woman, then genealogical descent",
+      "Romans 5 and 1 Corinthians 15 show later readers taking Adam as a real first man, which is reception, not proof of original intent",
+      "No Homo sapiens bottleneck to two people; archaic admixture is established",
+      "Fossil and archaeological record of humans and close relatives long before any biblical chronology"
+     ],
+     "verdict": "A representative-Adam theology can be reconciled with genetics; the intended founding pair, if historical and sole, cannot.",
+     "credence": 18
+    },
+    {
+     "claim": "The flood of Genesis 6-9, as intended, fits geology, archaeology, and genetics.",
+     "kind": "empirical",
+     "case_for": "Ancient 'all the earth' language is often hyperbolic, and Mesopotamia has real catastrophic river floods. The story reworks traditions also found in Atrahasis and Gilgamesh to teach judgment, deliverance, and covenant. A large regional flood remembered in story form need not be a global marine transgression, so the theological text need not collide with geology.",
+     "case_against": "The plot requires more than a local disaster: all flesh dies, only eight people survive, and the world is repopulated from them, with the ark covering every kind of land animal. That is incompatible with continuous civilizations in Egypt, Mesopotamia, and elsewhere, with human genetic diversity, and with the absence of any global flood horizon in the last several thousand years. Calling the language hyperbole while keeping universal human destruction still fails the genetic and archaeological tests.",
+     "consensus": "Geologists, including Christian geologists who reject flood geology, find no global flood. Archaeologists find no break in which all complex societies vanish. Critical and many confessional OT scholars treat the narrative as primeval story rooted in older flood tradition, not as a report that matches the scientific record. Young-earth flood geology is a small dissenting camp outside geological practice.",
+     "evidence": [
+      "Genesis 6-9: destruction of all flesh outside the ark and repopulation from Noah's household",
+      "Atrahasis and Gilgamesh Tablet XI show a shared flood tradition, not a modern field report",
+      "No geological global-flood layer; Egyptian and Mesopotamian cultural sequences continue through every proposed flood date",
+      "Human genetic diversity rules out a bottleneck to eight people in the Holocene"
+     ],
+     "verdict": "Almost certainly does not fit if the authors meant a flood that ended all other human lines.",
+     "credence": 8
+    },
+    {
+     "claim": "The genealogies, the Table of Nations, and Babel, as intended, do not conflict with deep time, archaeology, or historical linguistics.",
+     "kind": "textual",
+     "case_for": "Ancient genealogies are often selective. 'Begat' can mean 'was the ancestor of,' and Matthew's genealogy telescopes. The Table of Nations maps the known world rather than a complete human phylogeny. Babel can be an etiology for cultural scattering, not a claim that every language family split in one afternoon. Manuscript differences among the Masoretic text, Septuagint, and Samaritan Pentateuch show the numbers were not a fixed scientific chronology.",
+     "case_against": "Ages at fatherhood and total lifespans do chronological work inside the story; they are not needed for a mere family tree. Second Temple readers, Josephus, and later Christian chronologists added them up. Telescoping might blur a date; it does not stretch the narrative into geological time, and it still ties Babel and the nations to a recent post-flood world. Writing and distinct languages in Egypt and Mesopotamia are already in place before a late Babel, and the world's language families are not the debris of one recent split.",
+     "consensus": "Scholars widely agree the genealogies are not modern historiography and that Ussher-style precision overreads them. They do not agree that the authors intended a chronology compatible with deep time. Linguists and archaeologists reject a single recent origin of all languages and nations.",
+     "evidence": [
+      "Genesis 5 and 11 give ages at begetting and total years, not names alone",
+      "Septuagint, Samaritan, and Masoretic figures differ, which shows ancient chronological interest",
+      "Genesis 10-11 presents one speech-community divided at Babel, then the known nations",
+      "Multiple writing systems and language traditions predate any late third-millennium Babel"
+     ],
+     "verdict": "Schematic genealogy is plausible; a fit with deep time and linguistic history is not.",
+     "credence": 22
+    },
+    {
+     "claim": "Because the authors intended only theological truths, the obsolete cosmology and primeval events in the text were not really asserted, so there is no conflict with science.",
+     "kind": "philosophical",
+     "case_for": "Accommodation is an old and serious view: Augustine refused to lock the days into one naive reading, and the tradition Galileo cited held that Scripture teaches how to go to heaven, not how the heavens go. Ancient writers described the world in the only concepts they had. Their assertive point was who God is and what humans are for. On that reading, false ancient science is the vehicle, not the message, and the message fits a scientific world.",
+     "case_against": "The authors did not flag the cosmos, the flood, or the first couple as disposable scenery. They presented them as what God did. Later biblical writers appeal to those events. Separating 'message' from 'what the narrative affirms' is a modern filter, useful for theology, but it is not a demonstration that the authors withheld belief from the story-world. A text can be non-scientific in aim and still assert a history that science contradicts.",
+     "consensus": "No consensus. Critical scholars often say the theology can be restated without the ancient science, while still holding that the authors believed that science. Confessional reconcilers depend on this distinction; young-earth and many traditional readers reject it. Philosophers of interpretation disagree on how much incidental belief is part of authorial intent.",
+     "evidence": [
+      "Augustine, De Genesi ad litteram, already treats the days as difficult rather than obvious",
+      "Galileo's Letter to the Grand Duchess Christina (1615) uses the accommodation principle",
+      "The narrative form of Genesis 1-11 presents events, not a labeled parable",
+      "Comparative ancient Near Eastern texts show Israelites sharing, and theologically revising, a common picture of the world"
+     ],
+     "verdict": "Accommodation explains why the theology can survive; it does not show that the intended narrative fits the scientific record.",
+     "credence": 28
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does 'as the authors intended' mean the full primeval world they presented as real, or only theological propositions a modern reader can extract?",
+     "type": "definition",
+     "if_yes": "If the full narrative world counts, the claim is almost certainly false, with credence near 5.",
+     "if_no": "If only a theological kernel counts, conflict shrinks and credence in a loose 'fit' rises toward 50-60, though 'fits' still overstates a non-overlap.",
+     "your_view": "Historically reconstructed intent includes the story-world they affirmed, not only a distilled theology. That choice drives the low overall credence."
+    },
+    {
+     "crux": "Does 'fits' mean the intended assertions correspond to scientific findings, merely do not contradict them, or address different questions entirely?",
+     "type": "definition",
+     "if_yes": "Correspondence is not in evidence. Non-contradiction of the intended assertions also fails if those assertions include a founding pair, a humanity-ending flood, and an ancient cosmos. A 'different questions' reading changes the claim rather than confirming it.",
+     "if_no": "If 'fits' only means 'a believer can also accept science,' the claim is about pastoral coherence, not about authorial intent, and should not be scored as true in the form given.",
+     "your_view": "The claim requires that what the authors asserted does not contradict modern science. On that reading it fails."
+    },
+    {
+     "crux": "Did the authors intend the flood and the first pair as real events that originated or uniquely continued the whole human race?",
+     "type": "evidence",
+     "if_yes": "Genetics, archaeology, and geology make a fit extremely unlikely, whatever one does with the six days.",
+     "if_no": "If those episodes were never meant as referential history, science does not contradict the intended claims, and credence in the claim rises sharply.",
+     "your_view": "They intended real primeval events, told with conventional literary motifs: not modern fiction, and not modern history."
+    },
+    {
+     "crux": "Should early reception — Second Temple chronology, New Testament Adam, Josephus, patristic calculations — count as evidence of original intent?",
+     "type": "prior",
+     "if_yes": "The conflict strengthens, because the earliest extended readings treat the material as chronological primeval history.",
+     "if_no": "Modern genre readings get more room, especially where ancient readers may have missed literary convention.",
+     "your_view": "Reception is relevant but not decisive. The text's form and ancient Near Eastern context weigh more, and both still favor a real, theologically shaped primeval history in an ancient cosmos."
+    }
+   ],
+   "strongest_for": [
+    "Genesis 1-11 is primeval literature in an ancient Near Eastern setting, aimed at theology — one God, human status, sabbath, judgment, and covenant — not at modern scientific reportage.",
+    "Ancient genealogies are often schematic, and 'son of' can mean descendant, so Ussher-style arithmetic is a later use of the text, not a necessary reading of every name list.",
+    "Some features resist a flat timetable: the unending seventh day, Genesis 2:4's broad use of 'day,' and two creation accounts placed side by side.",
+    "Accommodation is a serious hermeneutic with patristic precedent, not a modern dodge: writers described the sky they believed in, and the religious point can be restated without that sky.",
+    "A regional Mesopotamian flood tradition and a theological Adam are easier to hold beside science than a global flood and a sole genetic pair, and serious confessional scholars have developed those readings."
+   ],
+   "strongest_against": [
+    "The intended picture includes a solid raqia, waters above, a creation order unlike geological and evolutionary order, a founding human pair, a flood that leaves only one family, and a single split of languages. Those are not minor ornaments.",
+    "Population genetics rules out a two-person or eight-person bottleneck for Homo sapiens, and archaic human admixture is established.",
+    "Archaeology shows continuous complex societies through every date a biblical global flood could occupy.",
+    "Geology and astronomy fix an old Earth and an old universe; there is no global flood horizon in human history. Flood geology is not a live option in the field.",
+    "The earliest extended interpreters read the chapters as chronological primeval history, which is evidence about how the narrative presents itself.",
+    "Concordist repairs repeatedly fail in detail: day-age readings do not fix the order of events, the firmament, animal death before humans, or Babel."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Day-age concordism: numbered days with evening and morning are not geological eras in Hebrew usage, and the order still does not match the rocks.",
+     "Appearance of age, or an omphalos world created looking old: unfalsifiable, and not what the text claims.",
+     "Hidden scientific foreknowledge, such as reading cosmic expansion into 'stretching the heavens': retrospective concordism, not authorial intent.",
+     "Flood geology and related models: rejected by the geological evidence and by Christian geologists who otherwise trust the Bible."
+    ],
+    "against": [
+     "'It is copied from Gilgamesh, so it is false': shared flood tradition does not settle what Israelite authors were doing theologically, or which memories if any remain.",
+     "'Evolution is just a theory': that misuses the word. The relevant case is specific evidence from genetics, fossils, geology, and archaeology.",
+     "Treating every non-literal reading as dishonest special pleading: genre criticism is a real discipline even when it does not produce concordance.",
+     "Claiming that unless Genesis 1 is six 24-hour days the rest of Scripture collapses: that overstates what the text's authority requires."
+    ]
+   },
+   "would_change": [
+    "A real convergence in Hebrew and ancient Near Eastern scholarship showing the authors withheld assent from the cosmology, the sole founding pair, and the humanity-ending flood they narrated.",
+    "Genetic evidence of a Holocene bottleneck to two people, or to eight — contrary to current population genetics.",
+    "A Holocene global-flood signature accepted in mainstream geology, together with an archaeological break in which complex societies actually disappear.",
+    "Ancient textual evidence that the lifespans, the flood, and Babel were explicitly marked as non-referential parable rather than primeval events.",
+    "A genuine collapse of the evidence for deep time and common descent would raise credence in a literal fit; that evidence is not in that condition."
+   ],
+   "sources": [
+    {
+     "citation": "Genesis 1-11",
+     "kind": "scripture"
+    },
+    {
+     "citation": "Atrahasis epic; Epic of Gilgamesh, Tablet XI; Enuma Elish",
+     "kind": "primary"
+    },
+    {
+     "citation": "Augustine, De Genesi ad litteram (The Literal Meaning of Genesis), early 5th century",
+     "kind": "primary"
+    },
+    {
+     "citation": "Galileo Galilei, Letter to the Grand Duchess Christina, 1615",
+     "kind": "primary"
+    },
+    {
+     "citation": "Josephus, Antiquities of the Jews, Book 1",
+     "kind": "primary"
+    },
+    {
+     "citation": "Gordon J. Wenham, Genesis 1-15 (Word Biblical Commentary), 1987",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Nahum M. Sarna, Genesis (JPS Torah Commentary), 1989",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Mark S. Smith, The Priestly Vision of Genesis 1, 2010",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John H. Walton, The Lost World of Genesis One, 2009",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "John H. Walton, The Lost World of Adam and Eve, 2015",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Peter Enns, The Evolution of Adam, 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "C. John Collins, Did Adam and Eve Really Exist?, 2011",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "William Lane Craig, In Quest of the Historical Adam, 2021",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Denis O. Lamoureux, Evolutionary Creation, 2008",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Davis A. Young and Ralph F. Stearley, The Bible, Rocks and Time, 2008",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Francis S. Collins, The Language of God, 2006",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Richard E. Green et al., A Draft Sequence of the Neandertal Genome, Science, 2010",
+     "kind": "scientific"
+    },
+    {
+     "citation": "Pius XII, Humani Generis, 1950; John Paul II, message to the Pontifical Academy of Sciences, 1996",
+     "kind": "other"
+    }
+   ],
+   "id": "grok",
+   "label": "Grok 4.7",
+   "model": "grok-4.7",
+   "via": "copilot"
+  },
+  {
+   "kind": "mixed",
+   "verdict": "Mostly no. The descriptive picture the authors held conflicts with science. Only the theology fits, and only if 'intended' is narrowed to that.",
+   "credence": 12,
+   "confidence": "medium",
+   "bottom_line": "Genesis 1-11 describes the world the way its ancient Near Eastern authors understood it. That includes a solid sky holding back waters, an order of creation that puts plants before the sun and birds before land animals, a flood covering all the high mountains, a single origin of languages at Babel, and genealogies with centuries-long lifespans. Most specialists in Hebrew and the ancient Near East, including many confessional scholars, think the authors really believed this picture. On the face of it, none of those descriptive elements fits modern cosmology, geology, genetics or linguistics. The claim becomes defensible only if 'what the authors intended' means just what they meant to teach (one God, a good creation, humans in God's image, human sin) and not the cosmology they took for granted. Serious scholars such as John Walton and Gordon Wenham argue for something like this, and on that reading there is little conflict. I treat that as a minority, though respectable, reconstruction of intent. I also note that even many of its sympathizers concede the authors held a pre-scientific worldview. So the claim as most naturally read is probably false, and the answer turns mainly on how you define 'intended.'",
+   "sub_claims": [
+    {
+     "claim": "The cosmology of Genesis 1 and the flood story (raqia, waters above, 'windows of heaven') is compatible with modern cosmology.",
+     "kind": "empirical",
+     "case_for": "Raqia might mean simply 'expanse' or the visible sky, a phenomenological description and not a physical model. Phenomenological language ('sunrise') is not a scientific error. On Walton's view the text is about how the cosmos functions, not what it is made of, so it makes no material claims.",
+     "case_against": "The raqia separates waters above from waters below (Gen 1:6-8). The sun, moon and stars are set 'in' it (1:14-17). It has windows that open to release the flood (7:11; 8:2). Related texts describe the sky as hard like a cast-metal mirror (Job 37:18). This matches the three-tiered cosmos found across the ancient Near East (cf. Enuma Elish, where Marduk splits Tiamat to form the sky). Early Jewish and Christian readers widely took the sky to be a solid vault.",
+     "consensus": "Most critical and many evangelical scholars hold that the authors shared the ancient Near Eastern solid-sky cosmology. Examples include Paul Seely, Peter Enns, Denis Lamoureux and Kenton Sparks, and Walton himself grants the cognitive environment. Disagreement is mainly over whether this cosmology was asserted or merely assumed.",
+     "evidence": [
+      "Gen 1:6-8, 1:14-17, 7:11, 8:2",
+      "Job 37:18; Ps 148:4 ('waters above the heavens')",
+      "Ancient Near Eastern parallels in Enuma Elish and Egyptian cosmologies",
+      "Seely, WTJ 1991, on the raqia as solid"
+     ],
+     "verdict": "Not compatible if the cosmology is part of the intended content; irrelevant to science only if it is just a background assumption.",
+     "credence": 5
+    },
+    {
+     "claim": "The authors did not intend Genesis 1 as a chronological account of physical origins (framework, functional or temple-inauguration readings).",
+     "kind": "textual",
+     "case_for": "Days 1-3 (forming) parallel days 4-6 (filling), which suggests literary design over chronology. The seven-day structure echoes temple-dedication patterns, and Walton argues the account inaugurates the cosmos as God's temple. Genesis 2 orders events differently, which hints that strict sequence was not the point. Augustine in De Genesi ad litteram already doubted that the days were ordinary days. The account reads as a polemic against rival Near Eastern cosmogonies, which is a theological purpose.",
+     "case_against": "The text uses numbered days with 'evening and morning' and grounds the Sabbath command in the six-day sequence (Exod 20:11). Ancient readers (Jubilees, Josephus, most rabbis and church fathers) mostly read it as a sequence of real events. James Barr wrote in a 1984 letter that he knew of no professor of Hebrew or Old Testament at a leading university who doubted the authors intended literal days, real chronology and a worldwide flood. Literary artistry does not rule out historical intent.",
+     "consensus": "No consensus. Mainstream critical scholarship mostly holds that the Priestly writer meant a real cosmogony in a stylized form. A substantial body of evangelical scholars (Walton, Kline, C. John Collins, Wenham) argues for non-literal or non-material intent.",
+     "evidence": [
+      "Days 1-3 and 4-6 parallelism",
+      "Exod 20:11 Sabbath grounding",
+      "Walton, The Lost World of Genesis One",
+      "Barr's 1984 letter to David Watson (often quoted; private correspondence)"
+     ],
+     "verdict": "Plausible but contested; probably a minority reading of original intent.",
+     "credence": 30
+    },
+    {
+     "claim": "The intended account of human origins (Adam from dust, Eve from Adam, all humans descending from this pair) is compatible with genetics and paleoanthropology.",
+     "kind": "empirical",
+     "case_for": "Swamidass's 'genealogical Adam' model shows that a recent pair could be genealogical ancestors of everyone alive by about AD 1 without being the sole genetic progenitors. 'Adam' ('ha-adam') may be partly archetypal, standing for humankind. Some estimates find ancient bottlenecks (e.g., about 1,300 breeding individuals roughly 900,000 years ago, Hu et al. 2023), though these are far from two.",
+     "case_against": "Human genetic diversity requires an effective population in the thousands throughout the last several hundred thousand years, not a sole couple a few thousand years ago. Humans share common ancestry with other apes, as shown by shared endogenous retroviruses, chromosome 2 fusion and nested hierarchies. The genealogical model works only by adding people outside the garden, which the text does not mention. The narrative itself implies Adam and Eve are 'mother of all living' (Gen 3:20) and ancestors of all.",
+     "consensus": "Strong scientific consensus against sole recent progenitorship, including among Christian geneticists such as Dennis Venema and Francis Collins. Theologians are divided between archetypal, genealogical and traditional readings.",
+     "evidence": [
+      "Population-genetic estimates of effective population size",
+      "Venema and McKnight, Adam and the Genome (2017)",
+      "Swamidass, The Genealogical Adam and Eve (2019)",
+      "Gen 2:7, 2:21-22, 3:20"
+     ],
+     "verdict": "Sole recent progenitorship conflicts with genetics. Compatibility requires models that go beyond what the authors plausibly meant.",
+     "credence": 10
+    },
+    {
+     "claim": "The flood narrative, as intended, is compatible with geology and biology.",
+     "kind": "empirical",
+     "case_for": "The Hebrew 'eretz' can mean 'land' as well as 'earth.' Universal language is used hyperbolically elsewhere (e.g., Gen 41:57, 'all the earth' coming to Egypt for grain). The story likely preserves memory of real Mesopotamian floods; flood deposits at Shuruppak and Ur are dated roughly to the 3rd millennium BC. A local flood fits the evidence.",
+     "case_against": "The text says waters covered 'all the high mountains under the whole heaven' by fifteen cubits (7:19-20). It says all flesh outside the ark died (7:21-23) and that pairs of all kinds were preserved, which makes no sense for a local flood. The story is a reworking of Mesopotamian flood myths (Atrahasis, Gilgamesh XI) that were themselves cosmic in scope. Geology shows no global flood and continuous human and animal habitation through the relevant periods.",
+     "consensus": "Scientific consensus is decisively against a global flood. Most biblical scholars think the authors intended a universal event, while local-flood concordists such as Hugh Ross dispute this.",
+     "evidence": [
+      "Gen 6:17; 7:19-23",
+      "Atrahasis epic (Lambert & Millard 1969); Gilgamesh Tablet XI",
+      "Absence of global flood stratigraphy; continuous cultures in Egypt and elsewhere"
+     ],
+     "verdict": "Global flood is contradicted. Local-flood readings strain the text.",
+     "credence": 8
+    },
+    {
+     "claim": "The Genesis 5 and 11 genealogies, the long lifespans, and Babel as the origin of languages are compatible with science.",
+     "kind": "empirical",
+     "case_for": "The numbers may be symbolic or honorific. The Sumerian King List gives antediluvian reigns of tens of thousands of years, so Genesis's figures may follow a convention, and genealogies are known to skip generations. Babel may be an etiological story about one region, not a claim about the origin of all languages.",
+     "case_against": "Even with gaps, the genealogies place the origin of humanity within thousands of years, whereas modern humans are about 300,000 years old. Lifespans of around 900 years are biologically impossible as literal claims. Linguistic diversity developed over tens of thousands of years, not in a single event in a Mesopotamian city tied to brick-and-bitumen ziggurats.",
+     "consensus": "Scientists unanimously reject a literal reading. Scholars debate whether the numbers were meant literally, and many see them as symbolic or schematic, which helps compatibility somewhat.",
+     "evidence": [
+      "Gen 5; 11:10-32; 11:1-9",
+      "Sumerian King List",
+      "Age of Homo sapiens fossils (Jebel Irhoud, about 300,000 years)"
+     ],
+     "verdict": "Incompatible if literal; partial rescue if the numbers were symbolic.",
+     "credence": 10
+    },
+    {
+     "claim": "The core theological claims of Genesis 1-11 (one creator, a good and ordered world, human dignity in God's image, human moral failure) are compatible with modern science.",
+     "kind": "philosophical",
+     "case_for": "These claims are metaphysical or moral, and science neither confirms nor refutes them. An ordered, intelligible cosmos is arguably presupposed by science. Many working scientists hold these beliefs.",
+     "case_against": "Some argue that evolution's long history of suffering and death sits uneasily with 'very good,' and that naturalism makes a creator superfluous. These are philosophical objections, not scientific findings.",
+     "consensus": "Broad agreement among philosophers of science and theologians that these claims are not in direct empirical conflict with science. Disagreement remains about their plausibility.",
+     "evidence": [
+      "Gen 1:1, 1:27, 1:31, 3",
+      "Theistic evolution literature (e.g., BioLogos authors)"
+     ],
+     "verdict": "Largely compatible, but this covers only part of what the authors wrote.",
+     "credence": 85
+    }
+   ],
+   "cruxes": [
+    {
+     "crux": "Does 'read as its authors intended' include the cosmology and history the authors believed and expressed, or only what they meant to teach?",
+     "type": "definition",
+     "if_yes": "If it includes their beliefs, the claim is almost certainly false (credence about 3-5%). The firmament, the order of creation, the flood, Babel and the lifespans all conflict with science.",
+     "if_no": "If it covers only the teaching, the claim is likely true (credence about 70-85%), because the theological message does not clash with science.",
+     "your_view": "The natural reading of the claim includes the narrative's descriptive content. Separating 'message' from 'incidental science' (Lamoureux's term) is a modern hermeneutical move, not a recovery of what the authors meant. Even Lamoureux concedes the authors held the ancient science."
+    },
+    {
+     "crux": "Did the authors intend Genesis 1-11 as an account of real past events, or as stylized theological myth or proto-history whose details were not meant as claims?",
+     "type": "evidence",
+     "if_yes": "If they meant real events, the claim fails on the flood, Adam and the chronology.",
+     "if_no": "If they meant stylized theology, compatibility rises substantially.",
+     "your_view": "Most likely somewhere in between. The authors probably thought they were narrating the real past (a 'proto-history,' in Wenham's term) with stylized, schematic and partly symbolic elements. That still leaves real conflicts, especially with the flood and human origins."
+    },
+    {
+     "crux": "Does 'fits with modern science' mean 'does not conflict' or 'positively corresponds to' (concordism)?",
+     "type": "definition",
+     "if_yes": "Under concordance, the claim is very low (about 2%), because the order of creation does not match cosmic or biological history.",
+     "if_no": "Under non-conflict, the claim depends entirely on the first crux.",
+     "your_view": "I score the weaker non-conflict reading, which is more charitable to the claim."
+    },
+    {
+     "crux": "Can appeals to miracle or appearance of age (e.g., a miraculous flood leaving no trace) count as 'fitting' science?",
+     "type": "prior",
+     "if_yes": "If they count, logical consistency is always available. But this makes the account immune to scientific evidence, which is not what 'fits with science' normally means.",
+     "if_no": "If they do not count, literal readings conflict with the evidence.",
+     "your_view": "Miracles can be considered on their merits. But an event that should have left evidence and left none, or a creation built to look old, is a strategy for avoiding conflict, not a fit."
+    }
+   ],
+   "strongest_for": [
+    "Ancient Near Eastern comparisons show Genesis 1 deliberately reworking rival cosmogonies for theological ends, such as demoting the sun and moon to 'lamps' and the sea monsters to creatures. Its main concern may not have been physical description.",
+    "The literary structure (days 1-3 parallel 4-6, the seventh-day climax, temple-inauguration motifs) suggests theological schema over chronology (Walton; Kline's framework view).",
+    "Ancient genealogies and numbers often served symbolic or honorific purposes. Genesis's antediluvian figures are tiny next to the Sumerian King List's, which suggests a convention and not a census.",
+    "Universal language ('all the earth') is used hyperbolically elsewhere in Genesis. A flood memory rooted in real Mesopotamian floods is historically plausible.",
+    "Genealogical-ancestry modeling shows a recent couple could be universal genealogical ancestors without conflicting with genetics.",
+    "Respected pre-modern interpreters such as Augustine and Origen already read parts non-literally, so non-literal readings are not merely a retreat forced by science."
+   ],
+   "strongest_against": [
+    "Genesis describes a solid sky holding back waters above (Gen 1:6-8; 7:11), matching ancient Near Eastern cosmology and not modern astronomy.",
+    "The order of creation conflicts with natural history. Earth and plants come before the sun and stars, fruit trees before marine life, and birds before land animals and reptiles.",
+    "The flood is described in emphatically universal terms (7:19-23) and preserves all land animal kinds on an ark. A local-flood reading makes the ark pointless, and geology shows no global flood.",
+    "Sole descent from one recently created pair conflicts with population genetics and common ancestry with other apes.",
+    "Leading Hebrew Bible scholars, critical and many confessional alike, hold that the authors believed this picture. Barr's oft-quoted 1984 letter puts it bluntly, and evangelical scholars like Enns and Lamoureux concede the ancient science.",
+    "Exodus 20:11 grounds the Sabbath in the six-day sequence, which suggests that ancient Israelites took the sequence seriously."
+   ],
+   "weak_arguments": {
+    "for": [
+     "Day-age concordism (days are geological eras) fails, because the order of events still does not match natural history.",
+     "'The Big Bang confirms Genesis 1:1' is weak. A beginning is common to many cosmogonies, and Genesis 1:2 may presuppose pre-existing waters and formless matter.",
+     "Gap theory (millions of years between 1:1 and 1:2) has little grammatical support and does not address the order of the six days.",
+     "'Flood myths worldwide prove a global flood' is weak. Floods are common everywhere, and the stories differ widely in detail."
+    ],
+    "against": [
+     "'Genesis says the earth is 6,000 years old' is imprecise. The text gives no date, and the figure comes from Ussher-type calculations that assume no gaps, though even with gaps the timescale is far too short.",
+     "'Genesis 1 and 2 contradict each other, so it is false' bears on literary composition, not on scientific fit.",
+     "'It was copied from Babylonian myths, so it is false' is a genetic fallacy. Borrowing does not settle truth or intent.",
+     "'Science disproves God, so Genesis cannot fit' overreaches. The theological core is not scientifically refuted."
+    ]
+   },
+   "would_change": [
+    "Strong comparative evidence that ancient Near Eastern audiences understood cosmogonies as functional or liturgical, not as descriptions of physical events, would raise my credence substantially.",
+    "A compelling philological case that raqia and the 'windows of heaven' were understood non-physically by Israelite readers would raise it.",
+    "Textual evidence that the flood account was intended and received as regional would raise it.",
+    "Genetic evidence of a human bottleneck to very few individuals within the last 10,000-50,000 years would raise it, though this is extremely unlikely given current data.",
+    "Discovery of Israelite or early Jewish texts treating the Genesis numbers explicitly as symbolic would raise it.",
+    "Conversely, more evidence that ancient readers universally took the days and flood literally would lower it toward 3-5%."
+   ],
+   "sources": [
+    {
+     "citation": "John H. Walton, The Lost World of Genesis One, 2009",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Gordon J. Wenham, Genesis 1-15 (Word Biblical Commentary), 1987",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Denis O. Lamoureux, Evolutionary Creation: A Christian Approach to Evolution, 2008",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Peter Enns, The Evolution of Adam, 2012",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Paul H. Seely, 'The Firmament and the Water Above,' Westminster Theological Journal, 1991",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Dennis R. Venema and Scot McKnight, Adam and the Genome, 2017",
+     "kind": "scientific"
+    },
+    {
+     "citation": "S. Joshua Swamidass, The Genealogical Adam and Eve, 2019",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "W. G. Lambert and A. R. Millard, Atra-Hasis: The Babylonian Story of the Flood, 1969",
+     "kind": "primary"
+    },
+    {
+     "citation": "Augustine, De Genesi ad litteram (The Literal Meaning of Genesis), c. 401-415",
+     "kind": "primary"
+    },
+    {
+     "citation": "Ronald L. Numbers, The Creationists, expanded ed. 2006",
+     "kind": "scholarship"
+    },
+    {
+     "citation": "Genesis 1-11; Exodus 20:11; Job 37:18",
+     "kind": "scripture"
+    }
+   ],
+   "id": "opus",
+   "label": "Opus 5.5",
+   "model": "claude-opus-5-5",
+   "via": "claude"
+  }
+ ],
+ "stats": {
+  "mean": 11.8,
+  "median": 11.0,
+  "min": 5,
+  "max": 20,
+  "spread": 15
+ },
+ "synthesis": {
+  "summary": "All four reviewers judge the claim unlikely on their preferred readings of authorial intent. They distinguish the authors’ theological aims from the ancient physical world the narratives appear to portray. All see serious conflicts between modern science and a recent global flood, exclusive recent descent from one couple, and a recent worldwide Babel event. They also agree that theological interpretations can coexist with acceptance of science, though they differ on whether that makes the text itself compatible with science as intended. Their overall credences are Gemini 5%, GPT-6.1 10%, Opus 12%, and Grok 20%; Gemini reports high confidence, while the others report medium confidence.",
+  "agreement": "high",
+  "agreed": [
+   "Genesis 1–11 is ancient theological literature rather than modern scientific writing, but that alone does not establish a scientific fit.",
+   "A recent global flood and an exclusive recent human founding pair conflict with substantial scientific evidence.",
+   "The creation sequence and ancient cosmic picture present difficulties for a physical reading compatible with modern science.",
+   "Theological meaning can be affirmed alongside modern science, even if the ancient physical picture is not retained.",
+   "Interpretations involving literary structure, a regional flood, or a genealogical rather than sole genetic Adam can reduce scientific tensions, but their fidelity to original intent is disputed."
+  ],
+  "disagreed": [
+   {
+    "point": "Strength of the overall conclusion",
+    "positions": "Gemini calls the claim almost certainly false with high confidence. GPT-6.1, Grok, and Opus also judge it unlikely but report medium confidence, allowing more uncertainty about authorial intent and interpretation."
+   },
+   {
+    "point": "How to assess a theology-only reading",
+    "positions": "Opus assigns roughly 70–85% to the claim if intent is restricted to theological teaching; Grok gives a looser fit roughly 50–60%, warning that non-conflict is not necessarily a positive fit. GPT-6.1 gives theological compatibility itself 90%, while distinguishing that from the original claim. Gemini accepts that theology can coexist with science but says this does not establish a substantive empirical fit for the text."
+   },
+   {
+    "point": "Certainty about scholarly consensus and original intent",
+    "positions": "Gemini describes the rejection of a physical fit and several scientific conclusions in especially categorical consensus terms. GPT-6.1 emphasizes disputes over literary intent and the scope of the flood, while Grok and Opus also treat functional or nonliteral readings as contested, serious alternatives rather than settled reconstructions."
+   },
+   {
+    "point": "Babel and the limits of linguistic evidence",
+    "positions": "All reject a recent worldwide Babel event as a scientific account. Gemini characterizes the relevant consensus as unanimous; GPT-6.1 specifically notes that linguists cannot establish whether all languages ultimately descend from one remote common language."
+   }
+  ],
+  "deciding_cruxes": [
+   "Whether authorial intent includes the ancient physical and historical picture assumed or narrated by the authors, or only the theological teaching conveyed through it.",
+   "Whether the flood, first human pair, creation sequence, genealogies, and Babel were intended as literal or referential history, or as stylized, symbolic, or geographically limited accounts.",
+   "Whether a scientific fit requires positive correspondence, merely absence of contradiction, or compatibility between theology and science as distinct kinds of claim.",
+   "Whether reconciliation may invoke miracles or apparent age despite the ordinary scientific evidence.",
+   "How much weight to give ancient context, textual details, and later readers’ interpretations when reconstructing original intent."
+  ],
+  "what_is_settled": "The reviews agree that modern scientific evidence strongly conflicts with a recent worldwide flood and a recent exclusive two-person origin of humanity, and that theological belief is not by itself disproved by those findings. They also agree that a recent worldwide Babel event and the creation sequence, taken as physical history, pose serious conflicts.",
+  "what_is_open": "The reviews identify continuing interpretive disputes over what the authors intended to assert, how much narrative detail was literal or symbolic, whether the flood was intended as universal, and whether faithful reconciliation requires preserving the authors’ apparent physical assumptions. The meaning of 'fits' and the admissibility of miraculous explanations also depend on interpretive or prior commitments.",
+  "model": "gpt-6.1-terra"
+ }
+}
