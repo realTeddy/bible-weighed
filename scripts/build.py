@@ -182,14 +182,14 @@ def site():
             yield x
         elif isinstance(x, dict):
             for k, v in x.items():
-                if k not in ("id", "model", "via"):
+                if k not in ("id", "model", "via", "kind", "type", "confidence", "agreement", "cruxTypes"):
                     yield from strings(v)
         elif isinstance(x, list):
             for v in x:
                 yield from strings(v)
     for p in sorted((ROOT / "data" / "reviews").glob("*.json")):
         r = json.loads(p.read_text())
-        search[r["topic"]["id"]] = re.sub(r"\s+", " ", " ".join(strings(r))).lower()
+        search[r["topic"]["id"]] = re.sub(r"\s+", " ", " ".join(strings(r)))
         (out / "reviews" / p.name).write_text(json.dumps(r, ensure_ascii=False, separators=(",", ":")))
         if "stats" not in r:
             continue

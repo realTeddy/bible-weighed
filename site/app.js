@@ -103,8 +103,8 @@ let debatesP = null;
 const loadDebates = () => debatesP ||= fetch(`/data/debates.json?v=${RAW.updated}`).then(r => r.json()).then(j => { ALL = j.debates.map(derive).sort((a, b) => a.id - b.id); });
 const FULL = {};
 const loadReview = id => FULL[id] ||= fetch(`/data/reviews/${String(id).padStart(2, '0')}.json?v=${RAW.updated}`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
-let SEARCH = null, searchP = null;
-const loadSearch = () => searchP ||= fetch(`/data/search.json?v=${RAW.updated}`).then(r => r.json()).then(j => { SEARCH = j; }).catch(() => { searchP = null; });
+let SEARCH = null, SEARCH_RAW = null, searchP = null;
+const loadSearch = () => searchP ||= fetch(`/data/search.json?v=${RAW.updated}`).then(r => r.json()).then(j => { SEARCH_RAW = j; SEARCH = Object.fromEntries(Object.entries(j).map(([k, v]) => [k, v.toLowerCase()])); }).catch(() => { searchP = null; });
 const loading = () => { $('#app').innerHTML = '<div class="card"><p class="empty">Loading…</p></div>'; };
 
 // ---------- state & routing ----------
@@ -175,9 +175,13 @@ searchEl.addEventListener('input', () => {
     // the box filters the reviews list (or the debates list); jump there from pages it can't filter
     const toList = state.q && (h.startsWith('/review') || h.startsWith('/method'));
     if (state.q && !SEARCH && !/^\/(debates|topic)/.test(h)) await loadSearch();
-    toList ? go('/') : route();
+    if (toList) return go('/');
+    await route();
+    if (state.q && h === '/') scrollTo(0, 0);
   }, 180);
 });
+
+searchEl.addEventListener('keydown', e => { if (e.key === 'Enter') { searchEl.blur(); } });
 
 // tooltip (delegated)
 const tip = $('#tooltip');
@@ -931,8 +935,26 @@ function renderReviews() {
   const agree = done.filter(r => r.stats.spread <= 15).length;
   const tile = (label, value, sub) => `<div class="tile"><div class="label">${label}</div><div class="value">${value}<span class="split"><span>${sub}</span></span></div></div>`;
 
-  app.innerHTML = `
-  <section class="hero">
+  const snippet = (t, r) => {
+    const raw = SEARCH_RAW?.[t.id] || '', i = SEARCH?.[t.id]?.indexOf(q) ?? -1;
+    if (i < 0) return esc(trunc(r?.synthesis?.what_is_settled || t.question, 200));
+    const a = Math.max(0, raw.lastIndexOf(' ', Math.max(0, i - 90)) + 1), b = Math.min(raw.length, i + q.length + 110);
+    return (a > 0 ? '… ' : '') + esc(raw.slice(a, i)) + '<mark>' + esc(raw.slice(i, i + q.length)) + '</mark>' + esc(raw.slice(i + q.length, b)) + (b < raw.length ? ' …' : '');
+  };
+  const results = q ? `
+  <section class="card search-results">
+    <div class="card-head"><div><div class="eyebrow">Search</div><h2>${rows.length} topic${rows.length === 1 ? '' : 's'} mention “${esc(state.q)}”</h2>
+      <p class="sub">${rows.length ? 'Tap a topic to read the full reviews. Charts below show only these topics.' : 'Try a different word, or clear the search to see all topics.'}</p></div>
+      <button class="chip" id="clearSearch">Clear search</button></div>
+    <div class="sr-list">${rows.map(({ t, r }) => `
+      <button class="sr-item" data-go="/review/${t.id}" style="border-left-color:${r?.stats ? credColor(r.stats.median) : 'var(--axis)'}">
+        <div class="meta"><b>#${t.id} ${esc(t.short)}</b><span>${r?.stats ? `${r.stats.median}% · ${band(r.stats.median)}` : 'not reviewed'}</span></div>
+        <p>${snippet(t, r)}</p>
+      </button>`).join('')}</div>
+  </section>` : '';
+
+  app.innerHTML = results + `
+  <section class="hero"${q ? ' hidden' : ''}>
     <div class="hero-record">
       <div class="eyebrow">Evidence reviews · ${allDone.length} of ${TOPICS.length} topics reviewed</div>
       <h1 class="rv-h1">What is most likely true?</h1>
@@ -992,6 +1014,7 @@ function renderReviews() {
     </div>` : ''}
   </section>`;
   $$('[data-rcat]').forEach(b => b.onclick = () => { rvState.cat = b.dataset.rcat; renderReviews(); });
+  const clr = $('#clearSearch'); if (clr) clr.onclick = () => { searchEl.value = ''; state.q = ''; renderReviews(); };
   $$('[data-rsort]').forEach(b => b.onclick = () => { rvState.sort = b.dataset.rsort; renderReviews(); });
   drawCharts();
 }
